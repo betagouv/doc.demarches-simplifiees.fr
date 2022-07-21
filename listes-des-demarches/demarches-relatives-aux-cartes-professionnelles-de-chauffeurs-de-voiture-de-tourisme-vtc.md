@@ -1,0 +1,118 @@
+# Démarches relatives au secteur du transport public de tourisme (T3P) - Taxis et VTC
+
+## 01 - Ain&#x20;
+
+* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas de réussite à l'examen](https://www.demarches-simplifiees.fr/commencer/carte-pro-vtc-ain-examen)
+
+## 35 - Ille-et-Vilaine
+
+#### Déclaration de perte
+
+* [Déclaration de perte ou de vol de la carte professionnelle](https://www.demarches-simplifiees.fr/commencer/perte-carte-t3p)
+
+**Attestations**
+
+* [Demande d’attestation préfectorale à la suite d’une visite médicale pour l’aptitude à la conduite ](https://www.demarches-simplifiees.fr/commencer/attestation-aptitude-medicale)
+* [Transmission de l’attestation de formation continue T3P (taxi, VTC, conducteur de véhicule motorisé à deux ou trois roues) ](https://www.demarches-simplifiees.fr/commencer/t3p-formationcontinue)
+
+## 69 - Rhône
+
+* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas de réussite à l'examen](https://www.demarches-simplifiees.fr/commencer/carte-pro-vtc-rhone-examen)&#x20;
+* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas d'équivalence professionnelle](https://www.demarches-simplifiees.fr/commencer/carte-pro-vtc-rhone-equivalence)&#x20;
+
+## 75 - Paris
+
+### Taxis parisiens&#x20;
+
+**Première demande**&#x20;
+
+* [Demande de carte professionnelle de conducteur de taxi en cas de réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-examen)
+* [Demande de carte professionnelle de conducteur de taxi en cas d’équivalence professionnelle ](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-equivalence)
+
+**Changement de coordonnés / mobilité**&#x20;
+
+* [Changement de coordonnées des professionnels des Taxis/VTC/VMDTR](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)****
+* [Demande de mobilité pour la carte professionnelle de conducteur de taxi](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-mobilite)
+
+**Demande de renouvellement**&#x20;
+
+* [Demande de renouvellement de carte professionnelle de conducteur de taxi](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-renouvellement)
+
+**Autorisations de stationnement**&#x20;
+
+* [Demande d’inscription sur la liste d’attente en vue de la délivrance d’une autorisation de stationnement (ADS) gratuite](https://www.demarches-simplifiees.fr/commencer/pp-ads-liste-inscription)****
+* [Demande de renouvellement annuel de maintien sur la liste d’attente en vue de la délivrance d’une autorisation de stationnement (ADS) gratuite](https://www.demarches-simplifiees.fr/commencer/pp-ads-liste-renouvellement)
+* [Demande d’une carte de stationnement pour les titulaires d’une autorisation de stationnement (ADS) de taxis parisiens délivrée à titre gracieux](https://www.demarches-simplifiees.fr/commencer/bttp-ads-delivrance)
+* [Délivrance d'une carte de stationnement pour les titulaires d'une autorisation de stationnement (ADS) de taxis parisiens (changement de véhicule ou d'horodateur, perte ou vol de la carte de stationnement)](https://www.demarches-simplifiees.fr/commencer/bttp-ads-vehicule-horodateur)
+* [Procédure de changement de véhicule ou d'horodateur pour les titulaires d'autorisations de stationnement (ADS) de taxis parisiens ](https://www.demarches-simplifiees.fr/commencer/bttp-ads-vehicule-horodateur)
+* [Procédure de transmission annuelle du contrôle technique pour les titulaires d’autorisations de stationnement (ADS) de taxis parisiens ](https://www.demarches-simplifiees.fr/commencer/bttp-ads-controle-technique)
+
+**Enregistrements**&#x20;
+
+* [Déclaration des débuts et des fins de contrats de travail ou de location-gérance des professionnels de taxis parisiens ](https://www.demarches-simplifiees.fr/commencer/ads-enregistrement-contrat)****
+* [Procédure d'enregistrement de transfert des autorisations de stationnement des professionnels de taxis dans le registre (article L. 3121-4 du Code des transports) ](https://www.demarches-simplifiees.fr/commencer/bttp-ads-transfert)
+
+### VTC
+
+#### Première demande
+
+* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas de réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-examen)
+* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas d’équivalence professionnelle](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-equivalence)&#x20;
+
+**Attestations**&#x20;
+
+* [Formulaire de transmission des documents relatifs aux obligations de visite médicale ou de formation continue ](https://www.demarches-simplifiees.fr/commencer/bttp-carto-vm-fc)
+
+#### Changement de coordonnées / mobilité
+
+* [Changement de coordonnées des professionnels des voitures de transport avec chauffeur (VTC)  ](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)****
+* [Formulaire de demande de mobilité pour la carte professionnelle de conducteur de taxi](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-mobilite)
+
+#### Demande de renouvellement
+
+* [Renouvellement de la carte professionnelle de conducteur de voiture de transport avec chauffeur (VTC) ](https://www.demarches-simplifiees.fr/commencer/prefecture-75-renouvellement-de-carte-professionne)
+
+## 85 - Vendée&#x20;
+
+* [Demande ou renouvellement de carte pofessionnelle de véhicule de tourisme avec chauffeur (VTC) en cas de réussite à l'examen](https://www.demarches-simplifiees.fr/commencer/demande-carte-pro-vtc-examen-renouvellement)
+* [Demande de carte professionnelle de véhicule de tourisme avec chauffeur (VTC) en cas d’équivalence ](https://www.demarches-simplifiees.fr/commencer/demande-carte-pofessionnelle-vtc-equivalence)
+
+## 89 - Yonne&#x20;
+
+* [Demande ou renouvellement d'attestation médicale d'aptitude à la conduite ](https://www.demarches-simplifiees.fr/commencer/attestation-medicale-conducteurs)
+
+## 91 - Essonne&#x20;
+
+* [Demande d'attestation d'aptitude physique pour les conducteurs de de voiture de transport avec chauffeur (VTC)](https://www.demarches-simplifiees.fr/commencer/prefecture91-visitemedicale)
+
+## 93 - Seine-Saint-Denis
+
+#### Première demande
+
+* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) pour les gérants d'entreprise ou exploitants indépendants](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-de-carte-vtc-gerant-exploit)
+* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) après réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-de-carte-vtc-reussite-examen)&#x20;
+* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) par équivalence](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-de-carte-vtc-par-equivalence)
+
+#### Demande de duplicata
+
+* [Réédition (duplicata) de la carte professionnelle de chauffeur de voiture de transport (VTC) suite à perte, vol ou détérioration](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-reedition-de-carte-vtc)
+
+#### Demande de renouvellement
+
+* [Renouvellement de la carte professionnelle de chauffeur de voiture de transport (VTC)](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-renouvellement-de-carte-vtc)
+
+## 95 - Val d'Oise
+
+#### Première demande
+
+* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) après réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/pref95-vtc-examen)
+* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) par équivalence](https://www.demarches-simplifiees.fr/commencer/pref95-vtc-experience-pro)
+
+#### Demande de renouvellement
+
+* [Renouvellement de la carte professionnelle de chauffeur de voiture de transport (VTC)](https://www.demarches-simplifiees.fr/commencer/pref95-vtc-renouvellement)
+
+**Enregistrement**&#x20;
+
+* [Demande d'enregistrement de véhicule - validation de certificat d'immatriculation](https://www.demarches-simplifiees.fr/commencer/taxi-demande-de-validation-de-carte-grise)
+
