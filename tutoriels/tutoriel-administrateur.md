@@ -32,6 +32,8 @@ Rendez-vous sur la page : [https://www.demarches-simplifiees.fr/commencer/demand
 
 ![](../.gitbook/assets/capture0.PNG)
 
+![Formulaire d'ouverture de compte administrateur ](<../.gitbook/assets/image (10).png>)
+
 Les comptes administrateurs sont les seuls comptes que demarches-simplifiees.fr filtre. En effet, ils sont réservés aux seuls agents publics.&#x20;
 
 Une fois votre demande acceptée, vous recevrez un mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
@@ -50,37 +52,32 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 ## 3. Découvrir son tableau de bord des démarches créées
 
-&#x20;Une fois connecté, vous accédez au tableau de bord qui affiche les démarches créées. Ce dernier s’organise en trois parties, comme suit :&#x20;
+&#x20;Une fois connecté, vous accédez au tableau de bord qui affiche les démarches créées. Ce dernier s’organise en quatre parties, comme suit :&#x20;
 
 * **En test** : Les démarches à l’état de brouillon sont celles créées mais non finalisées et non publiées. Aucun usager ne peut y déposer des dossiers et l’ensemble de leurs éléments peut être modifié.&#x20;
 * **Publiées** : Une démarche est considérée publiée lorsque celle-ci est accessible via un lien url. Les usagers peuvent désormais y déposer des dossiers et la majorité des éléments  de la démarche ne peuvent plus être modifiés.
 * **Closes** : Une démarche close est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
+* **Supprimées** : Une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
 
-![Tableau de bord de suivi des démarches, en tant qu'administrateur](../.gitbook/assets/capture2bis.jpg)
-
-![Tableau de suivi des démarches, en tant qu'administrateur](<../.gitbook/assets/image (27).png>)
-
-* **Publiée** : Une démarche est considérée publiée lorsque celle-ci est accessible via un lien URL. Les usagers peuvent désormais y déposer leurs dossiers et la majorité des éléments  de la démarche ne peuvent plus être modifiés.
-* **En test** : Une démarche à l’état de brouillon a bien été créée mais elle n’est ni finalisée ni publiée. Aucun usager ne peut y déposer ses dossiers. L’ensemble de leurs éléments peut être modifié.&#x20;
-* **Close** : Une démarche close ne permet plus le dépôt de dossiers par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
+![Tableau de suivi des démarches, en tant qu'administrateur](<../.gitbook/assets/screen 08.png>)
 
 ## 4. Créer une nouvelle démarche
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-![Création d'une nouvelle démarche en tant qu'administrateur](../.gitbook/assets/capture3.PNG)
+![Création d'une nouvelle démarche en tant qu'administrateur ](../.gitbook/assets/tempsnip08.png)
 
 La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.&#x20;
 
-![Les options de création d'une nouvelle démarche, en tant qu'administrateur](<../.gitbook/assets/Capture d’écran 2020-07-22 à 16.01.41.png>)
+![Les options de création d'une nouvelle démarche en tant qu'administrateur ](../.gitbook/assets/tempsnip1.png)
 
-Pour ce faire, il suffit de cliquer sur le bouton « Cloner » et une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
+Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton "rechercher".
 
-Vous pouvez aussi simplement consulter la démarche pour vous en faire une idée ou contacter directement l’administrateur de cette démarche.&#x20;
+&#x20;La liste des démarches associée à l'intitulé recherché s'affichera et vous pourrez alors cliquer sur le bouton « Cloner ».&#x20;
 
-Pour chercher une démarche dans le catalogue, utilisez le raccourci Ctrl+F ou command +F. Vous pouvez ensuite inscrire des mots clés dans la barre de recherche pour retrouver une démarche spécifique.
+&#x20;Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-![Recherche d'une démarche pré-existante, en tant qu'administrateur](<../.gitbook/assets/Capture d’écran 2020-07-22 à 16.04.52.png>)
+![Recherche d'une démarche pré-existante, en tant qu'administrateu](../.gitbook/assets/tempsnip6.png)
 
 {% hint style="info" %}
 **ATTENTION** : le nom des démarches est laissé à la liberté des administrations, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
@@ -91,6 +88,10 @@ Exemple : pour la dotation aux équipements pour les territoires ruraux, on peut
 ## 5. Décrire sa démarche
 
 Après avoir cliqué sur le bouton "Créer une nouvelle démarche de zéro" en haut à gauche de la page, une nouvelle page s’affiche. Celle-ci permet de paramétrer la page de présentation de votre démarche. Ce seront les premières informations visibles par l’usager.&#x20;
+
+{% hint style="info" %}
+Lorsque vous clonez une démarche, le procédé ci-dessous est identique&#x20;
+{% endhint %}
 
 Tous les champs marqués d'un astérisque sont obligatoires.
 
@@ -104,7 +105,15 @@ Dans la description, on indique le contexte et l’objectif de la démarche mais
 
 Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus tard. En revanche, comme les informations remplies ne s’enregistrent pas automatiquement, nous vous conseillons de le faire par vous-même régulièrement.
 
-**b) Logo de la démarche**&#x20;
+**b) Ministère mettant en œuvre la démarche**&#x20;
+
+En second lieu, il faut indiquer le ministère auquel la démarche est rattachée pour des raisons de suivi. Une liste déroulante associée aux différents ministères est alors affichée.&#x20;
+
+![Sélection du ministère mettant en œuvre la démarche ](<../.gitbook/assets/image (57).png>)
+
+
+
+**c) Logo de la démarche**&#x20;
 
 Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du titre de votre démarche lorsque l’usager y déposera un dossier.&#x20;
 
@@ -114,11 +123,11 @@ Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller 
 
 **c) Conservation des données**&#x20;
 
-Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez désormais indiquer le temps de conservation des données, à la fois sur démarches-simplifiées et hors démarches-simplifiees.
+Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez désormais indiquer le temps de conservation des données.&#x20;
 
-![Choix de la durée de conservation des données, en tant qu'administrateur](../.gitbook/assets/conservation-donnees.PNG)
+![Choix de la durée de conservation des données, en tant qu'administrateur ](../.gitbook/assets/Captures.PNG)
 
-À savoir que les dossiers sur démarches-simplifiees seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance.
+À savoir que les dossiers sur démarches-simplifiees seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.&#x20;
 
 Cependant tant l'instructeur que l'usager peuvent étendre la durée de conservation.&#x20;
 
@@ -135,7 +144,19 @@ Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez
 
 ![Justification du cadre juridique, en tant qu'administrateur](<../.gitbook/assets/cadre juridique.PNG>)
 
-**e) Notice explicative de la démarche**
+Les usagers pourront consulter le cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
+
+**e) Contact du Délégué à la Protection des Données ( DPO)**&#x20;
+
+Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent etre mentionnées.  &#x20;
+
+![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (56).png>)
+
+Cette information à destination des usagers apparaitra en bas de formulaire dans la partie relative au cadre juridique.&#x20;
+
+![](../.gitbook/assets/tempsnip08;2022.png)
+
+**f) Notice explicative de la démarche**
 
 Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Une notice explicative est un document destiné à guider l’usager dans sa démarche. C’est un document que vous aurez préalablement élaboré. Celui-ci peut prendre la forme d’un fichier .doc, .pdf ou bien de diapositives. Le bouton pour télécharger cette notice apparaît en haut du formulaire pour l’usager.&#x20;
 
@@ -180,13 +201,13 @@ Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez 
 
 A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet "Prévisualiser le formulaire".
 
-![Prévisualiser le formulaire, en tant qu'administrateur](<../.gitbook/assets/prévisualiser formulaire.PNG>)
+![Prévisualiser le formulaire, en tant qu'administrateur](<../.gitbook/assets/tempsnipMAJ (1).png>)
 
 Pour commencer votre formulaire, vous cliquerez sur l’onglet "Ajouter un champ" dans le menu situé en bas à gauche de l’écran. Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
 
 ![Ajout d'un champ, en tant qu'administrateur](../.gitbook/assets/config-champ1.PNG)
 
-![Configuration des champs, en tant qu'administrateur](../.gitbook/assets/config-champ2.PNG)
+![Configuration des champs, en tant qu'administrateur ](<../.gitbook/assets/image (4).png>)
 
 Pour créer un champ :
 
@@ -421,7 +442,7 @@ Il est possible de rendre un champ obligatoire. Il suffit alors de remplir un ch
 
 Avant de cocher cette case, assurez vous que tous les usagers disposeront de l'information demandée. Dans le cas contraire, l'usager ne pourra pas effectuer la démarche.&#x20;
 
-![Rendre un champ obligatoire, en tant qu'administrateur](../.gitbook/assets/champ-oblig.PNG)
+![Rendre un champ obligatoire , en tant qu'administrateur ](../.gitbook/assets/tempsnipMAJ8-22.png)
 
 ### G. Estimation de la durée de remplissage
 
@@ -445,7 +466,7 @@ _Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](les-
 
 Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bouton "Prévisualiser le formulaire" situé en haut de la page. Toutefois, des champs tels que les blocs répétables ne sont pas fonctionnels dans la partie prévisualisation. Il est donc recommandé de déposer un dossier en test pour avoir un véritable aperçu du point de vue de l'usager.
 
-![Prévisualiser le formulaire, en tant qu'administrateur](<../.gitbook/assets/prévisualiser formulaire (1).PNG>)
+![Prévisualiser le formulaire , en tant qu'administrateur ](../.gitbook/assets/tempsnipprévisualisation.png)
 
 La création de champs s'enregistre automatiquement à chaque modification. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en cliquant sur le bouton "Continuer", situé en haut à droite de la page.
 
