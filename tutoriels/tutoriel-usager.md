@@ -19,7 +19,7 @@ Ce tutoriel détaille les étapes de dépôt d'un dossier sur demarches-simplifi
 
 La page d'accueil de demarches-simplifiees.fr permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés : le lien peut être public sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication.
 

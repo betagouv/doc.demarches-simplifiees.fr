@@ -32,7 +32,7 @@ Rendez-vous sur la page : [https://www.demarches-simplifiees.fr/commencer/demand
 
 ![](../.gitbook/assets/capture0.PNG)
 
-![Formulaire d'ouverture de compte administrateur ](<../.gitbook/assets/image (10).png>)
+![Formulaire d'ouverture de compte administrateur ](<../.gitbook/assets/image (3).png>)
 
 Les comptes administrateurs sont les seuls comptes que demarches-simplifiees.fr filtre. En effet, ils sont réservés aux seuls agents publics.&#x20;
 
@@ -109,7 +109,7 @@ Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus t
 
 En second lieu, il faut indiquer le ministère auquel la démarche est rattachée pour des raisons de suivi. Une liste déroulante associée aux différents ministères est alors affichée.&#x20;
 
-![Sélection du ministère mettant en œuvre la démarche ](<../.gitbook/assets/image (57).png>)
+![Sélection du ministère mettant en œuvre la démarche ](<../.gitbook/assets/image (7).png>)
 
 
 
@@ -150,7 +150,7 @@ Les usagers pourront consulter le cadre juridique en cliquant en bas du formulai
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent etre mentionnées.  &#x20;
 
-![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (56).png>)
+![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8).png>)
 
 Cette information à destination des usagers apparaitra en bas de formulaire dans la partie relative au cadre juridique.&#x20;
 
@@ -207,7 +207,7 @@ Pour commencer votre formulaire, vous cliquerez sur l’onglet "Ajouter un champ
 
 ![Ajout d'un champ, en tant qu'administrateur](../.gitbook/assets/config-champ1.PNG)
 
-![Configuration des champs, en tant qu'administrateur ](<../.gitbook/assets/image (4).png>)
+![Configuration des champs, en tant qu'administrateur ](<../.gitbook/assets/image (11).png>)
 
 Pour créer un champ :
 
@@ -257,7 +257,7 @@ L'usager doit renseigner un nombre qui peut être décimal.
 
 &#x20;**** L'usager doit renseigner un nombre entier.
 
-![](<../.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30) (1).png>)
 
 #### **g) Case à cocher**&#x20;
 
@@ -475,11 +475,13 @@ La création de champs s'enregistre automatiquement à chaque modification. Une 
 A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet "Tester". Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.&#x20;
 
-![Tester la démarche créée, en tant qu'administrateur](../.gitbook/assets/config-tester.PNG)
+![Tester la démarche créée, en tant qu'administrateur ](<../.gitbook/assets/MAJ test.png>)
 
 {% hint style="info" %}
 **ATTENTION** : Les dossiers remplis pendant la phase de test seront automatiquement supprimés lors de la modification ou bien de la publication de votre démarche.
 {% endhint %}
+
+Vous avez également la possibilité de **télécharger le formulaire au format pdf** et de transmettre **une copie de votre démarche** à vos collègues à condition que ces derniers disposent d'un profil administrateur.&#x20;
 
 ## 9. Le processus d’instruction&#x20;
 
@@ -497,11 +499,15 @@ En créant des champs « Annotations privées », vous pouvez en tant qu’admin
 
 A titre d’exemple, pour une démarche de demande provisoire de titre de travail pour un étudiant étranger, vous pouvez créer une annotation privée intitulée « Qualité de l’expérience universitaire ». L’instructeur saura donc qu’il doit renseigner et analyser cet élément dans son évaluation générale pour la délivrance ou non du titre. Par ailleurs, comme sur DS, plusieurs instructeurs peuvent instruire le même dossier, les annotations privées peuvent permettre un dialogue entre eux.&#x20;
 
-Pour créer des annotations privées, rendez-vous dans l’onglet « Annotation privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de "formulaire instructeur".
+Pour créer des annotations privées, rendez-vous dans l’onglet « Annotation privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de "formulaire instructe
 
-![Configuration des annotations privées, en tant qu'administrateur](<../.gitbook/assets/annotations-privées (1).PNG>)
+![Configuration des annotations privées, en tant qu'administrateur ](<../.gitbook/assets/MAJ annotation privée.png>)
 
-![](../.gitbook/assets/config-annotations.PNG)
+&#x20;La création des annotations privées est identique à la création du formulaire usager. Il s'agit d'une succession de champs. Les champs sont automatiquement enregistrés. &#x20;
+
+![Création des annotations privées, en tant qu'administrateur ](<../.gitbook/assets/Capture AP (1).PNG>)
+
+Une fois le formulaire annotations privées créé, vous pouvez alors cliquer sur "continuer".&#x20;
 
 ## 10. Informer l’usager sur l’état d’avancement de sa démarche
 
@@ -517,9 +523,9 @@ Il convient désormais de penser d’un point de vue usager à la vie de la dém
 
 Ces e-mails sont entièrement personnalisables. Vous pouvez décider de l’objet et du corps de l’e-mail. Pour cela, cliquez sur l'onglet « E-mails » dans la barre latérale de gauche. Vous avez alors une première barre pour l’objet puis une zone de texte où vous pouvez rédiger le corps de votre e-mail.&#x20;
 
-![Configuration des e-mails, en tant qu'administrateur](../.gitbook/assets/config-emails.PNG)
+![Configuration des e-mails, en tant qu'administrateur ](<../.gitbook/assets/MAJ capture  mail.png>)
 
-![Personnaliser les e-mails, en tant qu'administrateur](../.gitbook/assets/config-emails2.PNG)
+![Personnaliser les e-mails, en tant qu'administrateur ](<../.gitbook/assets/Capture email MAJ.PNG>)
 
 Lorsque vous personnalisez votre mail, il est possible d’intégrer des balises de champs dans le corps du message en copiant le format de la balise dans le texte comme montré ci-dessus. Pour chaque champ dans votre formulaire usager ou dans vos annotations privées, une balise existe. Lorsque vous intégrez cette balise à votre message, l’information renseignée par l’usager pour le champ correspondant est automatiquement remontée dans le corps du mail.
 
@@ -527,13 +533,13 @@ Exemple : j’ai un champ adresse et j’utilise ma balise adresse dans mon corp
 
 Les balises sont notamment utiles pour remonter les annotations privées car elles peuvent transmettre directement les commentaires renseignés par l’instructeur à l’usager.
 
-![Exemples de balises possibles, en tant qu'administrateur](../.gitbook/assets/config-emails3.PNG)
+![Exemples de balises possibles, en tant qu'administrateur](<../.gitbook/assets/Capture mail.PNG>)
 
 ### Attestation
 
 Les attestations sont des documents au format .pdf qui sont délivrés en pièce-jointe des e-mails d’acceptation. Celles-ci sont également disponibles en téléchargement sur l’espace personnel de l’usager. Comme pour les e-mails, l’attestation est entièrement personnalisable, notamment avec une signature et différentes balises envisageables.
 
-![Configuration de l'attestation, en tant qu'administrateur](../.gitbook/assets/config-attestation.PNG)
+![Configuration de l'attestation, en tant qu'administrateur ](<../.gitbook/assets/MAJ attestation.png>)
 
 A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en bas à gauche de votre écran.&#x20;
 
@@ -603,11 +609,11 @@ Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne
 
 &#x20;Si vous souhaitez opérer une gestion des experts invités d'une démarche qui seront sollicités par les instructeurs, rendez-vous dans l'onglet "avis externes".&#x20;
 
-![ ](<../.gitbook/assets/Sans titre.jpg>)
+![](<../.gitbook/assets/MAJ experts invités.png>)
 
 * L'écran qui s'affiche est alors celui ci-dessous.&#x20;
 
-![](<../.gitbook/assets/Capture 2 DS o.PNG>)
+![](<../.gitbook/assets/Capture EI.PNG>)
 
 * Trois possibilités s'offrent à vous afin de gérer comme vous le souhaitez les experts invités qui seront sollicités par les instructeurs de la démarche. ****     &#x20;
 
@@ -680,7 +686,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 ### D. Gérer la notification des décisions finales aux experts affectés au dossier.
 
-&#x20;Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de cliquer sur le bouton situé en dessous de "notifier des décisions sur les dossiers".&#x20;
+Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de cliquer sur le bouton situé en dessous de "notifier des décisions sur les dossiers".&#x20;
 
 ![](<../.gitbook/assets/notif experts.png>)
 
@@ -708,7 +714,17 @@ Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil 
 
 ![](../.gitbook/assets/config-avis2.PNG)
 
-## 14. Publier sa démarche
+## 14. Notification de fin de dépôt de dossier&#x20;
+
+Afin d'orienter les usagers suite au dépôt de son dossier, vous avez la possibilité d'apporter des indications complémentaires aux usagers :&#x20;
+
+![Paramétrez le message de fin de dépôt de dossier, en tant qu'administrateur ](<../.gitbook/assets/screen fin de dépot de dossier (1).png>)
+
+![](../.gitbook/assets/Capture2.PNG)
+
+Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-dessus). Vous pouvez alors modifier le message affiché.&#x20;
+
+## 15. Publier sa démarche
 
 {% hint style="info" %}
 **ATTENTION :** Avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépôt du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet "Test et publication" de la démarche.
@@ -716,7 +732,7 @@ Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil 
 
 La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
 
-![](../.gitbook/assets/config-test-publication.PNG)
+![](../.gitbook/assets/config-test-publication.PNG) ![](<../.gitbook/assets/Capture publication (1).PNG>)
 
 La fenêtre suivante apparaît :
 
@@ -741,15 +757,56 @@ Les onglets suivants restent modifiables, de la même manière que lorsque votre
 * Attestation
 * MonAvis
 
-## 15. Clore une démarche&#x20;
+##
+
+## 15. Publier sa démarche
+
+{% hint style="info" %}
+**ATTENTION :** Avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépôt du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet "Test et publication" de la démarche.
+{% endhint %}
+
+La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
+
+![Publication de la démarche](<../.gitbook/assets/Capture publication.PNG>)
+
+La fenêtre suivante apparaît :&#x20;
+
+![Publication de la démarche ](<../.gitbook/assets/Capture publication finale.PNG>)
+
+Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarches-simplifiees.fr/commencer/" de l'URL n'est pas modifiable.
+
+Vous pouvez ensuite indiquer si la démarche à publier en remplace une ancienne afin d'orienter les  usagers vers la nouvelle démarche.&#x20;
+
+Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. Si ce n'est pas sur un site internet, vous pouvez indiquer le moyen de diffusion utilisé comme "mail". Cliquez enfin sur le bouton "Publier" pour finaliser la publication.
+
+Une fois la démarche publiée, les onglets suivants de la démarche ne sont plus accessibles :
+
+* Champs
+* Annotations privées
+
+Les onglets suivants restent modifiables, de la même manière que lorsque votre démarche était en test :&#x20;
+
+* Description&#x20;
+* Service
+* Administrateurs
+* Instructeurs
+* E-mails
+* Attestation
+* MonAvis
+
+## 16. Clore une démarche&#x20;
 
 Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Clore ».
 
-![](../.gitbook/assets/config-clore.PNG)
+![Clore une démarche, en tant qu'administrateur ](<../.gitbook/assets/screen Clore.png>)
 
-Un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
+Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparait avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
-![](../.gitbook/assets/config-clore2.PNG)
+![](<../.gitbook/assets/image (17).png>)
+
+Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
+
+![](<../.gitbook/assets/image (23).png>)
 
 ## 16. Transférer sa démarche
 
@@ -757,16 +814,14 @@ Une démarche d'un collègue peut ne pas être présente dans le catalogue des d
 
 * Cliquez sur l'onglet " Envoyer une copie "
 
-![](../.gitbook/assets/config-transfert1.PNG)
+![](<../.gitbook/assets/transférer formulaire.png>)
 
 La fenêtre suivante apparaît, cliquer à nouveau sur " Envoyer une copie "
-
-![](../.gitbook/assets/config-transfert1bis.PNG)
 
 * Renseignez l'adresse e-mail de votre collègue
 * Enfin, cliquez sur le bouton « Envoyer »
 
-![](../.gitbook/assets/config-transfert2.PNG)
+![Transfert d'une démarche à un autre administrateur](<../.gitbook/assets/image (12).png>)
 
 Une copie de votre démarche apparaît dans ses démarches "En test".
 
@@ -774,7 +829,9 @@ Une copie de votre démarche apparaît dans ses démarches "En test".
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
-![Supprimer une démarche en test, en tant qu'administrateur](<../.gitbook/assets/suppression-ds (1).PNG>)
+![Supprimer une démarche publiée, en tant qu'administrateur ](<../.gitbook/assets/image (22).png>)
 
+Ensuite, un message d'avertissement apparait. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
+![](<../.gitbook/assets/image (18).png>)
 
