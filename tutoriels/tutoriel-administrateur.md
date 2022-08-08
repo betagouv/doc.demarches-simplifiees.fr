@@ -732,41 +732,6 @@ Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-de
 
 La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
 
-![](../.gitbook/assets/config-test-publication.PNG) ![](<../.gitbook/assets/Capture publication (1).PNG>)
-
-La fenêtre suivante apparaît :
-
-![](../.gitbook/assets/config-test-pub2.PNG)
-
-Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarches-simplifiees.fr/commencer/" de l'URL n'est pas modifiable.
-
-Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. Si ce n'est pas sur un site internet, vous pouvez indiquer le moyen de diffusion utilisé comme "mail". Cliquez enfin sur le bouton "Publier" pour finaliser la publication.
-
-Une fois la démarche publiée, les onglets suivants de la démarche ne sont plus accessibles :
-
-* Champs
-* Annotations privées
-
-Les onglets suivants restent modifiables, de la même manière que lorsque votre démarche était en test :&#x20;
-
-* Description&#x20;
-* Service
-* Administrateurs
-* Instructeurs
-* E-mails
-* Attestation
-* MonAvis
-
-##
-
-## 15. Publier sa démarche
-
-{% hint style="info" %}
-**ATTENTION :** Avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépôt du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet "Test et publication" de la démarche.
-{% endhint %}
-
-La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
-
 ![Publication de la démarche](<../.gitbook/assets/Capture publication.PNG>)
 
 La fenêtre suivante apparaît :&#x20;
@@ -808,7 +773,7 @@ Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que l
 
 ![](<../.gitbook/assets/image (23).png>)
 
-## 16. Transférer sa démarche
+## 17. Transférer sa démarche
 
 Une démarche d'un collègue peut ne pas être présente dans le catalogue des démarches car il faut 30 dossiers pour qu'elle y soit incluse. Cependant, vous pouvez tout de même partager votre démarche avec votre collègue. A cette fin, rendez-vous sur votre profil administrateur.
 
@@ -825,7 +790,7 @@ La fenêtre suivante apparaît, cliquer à nouveau sur " Envoyer une copie "
 
 Une copie de votre démarche apparaît dans ses démarches "En test".
 
-## 17. Supprimer une démarche
+## 18. Supprimer une démarche
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
