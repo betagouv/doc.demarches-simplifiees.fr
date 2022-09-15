@@ -34,7 +34,7 @@ Cette API suit le paradigme GraphQL. Pour plus d'informations sur le fonctionnem
 
 L’API est accessible à l’adresse **https://www.demarches-simplifiees.fr/api/v2/graphql** (cette adresse n’est pas visitable dans un navigateur). Elle renvoie des données au format JSON, à travers un transport HTTPS.
 
-Pour construire une requête et interpréter les réponses, consultez la [**documentation complète du schéma de l’API**](https://demarches-simplifiees-graphql.netlify.com/).
+Pour construire une requête et interpréter les réponses, consultez la [**documentation complète du schéma de l’API**](https://www.demarches-simplifiees.fr/graphql/schema/).
 
 #### Éditeur de requêtes en ligne
 
