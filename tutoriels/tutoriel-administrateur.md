@@ -773,6 +773,12 @@ Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que l
 
 ![](<../.gitbook/assets/image (23).png>)
 
+**La clôture de la démarche induit :**&#x20;
+
+* pour les usagers : la fermeture de dépôt de dossiers. Toutefois, ils peuvent toujours accéder aux dossiers déjà déposés et ainsi procéder aux modifications si le dossier est en construction.&#x20;
+* pour les instructeurs, aucun changement. Ces derniers peuvent poursuivre l'instruction des dossiers déposés .&#x20;
+* pour les experts, aucun changement. Les instructeurs peuvent toujours solliciter les experts à donner leurs avis pour un dossier déjà déposé.&#x20;
+
 ## 17. Transférer sa démarche
 
 Une démarche d'un collègue peut ne pas être présente dans le catalogue des démarches car il faut 30 dossiers pour qu'elle y soit incluse. Cependant, vous pouvez tout de même partager votre démarche avec votre collègue. A cette fin, rendez-vous sur votre profil administrateur.
