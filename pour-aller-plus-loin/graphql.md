@@ -227,6 +227,9 @@ fragment DossierFragment on Dossier {
   instructeurs {
     email
   }
+  usager {
+    email
+  }
   groupeInstructeur {
     id
     number
