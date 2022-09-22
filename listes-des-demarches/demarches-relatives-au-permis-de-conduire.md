@@ -46,7 +46,6 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 #### Demander une place d'examen pratique au permis de conduire
 
 * ****[**27 - L'Eure**](https://www.demarches-simplifiees.fr/commencer/inscription-des-candidats-libres-epreuve-pratique)****
-* ****[**35 - Ille-et-Vilaine**](https://www.demarches-simplifiees.fr/commencer/candidats-libres35)****
 * ****[**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_candidat\_libre\_permisb)****
 * ****[**51 - Marne**](https://candidat.convonom.fr/#/)****
 * ****[**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)****
