@@ -158,6 +158,9 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 * ****[**51 - Demande d'agrément pour exploiter un établissement d'enseignement de la conduite automobile**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement)****
 * ****[**51 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-d-autorisation-d-enseigner-la-conduite-des)****
+* 51- [Demande d'agrément pour exploiter un établissement chargé d'organiser des stages de sensibilisation à la Sécurité Routière](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement-charge-d-organiser-des-stages-de-sensibilisation-a-la-securite-routiere)
+
+
 
 ### **55 - Meuse**
 
