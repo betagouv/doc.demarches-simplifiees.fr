@@ -180,11 +180,6 @@ Enfin, il existe deux options avancées optionnelles. La première est le choix 
 ![Choix de la date limite de dépôt des dossiers, en tant qu'administrateur](<../.gitbook/assets/image (29).png>)
 
 * **Date limite de dépôt des dossiers** : cette option permet de clôturer automatiquement votre démarche. Cela permet de clore automatiquement le dépôt des dossiers à la date de votre choix. Grâce à cette fonctionnalité, lorsque la démarche est close, tous les dossiers passent en instruction. Les dossiers restés à l'état de brouillon ne pourront plus être soumis. Cet outil est particulièrement utile pour les appels à projet.&#x20;
-
-{% hint style="info" %}
-INFORMATION : lorsque vous indiquez 14 septembre, la clôture des dossiers s'effectuera dans la nuit du 13 au 14 septembre à minuit.
-{% endhint %}
-
 * **Démarche déclarative** : cette option permet de rendre votre démarche déclarative. Une fois le dossier déposé, celui-ci ne pourra plus être modifié. Deux issues sont alors possibles ; soit il passe directement « en instruction » pour être traité, soit il est immédiatement « accepté ».
 
 ![Rendre sa démarche déclarative, en tant qu'administrateur](<../.gitbook/assets/Capture d’écran 2020-07-23 à 10.33.01 (1).png>)
