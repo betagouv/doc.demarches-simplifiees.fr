@@ -6,9 +6,11 @@ description: Comment créer sa démarche sur demarches-simplifiees.fr (DS) ?
 
 Ce tutoriel présente les étapes de création d’une démarche sur demarches-simplifiees.fr par un administrateur.
 
-Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au bandeau situé en haut de la page :&#x20;
+Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat  situé en bas à droite de la page :&#x20;
 
-![](<../.gitbook/assets/Screenshot 2019-12-09 at 16.10.17.png>)
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+Vous avez également la possibilité de nous contacter à l'adresse : contact@demarches-simplifiees.fr
 
 ## Version vidéo
 
@@ -30,9 +32,7 @@ Un administrateur est en charge de la construction du formulaire et de la gestio
 
 Rendez-vous sur la page : [https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees)
 
-![](../.gitbook/assets/capture0.PNG)
-
-![Formulaire d'ouverture de compte administrateur ](<../.gitbook/assets/image (3).png>)
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Formulaire d'ouverture de compte administrateur </p></figcaption></figure>
 
 Les comptes administrateurs sont les seuls comptes que demarches-simplifiees.fr filtre. En effet, ils sont réservés aux seuls agents publics.&#x20;
 
@@ -46,9 +46,9 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 [Se rendre sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquer sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
 
-![](../.gitbook/assets/capture1.PNG)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
-![Connexion à demarches-simplifiees.fr](<../.gitbook/assets/capture1 (2).PNG>)
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Découvrir son tableau de bord des démarches créées
 
@@ -762,7 +762,7 @@ Dans le cas d’un appel à projet, il peut être souhaitable de choisir une dat
 
 Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparait avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (17) (2).png>)
 
 Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
 
@@ -787,7 +787,7 @@ La fenêtre suivante apparaît, cliquer à nouveau sur " Envoyer une copie "
 * Renseignez l'adresse e-mail de votre collègue
 * Enfin, cliquez sur le bouton « Envoyer »
 
-![Transfert d'une démarche à un autre administrateur](<../.gitbook/assets/image (12).png>)
+![Transfert d'une démarche à un autre administrateur](<../.gitbook/assets/image (12) (2).png>)
 
 Une copie de votre démarche apparaît dans ses démarches "En test".
 
