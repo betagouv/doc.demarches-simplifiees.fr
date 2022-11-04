@@ -59,17 +59,27 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 * **Closes** : Une démarche close est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
 * **Supprimées** : Une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
 
-![Tableau de suivi des démarches, en tant qu'administrateur](<../.gitbook/assets/screen 08.png>)
+<figure><img src="../.gitbook/assets/démarche interface admin .png" alt=""><figcaption><p>tableau de bord  administrateur </p></figcaption></figure>
 
-## 4. Créer une nouvelle démarche
+## 4. Découvrir le tableau de bord de l'ensemble des démarches publiées &#x20;
+
+Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié.&#x20;
+
+&#x20;Ainsi,  pour consulter les informations ( administrateur et date de création) sur les démarches simplifies pour toutes les zones , il vous suffit de cliquer sur " toutes les démarches" puis de filtrer par zones et/ou par statut.&#x20;
+
+<figure><img src="../.gitbook/assets/tableau de bord toutes les démarches.png" alt=""><figcaption><p>tableau de bord de toutes les démarches</p></figcaption></figure>
+
+## 5. Créer une nouvelle démarche
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-![Création d'une nouvelle démarche en tant qu'administrateur ](../.gitbook/assets/tempsnip08.png)
+<figure><img src="../.gitbook/assets/nouvelle démarche .png" alt=""><figcaption><p>Création d'une nouvelle démarche en tant qu'administrateur </p></figcaption></figure>
 
-La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.&#x20;
+La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
-![Les options de création d'une nouvelle démarche en tant qu'administrateur ](../.gitbook/assets/tempsnip1.png)
+&#x20;
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton "rechercher".
 
@@ -77,15 +87,15 @@ Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé 
 
 &#x20;Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-![Recherche d'une démarche pré-existante, en tant qu'administrateu](../.gitbook/assets/tempsnip6.png)
+<figure><img src="../.gitbook/assets/cloner une démarche .png" alt=""><figcaption><p>Cloner une démarche pré-existante</p></figcaption></figure>
 
 {% hint style="info" %}
-**ATTENTION** : le nom des démarches est laissé à la liberté des administrations, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
+**ATTENTION** : Les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
 
 Exemple : pour la dotation aux équipements pour les territoires ruraux, on peut aussi tester le sigle DETR.
 {% endhint %}
 
-## 5. Décrire sa démarche
+## 6. Décrire sa démarche
 
 Après avoir cliqué sur le bouton "Créer une nouvelle démarche de zéro" en haut à gauche de la page, une nouvelle page s’affiche. Celle-ci permet de paramétrer la page de présentation de votre démarche. Ce seront les premières informations visibles par l’usager.&#x20;
 
