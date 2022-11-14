@@ -46,7 +46,7 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 [Se rendre sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquer sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
@@ -119,7 +119,7 @@ Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus t
 
 Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du titre de votre démarche lorsque l’usager y déposera un dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sélection du logo de la démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Sélection du logo de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
 Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller l'ensemble de vos logos sur un fichier texte (doc) puis de faire une capture d’écran de tous vos logos.
 
@@ -144,7 +144,7 @@ De même, le cadre juridique doit être obligatoirement renseigné. En effet, da
 
 Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez indiquer une loi, un décret, une délibération en conseil municipal ou un règlement intérieur. Vous pouvez soit copier-coller le lien vers un site web qui le propose, soit télécharger le texte qui s'applique.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Justification du cadre juridique en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Justification du cadre juridique en tant qu'administrateur </p></figcaption></figure>
 
 **e) Contact du Délégué à la Protection des Données ( DPO)**&#x20;
 
@@ -154,73 +154,81 @@ Afin d'être conforme au RGPD, les informations permettant de contacter le DPO d
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
 
+<figure><img src="../.gitbook/assets/cadre juridique .png" alt=""><figcaption><p>Cadre juridique retranscrit en bas du formulaire </p></figcaption></figure>
 
+**f) L'open data**&#x20;
 
-![](../.gitbook/assets/tempsnip08;2022.png)
+Afin de favoriser la transparence des données, vous avez la possibilité d'autoriser la publication  des descriptifs des démarches sur https://data.gouv.fr.&#x20;
 
-**f) Notice explicative de la démarche**
+Cette donnée est modifiable pour chaque démarche depuis la partie "présentation" de votre interface administrateur .&#x20;
+
+<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption><p>Autorisation de l'open data des démarches, en tant qu'administrateur </p></figcaption></figure>
+
+**g) Notice explicative de la démarche**
 
 Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Une notice explicative est un document destiné à guider l’usager dans sa démarche. C’est un document que vous aurez préalablement élaboré. Celui-ci peut prendre la forme d’un fichier .doc, .pdf ou bien de diapositives. Le bouton pour télécharger cette notice apparaît en haut du formulaire pour l’usager.&#x20;
 
-![Sélection d'une note explicative de la démarche, en tant qu'administrateur](../.gitbook/assets/notice-explicative.PNG)
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Sélection d'une note explicative de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
 Les premiers éléments que vous venez de renseigner sont les premières informations vues par l’usager lorsqu'il aura cliquer sur le lien de votre démarche. Ils constituent ainsi la page d’accueil de votre démarche.
 
-**f) Choix du public de votre démarche : personnes morales ou particuliers ?**
+**h) Choix du public de votre démarche : personnes morales ou particuliers ?**
 
 Votre démarche s’adresse-t-elle à des personnes morales ou à des particuliers ? Ce choix détermine la seconde page de votre démarche sur laquelle l’usager sera renvoyé après s’être connecté.&#x20;
 
 * **Personnes morales** : l’usager est tenu de renseigner son numéro SIRET. Celui-ci nous permet d'interroger directement les bases de l’INSEE, d’Infogreffe et du Répertoire National des Associations (RNA) afin de recueillir automatiquement des informations sur les entreprises (raison sociale, adresse, code NAF).
 * **Particuliers** : l'usager renseigne simplement son nom et son prénom. Si celui-ci ne les indique pas, il ne pourra pas se rendre sur la troisième page qui correspond au corps du formulaire. Si vous choisissez cette option, nul besoin de lui demander son nom et prénom dans votre formulaire.
 
-![](<../.gitbook/assets/Capture d’écran 2020-07-23 à 10.25.09.png>)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Choix du public de la démarche en tant qu'administrateur </p></figcaption></figure>
 
-**g) Options avancées**
+**i) Options avancées**
 
 Enfin, il existe deux options avancées optionnelles. La première est le choix de la date limite de dépôt des dossiers et la seconde est la possibilité de rendre une démarche déclarative.
 
-![Choix de la date limite de dépôt des dossiers, en tant qu'administrateur](<../.gitbook/assets/image (29).png>)
-
 * **Date limite de dépôt des dossiers** : cette option permet de clôturer automatiquement votre démarche. Cela permet de clore automatiquement le dépôt des dossiers à la date de votre choix. Grâce à cette fonctionnalité, lorsque la démarche est close, tous les dossiers passent en instruction. Les dossiers restés à l'état de brouillon ne pourront plus être soumis. Cet outil est particulièrement utile pour les appels à projet.&#x20;
-* **Démarche déclarative** : cette option permet de rendre votre démarche déclarative. Une fois le dossier déposé, celui-ci ne pourra plus être modifié. Deux issues sont alors possibles ; soit il passe directement « en instruction » pour être traité, soit il est immédiatement « accepté ».
 
-![Rendre sa démarche déclarative, en tant qu'administrateur](<../.gitbook/assets/Capture d’écran 2020-07-23 à 10.33.01 (1).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Choix de la date limite de dépôt de dossier, en tant qu'administrateur </p></figcaption></figure>
+
+* **Démarche déclarative** : cette option permet de rendre votre démarche déclarative. Une fois le dossier déposé, celui-ci ne pourra plus être modifié. Deux issues sont alors possibles ; soit il passe directement « en instruction » pour être traité, soit il est immédiatement « accepté ».\
+  Pour ces deux issues, l'usager ne pourra pas modifier son dossier.&#x20;
+
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Rendre sa démarche déclarative, en tant qu'administrateur </p></figcaption></figure>
 
 Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche », situé en bas à droite de l’écran.
 
-![Création de la démarche, en tant qu'administrateur](<../.gitbook/assets/démarche déclarative.PNG>)
+<figure><img src="../.gitbook/assets/création démarche.png" alt=""><figcaption><p>Création de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
-## 6. Créer son formulaire
+## 7. Créer son formulaire
 
-Le corps de votre démarche est constitué par votre formulaire. Celui-ci va permettre de recueillir les informations fournies par les usagers lesquelles vous permettront de valider leur demande ou non. Un formulaire se construit par empilement de champs, un champ étant une information que vous demandez à l’usager.&#x20;
+Le corps de votre démarche est constitué par votre formulaire. Celui-ci va permettre de recueillir les informations fournies par les usagers lesquelles vous permettront de valider leur demande ou non. Un formulaire se construit par empilement de champs, un champ étant une information que vous indiquez ou que vous demandez à l’usager.&#x20;
 
-Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez créer un champ « adresse », un champ « téléphone » et un champ « e-mail ».
+Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez créer un champ «adresse », un champ « téléphone » et un champ « e-mail ».
 
 A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet "Prévisualiser le formulaire".
 
-![Prévisualiser le formulaire, en tant qu'administrateur](<../.gitbook/assets/tempsnipMAJ (1).png>)
+<figure><img src="../.gitbook/assets/prévisualisation formulaire (1).png" alt=""><figcaption><p>Prévisualiser le formulaire, en tant qu'administrateur </p></figcaption></figure>
 
 Pour commencer votre formulaire, vous cliquerez sur l’onglet "Ajouter un champ" dans le menu situé en bas à gauche de l’écran. Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
 
-![Ajout d'un champ, en tant qu'administrateur](../.gitbook/assets/config-champ1.PNG)
+<figure><img src="../.gitbook/assets/ajout d&#x27;un champ .png" alt=""><figcaption><p>Ajout d'un champ , en tant qu'administrateur </p></figcaption></figure>
 
-![Configuration des champs, en tant qu'administrateur ](<../.gitbook/assets/image (11).png>)
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>configuration des champs en tant qu'administrateur </p></figcaption></figure>
 
-Pour créer un champ :
+Pour créer un champ vous devez :&#x20;
 
-* **Indiquer un libellé** : vous entrez le titre du champ. Dans le même temps, il est possible de rendre ce champ obligatoire pour l'usager.&#x20;
+* Renseigner le type de champ&#x20;
+* Indiquer un libellé&#x20;
+* Renseigner une description&#x20;
 
-![](../.gitbook/assets/config-champ3-libellé.PNG)
+**A. Renseigner le type de champ**&#x20;
 
-* **Renseigner une description** : vous pouvez ajouter une description afin de mieux renseigner l’usager sur l’information que vous attendez. Par exemple, si vous demandez le numéro de téléphone vous pouvez préciser : « Renseigner un numéro sur lequel nous pouvons vous joindre entre 14h et 18h ».&#x20;
+Le type de champ formate la manière dont l'usager vous donnera l'information demandée. Plusieurs types de champ existent, ils sont désormais **regroupés par catégories dans la liste déroulante**  :
 
-![](../.gitbook/assets/config-champ3bis-description.PNG)
+<figure><img src="../.gitbook/assets/liste déroulante .png" alt=""><figcaption><p>Catégories des types de champs de la liste déroulante </p></figcaption></figure>
 
-### **A. Renseigner le type de champ**&#x20;
+**La durée de remplissage estimée évolue en fonction des types de champs ajoutés.**&#x20;
 
-Le type de champ formate la manière dont l'usager vous donnera l'information demandée. Plusieurs types de champ existent :
-
-#### **a) Texte**&#x20;
+#### **a) Texte**
 
 Par défaut, c’est le champ "Texte" qui est sélectionné, c’est-à-dire que l’usager répondra de manière libre. Si le nombre de caractères est illimité, ce champ est adapté à une réponse courte.
 
@@ -801,5 +809,5 @@ La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer 
 
 Ensuite, un message d'avertissement apparait. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (18) (1).png>)
 

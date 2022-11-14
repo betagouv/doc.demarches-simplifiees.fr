@@ -8,7 +8,7 @@ Lorsque l'instruction d'un dossier sur démarches-simplifiées nécessite l'avis
 
 Cette invitation prend la forme d'un e-mail que l'invité reçoit.&#x20;
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1).png>)
 
 L'e-mail reçu indique l'adresse e-mail du demandeur, le numéro du dossier concerné et l'intitulé de la démarche, ainsi que le message rédigé par l'instructeur à l'origine de la demande d'avis.&#x20;
 
@@ -59,7 +59,7 @@ Une fois l'avis rédigé et la pièce jointe ajoutée si nécessaire, vous devez
 
 En bas de cet onglet vous aurez un récapitulatif des autres avis demandés sur ce dossier :
 
-![](<../.gitbook/assets/image (18) (1).png>)
+![](<../.gitbook/assets/image (18) (1) (1).png>)
 
 ### C. Messagerie&#x20;
 

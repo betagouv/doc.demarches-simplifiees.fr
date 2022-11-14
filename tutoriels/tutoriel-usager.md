@@ -150,7 +150,7 @@ Les dossiers sont identifiés par un numéro et par l'intitulé de la démarche.
 
 Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier :
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 
 
