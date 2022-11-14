@@ -79,7 +79,7 @@ La création d’une nouvelle démarche peut se faire soit à partir de zéro so
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton "rechercher".
 
@@ -107,7 +107,7 @@ Tous les champs marqués d'un astérisque sont obligatoires.
 
 **a) Titre et description de la démarche**&#x20;
 
-![](<../.gitbook/assets/image (28).png>)
+<figure><img src="../.gitbook/assets/nouvelle démarche interface .png" alt=""><figcaption><p>Description de la démarche</p></figcaption></figure>
 
 En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire. Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
 
@@ -115,19 +115,11 @@ Dans la description, on indique le contexte et l’objectif de la démarche mais
 
 Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus tard. En revanche, comme les informations remplies ne s’enregistrent pas automatiquement, nous vous conseillons de le faire par vous-même régulièrement.
 
-**b) Ministère mettant en œuvre la démarche**&#x20;
-
-En second lieu, il faut indiquer le ministère auquel la démarche est rattachée pour des raisons de suivi. Une liste déroulante associée aux différents ministères est alors affichée.&#x20;
-
-![Sélection du ministère mettant en œuvre la démarche ](<../.gitbook/assets/image (7).png>)
-
-
-
-**c) Logo de la démarche**&#x20;
+**b) Logo de la démarche**&#x20;
 
 Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du titre de votre démarche lorsque l’usager y déposera un dossier.&#x20;
 
-![Sélection du logo de la démarche, en tant qu'administrateur](../.gitbook/assets/DS-logo.PNG)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Sélection du logo de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
 Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller l'ensemble de vos logos sur un fichier texte (doc) puis de faire une capture d’écran de tous vos logos.
 
@@ -152,17 +144,17 @@ De même, le cadre juridique doit être obligatoirement renseigné. En effet, da
 
 Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez indiquer une loi, un décret, une délibération en conseil municipal ou un règlement intérieur. Vous pouvez soit copier-coller le lien vers un site web qui le propose, soit télécharger le texte qui s'applique.
 
-![Justification du cadre juridique, en tant qu'administrateur](<../.gitbook/assets/cadre juridique.PNG>)
-
-Les usagers pourront consulter le cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Justification du cadre juridique en tant qu'administrateur </p></figcaption></figure>
 
 **e) Contact du Délégué à la Protection des Données ( DPO)**&#x20;
 
-Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent etre mentionnées.  &#x20;
+Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
 ![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8).png>)
 
-Cette information à destination des usagers apparaitra en bas de formulaire dans la partie relative au cadre juridique.&#x20;
+Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
+
+
 
 ![](../.gitbook/assets/tempsnip08;2022.png)
 
@@ -662,7 +654,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 * **Du coté experts :**&#x20;
 * Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet "avis" s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert.&#x20;
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 * Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émit lors de la démarche en bas de page.&#x20;
 
