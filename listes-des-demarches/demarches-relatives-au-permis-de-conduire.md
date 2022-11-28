@@ -146,10 +146,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
   &#x20;**conducteurs routiers**](https://www.demarches-simplifiees.fr/commencer/34-reservations-titres-professionnels)****
 * ****[**34 - Demande de**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)****[ **Certificat d'Examen du Permis de Conduire (CEPC) version papier dans le cas d'un retour au permis**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)****
 
-## 36 - L'Indre
-
-[Demande de numé](https://www.demarches-simplifiees.fr/commencer/demande-neph-cher-indre)
-
 ### 44 - Loire-Atlantique
 
 * ****[**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_duplicata-aipc)****
