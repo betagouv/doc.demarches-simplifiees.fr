@@ -116,6 +116,12 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 ## Autres démarches
 
+
+
+### 18 - Cher
+
+[Demande de numéro NEPH](https://www.demarches-simplifiees.fr/commencer/demande-neph-cher-indre)
+
 ### 27 - Eure&#x20;
 
 * ****[**27 - Demande initiale ou de renouvellement d'agrément d'un Etablissement d’Enseignement de la Conduite et de la Sécurité Routière (ECSR)** ](https://www.demarches-simplifiees.fr/commencer/demande-agrement-ecsr-eure)****
@@ -146,6 +152,10 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
   &#x20;**conducteurs routiers**](https://www.demarches-simplifiees.fr/commencer/34-reservations-titres-professionnels)****
 * ****[**34 - Demande de**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)****[ **Certificat d'Examen du Permis de Conduire (CEPC) version papier dans le cas d'un retour au permis**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)****
 
+## 36 - Indre
+
+[Demande de numéro NEPH](https://www.demarches-simplifiees.fr/commencer/demande-neph-cher-indre)
+
 ### 44 - Loire-Atlantique
 
 * ****[**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_duplicata-aipc)****
@@ -160,8 +170,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * ****[**51 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-d-autorisation-d-enseigner-la-conduite-des)****
 * **51-** [**Demande d'agrément pour exploiter un établissement chargé d'organiser des stages de sensibilisation à la Sécurité Routière**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement-charge-d-organiser-des-stages-de-sensibilisation-a-la-securite-routiere)****
 * **51-**[**Demande de réactualisation du NEPH**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactualisation-du-neph)****
-
-
 
 ### **55 - Meuse**
 
@@ -234,7 +242,5 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [95 - Demande d'agrément pour exploiter un établissement d'enseignement de la conduite automobile](https://www.demarches-simplifiees.fr/commencer/agrement-etablissement-95)
 * [95 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur](https://www.demarches-simplifiees.fr/commencer/autorisation-enseigner-95)
 
-## 18 - Cher
 
-[Demande de numéro NEPH ](https://www.demarches-simplifiees.fr/commencer/demande-neph-cher-indre)
 
