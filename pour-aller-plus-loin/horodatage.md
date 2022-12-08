@@ -157,6 +157,7 @@ cd store
 curl -s http://autorite.certigna.fr/ACcertigna.crt http://autorite.certigna.fr/entityca.crt > certigna.crt
 
 ## Universign
+curl -sLO https://www.universign.com/documents/certificates/root-ca.pem
 curl -sLO https://www.universign.com/documents/certificates/tsa-root-2019.pem
 curl -sLO https://www.universign.com/documents/certificates/tsa-root-2015.pem
 
