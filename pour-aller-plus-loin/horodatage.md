@@ -116,21 +116,54 @@ demarches-simplifiees fait horodater ce fichier par un service d'horodatage qual
 
 Pour un dossier donné\
 \- vérifier visuellement la cohérence entre la version pdf et le dernier fichier opération de dossier\
-\- calculer le sha256sum de cette opération\
-`EMPREINTE=$(sha256sum dossier-1017534/horodatage/operation-xxx.json | cut -d ' ' -f1)`\
-\- vérifier la présence de cette empreinte dans un fichier regroupant toutes les empreintes\
-`EMPREINTES-DU-JOUR=$(grep -l $EMPREINTE bills/horodatage/*)`\
-``- repéré la date de ce fichier `echo $EMPREINTES-DU-JOUR`\
-\- isoler le jeton d'horodatage correspondant à l'empreinte\
-`JETON=bills/horodatage/demarches-simplifiees-signature-date.der`
+puis lancer le script suivant pour vérifier l'horodatage du fichier `command.sh dossier/horodatage/operation`
 
-#### pour un horodatage classique
+\
+
 
 ```
-openssl ts -verify -data $EMPREINTE-DU-JOUR -in $JETON -CAfile provider_certificat.crt
+#! /bin/bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+if [ $# -eq 0 ]
+  then
+    echo "usage: ./command.sh operation_file"
+  exit 1
+fi
+
+OPERATION_FILE="${1:-}"
+echo -e "\nChecking $OPERATION_FILE\n"
+
+HASH=$(sha256sum $OPERATION_FILE | cut -d ' ' -f1)
+echo "HASH: $HASH"
+
+# find matching files
+BILL=$(grep -l $HASH bills/horodatage/*)
+echo "Bill: $BILL"
+
+DATE=$(echo $BILL| sed 's/.*demarches-simplifiees-operations-//' | sed 's/-.....json//')
+
+TOKEN=$(find . -iname "*signature*$DATE*")
+echo -e "Token: $TOKEN\n"
+
+# retrieve provider certificates
+mkdir -p store
+cd store
+
+## Certigna
+curl -s http://autorite.certigna.fr/ACcertigna.crt http://autorite.certigna.fr/entityca.crt > certigna.crt
+
+## Universign
+curl -sLO https://www.universign.com/documents/certificates/tsa-root-2019.pem
+curl -sLO https://www.universign.com/documents/certificates/tsa-root-2015.pem
+
+cd ../
+
+# final verification
+openssl ts -verify -CAfile <(cat store/*) -data $BILL -in $TOKEN -token_in
 ```
 
-#### pour Universign
-
-Universign, bien que qualifié par l'ANSSI, n'émets pas de jeton d'horodatage vérifiables par un outil externe.\
-Le jeton d'horodatage et le fichier des empreintes du jour doivent leur être envoyés pour vérification. Contactez nous si besoin.
+Certains horodatages émis par Universign ne sont pas compatibles avec openssl, ils doivent les vérifier eux-même en attendant de mettre à disposition une API. Contactez nous si besoin.
