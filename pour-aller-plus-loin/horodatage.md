@@ -118,7 +118,6 @@ Pour un dossier donné\
 \- vérifier visuellement la cohérence entre la version pdf et le dernier fichier opération de dossier\
 puis lancer le script suivant pour vérifier l'horodatage du fichier `command.sh dossier/horodatage/operation`
 
-\
 
 
 ```
@@ -154,7 +153,8 @@ mkdir -p store
 cd store
 
 ## Certigna
-curl -s http://autorite.certigna.fr/ACcertigna.crt http://autorite.certigna.fr/entityca.crt > certigna.crt
+curl -sLO http://autorite.certigna.fr/ACcertigna.crt
+curl -sLO http://autorite.certigna.fr/entityca.crt
 
 ## Universign
 curl -sLO https://www.universign.com/documents/certificates/root-ca.pem
@@ -167,4 +167,7 @@ cd ../
 openssl ts -verify -CAfile <(cat store/*) -data $BILL -in $TOKEN -token_in
 ```
 
-Certains horodatages émis par Universign ne sont pas compatibles avec openssl, ils doivent les vérifier eux-même en attendant de mettre à disposition une API. Contactez nous si besoin.
+Certains horodatages émis par Universign ne sont pas compatibles avec openssl,\
+`rsa routines:RSA_padding_check_PKCS1_type_1:invalid padding`\
+\
+&#x20;ils doivent les vérifier eux-même en attendant de mettre à disposition une API. Contactez nous si besoin.
