@@ -171,3 +171,6 @@ Certains horodatages émis par Universign ne sont pas compatibles avec openssl,\
 `rsa routines:RSA_padding_check_PKCS1_type_1:invalid padding`\
 \
 &#x20;ils doivent les vérifier eux-même en attendant de mettre à disposition une API. Contactez nous si besoin.
+
+Astuce pour inspecter le contenu d'un jeton :\
+`openssl asn1parse -in token -inform der`
