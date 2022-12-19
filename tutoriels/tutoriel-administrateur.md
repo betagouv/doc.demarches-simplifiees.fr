@@ -79,7 +79,7 @@ La création d’une nouvelle démarche peut se faire soit à partir de zéro so
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton "rechercher".
 
@@ -150,7 +150,7 @@ Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
-![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8).png>)
+![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8) (1).png>)
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
 
@@ -187,16 +187,22 @@ Enfin, il existe deux options avancées optionnelles. La première est le choix 
 
 * **Date limite de dépôt des dossiers** : cette option permet de clôturer automatiquement votre démarche. Cela permet de clore automatiquement le dépôt des dossiers à la date de votre choix. Grâce à cette fonctionnalité, lorsque la démarche est close, tous les dossiers passent en instruction. Les dossiers restés à l'état de brouillon ne pourront plus être soumis. Cet outil est particulièrement utile pour les appels à projet.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Choix de la date limite de dépôt de dossier, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>Choix de la date limite de dépôt de dossier, en tant qu'administrateur </p></figcaption></figure>
 
 * **Démarche déclarative** : cette option permet de rendre votre démarche déclarative. Une fois le dossier déposé, celui-ci ne pourra plus être modifié. Deux issues sont alors possibles ; soit il passe directement « en instruction » pour être traité, soit il est immédiatement « accepté ».\
   Pour ces deux issues, l'usager ne pourra pas modifier son dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Rendre sa démarche déclarative, en tant qu'administrateur </p></figcaption></figure>
 
-Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche », situé en bas à droite de l’écran.
+* **Champ "pièces justificative" avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichier par champ "pièce justificative" .&#x20;
 
-<figure><img src="../.gitbook/assets/création démarche.png" alt=""><figcaption><p>Création de la démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture multiupload.PNG" alt=""><figcaption><p>Permettre aux usagers d'envoyer plusieurs fichier par champ PJ, en tant d'administrateur </p></figcaption></figure>
+
+Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou "enregistrer" , situé en bas à droite de l’écran.
+
+<figure><img src="../.gitbook/assets/Capture publier démarche.PNG" alt=""><figcaption><p>création de la démarche , en tant qu'administrateur </p></figcaption></figure>
+
+
 
 ## 7. Créer son formulaire
 
@@ -226,9 +232,39 @@ Le type de champ formate la manière dont l'usager vous donnera l'information de
 
 <figure><img src="../.gitbook/assets/liste déroulante .png" alt=""><figcaption><p>Catégories des types de champs de la liste déroulante </p></figcaption></figure>
 
+****
+
 **La durée de remplissage estimée évolue en fonction des types de champs ajoutés.**&#x20;
 
-#### **a) Texte**
+#### **1) Les champs relatifs au cadre :**&#x20;
+
+**a) Titre de section**&#x20;
+
+Le titre de section permet de segmenter et de structurer votre formulaire.  En effet, la construction de ce dernier étant linéaire par empilement de champs, il convient de le structurer afin de le rendre plus facilement lisible par l’usager.&#x20;
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>champ "Titre de section" en tant qu'administrateur</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Champ "titre de section" en tant qu'usager </p></figcaption></figure>
+
+#### **b) Explication**&#x20;
+
+&#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique de guider l'usager ou bien d'introduire des sous-titres de section.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Champ "explication" en tant qu'administrateur </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Champ "explication" en tant qu'usager </p></figcaption></figure>
+
+#### **c) Lien vers un autre dossier**&#x20;
+
+Ce type de champ donne la possibilité de relier deux dossiers déposés sur demarches-simplifiees entre eux.&#x20;
+
+Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire le bilan. En choisissant ce type de champ, l’usager indique seulement le numéro du dossier 2019 dans son dossier 2020, et l’instructeur peut alors accéder facilement à la demande grâce à un lien présent dans le bilan.&#x20;
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Champ "lien vers un autre dossier" en tant qu'usager </p></figcaption></figure>
+
+#### ****
+
+#### **Texte**
 
 Par défaut, c’est le champ "Texte" qui est sélectionné, c’est-à-dire que l’usager répondra de manière libre. Si le nombre de caractères est illimité, ce champ est adapté à une réponse courte.
 
