@@ -51,7 +51,7 @@ Cet onglet vous permet de donner votre avis sur le dossier : le demandeur de l'a
 
 Vous avez ensuite un champ dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton correspondant.&#x20;
 
@@ -79,7 +79,7 @@ Si l'administrateur de la démarche active la fonctionnalité "notifier des déc
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45) (1).png>)
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été refusé.&#x20;
 
@@ -87,6 +87,6 @@ Si l'administrateur de la démarche active la fonctionnalité "notifier des déc
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47) (1).png>)
 
 ###

@@ -262,81 +262,153 @@ Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Champ "lien vers un autre dossier" en tant qu'usager </p></figcaption></figure>
 
-#### ****
+Pour accéder au premier dossier déposé par l'usager, l'instructeur de la seconde démarche devra également être instructeur de la première démarche. Il lui suffira alors de cliquer sur le lien du dossier, comme ci-dessous :&#x20;
 
-#### **Texte**
+<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption><p>Champ "lien vers un autre dossier", en tant qu'instructeur </p></figcaption></figure>
 
-Par défaut, c’est le champ "Texte" qui est sélectionné, c’est-à-dire que l’usager répondra de manière libre. Si le nombre de caractères est illimité, ce champ est adapté à une réponse courte.
+#### **d) Bloc répétable**
 
-![Champ "Texte" en tant qu'usager](../.gitbook/assets/champ-texte.PNG)
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). ****&#x20;
 
-#### **b) Zone de texte**&#x20;
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
 
-Ce champ est similaire au précédent à la différence qu'il est adapté à une réponse longue. Le nombre de caractères est aussi illimité.
+#### 2) Les  champs relatifs à l'état civil&#x20;
 
-![Champ "Zone de texte", en tant qu'usager](../.gitbook/assets/zone-texte.PNG)
+#### a) Civilité&#x20;
 
-#### **c) Date**&#x20;
+L'usager peut choisir entre "Madame" ou "Monsieur".
+
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Champ "civilité", en tant qu'usager </p></figcaption></figure>
+
+#### b) email&#x20;
+
+&#x20;L'usager doit renseigner un e-mail.
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Champ "email", en tant qu'usager </p></figcaption></figure>
+
+#### c) Téléphone&#x20;
+
+L'usager doit renseigner un numéro de téléphone.
+
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
+
+#### 3) Les champs relatifs à la localisation&#x20;
+
+a) Adresse&#x20;
+
+L'usager doit entrer une adresse avec une auto-complétion - l'adresse se complète sans que l'usager n'ait besoin de l’écrire entièrement - grâce à la connexion à la Base Adresse Nationale (BAN).
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Champ "adresse",en tant qu'usager </p></figcaption></figure>
+
+#### b) Communes, départements, régions, pays&#x20;
+
+Ces quatre types de champ sont des menus déroulants dont les valeurs sont préétablies. Il n'est pas possible de les modifier.
+
+Le champ « Pays » comporte des pays qui ont existé dans le passé, ou dont la reconnaissance internationale est contestée, pour permettre à des usagers de répondre à la question « Quel est votre pays de naissance ? »
+
+Les champs « Régions », « Département » et « Communes » utilisent des valeurs provenant de l’[API Géo](https://api.gouv.fr/les-api/api-geo). Il s’agit des régions, départements et communes de France métropolitaine et des DROM. Les communes des TOM ne sont donc pas incluses.
+
+Pour le champ "Communes", les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera .&#x20;
+
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager </p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager </p></figcaption></figure>
+
+
+
+#### 4) Les champs relatifs au paiement et à l'identification&#x20;
+
+#### a) Le numéro Iban&#x20;
+
+Ce champ permet uniquement de collecter les numéros  Iban valides français.
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Le champ "Iban", en tant qu'usager </p></figcaption></figure>
+
+#### b) Le numéro Siret&#x20;
+
+Ce champ permet de collecter le numéro Siret ainsi que les informations administratives reliées à ce numéro grâce à l'API Entreprise&#x20;
+
+Le numéro SIRET doit comporter exactement 14 chiffres.&#x20;
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Champ "Siret", en tant qu'usager </p></figcaption></figure>
+
+#### 5) Les champs standards&#x20;
+
+#### a) Texte court&#x20;
+
+Ce champ permet à l'usager de répondre de manière libre. Si le nombre de caractères est illimité, ce champ est adapté à une réponse courte.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Champ "texte", en tant qu'usager </p></figcaption></figure>
+
+#### b) Texte long&#x20;
+
+Ce champ est similaire au précédent à la différence qu'il est adapté à une réponse longue et structurée. Le nombre de caractères est aussi illimité.
+
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Champ "texte long", en tant qu'usager </p></figcaption></figure>
+
+#### c) Nombre décimal&#x20;
+
+L'usager doit renseigner un nombre qui peut être décimal.&#x20;
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Champ "nombre décimal", en tant qu'usager</p></figcaption></figure>
+
+#### d) Nombre entier&#x20;
+
+L'usager doit renseigner un nombre entier.
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Champ "nombre entier", en tant qu'usager </p></figcaption></figure>
+
+#### e) Date&#x20;
 
 L' usager doit renseigner une date au format jj/mm/aaaa.
 
-![Champ "Date", en tant qu'usager](../.gitbook/assets/champ-date.PNG)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
 
-**d) Date et heure**&#x20;
+#### f) Date et Heure&#x20;
 
 L' usager doit renseigner une date et un horaire.
 
-![Champ "Date et heure", en tant qu'usager](../.gitbook/assets/champ-date-h.PNG)
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager </p></figcaption></figure>
 
-#### **e) Nombre décimal**
+#### 6) Les champs relatifs aux pièces jointes&#x20;
 
-L'usager doit renseigner un nombre qui peut être décimal.
+#### a) Pièce justificative&#x20;
 
-![](../.gitbook/assets/nombre-décimal.PNG)
+Ce champ permet à l'usager d'ajouter à son dossier un document, quelque soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
 
-**f) Nombre entier**
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Champ "pièce justificative" en tant qu'administrateur </p></figcaption></figure>
 
-&#x20;**** L'usager doit renseigner un nombre entier.
+Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableur.
 
-![](<../.gitbook/assets/image (30) (1).png>)
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Champ "pièce justificative" avec modèle en tant qu'usager </p></figcaption></figure>
 
-#### **g) Case à cocher**&#x20;
+
+
+#### b) Titre d'identité&#x20;
+
+Ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20MO
+
+De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé ( faisant l'objet d'une décision finale).&#x20;
+
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
+
+**7) Les champs relatifs aux choix**&#x20;
+
+&#x20;**Case à cocher**&#x20;
 
 Ce type de champ insère à gauche du libellé du champ une case que l'usager peut cocher.
 
 ![Exemple de champ "Case à cocher", en tant qu'usager](../.gitbook/assets/case-cocher.PNG)
 
-#### **h) Civilité**
+#### ****
 
-L'usager peut choisir entre "Madame" ou "Monsieur".
-
-![Champ "Civilité", en tant qu'usager](../.gitbook/assets/champ-civilité.PNG)
-
-#### **i) E-mail**
-
-&#x20;L'usager doit renseigner un e-mail.
-
-![Champ "Email", en tant qu'usager](../.gitbook/assets/champ-email.PNG)
-
-#### **j) Téléphone**
-
-&#x20;**** L'usager doit renseigner un numéro de téléphone.
-
-![Champ "Téléphone", en tant qu'usager](../.gitbook/assets/champ-tél.PNG)
-
-#### **k) Adresse**&#x20;
-
-L'usager doit entrer une adresse avec une auto-complétion - l'adresse se complète sans que l'usager n'ait besoin de l’écrire entièrement - grâce à la connexion à la Base Adresse Nationale (BAN).
-
-![Champ "Adresse", en tant qu'usager](../.gitbook/assets/champ-adresse.PNG)
-
-#### l) Oui/Non
+&#x20; Oui/Non
 
 L'usager peut répondre "Oui" ou "Non" à la question posée dans le libellé du champ.
 
 ![Champ "Oui/Non", en tant qu'usager](../.gitbook/assets/champ-ouinon.PNG)
 
-#### **m) Choix parmi une liste**
+#### &#x20;**Choix parmi une liste**
 
 L'usager doit choisir une seule valeur parmi une liste que vous avez préalablement créée. Pour créer la liste, il suffit de mettre les valeurs dans l'encadré «  Liste déroulante », en ne mettant qu'une valeur par ligne. Vous avez la possibilité d'ajouter des séparateurs entre des groupes de valeurs. Pour ce faire, formatez la valeur qui sert de séparateur par des doubles tirets "--", sans espace, comme ceci : `--valeur--.`&#x20;
 
@@ -346,13 +418,13 @@ Cette valeur apparaîtra grisée et l'usager ne sera pas en mesure de la sélect
 
 ![Exemple d'un champ "Choix parmi une liste", en tant qu'usager](../.gitbook/assets/champ-choix-liste.PNG)
 
-**n) Choix multiples**
+&#x20;**Choix multiples**
 
 Le principe est le même à la différence que l'usager pourra sélectionner plusieurs valeurs simultanément.
 
 ![Exemple d'un champ "Choix multiples", en tant qu'usager](<../.gitbook/assets/champ-choix multiples.PNG>)
 
-#### **o) Deux menus déroulants liés**&#x20;
+#### **Deux menus déroulants liés**&#x20;
 
 Ce champ autorise un premier niveau de conditionnalité, c'est-à-dire que le contenu du second menu change en fonction du choix fait par l’usager dans le premier.&#x20;
 
@@ -381,21 +453,15 @@ Les titres des menus déroulant liés doivent donc être encadrés par des doubl
 
 ![Champ "Deux menus déroulants liés", en tant qu'usager](../.gitbook/assets/champ-menus-liés.PNG)
 
-#### **p) Pays, régions, départements, communes**&#x20;
+#### ****
 
-Ces quatre types de champ sont des menus déroulants dont les valeurs sont préétablies. Il n'est pas possible de les modifier.
-
-Le champ « Pays » comporte des pays qui ont existé dans le passé, ou dont la reconnaissance internationale est contestée, pour permettre à des usagers de répondre à la question « Quel est votre pays de naissance ? »
-
-Les champs « Régions », « Département » et « Communes » utilisent des valeurs provenant de l’[API Géo](https://api.gouv.fr/les-api/api-geo). Il s’agit des régions, départements et communes de France métropolitaine et des DROM. Les communes des TOM ne sont donc pas incluses.
-
-#### **q) Engagement**&#x20;
+#### &#x20;**Engagement**&#x20;
 
 Ce champ est strictement identique au champ "Case à cocher". &#x20;
 
 ![Exemple de champ "Engagement", en tant qu'usager](../.gitbook/assets/champ-engagement.PNG)
 
-#### **r) Titre de section**&#x20;
+#### &#x20;**Titre de section**&#x20;
 
 Le titre de section permet de segmenter et de structurer votre formulaire.  En effet, la construction de ce dernier étant linéaire par empilement de champs, il convient de le structurer afin de le rendre plus facilement lisible par l’usager.&#x20;
 
@@ -403,59 +469,21 @@ Le titre de section permet de segmenter et de structurer votre formulaire.  En e
 
 ![Champ "Titre de section", en tant qu'usager](../.gitbook/assets/champ-titre-section.PNG)
 
-#### **s) Explication**
+#### **Explication**
 
 &#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique de guider l'usager ou bien d'introduire des sous-titres de section.
 
-#### **t) Lien vers un autre dossier**&#x20;
+****
 
-Ce type de champ donne la possibilité de relier deux dossiers déposés sur demarches-simplifiees entre eux.&#x20;
-
-Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire le bilan. En choisissant ce type de champ, l’usager indique seulement le numéro du dossier 2019 dans son dossier 2020, et l’instructeur peut alors accéder facilement à la demande grâce à un lien présent dans le bilan.&#x20;
-
-![Champ " Lien vers un autre dossier", en tant qu'usager](../.gitbook/assets/champ-lien.PNG)
-
-Pour accéder au premier dossier déposé par l'usager, l'instructeur de la seconde démarche devra également être instructeur de la première démarche. Il lui suffira alors de cliquer sur le lien, comme ci-dessous :&#x20;
-
-![](<../.gitbook/assets/Screenshot 2019-12-09 at 17.53.49.png>)
-
-#### **u)** **Pièce justificative**&#x20;
-
-Ce champ permet à l'usager d'ajouter à son dossier un document, quelque soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
-
-![Champ "Pièce justificative", en tant qu'administrateur](<../.gitbook/assets/image (33).png>)
-
-![Champ "Pièce justificative", en tant qu'usager](<../.gitbook/assets/image (34).png>)
-
-Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant l'utilisation de fichiers tableur.
-
-![Insérer un modèle de pièce justificative, en tant qu'administrateur](../.gitbook/assets/PJ-modèle.PNG)
-
-{% hint style="info" %}
-Une fois la démarche publiée, les champs d'une démarche ne sont plus modifiables, à l'exception du modèle de pièce justificative. Pour mettre à jour ce dernier, il suffit de nous envoyer le nouveau modèle à notre adresse de contact en précisant le champ et le numéro de la démarche concernée.
-{% endhint %}
-
-#### **v) SIRET**
-
-Ce champ permet de faire appel à l’API entreprise comme nous l’avons vu auparavant mais cette fois à tout moment dans le formulaire.&#x20;
-
-Le numéro SIRET doit comporter exactement 14 chiffres
-
-![Champ "SIRET", en tant qu'usager](../.gitbook/assets/champ-SIRET.PNG)
-
-#### **w) Carte**&#x20;
+&#x20;**Carte**&#x20;
 
 Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les parcelles cadastrales, les quartiers prioritaires et les parcelles agricoles touchées par ce projet.&#x20;
 
 ![Champ "Carte", en tant qu'usager](../.gitbook/assets/champ-carte-géo.PNG)
 
-#### x) Bloc répétable
 
-Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables).&#x20;
 
-![Exemple de champ "Bloc répétable", en tant qu'usager](../.gitbook/assets/champ-bloc-répétable.PNG)
-
-### **B. Renseigner un libellé**&#x20;
+**B. Renseigner un libellé**&#x20;
 
 Après avoir choisi votre type de champ, vous devez indiquer un libellé, c’est-à-dire le titre du champ.&#x20;
 
