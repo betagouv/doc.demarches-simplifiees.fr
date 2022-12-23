@@ -46,7 +46,7 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 [Se rendre sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquer sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (56) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -79,7 +79,7 @@ La création d’une nouvelle démarche peut se faire soit à partir de zéro so
 
 &#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton "rechercher".
 
@@ -168,7 +168,7 @@ Cette donnée est modifiable pour chaque démarche depuis la partie "présentati
 
 Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Une notice explicative est un document destiné à guider l’usager dans sa démarche. C’est un document que vous aurez préalablement élaboré. Celui-ci peut prendre la forme d’un fichier .doc, .pdf ou bien de diapositives. Le bouton pour télécharger cette notice apparaît en haut du formulaire pour l’usager.&#x20;
 
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Sélection d'une note explicative de la démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Sélection d'une note explicative de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
 Les premiers éléments que vous venez de renseigner sont les premières informations vues par l’usager lorsqu'il aura cliquer sur le lien de votre démarche. Ils constituent ainsi la page d’accueil de votre démarche.
 
@@ -218,7 +218,7 @@ Pour commencer votre formulaire, vous cliquerez sur l’onglet "Ajouter un champ
 
 <figure><img src="../.gitbook/assets/ajout d&#x27;un champ .png" alt=""><figcaption><p>Ajout d'un champ , en tant qu'administrateur </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>configuration des champs en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption><p>configuration des champs en tant qu'administrateur </p></figcaption></figure>
 
 Pour créer un champ vous devez :&#x20;
 
@@ -264,13 +264,13 @@ Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire
 
 Pour accéder au premier dossier déposé par l'usager, l'instructeur de la seconde démarche devra également être instructeur de la première démarche. Il lui suffira alors de cliquer sur le lien du dossier, comme ci-dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Champ "lien vers un autre dossier", en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Champ "lien vers un autre dossier", en tant qu'instructeur </p></figcaption></figure>
 
 #### **d) Bloc répétable**
 
 Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). ****&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
 
 #### 2) Les  champs relatifs à l'état civil&#x20;
 
@@ -278,19 +278,19 @@ Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois
 
 L'usager peut choisir entre "Madame" ou "Monsieur".
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Champ "civilité", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Champ "civilité", en tant qu'usager </p></figcaption></figure>
 
 #### b) email&#x20;
 
 &#x20;L'usager doit renseigner un e-mail.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Champ "email", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption><p>Champ "email", en tant qu'usager </p></figcaption></figure>
 
 #### c) Téléphone&#x20;
 
 L'usager doit renseigner un numéro de téléphone.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
 
 #### 3) Les champs relatifs à la localisation&#x20;
 
@@ -298,7 +298,7 @@ a) Adresse&#x20;
 
 L'usager doit entrer une adresse avec une auto-complétion - l'adresse se complète sans que l'usager n'ait besoin de l’écrire entièrement - grâce à la connexion à la Base Adresse Nationale (BAN).
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Champ "adresse",en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Champ "adresse",en tant qu'usager </p></figcaption></figure>
 
 #### b) Communes, départements, régions, pays&#x20;
 
@@ -310,9 +310,9 @@ Les champs « Régions », « Département » et « Communes » utilisent 
 
 Pour le champ "Communes", les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera .&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager </p></figcaption></figure>
 
 
 
@@ -322,7 +322,7 @@ Pour le champ "Communes", les usagers doivent dans un premier temps entrer par a
 
 Ce champ permet uniquement de collecter les numéros  Iban valides français.
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Le champ "Iban", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Le champ "Iban", en tant qu'usager </p></figcaption></figure>
 
 #### b) Le numéro Siret&#x20;
 
@@ -338,37 +338,37 @@ Le numéro SIRET doit comporter exactement 14 chiffres.&#x20;
 
 Ce champ permet à l'usager de répondre de manière libre. Si le nombre de caractères est illimité, ce champ est adapté à une réponse courte.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Champ "texte", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (1).png" alt=""><figcaption><p>Champ "texte", en tant qu'usager </p></figcaption></figure>
 
 #### b) Texte long&#x20;
 
 Ce champ est similaire au précédent à la différence qu'il est adapté à une réponse longue et structurée. Le nombre de caractères est aussi illimité.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Champ "texte long", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Champ "texte long", en tant qu'usager </p></figcaption></figure>
 
 #### c) Nombre décimal&#x20;
 
 L'usager doit renseigner un nombre qui peut être décimal.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Champ "nombre décimal", en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (2).png" alt=""><figcaption><p>Champ "nombre décimal", en tant qu'usager</p></figcaption></figure>
 
 #### d) Nombre entier&#x20;
 
 L'usager doit renseigner un nombre entier.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Champ "nombre entier", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (1).png" alt=""><figcaption><p>Champ "nombre entier", en tant qu'usager </p></figcaption></figure>
 
 #### e) Date&#x20;
 
 L' usager doit renseigner une date au format jj/mm/aaaa.
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
 
 #### f) Date et Heure&#x20;
 
 L' usager doit renseigner une date et un horaire.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager </p></figcaption></figure>
 
 #### 6) Les champs relatifs aux pièces jointes&#x20;
 
@@ -376,7 +376,7 @@ L' usager doit renseigner une date et un horaire.
 
 Ce champ permet à l'usager d'ajouter à son dossier un document, quelque soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Champ "pièce justificative" en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Champ "pièce justificative" en tant qu'administrateur </p></figcaption></figure>
 
 Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableur.
 
@@ -390,7 +390,7 @@ Ce champ permet à l’usager de joindre une carte d'identité (uniquement le re
 
 De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé ( faisant l'objet d'une décision finale).&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
 
 **7) Les champs relatifs aux choix**&#x20;
 
@@ -398,13 +398,13 @@ De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigran�
 
 Ce type de champ insère à gauche du libellé du champ une case que l'usager peut cocher.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Champ "case à cocher seule", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Champ "case à cocher seule", en tant qu'usager </p></figcaption></figure>
 
 **b) Choix simple**&#x20;
 
 L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie "options de la liste" .&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
 
 Vous pouvez également proposer à l'usager une option "autre" avec un texte libre afin de laisser la possibilité à l'usager de cocher cette valeur si les autres valeurs ne correspondent pas à sa situation.
 
@@ -418,7 +418,7 @@ A noter : lorsque plus de six champs sont ajoutés, le champ choix mulitple est 
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'administrateur </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'usager </p></figcaption></figure>
 
 **d) Deux menus déroulants liés**&#x20;
 
@@ -428,13 +428,13 @@ Exemple : si mon premier menu propose les choix A, B, C et que l’usager fait l
 
 Pour l'utiliser, remplissez l'encadré "Liste déroulante " en suivant le modèle ci-dessous :
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Exemple de choix dans la liste déroulante </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Exemple de choix dans la liste déroulante </p></figcaption></figure>
 
 Les titres des menus déroulant liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés", en tant qu'administrateur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés", en tant qu'administrateur</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (25) (1).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés" en tant qu'usager </p></figcaption></figure>
 
 **e) Oui/Non**&#x20;
 
@@ -442,7 +442,7 @@ L'usager peut répondre "Oui" ou "Non" à la question posée dans le libellé du
 
 #### &#x20;****&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Champ "Oui/non" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Champ "Oui/non" en tant qu'usager </p></figcaption></figure>
 
 #### 9) Les champs relatifs aux référentiels externes&#x20;
 
@@ -458,7 +458,7 @@ Il s'agit d'un référentiel spécifique de l’éducation nationale permettant 
 
 Ce champ permet aux associations d'indiquer leurs numéros RNA. Les données liées aux numéros RNA seront alors automatiquement récupérées via  l’API Répertoire des Associations (RNA).&#x20;
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Champ "RNA" en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Champ "RNA" en tant qu'usager</p></figcaption></figure>
 
 c) Carte&#x20;
 
@@ -681,11 +681,11 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * En tant qu'administrateur de la démarche, vous avez la possibilité d'accorder le droit aux instructeurs de solliciter l'avis d'experts invités dans un dossier. Par défaut, la fonctionnalité " autoriser les instructeurs à solliciter des experts invités" est ainsi activée.
 
-![](<../.gitbook/assets/Capture 2 DS test.png>)
+<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption><p>Activer les avis externes, en tant qu'administrateur </p></figcaption></figure>
 
 * Pour retirer la possibilité pour les instructeurs de solliciter un expert invité,  il vous suffit de désactiver la fonctionnalité "autoriser les instructeurs à solliciter des experts invités". Ainsi, les instructeurs de la démarche ne pourront plus solliciter d'experts invités dans un dossier.&#x20;
 
-![](<../.gitbook/assets/Capture 3 DS.PNG>)
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Désactiver les axis externes, en tant qu'administrateur </p></figcaption></figure>
 
 * Les avis externes sont alors désactivés.&#x20;
 
@@ -695,52 +695,52 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Les instructeurs de votre démarche sont alors libres de solliciter des experts invités afin que ces derniers, après notification, émettent un avis sur un dossier.&#x20;
 
-![](<../.gitbook/assets/Capture 2 DS test.png>)
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté instructeurs** :&#x20;
 * Ils doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous.&#x20;
 
-![](<../.gitbook/assets/Capture instructeur.PNG>)
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Demande d'avis externes, en tant qu'instructeur </p></figcaption></figure>
 
 * Une fois les adresses email des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton "demander un avis" situé en bas de l'écran.
 
-![](<../.gitbook/assets/Capture instructeur 2 (1).PNG>)
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté experts :**&#x20;
-* Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet "avis" s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert.&#x20;
+* Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet "avis" s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.&#x20;
 
-![](<../.gitbook/assets/image (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Interface expert invité </p></figcaption></figure>
 
 * Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émit lors de la démarche en bas de page.&#x20;
 
-![](<../.gitbook/assets/DS 2 liste.png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Liste des experts et nombre d'avis , en tant qu'amdinistrateur </p></figcaption></figure>
 
 ### **C**. P**rédéfinir une liste d'experts invités et d'en notifier la décision finale**&#x20;
 
-* Vous avez également la possibilité de gérer les experts invités de la démarche en définissant, désormais, à l'avance une liste d'experts invités. Pour ce faire, il vous suffit d'activer le bouton " Gérer les experts invités de la démarche".
+* Vous avez également la possibilité de gérer les experts invités de la démarche en définissant, désormais, à l'avance une liste d'experts invités. Pour ce faire, il vous suffit d'activer le bouton "Gérer les experts invités de la démarche".
 
-![](<../.gitbook/assets/capture DS gestion experts invités (1).png>)
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Gestion des experts invités, en tant qu'administrateur </p></figcaption></figure>
 
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.&#x20;
 * Il vous suffit, **d'ajouter une à une les adresses email des experts** et de **cliquer ensuite sur l'adresse email venant d'être indiquée** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche.
 
-![](<../.gitbook/assets/image DS liste expert.png>)
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 * **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton "retirer" situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
 
-![](<../.gitbook/assets/DS expert liste.png>)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ****
 
 * Du coté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**&#x20;
 
-![](<../.gitbook/assets/image (5) (1).png>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ### D. Gérer la notification des décisions finales aux experts affectés au dossier.
 
 Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de cliquer sur le bouton situé en dessous de "notifier des décisions sur les dossiers".&#x20;
 
-![](<../.gitbook/assets/notif experts.png>)
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -752,7 +752,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 2\) L'expert est notifié que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (3) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1).png>)
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
@@ -770,9 +770,9 @@ Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil 
 
 Afin d'orienter les usagers suite au dépôt de son dossier, vous avez la possibilité d'apporter des indications complémentaires aux usagers :&#x20;
 
-![Paramétrez le message de fin de dépôt de dossier, en tant qu'administrateur ](<../.gitbook/assets/screen fin de dépot de dossier (1).png>)
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Paramétrage du message de "fin de dépôt de dossier", en tant qu'administrateur </p></figcaption></figure>
 
-![](../.gitbook/assets/Capture2.PNG)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-dessus). Vous pouvez alors modifier le message affiché.&#x20;
 
@@ -784,11 +784,11 @@ Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-de
 
 La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
 
-![Publication de la démarche](<../.gitbook/assets/Capture publication.PNG>)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 La fenêtre suivante apparaît :&#x20;
 
-![Publication de la démarche ](<../.gitbook/assets/Capture publication finale.PNG>)
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarches-simplifiees.fr/commencer/" de l'URL n'est pas modifiable.
 
@@ -796,34 +796,21 @@ Vous pouvez ensuite indiquer si la démarche à publier en remplace une ancienne
 
 Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. Si ce n'est pas sur un site internet, vous pouvez indiquer le moyen de diffusion utilisé comme "mail". Cliquez enfin sur le bouton "Publier" pour finaliser la publication.
 
-Une fois la démarche publiée, les onglets suivants de la démarche ne sont plus accessibles :
-
-* Champs
-* Annotations privées
-
-Les onglets suivants restent modifiables, de la même manière que lorsque votre démarche était en test :&#x20;
-
-* Description&#x20;
-* Service
-* Administrateurs
-* Instructeurs
-* E-mails
-* Attestation
-* MonAvis
+**Une fois la démarche publiée, vous avez la possibilité de modifier la démarche à tout moment excepté la partie " à qui s'adresse ma démarche ".**&#x20;
 
 ## 16. Clore une démarche&#x20;
 
 Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Clore ».
 
-![Clore une démarche, en tant qu'administrateur ](<../.gitbook/assets/screen Clore.png>)
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Clore une démarche, en tant qu'administrateur </p></figcaption></figure>
 
 Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparait avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
-![](<../.gitbook/assets/image (17) (2).png>)
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
 
-![](<../.gitbook/assets/image (23) (2).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **La clôture de la démarche induit :**&#x20;
 
@@ -837,24 +824,42 @@ Une démarche d'un collègue peut ne pas être présente dans le catalogue des d
 
 * Cliquez sur l'onglet " Envoyer une copie "
 
-![](<../.gitbook/assets/transférer formulaire.png>)
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 La fenêtre suivante apparaît, cliquer à nouveau sur " Envoyer une copie "
 
 * Renseignez l'adresse e-mail de votre collègue
-* Enfin, cliquez sur le bouton « Envoyer »
+* Enfin, cliquez sur le bouton « Envoyer à l'administrateur »
 
-![Transfert d'une démarche à un autre administrateur](<../.gitbook/assets/image (12) (2).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Transfert d'une démarche à un autre administrateur </p></figcaption></figure>
 
 Une copie de votre démarche apparaît dans ses démarches "En test".
+
+Vous avez également la possibilité de télécharger le formulaire en format pdf grâce au bouton dédié :&#x20;
+
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Télécharger le formulaire en format pdf, en tant qu'administrateur </p></figcaption></figure>
+
+## 18. Télécharger une archive globale des dossiers
+
+Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés ( faisant l'objet d'une décision finale) sous différents formats . Pour cela, il vous suffit de cliquer sur le bouton "télécharger"&#x20;
+
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Générer une archive des dossiers, en tant qu'administrateur </p></figcaption></figure>
+
+Vous pourrez alors accéder aux archives mensuelles :&#x20;
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Archives des dossiers,en tant qu'administrateur </p></figcaption></figure>
 
 ## 18. Supprimer une démarche
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
-![Supprimer une démarche publiée, en tant qu'administrateur ](<../.gitbook/assets/image (22) (2).png>)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
 
 Ensuite, un message d'avertissement apparait. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
-![](<../.gitbook/assets/image (18) (1) (2).png>)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Une fois la démarche supprimée, vous pourrez tout de même la restaurer en cas d'erreur :&#x20;
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Restaurer une démarche supprimée, en tant qu'administrateur </p></figcaption></figure>
 

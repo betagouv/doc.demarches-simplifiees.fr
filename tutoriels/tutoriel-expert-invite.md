@@ -8,7 +8,7 @@ Lorsque l'instruction d'un dossier sur démarches-simplifiées nécessite l'avis
 
 Cette invitation prend la forme d'un e-mail que l'invité reçoit.&#x20;
 
-![](<../.gitbook/assets/image (12) (1) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1) (1).png>)
 
 L'e-mail reçu indique l'adresse e-mail du demandeur, le numéro du dossier concerné et l'intitulé de la démarche, ainsi que le message rédigé par l'instructeur à l'origine de la demande d'avis.&#x20;
 
@@ -24,7 +24,7 @@ Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressé
 
 Une fois connecté, vous avez accès à une liste des dossiers pour lesquels votre avis est demandé : les dossiers sont identifiés par un numéro et l'intitulé de la démarche.
 
-![](<../.gitbook/assets/image (14) (1).png>)
+![](<../.gitbook/assets/image (14) (1) (1).png>)
 
 Une pastille de notification orange indique qu'un ou plusieurs nouveaux avis vous sont demandés. La pastille peut être affichée à nouveau si un avis supplémentaire sur un dossier pour lequel vous avez déjà émis un premier avis. Le nombre de ces avis est rappelé en orange sur l'intitulé "Avis" en haut à gauche de l'écran.&#x20;
 
@@ -51,7 +51,7 @@ Cet onglet vous permet de donner votre avis sur le dossier : le demandeur de l'a
 
 Vous avez ensuite un champ dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 
-![](<../.gitbook/assets/image (16) (1).png>)
+![](<../.gitbook/assets/image (16) (1) (1).png>)
 
 Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton correspondant.&#x20;
 
@@ -59,7 +59,7 @@ Une fois l'avis rédigé et la pièce jointe ajoutée si nécessaire, vous devez
 
 En bas de cet onglet vous aurez un récapitulatif des autres avis demandés sur ce dossier :
 
-![](<../.gitbook/assets/image (18) (1) (1).png>)
+![](<../.gitbook/assets/image (18) (1) (1) (1).png>)
 
 ### C. Messagerie&#x20;
 
