@@ -14,7 +14,7 @@ Il est désormais possible de supprimer un message envoyé par erreur depuis la 
 
 
 
-![messagerie de l'instructeur ](<../.gitbook/assets/image (50) (1).png>)
+![messagerie de l'instructeur ](<../.gitbook/assets/image (50).png>)
 
 Côté usager, le message envoyé par l'instructeur est automatiquement supprimé : &#x20;
 
@@ -30,7 +30,7 @@ Pour s'assurer que l'ensemble des usagers déposent leurs dossiers, les instruct
 
 Ils peuvent alors envoyer **un mail à l'ensemble des usagers** dont le dossier est en brouillon :&#x20;
 
-![](<../.gitbook/assets/image (51) (1).png>)
+![](<../.gitbook/assets/image (51).png>)
 
 ## L'ajout de nouveaux instructeur à la démarche&#x20;
 

@@ -24,7 +24,7 @@ Une fois la fonctionnalité activée, l'onglet "Instructeurs" de votre interface
 
 
 
-![](<../.gitbook/assets/image (48).png>)
+![](<../.gitbook/assets/image (48) (1).png>)
 
 Pour les démarches sans routage, vous pourrez continuer à affecter vos instructeurs en les ajoutant au groupe “défaut”
 

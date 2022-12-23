@@ -16,7 +16,7 @@ Afin d'accéder au dossier et de donner son avis, vous devez cliquer sur le bout
 
 Si vous disposez déjà d'un compte, il vous suffit de vous connecter. En revanche, si vous ne disposez d'aucun compte, l'inscription est nécessaire afin d'accéder au dossier. Dans ce cas, l'e-mail sera présenté de la façon suivante :
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13) (1).png>)
 
 Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressée au support de démarches-simplifiées et non à l'instructeur.&#x20;
 
@@ -24,7 +24,7 @@ Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressé
 
 Une fois connecté, vous avez accès à une liste des dossiers pour lesquels votre avis est demandé : les dossiers sont identifiés par un numéro et l'intitulé de la démarche.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (14) (1).png>)
 
 Une pastille de notification orange indique qu'un ou plusieurs nouveaux avis vous sont demandés. La pastille peut être affichée à nouveau si un avis supplémentaire sur un dossier pour lequel vous avez déjà émis un premier avis. Le nombre de ces avis est rappelé en orange sur l'intitulé "Avis" en haut à gauche de l'écran.&#x20;
 
@@ -41,7 +41,7 @@ Depuis la liste, il suffit de cliquer sur un dossier afin d'accéder au détail 
 
 En cliquant sur le dossier vous avez accès à l'onglet "Demande" qui récapitule le formulaire tel que remplit par l'usager :
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 Cet onglet vous permet également de consulter les pièces justificatives jointes au dossier par l'usager.
 
@@ -65,7 +65,7 @@ En bas de cet onglet vous aurez un récapitulatif des autres avis demandés sur 
 
 Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges :
 
-![](<../.gitbook/assets/image (19).png>)
+![](<../.gitbook/assets/image (19) (1).png>)
 
 Vous avez également la possibilité de rédiger un message qui sera visible à l'usager et l'instructeur : vous disposez pour cela d'un champ libre ; il vous est également possible de joindre un document à ce message ; il suffit ensuite de cliquer sur le bouton correspondant pour envoyer ce message.
 
@@ -79,7 +79,7 @@ Si l'administrateur de la démarche active la fonctionnalité "notifier des déc
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (45) (1).png>)
+![](<../.gitbook/assets/image (45).png>)
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été refusé.&#x20;
 
@@ -87,6 +87,6 @@ Si l'administrateur de la démarche active la fonctionnalité "notifier des déc
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (47) (1).png>)
+![](<../.gitbook/assets/image (47).png>)
 
 ###
