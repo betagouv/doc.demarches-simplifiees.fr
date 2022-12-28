@@ -1,4 +1,4 @@
-# Le conditionnel :
+# Le conditionnel
 
 Vous pouvez conditionner vos champs en fonction des réponses des champs précédents.
 
@@ -18,13 +18,12 @@ Voici un exemple d’utilisation du conditionnel :
 
 Pour que le conditionnel fonctionne, il faut que le champ précédent la question conditionnée soit :
 
-\-       Un champ oui/non
+* Un champ oui/non
+* &#x20;Une case à cocher
+* Un champ à choix unique
+* Un champ numérique&#x20;
 
-\-       Une case à cocher
 
-\-       Un champ à choix unique
-
-&#x20;
 
 Le conditionnel ne fonctionne pas sur tous les champs.
 
@@ -35,3 +34,11 @@ Voici un exemple en utilisant un champ oui/non
 Le champ Oui/non est le premier champ, il va permettre d’activer le conditionnel sur le deuxième champ.
 
 <figure><img src="../.gitbook/assets/Conditionnel 1.png" alt=""><figcaption></figcaption></figure>
+
+2\)    Deuxième champ :
+
+Nous souhaitons faire apparaître la deuxième question en fonction de la question précédente.
+
+* &#x20;Etape 1 : créer un nouveau champ avec les informations nécessaires
+* &#x20;Etape 2 : activer la logique conditionnelle : « cliquer pour activer »
+
