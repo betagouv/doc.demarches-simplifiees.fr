@@ -42,3 +42,11 @@ Nous souhaitons faire apparaître la deuxième question en fonction de la questi
 * &#x20;Etape 1 : créer un nouveau champ avec les informations nécessaires
 * &#x20;Etape 2 : activer la logique conditionnelle : « cliquer pour activer »
 
+<figure><img src="../.gitbook/assets/Conditionnel 2.png" alt=""><figcaption></figcaption></figure>
+
+Etape 3 : Sélectionner le champ cible (la question) que vous souhaitez conditionner ainsi que l’opérateur
+
+<figure><img src="../.gitbook/assets/Conditionnel 3.png" alt=""><figcaption></figcaption></figure>
+
+Sélectionnez la valeur, qui conditionne le champ (oui pour afficher la question, non pour ne pas l’afficher)
+
