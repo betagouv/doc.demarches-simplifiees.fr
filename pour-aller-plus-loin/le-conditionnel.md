@@ -25,7 +25,7 @@ Pour que le conditionnel fonctionne, il faut que le champ précédent la questio
 
 
 
-Le conditionnel ne fonctionne pas sur tous les champs.
+Le conditionnel ne fonctionne pas sur tous les types de champs.
 
 
 
