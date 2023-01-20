@@ -370,3 +370,4 @@ Elle doit s’être préalablement assurée de l’instruction des dossiers dép
 #### ii. Suspension ou désactivation par la DINUM <a href="#_toc108111762" id="_toc108111762"></a>
 
 La DINUM peut désactiver une démarche et supprimer ou suspendre le compte d’un utilisateur : à la demande de l’Administration, pour des raisons tenant au non-respect des conditions générales d’utilisation, pour des raisons de sécurité ou suite à la cessation du Service.
+
