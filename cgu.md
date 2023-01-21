@@ -4,6 +4,8 @@ description: Dernière mise à jour, le 20 janvier 2023 (ajout de la numérotati
 
 # Conditions Générales d'Utilisation
 
+
+
 ## 1.     Sommaire
 
 ## [2.    Objet et champ d’application des conditions générales d’utilisation](cgu.md#\_toc108111727)
@@ -18,65 +20,65 @@ description: Dernière mise à jour, le 20 janvier 2023 (ajout de la numérotati
 
 ### [c.    Niveau de service et disponibilité](cgu.md#\_toc108111731)
 
-#### i.     Disponibilité du Service
+#### [i.     Disponibilité du Service](cgu.md#\_toc108111733)
 
-#### ii.    Sécurité du Service :
+#### [ii.    Sécurité du Service :](cgu.md#\_toc108111734)
 
 ## [5.    Rôle et engagements de l’Administration](cgu.md#\_toc108111735)
 
-### a.    La création d’une démarche en ligne
+### [a.    La création d’une démarche en ligne](cgu.md#\_toc108111736)
 
-### b.    Restrictions d’usage
+### [b.    Restrictions d’usage](cgu.md#\_toc108111737)
 
-### c.    Les différents rôles de l’Administration :
+### [c.    Les différents rôles de l’Administration :](cgu.md#\_toc108111738)
 
-#### i.     Administrateur
+#### [i.     Administrateur](cgu.md#\_toc108111739)
 
-#### ii.    Instructeur
+#### [ii.    Instructeur](cgu.md#\_toc108111740)
 
-#### iii.       Expert
+#### [iii.       Expert](cgu.md#\_toc108111741)
 
-### d.    Signalement à la DINUM
+### [d.    Signalement à la DINUM](cgu.md#\_toc108111742)
 
 ## [6.    Traitements des données à caractère personnel](cgu.md#\_toc108111743)
 
-### a.    Traitements relevant de la responsabilité de la DINUM
+### [a.    Traitements relevant de la responsabilité de la DINUM](cgu.md#\_toc108111744)
 
-### b.    Traitements relevant de la responsabilité de l’administration partenaire
+### [b.    Traitements relevant de la responsabilité de l’administration partenaire](cgu.md#\_toc108111745)
 
-#### i.     Nature des traitements et catégories de données traitées par la DINUM sur instruction de l’administration partenaire
+#### [i.     Nature des traitements et catégories de données traitées par la DINUM sur instruction de l’administration partenaire](cgu.md#\_toc108111746)
 
-#### ii.    Limitation de la finalité
+#### [ii.    Limitation de la finalité](cgu.md#\_toc108111747)
 
-#### iii.       Sécurité du traitement
+#### [iii.       Sécurité du traitement](cgu.md#\_toc108111748)
 
-#### iv.       Données sensibles
+#### [iv.       Données sensibles](cgu.md#\_toc108111749)
 
-#### v.    Documentation et conformité
+#### [v.    Documentation et conformité](cgu.md#\_toc108111750)
 
-#### vi.       Liste des sous-traitants ultérieurs
+#### [vi.       Liste des sous-traitants ultérieurs](cgu.md#\_toc108111751)
 
-#### vii.      Transferts internationaux
+#### [vii.      Transferts internationaux](cgu.md#\_toc108111752)
 
-#### viii.     Assistance
+#### [viii.     Assistance](cgu.md#\_toc108111753)
 
-#### ix.       Notification de violation de données à caractère personnel
+#### [ix.       Notification de violation de données à caractère personnel](cgu.md#\_toc108111754)
 
 ## [7.    Dispositions générales](cgu.md#\_toc108111755)
 
-### a.    Gestion du support
+### [a.    Gestion du support](cgu.md#\_toc108111756)
 
-### b.    Modalités financières
+### [b.    Modalités financières](cgu.md#\_toc108111757)
 
-### c.    Evolutions du service et modifications des conditions d’utilisation
+### [c.    Evolutions du service et modifications des conditions d’utilisation](cgu.md#\_toc108111758)
 
-### d.    Responsabilités
+### [d.    Responsabilités](cgu.md#\_toc108111759)
 
-### e.    Durée du Service et conditions de résiliation
+### [e.    Durée du Service et conditions de résiliation](cgu.md#\_toc108111760)
 
-#### i.     Résiliation par l’Administration partenaire
+#### [i.     Résiliation par l’Administration partenaire](cgu.md#\_toc108111761)
 
-#### ii.         Suspension ou désactivation par la DINUM
+#### [ii.         Suspension ou désactivation par la DINUM](cgu.md#\_toc108111762)
 
 ## 2 . Objet et champ d’application des conditions générales d’utilisation <a href="#_toc108111727" id="_toc108111727"></a>
 
