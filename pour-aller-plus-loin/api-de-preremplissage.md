@@ -67,7 +67,9 @@ La réponse prend la forme suivante :&#x20;
 
 ```json
 {
-  "dossier_url": "https://demarches-simplifiees.fr/commencer/<nom-demarche>?prefill_token=<token>"
+  "dossier_url": "https://demarches-simplifiees.fr/commencer/<nom-demarche>?prefill_token=<token de préremplissage>",
+  "dossier_id": "<ID du dossier en base 64>",
+  "dossier_number": <ID du dossier en tant qu'entier>
 }
 ```
 
@@ -103,4 +105,12 @@ Vous y trouverez :&#x20;
 
 ## Structure de la démarche
 
-L'équipe travaille actuellement au développement d'un nouveau point de terminaison, dans l'API de préremplissage, qui donne la structure d'une démarche au format JSON Schema. Ce point de terminaison sera bientôt disponible.
+L'équipe travaille actuellement au développement d'un nouveau point de terminaison, dans l'API de préremplissage, qui donne la structure d'une démarche au format JSON. Ce point de terminaison sera bientôt disponible.
+
+## Statistiques sur le traitement des dossiers
+
+Pour une démarche donnée, vous pouvez obtenir des statistiques sur le traitement des dossiers, de deux manières différentes :&#x20;
+
+* en HTML, en vous rendant avec un navigateur sur la page `/statistiques/<nom-demarche>`
+* en JSON, en envoyant une requête en GET à l'URL `/api/public/v1/demarches/<id-demarche>/stats`
+
