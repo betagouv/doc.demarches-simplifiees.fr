@@ -105,7 +105,60 @@ Vous y trouverez :&#x20;
 
 ## Structure de la démarche
 
-L'équipe travaille actuellement au développement d'un nouveau point de terminaison, dans l'API de préremplissage, qui donne la structure d'une démarche au format JSON. Ce point de terminaison sera bientôt disponible.
+### Requête
+
+Un point de terminaison vous donnant accès à une description en JSON du schéma de la démarche est à votre disposition. La requête doit être adressée en GET à l'URLl `/preremplir/<nom-demarche>/schema`.
+
+Par exemple, si votre démarche est `soutien-experimentation-lycee`, la requête doit être adressée à :&#x20;
+
+{% hint style="success" %}
+[https://www.demarches-simplifiees.fr/preremplir/soutien-experimentation-lycee/schema](https://www.demarches-simplifiees.fr/preremplir/soutien-experimentation-lycee/schema)
+{% endhint %}
+
+L'API répond en JSON. La réponse contient des informations génériques sur la démarches ainsi que l’identifiant stable, le titre, la description de chaque champ de la démarche. Elle indique aussi les champs requis ou non.
+
+### Réponse
+
+La réponse prend la forme suivante :&#x20;
+
+```json
+{
+  "id": "ID_démarche",
+  "number": "Numéro_démarche",
+  "title": "Titre_démarche",
+  "description": "Description_démarche",
+  "state": "publiee",
+  "declarative": null,
+  "dateCreation": "2023-01-16T11:10:48+01:00",
+  "datePublication": "2023-01-16T11:18:32+01:00",
+  "dateDerniereModification": "2023-01-16T16:55:21+01:00",
+  "dateDepublication": null,
+  "dateFermeture": null,
+  "notice": null,
+  "deliberation": null,
+  "cadreJuridiqueUrl": "http://cadredemarche.fr/cadre",
+  "revision": {
+    "id": "ID_Revision",
+    "datePublication": "2023-01-16T16:55:21+01:00",
+    "champDescriptors": [
+      {
+        "__typename": "TextChampDescriptor",
+        "id": "Stable_ID_Démarche1",
+        "label": "Titre_Démarche1",
+        "description": "Description_Démarche1",
+        "required": true
+      },
+      {
+        "__typename": "TextareaChampDescriptor",
+        "id": "Stable_ID_Démarche2",
+        "label": "Titre_Démarche2",
+        "description": "Description_Démarche2",
+        "required": false
+      }
+    ]
+  }
+}
+```
 
 ## Statistiques sur le traitement des dossiers
 
