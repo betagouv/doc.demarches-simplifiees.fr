@@ -16,6 +16,10 @@ Le dossier est créé en **brouillon** et vous pouvez y diriger votre usager·è
 
 Cette API est REST et ne nécessite pas d'authentification.
 
+{% embed url="https://vimeo.com/792561801" %}
+Présentation de l'API de préremplissage
+{% endembed %}
+
 ## Clés et valeurs
 
 Le principe du préremplissage d'un dossier est le suivant : vous fournissez à l'API un couple clé / valeur pour chaque champ de la démarche à préremplir.
@@ -91,10 +95,10 @@ Si vous le souhaitez, vous pouvez également prendre possession de ces dossiers 
 
 Vous connaissez le nom de la démarche ? Alors rendez-vous directement sur la page `/preremplir/<nom-demarche>`.
 
-Par exemple, si votre démarche est `soutien-experimentation-lycee`, alors ouvrez la page :&#x20;
+Par exemple, si votre démarche est `une-demarche-a-preremplir`, alors ouvrez la page :&#x20;
 
 {% hint style="success" %}
-[https://www.demarches-simplifiees.fr/preremplir/soutien-experimentation-lycee](https://www.demarches-simplifiees.fr/preremplir/soutien-experimentation-lycee)
+[https://www.demarches-simplifiees.fr/preremplir/une-demarche-a-preremplir](https://www.demarches-simplifiees.fr/preremplir/une-demarche-a-preremplir)
 {% endhint %}
 
 Vous y trouverez :&#x20;
@@ -109,10 +113,10 @@ Vous y trouverez :&#x20;
 
 Un point de terminaison vous donnant accès à une description en JSON du schéma de la démarche est à votre disposition. La requête doit être adressée en GET à l'URLl `/preremplir/<nom-demarche>/schema`.
 
-Par exemple, si votre démarche est `soutien-experimentation-lycee`, la requête doit être adressée à :&#x20;
+Par exemple, si votre démarche est `une-demarche-a-preremplir`, la requête doit être adressée à :&#x20;
 
 {% hint style="success" %}
-[https://www.demarches-simplifiees.fr/preremplir/soutien-experimentation-lycee/schema](https://www.demarches-simplifiees.fr/preremplir/soutien-experimentation-lycee/schema)
+[https://www.demarches-simplifiees.fr/preremplir/une-demarche-a-preremplir/schema](https://www.demarches-simplifiees.fr/preremplir/une-demarche-a-preremplir/schema)
 {% endhint %}
 
 L'API répond en JSON. La réponse contient des informations génériques sur la démarches ainsi que l’identifiant stable, le titre, la description de chaque champ de la démarche. Elle indique aussi les champs requis ou non.
