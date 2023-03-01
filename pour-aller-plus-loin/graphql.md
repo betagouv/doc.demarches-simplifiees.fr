@@ -814,7 +814,40 @@ mutation dossierClasserSansSuite($input: DossierClasserSansSuiteInput!) {
 
 Pour plus d’informations sur le format des requêtes et des réponses, consultez la [documentation complète du schéma de l’API](https://demarches-simplifiees-graphql.netlify.com/).
 
+### Envoyer un message
 
+Vous pouvez envoyer des messages au dépositaire du dossier. Une notification par email sera envoyée et le message apparaitra dans l’historique des messages.
+
+#### Queries
+
+```graphql
+mutation dossierEnvoyerMessage($input: DossierEnvoyerMessageInput!) {
+  dossierEnvoyerMessage(input: $input) {
+    message {
+      id
+    }
+    errors {
+      message
+    }
+  }
+}
+```
+
+#### Variables
+
+```graphql
+{
+  "query": <query>,
+  "operationName": "dossierEnvoyerMessage",
+  "variables": {
+    "input": {
+      "dossierId": "UHJvY4VkdXKlLTI5NTgw",
+      "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
+      "body": "Bonjour !"
+    }
+  }
+}
+```
 
 {% hint style="info" %}
 Pour être informé des évolutions de l’API, vous pouvez vous [inscrire à notre newsletter dédiée](https://7b97debb.sibforms.com/serve/MUIEAOpYNmRDuQF5Ib0fqC2aNgJW1j\_5EkA8AUkO6UBxCpofKKXPFNSiCInma2JfRsXGchOns5RZ0UWYVbC-8utoVRMT1wK\_1JRH7o0tbP-DQ07YtTsmkotgdSobF2n4MemAagXAO1mhB1vx3vqxijaSUYKnu-kg6O-1\_l7WcTNLdgHoQM1EfkJjaVpc3TPvaOYgj6Uk35dqi86-)
