@@ -8,7 +8,7 @@ Direction Interministérielle au Numérique (DINUM)\
 
 ### Directeur de la publication
 
-Monsieur Nadi Bou Hanna, Directeur Interministériel au Numérique.
+Madame Stéphanie Schaer, Directrice Interministérielle au Numérique.
 
 ### Prestataire d'hébergement
 
