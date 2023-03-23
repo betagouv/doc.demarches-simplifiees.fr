@@ -46,7 +46,6 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 #### Demander une place d'examen pratique au permis de conduire
 
 * ****[**27 - L'Eure**](https://www.demarches-simplifiees.fr/commencer/inscription-des-candidats-libres-epreuve-pratique)****
-* ****[**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_candidat\_libre\_permisb)****
 * ****[**51 - Marne**](https://candidat.convonom.fr/#/)****
 * ****[**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)****
 * ****[**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)****
@@ -88,6 +87,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * ****[**34 - Hérault** ](https://www.demarches-simplifiees.fr/commencer/34-dde-d-adhesion-au-label-qualite-des-formations-apres-26-mars-2021)****
 * ****[**38 - Isère** ](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-38-au-label-qualite-des-formations-)****
 * ****[**42 - La Loire**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-4)****
+* ****[**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/demande-label-qualite-ae)****
 * ****[**45 - Loiret**](https://www.demarches-simplifiees.fr/commencer/prefecture-45-demande-d-adhesion-au-label-qualite-)****
 * ****[**47 - Lot-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/47-adhesion-label-qualite)****
 * ****[**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-adhesion-label-qualite-formations49)****
