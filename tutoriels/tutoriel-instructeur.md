@@ -46,7 +46,7 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 Le tableau de suivi des démarches permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé.&#x20;
 
-![Tableau de suivi des démarches, en tant qu'instructeur](<../.gitbook/assets/tableau suivi-instructeur.PNG>)
+<figure><img src="../.gitbook/assets/Instructeur page 1.png" alt=""><figcaption></figcaption></figure>
 
 Cliquer sur l'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ».
 
