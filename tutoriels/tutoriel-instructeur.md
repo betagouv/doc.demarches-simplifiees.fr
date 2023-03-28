@@ -172,7 +172,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Ainsi, les instructeurs de la démarche doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
 
-![](<../.gitbook/assets/image (43).png>)
+![](<../.gitbook/assets/image (43) (1).png>)
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 

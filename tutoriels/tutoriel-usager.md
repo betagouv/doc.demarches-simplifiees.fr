@@ -19,13 +19,13 @@ Ce tutoriel détaille les étapes de dépôt d'un dossier sur demarches-simplifi
 
 La page d'accueil de demarches-simplifiees.fr permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
-![](<../.gitbook/assets/image (11) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Page d'accueil Demarches-simplifiees.fr</p></figcaption></figure>
 
-Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés : le lien peut être public sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication.
+Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être public sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication.
 
-Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à l'exemple ci-dessous :
+Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à l'exemple ci-dessous :&#x20;
 
-![Exemple de page de connexion, en tant qu'usager](../.gitbook/assets/tuto-usager1.PNG)
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>Exemple de page d'accueil Démarches-simplifées.fr</p></figcaption></figure>
 
 ### **B. Se connecter à demarches-simplifiees.fr**&#x20;
 
@@ -35,9 +35,9 @@ Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simpli
 * **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doutes, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
 * **L’usager possède un compte France Connect** : cliquer sur le bouton « France Connect », choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
 
-![](../.gitbook/assets/tuto-usager2.PNG)
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Connexion avec France connect</p></figcaption></figure>
 
-S'il s'agit d'une inscription, un lien vous sera envoyé par e-mail afin de valider votre inscription. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
+S'il s'agit d'une inscription, **un lien vous sera envoyé par e-mail afin de valider votre inscription**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
 Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous que votre entreprise n'utilise pas un filtre anti-spam qui empêcherait la réception de celui-ci.&#x20;
 
@@ -56,11 +56,13 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe.
 
-![](../.gitbook/assets/tuto-usager3.PNG)
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
-Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
-![](<../.gitbook/assets/usager4 (1).PNG>)
+Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
 
 Une fois les informations relatives à l'établissement vérifiées, cliquer sur le bouton "Continuer avec ces informations".  Vous êtes alors redirigé vers le formulaire.
 
@@ -68,7 +70,7 @@ Une fois les informations relatives à l'établissement vérifiées, cliquer sur
 
 Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur "Continuer", vous êtes automatiquement redirigé vers le formulaire.
 
-![](../.gitbook/assets/usager5.PNG)
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 ### **B. Remplir le formulaire**
 
@@ -78,7 +80,7 @@ Les premières informations demandées sont la civilité, le nom et le prénom d
 **ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier est conditionné par le remplissage de ces champs.
 {% endhint %}
 
-![Exemples de champs obligatoires, en tant qu'usager](../.gitbook/assets/usager6.PNG)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
 
 **Déposer un document en pièce-jointe**&#x20;
 
@@ -86,13 +88,13 @@ Le dépôt du dossier peut nécessiter l’ajout de pièces-jointes afin de four
 
 Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur "Ouvrir". Le nom du fichier sélectionné apparait à côté du bouton "Parcourir", la pièce est alors enregistrée.
 
-![Enregistrement des pièces jointes, en tant qu'usager](../.gitbook/assets/usager7.PNG)
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
 
 Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces-jointes ». Cliquer sur le lien en bleu, télécharger le fichier, remplir le document puis l’ajouter en pièce-jointe dans le dossier demarches-simplifiees.fr.
 
-![Enregistrement d'un modèle de pièce-jointe, en tant qu'usager](../.gitbook/assets/usager8.PNG)
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce-jointe est de 20 Mo au total par enregistrement. Si l'ensemble des pièces-jointe dépasse 20 Mo au moment de cliquer sur le bouton « Enregistrer », ajouter les pièces jointes une par une et cliquer sur enregistrer à chaque ajout de pièce.
+La capacité maximale d’ajout de pièce-jointe est de 200 Mo au total par enregistrement. Si l'ensemble des pièces-jointe dépasse 200 Mo au moment de cliquer sur le bouton « Enregistrer », ajouter les pièces jointes une par une et cliquer sur enregistrer à chaque ajout de pièce.
 
 Formats de pièces-jointes acceptés : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png
 
@@ -102,31 +104,31 @@ Il est possible d'inviter un tiers à compléter ou à modifier un dossier.&#x20
 
 En accédant au dossier concerné, cliquer sur le bouton "Inviter une personne à modifier ce dossier" en haut à droite, saisir une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquer sur le bouton « Envoyer une invitation ».&#x20;
 
-![Inviter une personne à modifier un dossier, en tant qu'usager](../.gitbook/assets/usager9.PNG)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
 
 La personne invitée reçoit alors un e-mail l’invitant à se connecter sur demarches-simplifiees.fr afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
 
 Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine du dossier dispose des droits pour déposer celui-ci.
 
-### **C. Enregistrer le dossier en brouillon**
+### **C. Enregistrement automatique du brouillon**&#x20;
 
-A tout moment le dossier peut être enregistré en brouillon. Le mode brouillon permet d’enregistrer les informations renseignées dans le formulaire sans que le dossier ne soit rendu visible par le service instructeur. Pour cela il suffit de cliquer sur le bouton "Enregistrer le brouillon", situé en bas à gauche de votre écran.
+Lorsque vous remplissez un formulaire sur demarches-simplifiees.fr, les informations que vous remplissez sont **enregistrées automatiquement**.
+
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+
+Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.&#x20;
 
 Le brouillon est accessible depuis votre espace personnel et peut être complété à tout moment.
 
-![Enregistrer le brouillon, en tant qu'usager](<../.gitbook/assets/rec brouillon.PNG>)
-
 Un message apparaît pour vous confirmer la sauvegarde de votre brouillon.&#x20;
-
-![Message de sauvegarde du brouillon, en tant qu'usager](<../.gitbook/assets/confirme rec brouillon.PNG>)
 
 ### **D. Déposer le dossier**
 
 Une fois le dossier complété, cliquer sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
 
-![](../.gitbook/assets/dépot-usage.PNG)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
 
-![Message confirmant le dépôt du dossier, en tant qu'usager](<../.gitbook/assets/conf dépot usager.PNG>)
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager </p></figcaption></figure>
 
 Le dossier passe alors du statut «brouillon» au statut « en construction ».&#x20;
 
@@ -136,23 +138,31 @@ Le statut "en construction" indique que le dossier est visible par l’administr
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à l'onglet "Mes dossiers".
+En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets " en cours" , "traités", "dossiers invités", "expirant", "supprimés récemment" et "supprimés définitivement" .&#x20;
 
-#### Mes dossiers
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Tableau de bord en tant qu'usager </p></figcaption></figure>
 
-Cet onglet reprend toutes les démarchées effectuées par l'usager. Vous accédez ainsi à l'ensemble des dossiers, quelque soit leur statut (brouillon, en construction, déposé).
+#### En cours
 
-![Tableau de bord, en tant qu'usager](../.gitbook/assets/dossiers-usager.PNG)
+Cet onglet reprend toutes les démarchées en cours effectuées par l'usager ( brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
 
-Les dossiers sont identifiés par un numéro et par l'intitulé de la démarche.
+Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour .&#x20;
+
+#### Traités
+
+Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue (acceptation, refus, classement sans suite).&#x20;
+
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
+
+Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour.&#x20;
 
 **Dossiers invités**
 
-Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier :
+Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier :&#x20;
 
-![](<../.gitbook/assets/image (32) (1).png>)
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
 
-
+#### Expirant&#x20;
 
 ### B. Les différents statuts d'un dossier
 

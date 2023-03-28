@@ -79,11 +79,11 @@ Si l'administrateur de la démarche active la fonctionnalité "notifier des déc
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (45).png>)
+![](<../.gitbook/assets/image (45) (1).png>)
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (46).png>)
+![](<../.gitbook/assets/image (46) (1).png>)
 
 * En tant "qu'expert invité", vous êtes notifié que le dossier a été classé sans suite.&#x20;
 

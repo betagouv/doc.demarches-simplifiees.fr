@@ -150,7 +150,7 @@ Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
-![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8) (1).png>)
+![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8) (1) (2).png>)
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
 
@@ -527,7 +527,7 @@ La création de champs s'enregistre automatiquement à chaque modification. Une 
 A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet "Tester". Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.&#x20;
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Tester la démarche en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (48) (2).png" alt=""><figcaption><p>Tester la démarche en tant qu'administrateur </p></figcaption></figure>
 
 {% hint style="info" %}
 **ATTENTION** : Les dossiers remplis pendant la phase de test seront automatiquement supprimés lors de la modification ou bien de la publication de votre démarche.
@@ -591,7 +591,7 @@ Les balises sont notamment utiles pour remonter les annotations privées car ell
 
 Les attestations sont des documents au format .pdf qui sont délivrés en pièce-jointe des e-mails d’acceptation. Celles-ci sont également disponibles en téléchargement sur l’espace personnel de l’usager. Comme pour les e-mails, l’attestation est entièrement personnalisable, notamment avec une signature et différentes balises envisageables.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Configuration de l'attestation, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54) (2).png" alt=""><figcaption><p>Configuration de l'attestation, en tant qu'administrateur </p></figcaption></figure>
 
 A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en bas à gauche de votre écran.&#x20;
 
@@ -601,7 +601,7 @@ Pour créer une attestation, rendez-vous sur l’onglet « Attestation ». Vou
 
 * **Entrer un titre** dans le champ « Titre »&#x20;
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>Titre de l'attestation , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56) (2).png" alt=""><figcaption><p>Titre de l'attestation , en tant qu'administrateur </p></figcaption></figure>
 
 * **Rédiger le contenu de l’attestation** dans le champ « Corps du document ». Il est possible de remonter des éléments du dossier de l'usager grâce à l'utilisation de balises de champs. Pour cela, faites un **copier-coller** de l'une des balises disponibles en dessous du corps de l'attestation et insérez la dans votre texte. Il faut veiller à ce que la balise du texte  soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas.
 
@@ -685,7 +685,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Pour retirer la possibilité pour les instructeurs de solliciter un expert invité,  il vous suffit de désactiver la fonctionnalité "autoriser les instructeurs à solliciter des experts invités". Ainsi, les instructeurs de la démarche ne pourront plus solliciter d'experts invités dans un dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>Désactiver les axis externes, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>Désactiver les axis externes, en tant qu'administrateur </p></figcaption></figure>
 
 * Les avis externes sont alors désactivés.&#x20;
 
@@ -695,12 +695,12 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Les instructeurs de votre démarche sont alors libres de solliciter des experts invités afin que ces derniers, après notification, émettent un avis sur un dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté instructeurs** :&#x20;
 * Ils doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous.&#x20;
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Demande d'avis externes, en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Demande d'avis externes, en tant qu'instructeur </p></figcaption></figure>
 
 * Une fois les adresses email des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton "demander un avis" situé en bas de l'écran.
 
@@ -709,11 +709,11 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 * **Du coté experts :**&#x20;
 * Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet "avis" s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.&#x20;
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption><p>Interface expert invité </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27) (4).png" alt=""><figcaption><p>Interface expert invité </p></figcaption></figure>
 
 * Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émit lors de la démarche en bas de page.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Liste des experts et nombre d'avis , en tant qu'amdinistrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Liste des experts et nombre d'avis , en tant qu'amdinistrateur </p></figcaption></figure>
 
 ### **C**. P**rédéfinir une liste d'experts invités et d'en notifier la décision finale**&#x20;
 
@@ -724,17 +724,17 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.&#x20;
 * Il vous suffit, **d'ajouter une à une les adresses email des experts** et de **cliquer ensuite sur l'adresse email venant d'être indiquée** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton "retirer" situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
 ****
 
 * Du coté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### D. Gérer la notification des décisions finales aux experts affectés au dossier.
 
@@ -770,9 +770,9 @@ Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil 
 
 Afin d'orienter les usagers suite au dépôt de son dossier, vous avez la possibilité d'apporter des indications complémentaires aux usagers :&#x20;
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Paramétrage du message de "fin de dépôt de dossier", en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20) (2).png" alt=""><figcaption><p>Paramétrage du message de "fin de dépôt de dossier", en tant qu'administrateur </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
 Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-dessus). Vous pouvez alors modifier le message affiché.&#x20;
 
@@ -784,7 +784,7 @@ Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-de
 
 La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 La fenêtre suivante apparaît :&#x20;
 
@@ -802,7 +802,7 @@ Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. 
 
 Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Clore ».
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Clore une démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Clore une démarche, en tant qu'administrateur </p></figcaption></figure>
 
 Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparait avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
@@ -810,7 +810,7 @@ Un message vous permettant qu'indiquer si cette démarche est remplacée par une
 
 Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
 
 **La clôture de la démarche induit :**&#x20;
 
@@ -837,7 +837,7 @@ Une copie de votre démarche apparaît dans ses démarches "En test".
 
 Vous avez également la possibilité de télécharger le formulaire en format pdf grâce au bouton dédié :&#x20;
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Télécharger le formulaire en format pdf, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (3).png" alt=""><figcaption><p>Télécharger le formulaire en format pdf, en tant qu'administrateur </p></figcaption></figure>
 
 ## 18. Télécharger une archive globale des dossiers
 
@@ -847,13 +847,13 @@ Vous avez la possibilité en tant qu'administrateur de la démarche de télécha
 
 Vous pourrez alors accéder aux archives mensuelles :&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Archives des dossiers,en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (3).png" alt=""><figcaption><p>Archives des dossiers,en tant qu'administrateur </p></figcaption></figure>
 
 ## 18. Supprimer une démarche
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
 
 Ensuite, un message d'avertissement apparait. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
