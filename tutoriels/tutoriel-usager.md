@@ -160,7 +160,7 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier :&#x20;
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
 
 #### Expirant&#x20;
 

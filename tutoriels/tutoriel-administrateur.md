@@ -857,7 +857,7 @@ La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer 
 
 Ensuite, un message d'avertissement apparait. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
 Une fois la démarche supprimée, vous pourrez tout de même la restaurer en cas d'erreur :&#x20;
 
