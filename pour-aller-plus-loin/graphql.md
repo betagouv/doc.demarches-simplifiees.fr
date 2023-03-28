@@ -490,24 +490,6 @@ fragment ChampDescriptorFragment on ChampDescriptor {
     collapsibleExplanationEnabled
     collapsibleExplanationText
   }
-  ... on PaysChampDescriptor {
-    options {
-      name
-      code
-    }
-  }
-  ... on RegionChampDescriptor {
-    options {
-      name
-      code
-    }
-  }
-  ... on DepartementChampDescriptor {
-    options {
-      name
-      code
-    }
-  }
 }
 
 fragment AvisFragment on Avis {
