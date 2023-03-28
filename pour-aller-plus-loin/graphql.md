@@ -722,53 +722,72 @@ fragment PageInfoFragment on PageInfo {
 
 #### Variables
 
-```graphql
-# Tout les dossiers d’une démarche
+<pre class="language-graphql"><code class="lang-graphql"># Tout les dossiers d’une démarche
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "getDemarche",
   "variables": {
-    "demarcheNumber": 1234
+    "demarcheNumber": 1234,
+    "includeDossiers" true,
+    "includeChamps": true
   }
 }
 
 # Tout les dossiers "en_instruction" d’une démarche
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "getDemarche",
   "variables": {
     "demarcheNumber": 1234,
-    "state": "en_instruction"
+    "state": "en_instruction",
+    "includeDossiers": true,
+    "includeChamps": true
+  }
+}
+
+<strong># Tout les dossiers en attente de suppression d’une démarche
+</strong>{
+  "query": &#x3C;query>,
+  "operationName": "getDemarche",
+  "variables": {
+    "demarcheNumber": 1234,
+    "includePendingDeletedDossiers": true
   }
 }
 
 # Tout les dossiers supprimés d’une démarche
 {
-  "query": <query>,
-  "operationName": "getDeletedDossiers",
+  "query": &#x3C;query>,
+  "operationName": "getDemarche",
   "variables": {
-    "demarcheNumber": 1234
+    "demarcheNumber": 1234,
+    "includeDeletedDossiers": true
   }
 }
 
 # Tout les dossiers d’un groupe instructeur
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "getGroupeInstructeur",
   "variables": {
-    "groupeInstructeurNumber": 1234
+    "groupeInstructeurNumber": 1234,
+    "includeDossiers": true,
+    "includeChamps": true
   }
 }
 
 # Un dossier par son numero
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "getDossier",
   "variables": {
-    "dossierNumber": 1234
+    "dossierNumber": 1234,
+    "includeChamps": true,
+    "includeAnotations": true,
+    "includeAvis": true
   }
 }
-```
+</code></pre>
 
 #### Pagination
 
