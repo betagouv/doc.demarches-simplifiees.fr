@@ -137,27 +137,92 @@ query getDemarche(
   $demarcheNumber: Int!
   $state: DossierState
   $order: Order
+  $first: Int
   $after: String
+  $archived: Boolean
+  $revision: ID
+  $createdSince: ISO8601DateTime
+  $updatedSince: ISO8601DateTime
+  $deletedOrder: Order
+  $deletedFirst: Int
+  $deletedAfter: String
+  $deletedSince: ISO8601DateTime
+  $pendingDeletedOrder: Order
+  $pendingDeletedFirst: Int
+  $pendingDeletedAfter: String
+  $pendingDeletedSince: ISO8601DateTime
+  $includeGroupeInstructeurs: Boolean = false
+  $includeDossiers: Boolean = false
+  $includeDeletedDossiers: Boolean = false
+  $includePendingDeletedDossiers: Boolean = false
+  $includeRevision: Boolean = false
+  $includeService: Boolean = false
+  $includeChamps: Boolean = true
+  $includeAnotations: Boolean = true
+  $includeTraitements: Boolean = true
+  $includeInstructeurs: Boolean = true
+  $includeAvis: Boolean = false
+  $includeMessages: Boolean = false
+  $includeGeometry: Boolean = false
 ) {
   demarche(number: $demarcheNumber) {
     id
     number
     title
-    publishedRevision {
+    state
+    declarative
+    dateCreation
+    dateFermeture
+    activeRevision @include(if: $includeRevision) {
       ...RevisionFragment
     }
-    groupeInstructeurs {
-      id
-      number
-      label
-      instructeurs {
-        id
-        email
-      }
+    groupeInstructeurs @include(if: $includeGroupeInstructeurs) {
+      ...GroupeInstructeurFragment
     }
-    dossiers(state: $state, order: $order, after: $after) {
+    service @include(if: $includeService) {
+      ...ServiceFragment
+    }
+    dossiers(
+      state: $state
+      order: $order
+      first: $first
+      after: $after
+      archived: $archived
+      createdSince: $createdSince
+      updatedSince: $updatedSince
+      revision: $revision
+    ) @include(if: $includeDossiers) {
+      pageInfo {
+        ...PageInfoFragment
+      }
       nodes {
         ...DossierFragment
+      }
+    }
+    pendingDeletedDossiers(
+      order: $pendingDeletedOrder
+      first: $pendingDeletedFirst
+      after: $pendingDeletedAfter
+      deletedSince: $pendingDeletedSince
+    ) @include(if: $includePendingDeletedDossiers) {
+      pageInfo {
+        ...PageInfoFragment
+      }
+      nodes {
+        ...DeletedDossierFragment
+      }
+    }
+    deletedDossiers(
+      order: $deletedOrder
+      first: $deletedFirst
+      after: $deletedAfter
+      deletedSince: $deletedSince
+    ) @include(if: $includeDeletedDossiers) {
+      pageInfo {
+        ...PageInfoFragment
+      }
+      nodes {
+        ...DeletedDossierFragment
       }
     }
   }
@@ -167,25 +232,79 @@ query getGroupeInstructeur(
   $groupeInstructeurNumber: Int!
   $state: DossierState
   $order: Order
+  $first: Int
   $after: String
+  $archived: Boolean
+  $revision: ID
+  $createdSince: ISO8601DateTime
+  $updatedSince: ISO8601DateTime
+  $deletedOrder: Order
+  $deletedFirst: Int
+  $deletedAfter: String
+  $deletedSince: ISO8601DateTime
+  $includeDossiers: Boolean = false
+  $includeDeletedDossiers: Boolean = false
+  $includeChamps: Boolean = true
+  $includeAnotations: Boolean = true
+  $includeTraitements: Boolean = true
+  $includeInstructeurs: Boolean = true
+  $includeAvis: Boolean = false
+  $includeMessages: Boolean = false
+  $includeGeometry: Boolean = false
 ) {
   groupeInstructeur(number: $groupeInstructeurNumber) {
     id
     number
     label
-    instructeurs {
+    instructeurs @include(if: $includeInstructeurs) {
       id
       email
     }
-    dossiers(state: $state, order: $order, after: $after) {
+    dossiers(
+      state: $state
+      order: $order
+      first: $first
+      after: $after
+      archived: $archived
+      createdSince: $createdSince
+      updatedSince: $updatedSince
+      revision: $revision
+    ) @include(if: $includeDossiers) {
+      pageInfo {
+        ...PageInfoFragment
+      }
       nodes {
         ...DossierFragment
+      }
+    }
+    deletedDossiers(
+      order: $deletedOrder
+      first: $deletedFirst
+      after: $deletedAfter
+      deletedSince: $deletedSince
+    ) @include(if: $includeDeletedDossiers) {
+      pageInfo {
+        ...PageInfoFragment
+      }
+      nodes {
+        ...DeletedDossierFragment
       }
     }
   }
 }
 
-query getDossier($dossierNumber: Int!) {
+query getDossier(
+  $dossierNumber: Int!
+  $includeRevision: Boolean = false
+  $includeService: Boolean = false
+  $includeChamps: Boolean = true
+  $includeAnotations: Boolean = true
+  $includeTraitements: Boolean = true
+  $includeInstructeurs: Boolean = true
+  $includeAvis: Boolean = false
+  $includeMessages: Boolean = false
+  $includeGeometry: Boolean = false
+) {
   dossier(number: $dossierNumber) {
     ...DossierFragment
     demarche {
@@ -194,13 +313,30 @@ query getDossier($dossierNumber: Int!) {
   }
 }
 
-query getDeletedDossiers($demarcheNumber: Int!, $order: Order, $after: String) {
-  demarche(number: $demarcheNumber) {
-    deletedDossiers(order: $order, after: $after) {
-      nodes {
-        ...DeletedDossierFragment
-      }
-    }
+query getDemarcheDescriptor(
+  $demarche: FindDemarcheInput!
+  $includeRevision: Boolean = false
+  $includeService: Boolean = false
+) {
+  demarcheDescriptor(demarche: $demarche) {
+    ...DemarcheDescriptorFragment
+  }
+}
+
+fragment ServiceFragment on Service {
+  nom
+  siret
+  organisme
+  typeOrganisme
+}
+
+fragment GroupeInstructeurFragment on GroupeInstructeur {
+  id
+  number
+  label
+  instructeurs @include(if: $includeInstructeurs) {
+    id
+    email
   }
 }
 
@@ -214,6 +350,8 @@ fragment DossierFragment on Dossier {
   datePassageEnConstruction
   datePassageEnInstruction
   dateTraitement
+  dateExpiration
+  dateSuppressionParUsager
   motivation
   motivationAttachment {
     ...FileFragment
@@ -224,39 +362,11 @@ fragment DossierFragment on Dossier {
   pdf {
     url
   }
-  instructeurs {
-    email
-  }
   usager {
     email
   }
   groupeInstructeur {
-    id
-    number
-    label
-  }
-  revision {
-    ...RevisionFragment
-  }
-  traitements {
-    state
-    emailAgentTraitant
-    dateTraitement
-    motivation
-  }
-  champs {
-    ...ChampFragment
-    ...RootChampFragment
-  }
-  annotations {
-    ...ChampFragment
-    ...RootChampFragment
-  }
-  avis {
-    ...AvisFragment
-  }
-  messages {
-    ...MessageFragment
+    ...GroupeInstructeurFragment
   }
   demandeur {
     ... on PersonnePhysique {
@@ -266,6 +376,35 @@ fragment DossierFragment on Dossier {
       dateDeNaissance
     }
     ...PersonneMoraleFragment
+  }
+  demarche {
+    revision {
+      id
+    }
+  }
+  instructeurs @include(if: $includeInstructeurs) {
+    id
+    email
+  }
+  traitements @include(if: $includeTraitements) {
+    state
+    emailAgentTraitant
+    dateTraitement
+    motivation
+  }
+  champs @include(if: $includeChamps) {
+    ...ChampFragment
+    ...RootChampFragment
+  }
+  annotations @include(if: $includeAnotations) {
+    ...ChampFragment
+    ...RootChampFragment
+  }
+  avis @include(if: $includeAvis) {
+    ...AvisFragment
+  }
+  messages @include(if: $includeMessages) {
+    ...MessageFragment
   }
 }
 
@@ -281,6 +420,20 @@ fragment DemarcheDescriptorFragment on DemarcheDescriptor {
   dateDerniereModification
   dateDepublication
   dateFermeture
+  notice {
+    url
+  }
+  deliberation {
+    url
+  }
+  demarcheUrl
+  cadreJuridiqueUrl
+  service @include(if: $includeService) {
+    ...ServiceFragment
+  }
+  revision @include(if: $includeRevision) {
+    ...RevisionFragment
+  }
 }
 
 fragment DeletedDossierFragment on DeletedDossier {
@@ -293,27 +446,68 @@ fragment DeletedDossierFragment on DeletedDossier {
 
 fragment RevisionFragment on Revision {
   id
+  datePublication
   champDescriptors {
     ...ChampDescriptorFragment
-    champDescriptors {
-      ...ChampDescriptorFragment
+    ... on RepetitionChampDescriptor {
+      champDescriptors {
+        ...ChampDescriptorFragment
+      }
     }
   }
   annotationDescriptors {
     ...ChampDescriptorFragment
-    champDescriptors {
-      ...ChampDescriptorFragment
+    ... on RepetitionChampDescriptor {
+      champDescriptors {
+        ...ChampDescriptorFragment
+      }
     }
   }
 }
 
 fragment ChampDescriptorFragment on ChampDescriptor {
+  __typename
   id
-  type
   label
   description
   required
-  options
+  ... on DropDownListChampDescriptor {
+    options
+    otherOption
+  }
+  ... on MultipleDropDownListChampDescriptor {
+    options
+  }
+  ... on LinkedDropDownListChampDescriptor {
+    options
+  }
+  ... on PieceJustificativeChampDescriptor {
+    fileTemplate {
+      ...FileFragment
+    }
+  }
+  ... on ExplicationChampDescriptor {
+    collapsibleExplanationEnabled
+    collapsibleExplanationText
+  }
+  ... on PaysChampDescriptor {
+    options {
+      name
+      code
+    }
+  }
+  ... on RegionChampDescriptor {
+    options {
+      name
+      code
+    }
+  }
+  ... on DepartementChampDescriptor {
+    options {
+      name
+      code
+    }
+  }
 }
 
 fragment AvisFragment on Avis {
@@ -328,7 +522,7 @@ fragment AvisFragment on Avis {
   expert {
     email
   }
-  attachment {
+  attachments {
     ...FileFragment
   }
 }
@@ -338,7 +532,7 @@ fragment MessageFragment on Message {
   email
   body
   createdAt
-  attachment {
+  attachments {
     ...FileFragment
   }
 }
@@ -347,7 +541,7 @@ fragment GeoAreaFragment on GeoArea {
   id
   source
   description
-  geometry {
+  geometry @include(if: $includeGeometry) {
     type
     coordinates
   }
@@ -362,13 +556,10 @@ fragment GeoAreaFragment on GeoArea {
 
 fragment RootChampFragment on Champ {
   ... on RepetitionChamp {
-    champs {
-      ...ChampFragment
-    }
-  }
-  ... on SiretChamp {
-    etablissement {
-      ...PersonneMoraleFragment
+    rows {
+      champs {
+        ...ChampFragment
+      }
     }
   }
   ... on CarteChamp {
@@ -379,16 +570,15 @@ fragment RootChampFragment on Champ {
   ... on DossierLinkChamp {
     dossier {
       id
+      number
       state
-      usager {
-        email
-      }
     }
   }
 }
 
 fragment ChampFragment on Champ {
   id
+  __typename
   label
   stringValue
   ... on DateChamp {
@@ -417,7 +607,7 @@ fragment ChampFragment on Champ {
     values
   }
   ... on PieceJustificativeChamp {
-    file {
+    files {
       ...FileFragment
     }
   }
@@ -434,6 +624,29 @@ fragment ChampFragment on Champ {
     departement {
       name
       code
+    }
+  }
+  ... on DepartementChamp {
+    departement {
+      name
+      code
+    }
+  }
+  ... on RegionChamp {
+    region {
+      name
+      code
+    }
+  }
+  ... on PaysChamp {
+    pays {
+      name
+      code
+    }
+  }
+  ... on SiretChamp {
+    etablissement {
+      ...PersonneMoraleFragment
     }
   }
 }
@@ -480,7 +693,7 @@ fragment FileFragment on File {
   filename
   contentType
   checksum
-  byteSizeBigInt
+  byteSize: byteSizeBigInt
   url
 }
 
@@ -497,6 +710,12 @@ fragment AddressFragment on Address {
   departmentCode
   regionName
   regionCode
+}
+
+fragment PageInfoFragment on PageInfo {
+  hasPreviousPage
+  hasNextPage
+  endCursor
 }
 
 ```
