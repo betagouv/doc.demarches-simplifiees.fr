@@ -373,8 +373,8 @@ fragment DossierFragment on Dossier {
       civilite
       nom
       prenom
-      dateDeNaissance
     }
+    ... on PersonneMoraleIncomplete { siret }
     ...PersonneMoraleFragment
   }
   demarche {
