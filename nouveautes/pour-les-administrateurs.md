@@ -16,9 +16,7 @@ La première phase d'adaptation de démarches-simplifiées se situe au niveau de
 
 Il est désormais possible de modifier une démarche qui a été publiée.
 
-Pour l'instant, il est nécessaire de demander à **contact@demarches-simplifiees.fr** d'activer cette fonctionnalité.
-
-Quand cette fonctionnalité est activée, vous disposez des mêmes options que quand vous créez un formulaire !
+Cette fonctionnalité est désormais activée pour l'ensemble des administrateurs, vous disposez des mêmes options que quand vous créez un formulaire !
 
 ![Toutes les options de création d'un formulaire sont actives, même quand on le modifie. ](<../.gitbook/assets/Capture d’écran 2021-08-18 à 10.29.55.png>)
 
