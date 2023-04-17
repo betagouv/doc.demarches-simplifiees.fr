@@ -41,72 +41,69 @@ La confirmation de vos coordonnées postales vous sera demandée à la fin de l'
 \
 Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduire avant le mois d'août 2020 et que vous n'avez pas eu de suites, vous pouvez déclarer votre adresse actuelle à l'aide du formulaire ci-dessous :
 
-* ****[**Déclaration de changement d'adresse pour votre dossier en cours**](https://www.demarches-simplifiees.fr/commencer/cert-pc-epe-44-changement-d-adresse)****
+* [**Déclaration de changement d'adresse pour votre dossier en cours**](https://www.demarches-simplifiees.fr/commencer/cert-pc-epe-44-changement-d-adresse)
 
 #### Demander une place d'examen pratique au permis de conduire
 
-* ****[**27 - L'Eure**](https://www.demarches-simplifiees.fr/commencer/inscription-des-candidats-libres-epreuve-pratique)****
-* ****[**51 - Marne**](https://candidat.convonom.fr/#/)****
-* ****[**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)****
-* ****[**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)****
-* ****[**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)****
-* ****[**77 - Seine-et-Marne**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)****
+* [**27 - L'Eure**](https://www.demarches-simplifiees.fr/commencer/inscription-des-candidats-libres-epreuve-pratique)
+* [**51 - Marne**](https://candidat.convonom.fr/#/)
+* [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
+* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)
+* [**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
+* [**77 - Seine-et-Marne**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
 
 #### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
 
-{% hint style="danger" %}
-#### **L'ensemble des procédures relatives au permis de conduire dans le département du Val-de-Marne (94) sont désormais à effectuer sur le site de l'ANTS :** [https://permisdeconduire.ants.gouv.fr/demarches-en-ligne](https://permisdeconduire.ants.gouv.fr/demarches-en-ligne)
-{% endhint %}
-
-* ****[**03 - Allier**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-ou-communication-neph)****
-* ****[**27 - Eure**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph)****
-* ****[**29 - Finistère**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-neph-finistere)****
-* ****[**35 - Ille-et-Vilaine**](https://www.demarches-simplifiees.fr/commencer/reactivation-communication\_neph35)****
-* ****[**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_neph\_reactiv\_com\_correction)****
-* ****[**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-numero-neph)****
-* ****[**50 - Manche**](https://www.demarches-simplifiees.fr/commencer/neph-manche)****
-* ****[**51 - Marne** ](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-communication-du-numero-neph)****
-* ****[**54 - Meurthe-et-Moselle (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation-du-neph) **** [**ou (communication)**](https://www.demarches-simplifiees.fr/commencer/communication-du-neph)****
-* ****[**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)****
-* ****[**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/neph-prefmorbihan)****
-* ****[**69 - Rhône**](https://www.demarches-simplifiees.fr/commencer/neph69)****
-* ****[**73 - Savoie** ](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph-73)****
-* ****[**74 - Haute-Savoie (réactivation)**](https://www.demarches-simplifiees.fr/commencer/neph74)****
-* ****[**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/neph75)****
-* ****[**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/neph-76)****
-* ****[**77- Seine-et-Marne (réactivation)**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-numero-neph-77)****
-* ****[**78 - Yvelines**](https://www.demarches-simplifiees.fr/commencer/78-dem-duplicata-react-et-com-neph-modif-fnpc)****
-* ****[**88 - Vosges (communication)** ](https://www.demarches-simplifiees.fr/commencer/communication\_neph\_88)****[**ou (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation\_neph\_88)****
-* ****[**91 - Essonne**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-actualisation-numero-neph-91)****
-* ****[**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/neph92)****
-* ****[**93 - Seine-Saint-Denis**](https://www.demarches-simplifiees.fr/commencer/neph93)****
-* ****[**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-neph-reactivation)****
+* [**03 - Allier**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-ou-communication-neph)
+* [**27 - Eure**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph)
+* [**29 - Finistère**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-neph-finistere)
+* [**35 - Ille-et-Vilaine**](https://www.demarches-simplifiees.fr/commencer/reactivation-communication\_neph35)
+* [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_neph\_reactiv\_com\_correction)
+* [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-numero-neph)
+* [**50 - Manche**](https://www.demarches-simplifiees.fr/commencer/neph-manche)
+* [**51 - Marne** ](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-communication-du-numero-neph)
+* [**54 - Meurthe-et-Moselle (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation-du-neph) [**ou (communication)**](https://www.demarches-simplifiees.fr/commencer/communication-du-neph)
+* [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
+* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/neph-prefmorbihan)
+* [**69 - Rhône**](https://www.demarches-simplifiees.fr/commencer/neph69)
+* [**73 - Savoie** ](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph-73)
+* [**74 - Haute-Savoie (réactivation)**](https://www.demarches-simplifiees.fr/commencer/neph74)
+* [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/neph75)
+* [**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/neph-76)
+* [**77- Seine-et-Marne (réactivation)**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-numero-neph-77)
+* [**78 - Yvelines**](https://www.demarches-simplifiees.fr/commencer/78-dem-duplicata-react-et-com-neph-modif-fnpc)
+* [**88 - Vosges (communication)** ](https://www.demarches-simplifiees.fr/commencer/communication\_neph\_88)[**ou (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation\_neph\_88)
+* [**91 - Essonne**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-actualisation-numero-neph-91)
+* [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/neph92)
+* [**93 - Seine-Saint-Denis**](https://www.demarches-simplifiees.fr/commencer/neph93)
+* [**94 - Val-de-Marne**](https://www.demarches-simplifiees.fr/commencer/neph94)
+* [**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-neph-reactivation)
 
 **Demande d'adhésion au label « Qualité des formations au sein des écoles de conduite »**
 
-* ****[**34 - Hérault** ](https://www.demarches-simplifiees.fr/commencer/34-dde-d-adhesion-au-label-qualite-des-formations-apres-26-mars-2021)****
-* ****[**38 - Isère** ](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-38-au-label-qualite-des-formations-)****
-* ****[**42 - La Loire**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-4)****
-* ****[**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/demande-label-qualite-ae)****
-* ****[**45 - Loiret**](https://www.demarches-simplifiees.fr/commencer/prefecture-45-demande-d-adhesion-au-label-qualite-)****
-* ****[**47 - Lot-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/47-adhesion-label-qualite)****
-* ****[**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-adhesion-label-qualite-formations49)****
-* ****[**51 - Marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations)****
-* ****[**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)****
-* ****[**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/labellisation\_auto-ecole\_prefecture56)****
-* ****[**60 - Manche**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber50)****
-* ****[**63 - Puy-de-dome et Allier**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-63-03)****
-* ****[**74 - Haute-Savoie**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddt74)****
-* ****[**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-paris-75)****
-* ****[**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ae-ddtm76)****
-* ****[**77 - Seine-et-marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-3)****
-* ****[**78 - Yvelines** ](https://www.demarches-simplifiees.fr/commencer/78-demande-d-adhesion-au-label-qualite-des-formations)****
-* ****[**79 - Deux-Sèvres**](https://www.demarches-simplifiees.fr/commencer/79-adhesion-initiale-au-label-qualite-v2021)****
-* ****[**83 - Var**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddtm83)****
-* ****[**88 - Vosges**](https://www.demarches-simplifiees.fr/commencer/label-ae-88)****
-* ****[**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber92)****
-* ****[**93 - Seine-Saint-Den**](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-d-adhesion-au-label-qualite-)****
-* ****[**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite)****
+* [**34 - Hérault** ](https://www.demarches-simplifiees.fr/commencer/34-dde-d-adhesion-au-label-qualite-des-formations-apres-26-mars-2021)
+* [**38 - Isère** ](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-38-au-label-qualite-des-formations-)
+* [**42 - La Loire**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-4)
+* [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/demande-label-qualite-ae)
+* [**45 - Loiret**](https://www.demarches-simplifiees.fr/commencer/prefecture-45-demande-d-adhesion-au-label-qualite-)
+* [**47 - Lot-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/47-adhesion-label-qualite)
+* [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-adhesion-label-qualite-formations49)
+* [**51 - Marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations)
+* [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
+* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/labellisation\_auto-ecole\_prefecture56)
+* [**60 - Manche**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber50)
+* [**63 - Puy-de-dome et Allier**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-63-03)
+* [**74 - Haute-Savoie**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddt74)
+* [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-paris-75)
+* [**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ae-ddtm76)
+* [**77 - Seine-et-marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-3)
+* [**78 - Yvelines** ](https://www.demarches-simplifiees.fr/commencer/78-demande-d-adhesion-au-label-qualite-des-formations)
+* [**79 - Deux-Sèvres**](https://www.demarches-simplifiees.fr/commencer/79-adhesion-initiale-au-label-qualite-v2021)
+* [**83 - Var**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddtm83)
+* [**88 - Vosges**](https://www.demarches-simplifiees.fr/commencer/label-ae-88)
+* [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber92)
+* [**93 - Seine-Saint-Den**](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-d-adhesion-au-label-qualite-)
+* [**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite)
 
 ## Annulation de permis
 
@@ -124,33 +121,33 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 ### 27 - Eure&#x20;
 
-* ****[**27 - Demande initiale ou de renouvellement d'agrément d'un Etablissement d’Enseignement de la Conduite et de la Sécurité Routière (ECSR)** ](https://www.demarches-simplifiees.fr/commencer/demande-agrement-ecsr-eure)****
-* ****[**27 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-autorisation-enseigner-eure)****
+* [**27 - Demande initiale ou de renouvellement d'agrément d'un Etablissement d’Enseignement de la Conduite et de la Sécurité Routière (ECSR)** ](https://www.demarches-simplifiees.fr/commencer/demande-agrement-ecsr-eure)
+* [**27 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-autorisation-enseigner-eure)
 
 ### 30 - Gard&#x20;
 
-* ****[**30 - Aide à l’apprentissage anticipé de la conduite**](https://www.demarches-simplifiees.fr/commencer/aide-a-l-apprentissage-anticipe-de-la-conduite)****
+* [**30 - Aide à l’apprentissage anticipé de la conduite**](https://www.demarches-simplifiees.fr/commencer/aide-a-l-apprentissage-anticipe-de-la-conduite)
 
 ### 34 - Hérault
 
 **Demande d'agrément**
 
-* ****[**34 - Demande initiale ou de renouvellement d'agrément d'un**\
+* [**34 - Demande initiale ou de renouvellement d'agrément d'un**\
   &#x20;**Établissement d’Enseignement de la Conduite Automobile et de la Sécurité**\
-  &#x20;**Routière dans l'Hérault**](https://www.demarches-simplifiees.fr/commencer/34-dde-initiale-renouvellement-agrement-auto-ecole)****
-* ****[**34 - Demande initiale ou de renouvellement d'agrément des associations**\
-  &#x20;**d'insertion réalisant des formations à la conduite dans l'Hérault**](https://www.demarches-simplifiees.fr/commencer/34-dde-agrement-association-enseignement-conduite)****
-* ****[**34 - Demande d'extension d'agrément d'un Établissement d’Enseignement**\
-  &#x20;**de la Conduite Automobile et de la Sécurité Routière dans l'Hérault**](https://www.demarches-simplifiees.fr/commencer/34-dde-extension-agrement-d-une-auto-ecole)****
+  &#x20;**Routière dans l'Hérault**](https://www.demarches-simplifiees.fr/commencer/34-dde-initiale-renouvellement-agrement-auto-ecole)
+* [**34 - Demande initiale ou de renouvellement d'agrément des associations**\
+  &#x20;**d'insertion réalisant des formations à la conduite dans l'Hérault**](https://www.demarches-simplifiees.fr/commencer/34-dde-agrement-association-enseignement-conduite)
+* [**34 - Demande d'extension d'agrément d'un Établissement d’Enseignement**\
+  &#x20;**de la Conduite Automobile et de la Sécurité Routière dans l'Hérault**](https://www.demarches-simplifiees.fr/commencer/34-dde-extension-agrement-d-une-auto-ecole)
 
 **Demande d'autorisation**
 
-* [34 **- Demande d'autorisation d'enseigner la conduite automobile**](https://www.demarches-simplifiees.fr/commencer/34-demande-d-autorisation-d-enseigner-la-conduite)****
-* ****[**34 - Demande d'autorisation d'animer les stages de sensibilisation à**\
-  &#x20;**la sécurité routière**](https://www.demarches-simplifiees.fr/commencer/34-demande-d-autorisation-d-animer-les-stages)****
-* ****[**34 - Réservation d'épreuves de conduite des titres professionnels de**\
-  &#x20;**conducteurs routiers**](https://www.demarches-simplifiees.fr/commencer/34-reservations-titres-professionnels)****
-* ****[**34 - Demande de**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)****[ **Certificat d'Examen du Permis de Conduire (CEPC) version papier dans le cas d'un retour au permis**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)****
+* [34 **- Demande d'autorisation d'enseigner la conduite automobile**](https://www.demarches-simplifiees.fr/commencer/34-demande-d-autorisation-d-enseigner-la-conduite)
+* [**34 - Demande d'autorisation d'animer les stages de sensibilisation à**\
+  &#x20;**la sécurité routière**](https://www.demarches-simplifiees.fr/commencer/34-demande-d-autorisation-d-animer-les-stages)
+* [**34 - Réservation d'épreuves de conduite des titres professionnels de**\
+  &#x20;**conducteurs routiers**](https://www.demarches-simplifiees.fr/commencer/34-reservations-titres-professionnels)
+* [**34 - Demande de**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)[ **Certificat d'Examen du Permis de Conduire (CEPC) version papier dans le cas d'un retour au permis**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)
 
 ## 36 - Indre
 
@@ -158,18 +155,18 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 ### 44 - Loire-Atlantique
 
-* ****[**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_duplicata-aipc)****
+* [**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_duplicata-aipc)
 
 ### 47 - Lot-et-Garonne
 
-* ****[**47 - Dépôt de demande d'agrément préfectoral pour l'exploitation d'une école de conduite**](https://www.demarches-simplifiees.fr/commencer/47-agrement-initial-eeca)****
+* [**47 - Dépôt de demande d'agrément préfectoral pour l'exploitation d'une école de conduite**](https://www.demarches-simplifiees.fr/commencer/47-agrement-initial-eeca)
 
 ### 51 - Marne&#x20;
 
-* ****[**51 - Demande d'agrément pour exploiter un établissement d'enseignement de la conduite automobile**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement)****
-* ****[**51 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-d-autorisation-d-enseigner-la-conduite-des)****
-* **51-** [**Demande d'agrément pour exploiter un établissement chargé d'organiser des stages de sensibilisation à la Sécurité Routière**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement-charge-d-organiser-des-stages-de-sensibilisation-a-la-securite-routiere)****
-* **51-**[**Demande de réactualisation du NEPH**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactualisation-du-neph)****
+* [**51 - Demande d'agrément pour exploiter un établissement d'enseignement de la conduite automobile**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement)
+* [**51 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-d-autorisation-d-enseigner-la-conduite-des)
+* **51-** [**Demande d'agrément pour exploiter un établissement chargé d'organiser des stages de sensibilisation à la Sécurité Routière**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement-charge-d-organiser-des-stages-de-sensibilisation-a-la-securite-routiere)
+* **51-**[**Demande de réactualisation du NEPH**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactualisation-du-neph)
 
 ### **55 - Meuse**
 
