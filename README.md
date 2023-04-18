@@ -34,6 +34,8 @@ Point demarches-simplifiees fin mai 2020
 Bilan démarches simplifiees fin juin 2020 / Premier semestre 2020
 {% endfile %}
 
+{% file src=".gitbook/assets/Présentation DS septembre 2022.pdf" %}
+
 ### Objectif
 
 L'objectif principal de cette documentation est de permettre aux organismes publics ayant des besoins de dématérialisation de déterminer si demarches-simplifiees.fr constitue une solution adaptée.
@@ -50,4 +52,4 @@ Aucune connaissance spécifique en informatique n'est requise pour comprendre ce
 
 ### Retours
 
-Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact@demarches-simplifiees.fr)****
+Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact@demarches-simplifiees.fr)

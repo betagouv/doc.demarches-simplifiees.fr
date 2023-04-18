@@ -26,7 +26,7 @@ L'équipe peut fournir un accompagnement à toutes les étapes de la mise en œu
 
 Pour obtenir un compte administrateur permettant de créer des formulaires en ligne, remplissez [**notre formulaire**](https://www.demarches-simplifiees.fr/demandes/new) de demande de compte.
 
-Pour être accompagné, contactez-nous ici : [**https://www.demarches-simplifiees.fr/contact-admin**](https://www.demarches-simplifiees.fr/contact-admin)****
+Pour être accompagné, contactez-nous ici : [**https://www.demarches-simplifiees.fr/contact-admin**](https://www.demarches-simplifiees.fr/contact-admin)
 
 Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous puissions vous rappeler.&#x20;
 
@@ -42,10 +42,10 @@ Prenez le temps de regarder ces guides et ces vidéos avant vous lancer !
 
 **SIMPLIFIER LES DOCUMENTS ADMINISTRATIFS**&#x20;
 
-* ****[**Aller à l'essentiel**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#Essentiel)****
-* ****[**Utiliser des mots simples**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#MotsSimples)****
-* ****[**Organiser l'information logiquement**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#OrganiserInfo)****
-* ****[**Considérer l'usager**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#ConsidererUsager)****
-* ****[**Inciter à l'action**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#InciterALaction)****
-* ****[**Soigner la présentation**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#SoignerPresentation)****
+* [**Aller à l'essentiel**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#Essentiel)
+* [**Utiliser des mots simples**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#MotsSimples)
+* [**Organiser l'information logiquement**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#OrganiserInfo)
+* [**Considérer l'usager**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#ConsidererUsager)
+* [**Inciter à l'action**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#InciterALaction)
+* [**Soigner la présentation**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#SoignerPresentation)
 

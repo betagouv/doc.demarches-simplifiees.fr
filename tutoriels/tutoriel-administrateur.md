@@ -232,7 +232,7 @@ Le type de champ formate la manière dont l'usager vous donnera l'information de
 
 <figure><img src="../.gitbook/assets/liste déroulante .png" alt=""><figcaption><p>Catégories des types de champs de la liste déroulante </p></figcaption></figure>
 
-****
+
 
 **La durée de remplissage estimée évolue en fonction des types de champs ajoutés.**&#x20;
 
@@ -268,7 +268,7 @@ Pour accéder au premier dossier déposé par l'usager, l'instructeur de la seco
 
 #### **d) Bloc répétable**
 
-Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). ****&#x20;
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). &#x20;
 
 <figure><img src="../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
 
@@ -440,7 +440,7 @@ Les titres des menus déroulant liés doivent donc être encadrés par des doubl
 
 L'usager peut répondre "Oui" ou "Non" à la question posée dans le libellé du champ.
 
-#### &#x20;****&#x20;
+#### &#x20;
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>Champ "Oui/non" en tant qu'usager </p></figcaption></figure>
 
@@ -667,13 +667,13 @@ Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne
 
 <figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
 
-* Trois possibilités s'offrent à vous afin de gérer comme vous le souhaitez les experts invités qui seront sollicités par les instructeurs de la démarche. ****     &#x20;
+* Trois possibilités s'offrent à vous afin de gérer comme vous le souhaitez les experts invités qui seront sollicités par les instructeurs de la démarche.      &#x20;
 
 #### &#x20;**Les différentes fonctionnalités de gestion des experts invités**
 
 En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarche comme vous le souhaitez. Pour ce faire, vous disposez de trois fonctionnalités (au choix) : \
 \
-\- accorder de manière générale des droits aux instructeurs de solliciter des experts **** invités.\
+\- accorder de manière générale des droits aux instructeurs de solliciter des experts invités.\
 \- laisser aux instructeurs la liberté de choisir des experts invités qui seront sollicités lors d'un dossier. \
 \- prédéfinir une liste d'experts invités qui seront uniquement sollicités par les instructeurs lors d'un dossier et décider ainsi que les experts invités soient notifiés de la décision finale.&#x20;
 
@@ -730,7 +730,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 <figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
-****
+
 
 * Du coté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**&#x20;
 

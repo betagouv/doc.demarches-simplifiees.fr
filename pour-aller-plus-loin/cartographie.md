@@ -12,7 +12,7 @@ Comment rechercher par adresse et dessiner des polygones, tracés et points 👇
 
 {% embed url="https://vimeo.com/423095537" %}
 
-****
+
 
 Comment importer des fichiers au format **GPX** et **KML** afin qu'ils soient représentés sur la carte 👇
 
@@ -24,11 +24,11 @@ Comment exporter les données au format **GeoJSON 👇**
 
 {% embed url="https://vimeo.com/423105607" %}
 
-****
 
 
 
-****
 
-****
+
+
+
 

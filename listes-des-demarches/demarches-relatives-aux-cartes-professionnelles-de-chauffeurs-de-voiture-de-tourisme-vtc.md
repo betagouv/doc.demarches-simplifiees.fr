@@ -31,7 +31,7 @@
 
 **Changement de coordonnés / mobilité**&#x20;
 
-* [Changement de coordonnées des professionnels des Taxis/VTC/VMDTR](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)****
+* [Changement de coordonnées des professionnels des Taxis/VTC/VMDTR](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)
 * [Demande de mobilité pour la carte professionnelle de conducteur de taxi](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-mobilite)
 
 **Demande de renouvellement**&#x20;
@@ -40,7 +40,7 @@
 
 **Autorisations de stationnement**&#x20;
 
-* [Demande d’inscription sur la liste d’attente en vue de la délivrance d’une autorisation de stationnement (ADS) gratuite](https://www.demarches-simplifiees.fr/commencer/pp-ads-liste-inscription)****
+* [Demande d’inscription sur la liste d’attente en vue de la délivrance d’une autorisation de stationnement (ADS) gratuite](https://www.demarches-simplifiees.fr/commencer/pp-ads-liste-inscription)
 * [Demande de renouvellement annuel de maintien sur la liste d’attente en vue de la délivrance d’une autorisation de stationnement (ADS) gratuite](https://www.demarches-simplifiees.fr/commencer/pp-ads-liste-renouvellement)
 * [Demande d’une carte de stationnement pour les titulaires d’une autorisation de stationnement (ADS) de taxis parisiens délivrée à titre gracieux](https://www.demarches-simplifiees.fr/commencer/bttp-ads-delivrance)
 * [Délivrance d'une carte de stationnement pour les titulaires d'une autorisation de stationnement (ADS) de taxis parisiens (changement de véhicule ou d'horodateur, perte ou vol de la carte de stationnement)](https://www.demarches-simplifiees.fr/commencer/bttp-ads-vehicule-horodateur)
@@ -49,7 +49,7 @@
 
 **Enregistrements**&#x20;
 
-* [Déclaration des débuts et des fins de contrats de travail ou de location-gérance des professionnels de taxis parisiens ](https://www.demarches-simplifiees.fr/commencer/ads-enregistrement-contrat)****
+* [Déclaration des débuts et des fins de contrats de travail ou de location-gérance des professionnels de taxis parisiens ](https://www.demarches-simplifiees.fr/commencer/ads-enregistrement-contrat)
 * [Procédure d'enregistrement de transfert des autorisations de stationnement des professionnels de taxis dans le registre (article L. 3121-4 du Code des transports) ](https://www.demarches-simplifiees.fr/commencer/bttp-ads-transfert)
 
 ### VTC
@@ -65,7 +65,7 @@
 
 #### Changement de coordonnées / mobilité
 
-* [Changement de coordonnées des professionnels des voitures de transport avec chauffeur (VTC)  ](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)****
+* [Changement de coordonnées des professionnels des voitures de transport avec chauffeur (VTC)  ](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)
 * [Formulaire de demande de mobilité pour la carte professionnelle de conducteur de taxi](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-mobilite)
 
 #### Demande de renouvellement

@@ -194,7 +194,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 ![Les deux options de visibilité des avis](../.gitbook/assets/avis-expert2.PNG)
 
-* Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton "Demander un avis"** situé en bas de l'écran afin **** d'envoyer une invitation par e-mail à l'expert.&#x20;
+* Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton "Demander un avis"** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
 
 ![Localisation du bouton "Demander un avis"](../.gitbook/assets/avis-expert3.PNG)
 

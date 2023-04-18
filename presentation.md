@@ -37,7 +37,7 @@ Concrètement, le programme reposait sur quatre leviers de simplification :
 * **L’échange des données entre les administrations** : la sollicitation directe de l’usager doit être une exception ;
 * **La ré-ingénierie des formulaires** : seules les informations réellement utiles doivent être demandées ;
 * **La dématérialisation des procédures** : le traitement et la soumission d’informations doivent être simplifiées ;
-* **La confiance a priori** __ : les pièces justificatives doivent être demandées uniquement lorsqu'elles sont nécessaires, non détenues par l’administration et au moment opportun (par exemple, en cas de contrôle).
+* **La confiance a priori** : les pièces justificatives doivent être demandées uniquement lorsqu'elles sont nécessaires, non détenues par l’administration et au moment opportun (par exemple, en cas de contrôle).
 
 D'après une étude conduite en 2013 par le Secrétariat Général pour la Modernisation de l’Action Publique (SGMAP, actuelle DINUM) sur un échantillon de procédures concernant les entreprises, la simplification permettrait d'économiser 25 € par formulaire (économies cumulées pour les entreprises et les administrations) dont 1,18 € en ré-ingénierie, 8,06 € en automatisant les échanges de données et 15,44 € en dématérialisant les procédures restées au format papier.
 

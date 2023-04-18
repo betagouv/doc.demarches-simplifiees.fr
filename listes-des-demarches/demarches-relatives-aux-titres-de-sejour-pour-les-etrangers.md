@@ -69,7 +69,7 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 
 ### 35 - Ille-Et-Vilaine&#x20;
 
-#### **Certaines démarches relatives à la préfecture D'ille-et-Vilaine sont désormais à effectuer sur la plateforme :** [**https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/**](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)****
+#### **Certaines démarches relatives à la préfecture D'ille-et-Vilaine sont désormais à effectuer sur la plateforme :** [**https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/**](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)
 
 Un point d'accès numérique est également mis à disposition des usagers, vous pouvez contacter le standard de la préfecture pour plus d'informations.&#x20;
 
@@ -117,7 +117,7 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 
 ### 62 - Pas-de-Calais
 
-* [Demande de titre de séjour (personnes en situation irrégulière, régularisation) ](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-regularisation)****
+* [Demande de titre de séjour (personnes en situation irrégulière, régularisation) ](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-regularisation)
 * [Demande de titre de séjour (personnes en situation régulière)](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-titre-de-sejour)
 
 ### 65 - Hautes-Pyrénées
@@ -161,7 +161,7 @@ INFORMATION : si vous ne trouvez pas de réponse sur le[ site](http://www.bas-rh
 
 **Ressortissant algérien**
 
-* [Première demande de titre de séjour vie professionnelle ou visiteur - ressortissant algérien ](https://www.demarches-simplifiees.fr/commencer/pp-1ere-dde-algerien-immigrationpro-visiteur)****
+* [Première demande de titre de séjour vie professionnelle ou visiteur - ressortissant algérien ](https://www.demarches-simplifiees.fr/commencer/pp-1ere-dde-algerien-immigrationpro-visiteur)
 * [Première demande de titre de séjour - Parent d'enfant français - ressortissant algérien ](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-algerien-pef)
 * [Première demande de titre de séjour - Membre de famille- ressortissant algérien](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-algerien-membre-famille)
 * [Première demande de titre de séjour - Jeune majeur - ressortissant algérien](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-algerien-jeune-majeur)
@@ -223,16 +223,16 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 
 **Première demande**
 
-* [Première demande de titre de séjour de plein droit (hors admission exceptionnelle au séjour) - Sous-préfecture du Raincy ](https://www.demarches-simplifiees.fr/commencer/sp-le-raincy-premieredemande)****
-* [Première demande de titre de séjour vie professionnelle **** ](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-vie-professionnelle)****
+* [Première demande de titre de séjour de plein droit (hors admission exceptionnelle au séjour) - Sous-préfecture du Raincy ](https://www.demarches-simplifiees.fr/commencer/sp-le-raincy-premieredemande)
+* [Première demande de titre de séjour vie professionnelle ](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-vie-professionnelle)
 * [Première demande de titre de séjour vie privée et familiale ](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-vie-privee-familiale)
 * [Première demande de titre de séjour ressortissant européen et membre de famille d’un ressortissant européen ](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-europeen-et-famille)
 
 **Étudiants / talents** &#x20;
 
 * [Première demande de titre de séjour étudiant / stagiaire](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-etudiant-stagiaire)
-* [Demande de changement de statut étudiant à salarié ou passeport talent ](https://www.demarches-simplifiees.fr/commencer/changement-statut-etudiant-a-salarie-ou-passtalent)****
-* [Demande de titre de séjour ou d’autorisation provisoire de séjour recherche d’emploi ou création d’entreprise pour le demandeur ayant obtenu en France un diplôme au moins équivalent au grade de master](https://www.demarches-simplifiees.fr/commencer/rdv-aps-post-master-titre-sejour-recherche-emploi)****
+* [Demande de changement de statut étudiant à salarié ou passeport talent ](https://www.demarches-simplifiees.fr/commencer/changement-statut-etudiant-a-salarie-ou-passtalent)
+* [Demande de titre de séjour ou d’autorisation provisoire de séjour recherche d’emploi ou création d’entreprise pour le demandeur ayant obtenu en France un diplôme au moins équivalent au grade de master](https://www.demarches-simplifiees.fr/commencer/rdv-aps-post-master-titre-sejour-recherche-emploi)
 
 ### 94 - Val-de-Marne
 
