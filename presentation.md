@@ -16,6 +16,8 @@ _**Vidéo Vimeo (**les informations contenues dans cette vidéo sont explicitée
 
 L'objectif est de terminer la dématérialisation dans les meilleures conditions en simplifiant la vie des usagers, l'instruction des demandes et en faisant économiser de l’argent à l’État et au contribuable.
 
+<figure><img src=".gitbook/assets/2022_10_25_Flyers_DS.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Un outil visant à accélérer la dématérialisation
 
 Les usagers du service public devraient aujourd'hui pouvoir effectuer toutes leurs démarches en ligne. Ils ne devraient plus avoir à transmettre des informations dont l’administration dispose déjà ou faire eux-mêmes le lien entre une multitude d’interlocuteurs publics.

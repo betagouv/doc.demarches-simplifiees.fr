@@ -8,33 +8,11 @@ description: >-
 
 Demarches-simplifiees.fr permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la Direction Interministérielle du Numérique (DINUM), mise à disposition à l'ensemble des organismes publics. Elle est interconnectée à de nombreux services de l'Etat, notamment France Connect, API Entreprise, API Géo et BAN.
 
+### Retrouvez le guide pratique pour dématérialiser vos démarches avec "démarches simplifiées"
+
+{% file src=".gitbook/assets/Guide des bonnes pratiques démarches-simplifiees.pdf" %}
+
 ### **Retrouvez ci-après les différents bilans effectués relatifs aux usages de "démarches-simplifiées"**
-
-{% file src=".gitbook/assets/bilan 1 semestre 2021.pdf" %}
-Bilan 1er semestre 2021
-{% endfile %}
-
-{% file src=".gitbook/assets/bilan 2020.pdf" %}
-Bilan de Démarches simplifiées pour 2020
-{% endfile %}
-
-{% file src=".gitbook/assets/BILANDS22MOIS.pdf" %}
-Présentation du Bilan de démarches simplifiées
-{% endfile %}
-
-{% file src=".gitbook/assets/new avril 2020.pdf" %}
-Bilan des 4 premiers mois de l'année 2020
-{% endfile %}
-
-{% file src=".gitbook/assets/new mai 2020.pdf" %}
-Point demarches-simplifiees fin mai 2020
-{% endfile %}
-
-{% file src=".gitbook/assets/new juin 2020.pdf" %}
-Bilan démarches simplifiees fin juin 2020 / Premier semestre 2020
-{% endfile %}
-
-{% file src=".gitbook/assets/Présentation DS septembre 2022.pdf" %}
 
 ### Objectif
 
