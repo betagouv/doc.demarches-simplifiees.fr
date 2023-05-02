@@ -369,6 +369,7 @@ fragment DossierFragment on Dossier {
     ...GroupeInstructeurFragment
   }
   demandeur {
+    __typename
     ... on PersonnePhysique {
       civilite
       nom
