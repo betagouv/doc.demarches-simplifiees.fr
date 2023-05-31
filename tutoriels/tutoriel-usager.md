@@ -58,7 +58,7 @@ La première information demandée est le numéro SIRET permettant de récupére
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
 Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
 
@@ -104,7 +104,7 @@ Il est possible d'inviter un tiers à compléter ou à modifier un dossier.&#x20
 
 En accédant au dossier concerné, cliquer sur le bouton "Inviter une personne à modifier ce dossier" en haut à droite, saisir une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquer sur le bouton « Envoyer une invitation ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
 
 La personne invitée reçoit alors un e-mail l’invitant à se connecter sur demarches-simplifiees.fr afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
 

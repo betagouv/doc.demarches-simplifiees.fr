@@ -8,7 +8,11 @@ Ce tutoriel présente les étapes de création d’une démarche sur demarches-s
 
 Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat  situé en bas à droite de la page :&#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 Vous avez également la possibilité de nous contacter à l'adresse : contact@demarches-simplifiees.fr
 
@@ -59,7 +63,11 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 * **Closes** : Une démarche close est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
 * **Supprimées** : Une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
 
+<div align="center">
+
 <figure><img src="../.gitbook/assets/démarche interface admin .png" alt=""><figcaption><p>tableau de bord  administrateur </p></figcaption></figure>
+
+</div>
 
 ## 4. Découvrir le tableau de bord de l'ensemble des démarches publiées &#x20;
 

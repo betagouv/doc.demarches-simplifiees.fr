@@ -1,75 +1,95 @@
 ---
 description: >-
-  Dans vos démarches, il est maintenant possible d'attribuer automatiquement des
-  dossiers à des groupes d'instructeurs.
+  Dans vos démarches, il est possible d'attribuer automatiquement des dossiers à
+  des groupes d'instructeurs.
 ---
 
 # Routage des dossiers
 
-## 1. **Présentation de la fonctionnalité routage**&#x20;
+## 1. **Présentation**&#x20;
 
-Le routage est une fonctionnalité pour les démarches nécessitant le partage de l’instruction entre différents groupes en fonction d’un critère précis (territoire, thématique ou autre).
+Le routage permet de partager l’instruction entre différents groupes en fonction d’un critère précis (territoire, thématique...).
 
-Cette fonctionnalité permet d’acheminer les dossier vers chaque groupe, et de ne plus avoir besoin de filtrer ses dossiers parmi une grande quantité de demandes. Elle est donc particulièrement adaptée pour les démarches nationales instruites localement.&#x20;
+Une fois le routage configuré, les dossiers sont acheminés automatiquement vers les groupes d'instructeurs en fonction des règles de routage définies par l'administrateur.
 
-Les instructeurs ne voient que les dossiers les concernant et n'ont donc pas accès aux données extérieures à leur périmètre.&#x20;
+Ce système est particulièrement adapté aux démarches nationales instruites localement.
 
-## **2. Activation de la fonctionnalité**
+## **2. Configuration du routage**&#x20;
 
-La fonctionnalité routage est désormais activée pour l'ensemble des démarches même si celle-ci est désactivée par défaut. Vous trouverez ci-dessous le tutoriel d'activation de la fonctionnalité .&#x20;
+* Dans la page "Configuration des champs" créez un champ de type choix simple qui permettra de router les dossiers. Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur "Continuer".
 
-## **3.  Mise en place du routage**
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-31-50.png" alt=""><figcaption></figcaption></figure>
 
-Une fois la fonctionnalité activée, l'onglet "Instructeurs" de votre interface de configuration de la démarche se transforme en "Groupe instructeurs".
+* Cliquez sur la tuile "Instructeurs" de votre interface de configuration, puis sur "Options" dans le menu latéral, puis sur le bouton "Configurer le routage".
 
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-12 14-14-52.png" alt=""><figcaption></figcaption></figure>
 
+* Deux options sont possibles : routage à partir d'un champ et routage avancé.
 
-![](<../.gitbook/assets/image (48) (1).png>)
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-12 14-20-51 (1).png" alt=""><figcaption></figcaption></figure>
 
-Pour les démarches sans routage, vous pourrez continuer à affecter vos instructeurs en les ajoutant au groupe “défaut”
+## **3.  Routage à partir d'un champ**
 
-![](../.gitbook/assets/1.png)
-
-Pour mettre en place le routage, il faut se rendre dans l’onglet "Groupe d’instructeurs" :
-
-* **Renseigner le libellé du routage**&#x20;
-
-Le libellé du routage correspond au nom du menu déroulant qui permettra à l'usager d'orienter son dossier vers le bon groupe d'instructeur.&#x20;
-
-![](../.gitbook/assets/2.png)
-
-* **Ajouter les groupes d'instructeurs**
-
-Chaque groupe d'instructeurs correspond à un choix du menu déroulant&#x20;
-
-![](../.gitbook/assets/3.png)
-
-Une fois le groupe créé, il suffit d'indiquer les adresses mails des futurs instructeurs afin de leur ouvrir les droits.
-
-![](../.gitbook/assets/4.png)
+* Ce mode de configuration du routage vous permet de créer automatiquement les groupes d'instructeurs et les règles de routage à partir du contenu d'un champ de type choix simple.
+* Une fois le mode "Routage à partir d'un champ" sélectionné, choisissez le champ du formulaire à partir duquel router les dossiers.
 
 
 
-## 4. Le routage en tant qu'usager&#x20;
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-12 14-36-55.png" alt=""><figcaption></figcaption></figure>
 
-Vous trouverez ci-dessous la prévisualisation d'un formulaire utilisant le routage. Le champ permettant le routage est obligatoirement un menu déroulant situé au tout début de la démarche. Il n'est pas possible de faire le routage sur un autre type de champ
+* Au clic sur "Créer les groupes", un groupe d'instructeurs et la règle de routage associée seront créés pour chaque valeur possible du champ choisi.
 
-![](../.gitbook/assets/6.png)
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-24-00.png" alt=""><figcaption></figcaption></figure>
 
-Si l'usager s'est trompé en sélectionnant ce champ et que son dossier est routé vers le mauvais groupe d'instructeur, il lui suffit de modifier la valeur du champ routage pour que son dossier puisse être transmis au bon groupe d'instructeur. Pour ce faire, il faut néanmoins que son dossier soit en construction.
 
-## 5. Le routage en tant qu'instructeur&#x20;
 
-En tant qu'instructeur d'une démarche utilisant le routage, l'onglet "instructeurs" apparaît en dessous du titre de la démarche.
+## 4.Routage avancé&#x20;
+
+* Ce mode de configuration du routage crée deux groupes d'instructeurs. Ensuite, libre à vous de les renommer et de leur attribuer des règles de routage à partir du ou des champs de type choix simple de votre formulaire.
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-34-13.png" alt=""><figcaption></figcaption></figure>
+
+* Si un badge "À configurer" apparaît , c'est que la règle de routage du groupe doit être définie
+* Si deux groupes ont la même règle de routage, les dossiers seront envoyés au premier groupe de la liste par ordre d'affichage
+
+## 5. Gestion d'un groupe
+
+* Dans la page d'un groupe d'instructeurs, il est possible de renommer le groupe, de changer ses règles de routage, de le désactiver ou encore de le supprimer.
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-35-20.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## 6. Ajout de groupes
+
+* Une fois le routage mis en place, vous pouvez créer de nouveaux groupes d'instructeurs. Pour leur associer de nouvelles règles de routage, il faut ajouter des options dans le champ utilisé pour le routage, depuis la page "Champs du formulaire". Une fois les modifications du formulaire publiées, vous pouvez sélectionner la règle de routage dans la page du groupe d'instructeurs.&#x20;
+
+## 7. Routage et conditionnel
+
+* Il est possible de conditionner l'affichage d'un champ dédié au routage (voir l'exemple ci-dessous). Si le champ est affiché, le dossier sera routé en fonction du choix de l'usager. Si le champ n'est pas affiché, le dossier sera routé vers le groupe d'instructeurs par défaut (à définir en bas de la page "Gestion des groupes")
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+## 8. Supprimer le routage
+
+* Pour supprimer le routage, vous pouvez soit supprimer tous les groupes d'instructeurs, soit aller dans la page "Options" et cliquer sur "Supprimer le routage".
+
+## 9. Le routage en tant qu'usager
+
+* Si l'usager s'est trompé en sélectionnant une mauvaise option du champ dédié au routage et que son dossier est routé vers le mauvais groupe d'instructeurs, il lui suffit de modifier la valeur du champ pour que son dossier puisse être transmis au bon groupe d'instructeurs. Pour ce faire, il faut néanmoins que son dossier soit en construction.
+
+## 10. Le routage en tant qu'instructeur&#x20;
+
+* En tant qu'instructeur d'une démarche utilisant le routage, l'onglet "instructeurs" apparaît en dessous du titre de la démarche.
 
 ![](<../.gitbook/assets/Screenshot 2020-01-31 at 10.56.48.png>)
 
-Ce menu permet à l'instructeur de voir l'ensemble des groupes auxquels il a été affecté.&#x20;
+* Ce menu permet à l'instructeur de voir l'ensemble des groupes auxquels il a été affecté.&#x20;
 
 ![](<../.gitbook/assets/Screenshot 2020-01-31 at 11.28.49.png>)
 
-Pour chaque groupe d'instructeurs, il peut visualiser l'ensemble des instructeurs qui y sont affectés.
+* Pour chaque groupe d'instructeurs, il peut visualiser l'ensemble des instructeurs qui y sont affectés.
 
 ![](<../.gitbook/assets/Screenshot 2020-01-31 at 11.29.53.png>)
 
-Tous les instructeurs d'un groupe ont la possibilité d'ajouter un nouvel instructeur à ce groupe ou d'en retirer un. La  gestion des groupes peut donc se faire en autonomie et ne nécessite pas l'intervention de l'administrateur. Néanmoins, chaque ajout ou retrait d'un instructeur entraîne l'envoi d'un e-mail à l'ensemble des instructeurs du groupe concerné.
+* Tous les instructeurs d'un groupe ont la possibilité d'ajouter un nouvel instructeur à ce groupe ou d'en retirer un. La gestion des groupes peut donc se faire en autonomie et ne nécessite pas l'intervention de l'administrateur.&#x20;
