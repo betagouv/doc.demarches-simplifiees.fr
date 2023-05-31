@@ -185,9 +185,11 @@ Compte tenu de l’intégration de la démarche dans son propre système d’inf
 
 ### b. Restrictions d’usage <a href="#_toc108111737" id="_toc108111737"></a>
 
-L'administration consommatrice du service doit se mettre enconformité avec les règles du RGPD s'agissant de la collecte et du traitement des données personnelles et /ou sensibles. On entend par données à caractère personnel dites « sensibles » : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions .
+L'administration consommatrice du service doit se mettre en conformité avec les règles du RGPD s'agissant de la collecte et du traitement des données personnelles et /ou sensibles. On entend par données à caractère personnel dites « sensibles » : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions .
 
 Le Service n’est pas prévu pour les démarches qui pourraient être effectuées par des mineurs de moins de 15 ans. L’accès à une démarche administrative pour les mineurs de plus de 15 ans relève de l’appréciation de l’Administration.
+
+Le service n'est pas prévu pour la collecte et le traitement des données de santé.
 
 ### c. Les différents rôles de l’Administration : <a href="#_toc108111738" id="_toc108111738"></a>
 
