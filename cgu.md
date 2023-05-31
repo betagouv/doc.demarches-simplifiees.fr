@@ -258,7 +258,7 @@ La DINUM n’accorde aux membres de son personnel l’accès aux données à car
 
 #### iv. Données sensibles <a href="#_toc108111749" id="_toc108111749"></a>
 
-L'administration consommatrice du service doit se mettre enconformité avec les règles du RGPD s'agissant de la collecte et du traitement des données personnelles et /ou sensibles.
+L'administration consommatrice du service doit se mettre en conformité avec les règles du RGPD s'agissant de la collecte et du traitement des données personnelles et /ou sensibles.
 
 #### v. Documentation et conformité <a href="#_toc108111750" id="_toc108111750"></a>
 
