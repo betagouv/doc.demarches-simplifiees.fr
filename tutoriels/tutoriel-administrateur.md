@@ -719,7 +719,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 <figure><img src="../.gitbook/assets/image (27) (4).png" alt=""><figcaption><p>Interface expert invité </p></figcaption></figure>
 
-* Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émit lors de la démarche en bas de page.&#x20;
+* Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émis lors de la démarche en bas de page.&#x20;
 
 <figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Liste des experts et nombre d'avis , en tant qu'amdinistrateur </p></figcaption></figure>
 
