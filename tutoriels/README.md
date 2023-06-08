@@ -1,7 +1,5 @@
 ---
-description: >-
-  Cette page présente les tutoriels, sous forme de vidéo, mais aussi de textes,
-  décrivant comment utiliser DS.
+description: "Cette page présente les tutoriels, sous forme de vidéo, mais aussi de textes, décrivant comment utiliser «\_Démarches simplifiées\_»."
 ---
 
 # Tutoriels et vidéos
