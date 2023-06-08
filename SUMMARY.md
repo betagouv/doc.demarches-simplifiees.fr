@@ -14,7 +14,7 @@
   * [Vidéo : la sécurité de demarches-simplifiees.fr](tutoriels/video-la-securite-de-demarches-simplifiees.md)
   * [Vidéo : le cadre juridique](tutoriels/video-le-cadre-juridique.md)
   * [Vidéo : la relation usager](tutoriels/video-la-relation-usager.md)
-  * [Intégration du bouton "Mon avis"](tutoriels/integration-du-bouton-mon-avis.md)
+  * [Intégration du bouton « Mon avis »](tutoriels/integration-du-bouton-mon-avis.md)
 * [Nouveautés](nouveautes/README.md)
   * [Pour les administrateurs](nouveautes/pour-les-administrateurs.md)
   * [Pour les instructeurs](nouveautes/pour-les-instructeurs.md)
