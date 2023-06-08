@@ -17,5 +17,5 @@ Les scripts (macro) sont un moyen très efficace pour gagner du temps. Néanmoin
 
 ## Mais j'ai vraiment besoin que mon script marche tout le temps !
 
-1. Laisser tomber l'export excel, et utilisez l'[api](graphql.md)
+1. Laissez tomber l'export excel, et utilisez l'[api](graphql.md)
 2. Gardez un bon contact / contrat avec le développeur des macros pour qu'il puisse les mettre à jour régulièrement
