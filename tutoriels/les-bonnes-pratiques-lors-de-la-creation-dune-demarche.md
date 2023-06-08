@@ -1,6 +1,6 @@
 ---
 description: >-
-  Retrouvez ici quelques conseils pour créer une démarche et efficace pour les
+  Retrouvez ici quelques conseils pour créer une démarche efficace pour les
   usagers comme pour les instructeurs.
 ---
 

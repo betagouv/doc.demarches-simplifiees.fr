@@ -669,7 +669,7 @@ Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne
 
 &#x20;Si vous souhaitez opérer une gestion des experts invités d'une démarche qui seront sollicités par les instructeurs, rendez-vous dans l'onglet « avis externes ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p>Paramétrage des avis extrenes , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p>Paramétrage des avis externes , en tant qu'administrateur </p></figcaption></figure>
 
 * L'écran qui s'affiche est alors celui ci-dessous.&#x20;
 
@@ -693,7 +693,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Pour retirer la possibilité pour les instructeurs de solliciter un expert invité,  il vous suffit de désactiver la fonctionnalité "autoriser les instructeurs à solliciter des experts invités". Ainsi, les instructeurs de la démarche ne pourront plus solliciter d'experts invités dans un dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>Désactiver les axis externes, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24) (2).png" alt=""><figcaption><p>Désactiver les avis externes, en tant qu'administrateur </p></figcaption></figure>
 
 * Les avis externes sont alors désactivés.&#x20;
 
