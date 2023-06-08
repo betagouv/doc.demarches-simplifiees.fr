@@ -812,7 +812,7 @@ Dans le cas d’un appel à projet, il peut être souhaitable de choisir une dat
 
 <figure><img src="../.gitbook/assets/image (16) (2).png" alt=""><figcaption><p>Clore une démarche, en tant qu'administrateur </p></figcaption></figure>
 
-Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparait avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
+Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparaît avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
 <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
@@ -863,7 +863,7 @@ La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer 
 
 <figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
 
-Ensuite, un message d'avertissement apparait. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
+Ensuite, un message d'avertissement apparaît. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (5).png" alt=""><figcaption></figcaption></figure>
 
