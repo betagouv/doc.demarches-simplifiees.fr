@@ -56,12 +56,12 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 ## 3. Découvrir son tableau de bord des démarches créées
 
-&#x20;Une fois connecté, vous accédez au tableau de bord qui affiche les démarches créées. Ce dernier s’organise en quatre parties, comme suit :&#x20;
+Une fois connecté, vous accédez au tableau de bord qui affiche les démarches créées. Ce dernier s’organise en quatre parties, comme suit :&#x20;
 
-* **En test** : Les démarches à l’état de brouillon sont celles créées mais non finalisées et non publiées. Aucun usager ne peut y déposer des dossiers et l’ensemble de leurs éléments peut être modifié.&#x20;
-* **Publiées** : Une démarche est considérée publiée lorsque celle-ci est accessible via un lien url. Les usagers peuvent désormais y déposer des dossiers et la majorité des éléments  de la démarche ne peuvent plus être modifiés.
-* **Closes** : Une démarche close est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
-* **Supprimées** : Une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
+* **En test** : les démarches à l’état de brouillon sont celles créées mais non finalisées et non publiées. Aucun usager ne peut y déposer des dossiers et l’ensemble de leurs éléments peut être modifié.&#x20;
+* **Publiées** : une démarche est considérée publiée lorsque celle-ci est accessible via un lien url. Les usagers peuvent désormais y déposer des dossiers et la majorité des éléments  de la démarche ne peuvent plus être modifiés.
+* **Closes** : une démarche close est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
+* **Supprimées** : une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
 
 <div align="center">
 
@@ -73,7 +73,7 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié.&#x20;
 
-&#x20;Ainsi,  pour consulter les informations ( administrateur et date de création) sur les démarches simplifies pour toutes les zones , il vous suffit de cliquer sur " toutes les démarches" puis de filtrer par zones et/ou par statut.&#x20;
+Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches simplifies pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut.&#x20;
 
 <figure><img src="../.gitbook/assets/tableau de bord toutes les démarches.png" alt=""><figcaption><p>tableau de bord de toutes les démarches</p></figcaption></figure>
 
@@ -89,23 +89,23 @@ La création d’une nouvelle démarche peut se faire soit à partir de zéro so
 
 <figure><img src="../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
 
-Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton "rechercher".
+Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
 
-&#x20;La liste des démarches associée à l'intitulé recherché s'affichera et vous pourrez alors cliquer sur le bouton « Cloner ».&#x20;
+La liste des démarches associées à l'intitulé recherché s'affichera et vous pourrez alors cliquer sur le bouton « Cloner ».&#x20;
 
-&#x20;Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
+Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
 <figure><img src="../.gitbook/assets/cloner une démarche .png" alt=""><figcaption><p>Cloner une démarche pré-existante</p></figcaption></figure>
 
 {% hint style="info" %}
-**ATTENTION** : Les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
+**ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
 
 Exemple : pour la dotation aux équipements pour les territoires ruraux, on peut aussi tester le sigle DETR.
 {% endhint %}
 
 ## 6. Décrire sa démarche
 
-Après avoir cliqué sur le bouton "Créer une nouvelle démarche de zéro" en haut à gauche de la page, une nouvelle page s’affiche. Celle-ci permet de paramétrer la page de présentation de votre démarche. Ce seront les premières informations visibles par l’usager.&#x20;
+Après avoir cliqué sur le bouton « Créer une nouvelle démarche de zéro » en haut à gauche de la page, une nouvelle page s’affiche. Celle-ci permet de paramétrer la page de présentation de votre démarche. Ce seront les premières informations visibles par l’usager.&#x20;
 
 {% hint style="info" %}
 Lorsque vous clonez une démarche, le procédé ci-dessous est identique&#x20;
@@ -119,7 +119,7 @@ Tous les champs marqués d'un astérisque sont obligatoires.
 
 En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire. Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
 
-Dans la description, on indique le contexte et l’objectif de la démarche mais aussi le public visé. Une fois la description terminée, descendez en bas de la page et cliquer sur le bouton « Créer la démarche ».&#x20;
+Dans la description, on indique le contexte et l’objectif de la démarche mais aussi le public visé. Une fois la description terminée, descendez en bas de la page et cliquez sur le bouton « Créer la démarche ».&#x20;
 
 Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus tard. En revanche, comme les informations remplies ne s’enregistrent pas automatiquement, nous vous conseillons de le faire par vous-même régulièrement.
 
@@ -137,7 +137,7 @@ Afin d’être en conformité avec le Règlement Général sur la Protection des
 
 ![Choix de la durée de conservation des données, en tant qu'administrateur ](../.gitbook/assets/Captures.PNG)
 
-À savoir que les dossiers sur démarches-simplifiees seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.&#x20;
+À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.&#x20;
 
 Cependant tant l'instructeur que l'usager peuvent étendre la durée de conservation.&#x20;
 
