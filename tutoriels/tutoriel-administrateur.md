@@ -659,15 +659,15 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 Il est désormais possible d'affecter automatiquement les dossiers à des groupes d'instructeurs préalablement définis à l'avance. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la fonction routage en cliquant [ici](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/routage).&#x20;
 
-## **12. La gestion des "avis experts invités" de votre démarche**
+## **12. La gestion des** « **avis experts invités** » **de votre démarche**
 
-En tant qu'administrateur de la démarche vous bénéficiez, de la possibilité de donner des droits aux instructeurs pour que ces derniers sollicitent l'avis d'experts invités. En effet, afin d'être en conformité avec le Règlement Général sur la Protection des Données (article 32-4 du RGPD) , il convient d'assurer la traçabilité des actions de traitement des données personnelles menées par les personnes qui sont habilitées à traiter un dossier, c'est-à-dire les instructeurs de la démarche. &#x20;
+En tant qu'administrateur de la démarche, vous bénéficiez de la possibilité de donner des droits aux instructeurs pour que ces derniers sollicitent l'avis d'experts invités. En effet, afin d'être en conformité avec le Règlement Général sur la Protection des Données (article 32-4 du RGPD), il convient d'assurer la traçabilité des actions de traitement des données personnelles menées par les personnes qui sont habilitées à traiter un dossier, c'est-à-dire les instructeurs de la démarche. &#x20;
 
-Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne la gestion des experts invités qui seront sollicités par les instructeurs à donner leurs avis. Pour en savoir plus concernant les "experts invités", nous vous invitons à consulter notre page consacrée au tutoriel "expert invités" en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-expert-invite).&#x20;
+Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne la gestion des experts invités qui seront sollicités par les instructeurs à donner leurs avis. Pour en savoir plus concernant les « experts invités », nous vous invitons à consulter notre page consacrée au tutoriel « experts invités » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-expert-invite).&#x20;
 
-#### &#x20;                 **Présentation générale de l'onglet "avis externes"**&#x20;
+#### &#x20;                 **Présentation générale de l'onglet** « **avis externes** »&#x20;
 
-&#x20;Si vous souhaitez opérer une gestion des experts invités d'une démarche qui seront sollicités par les instructeurs, rendez-vous dans l'onglet "avis externes".&#x20;
+&#x20;Si vous souhaitez opérer une gestion des experts invités d'une démarche qui seront sollicités par les instructeurs, rendez-vous dans l'onglet « avis externes ».&#x20;
 
 <figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p>Paramétrage des avis extrenes , en tant qu'administrateur </p></figcaption></figure>
 
@@ -699,23 +699,23 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 ### **B. Laisser aux instructeurs la liberté de solliciter des experts invités**&#x20;
 
-* Une deuxième possibilité est à votre disposition, vous pouvez choisir d'utiliser par défaut la fonctionnalité "autoriser les instructeurs à solliciter des experts invités".\
+* Une deuxième possibilité est à votre disposition, vous pouvez choisir d'utiliser par défaut la fonctionnalité « autoriser les instructeurs à solliciter des experts invités ».\
 
 * Les instructeurs de votre démarche sont alors libres de solliciter des experts invités afin que ces derniers, après notification, émettent un avis sur un dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté instructeurs** :&#x20;
-* Ils doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous.&#x20;
+* Ils doivent désormais,  **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.&#x20;
 
 <figure><img src="../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Demande d'avis externes, en tant qu'instructeur </p></figcaption></figure>
 
-* Une fois les adresses email des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton "demander un avis" situé en bas de l'écran.
+* Une fois les adresses e-mails des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton « demander un avis » situé en bas de l'écran.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté experts :**&#x20;
-* Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet "avis" s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.&#x20;
+* Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet « avis » s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.&#x20;
 
 <figure><img src="../.gitbook/assets/image (27) (4).png" alt=""><figcaption><p>Interface expert invité </p></figcaption></figure>
 
@@ -723,18 +723,18 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 <figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Liste des experts et nombre d'avis , en tant qu'amdinistrateur </p></figcaption></figure>
 
-### **C**. P**rédéfinir une liste d'experts invités et d'en notifier la décision finale**&#x20;
+### **C**. P**rédéfinir une liste d'experts invités**&#x20;
 
-* Vous avez également la possibilité de gérer les experts invités de la démarche en définissant, désormais, à l'avance une liste d'experts invités. Pour ce faire, il vous suffit d'activer le bouton "Gérer les experts invités de la démarche".
+* Vous avez également la possibilité de gérer les experts invités de la démarche en définissant, désormais, à l'avance une liste d'experts invités. Pour ce faire, il vous suffit d'activer le bouton « Gérer les experts invités de la démarche ».
 
 <figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Gestion des experts invités, en tant qu'administrateur </p></figcaption></figure>
 
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.&#x20;
-* Il vous suffit, **d'ajouter une à une les adresses email des experts** et de **cliquer ensuite sur l'adresse email venant d'être indiquée** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche.
+* Il vous suffit **d'ajouter une à une les adresses e-mails des experts** et de **cliquer ensuite sur l'adresse e-mail venant d'être indiquée** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche.
 
 <figure><img src="../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
-* **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton "retirer" situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
+* **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton « Retirer » situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
 
 <figure><img src="../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -746,7 +746,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 ### D. Gérer la notification des décisions finales aux experts affectés au dossier.
 
-Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de cliquer sur le bouton situé en dessous de "notifier des décisions sur les dossiers".&#x20;
+Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de cliquer sur le bouton situé en dessous de « Notifier des décisions sur les dossiers ».&#x20;
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -768,7 +768,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
-Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) Demarches-simplifiees.fr permet l'intégration directe de l'outil "MonAvis" au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
+Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) demarches-simplifiees.fr permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
 
 ![](<../.gitbook/assets/image (37).png>)
 
@@ -782,15 +782,15 @@ Afin d'orienter les usagers suite au dépôt de son dossier, vous avez la possib
 
 <figure><img src="../.gitbook/assets/image (6) (3).png" alt=""><figcaption></figcaption></figure>
 
-Le message de fin de dépôt de dossier est paramétré par défaut ( voir ci-dessus). Vous pouvez alors modifier le message affiché.&#x20;
+Le message de fin de dépôt de dossier est paramétré par défaut (voir ci-dessus). Vous pouvez alors modifier le message affiché.&#x20;
 
 ## 15. Publier sa démarche
 
 {% hint style="info" %}
-**ATTENTION :** Avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépôt du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet "Test et publication" de la démarche.
+**ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépô du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
 {% endhint %}
 
-La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet "Test et publication", puis cliquez sur le bouton "Publier", situé en haut à droite de votre écran.
+La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
 
 <figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -802,9 +802,9 @@ Nous vous recommandons de personnaliser la partie de l'URL située après "/comm
 
 Vous pouvez ensuite indiquer si la démarche à publier en remplace une ancienne afin d'orienter les  usagers vers la nouvelle démarche.&#x20;
 
-Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. Si ce n'est pas sur un site internet, vous pouvez indiquer le moyen de diffusion utilisé comme "mail". Cliquez enfin sur le bouton "Publier" pour finaliser la publication.
+Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. Si ce n'est pas sur un site internet, vous pouvez indiquer le moyen de diffusion utilisé comme « mail ». Cliquez enfin sur le bouton « Publier » pour finaliser la publication.
 
-**Une fois la démarche publiée, vous avez la possibilité de modifier la démarche à tout moment excepté la partie " à qui s'adresse ma démarche ".**&#x20;
+**Une fois la démarche publiée, vous avez la possibilité de modifier la démarche à tout moment excepté la partie « à qui s'adresse ma démarche ».**&#x20;
 
 ## 16. Clore une démarche&#x20;
 
@@ -823,25 +823,25 @@ Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que l
 **La clôture de la démarche induit :**&#x20;
 
 * pour les usagers : la fermeture de dépôt de dossiers. Toutefois, ils peuvent toujours accéder aux dossiers déjà déposés et ainsi procéder aux modifications si le dossier est en construction.&#x20;
-* pour les instructeurs, aucun changement. Ces derniers peuvent poursuivre l'instruction des dossiers déposés .&#x20;
+* pour les instructeurs, aucun changement. Ces derniers peuvent poursuivre l'instruction des dossiers déposés.&#x20;
 * pour les experts, aucun changement. Les instructeurs peuvent toujours solliciter les experts à donner leurs avis pour un dossier déjà déposé.&#x20;
 
 ## 17. Transférer sa démarche
 
-Une démarche d'un collègue peut ne pas être présente dans le catalogue des démarches car il faut 30 dossiers pour qu'elle y soit incluse. Cependant, vous pouvez tout de même partager votre démarche avec votre collègue. A cette fin, rendez-vous sur votre profil administrateur.
+Une démarche d'un collègue peut ne pas être présente dans le catalogue des démarches car il faut 30 dossiers pour qu'elle y soit incluse. Cependant, vous pouvez tout de même partager votre démarche avec votre collègue. À cette fin, rendez-vous sur votre profil administrateur.
 
-* Cliquez sur l'onglet " Envoyer une copie "
+* Cliquez sur l'onglet « Envoyer une copie »
 
 <figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-La fenêtre suivante apparaît, cliquer à nouveau sur " Envoyer une copie "
+La fenêtre suivante apparaît, cliquer à nouveau sur « Envoyer une copie »
 
 * Renseignez l'adresse e-mail de votre collègue
 * Enfin, cliquez sur le bouton « Envoyer à l'administrateur »
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Transfert d'une démarche à un autre administrateur </p></figcaption></figure>
 
-Une copie de votre démarche apparaît dans ses démarches "En test".
+Une copie de votre démarche apparaît dans ses démarches « En test ».
 
 Vous avez également la possibilité de télécharger le formulaire en format pdf grâce au bouton dédié :&#x20;
 
@@ -849,7 +849,7 @@ Vous avez également la possibilité de télécharger le formulaire en format pd
 
 ## 18. Télécharger une archive globale des dossiers
 
-Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés ( faisant l'objet d'une décision finale) sous différents formats . Pour cela, il vous suffit de cliquer sur le bouton "télécharger"&#x20;
+Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés (faisant l'objet d'une décision finale) sous différents formats. Pour cela, il vous suffit de cliquer sur le bouton « Télécharger ».
 
 <figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Générer une archive des dossiers, en tant qu'administrateur </p></figcaption></figure>
 
