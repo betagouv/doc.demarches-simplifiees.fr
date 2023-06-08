@@ -380,7 +380,7 @@ Le tableau d'extraction des dossiers ne contient pas les pièces jointes par les
 
 Toute modification effectuée par l’usager sur un dossier suivi ou traité génère une notification du côté instructeur afin de l’en avertir. Cette notification est représentée par une pastille orange qui permet à l’instructeur de trouver le ou les dossier(s) mis à jour par l'usager.&#x20;
 
-La pastille orange apparaît d’abord sur la colonne d’état du dossier concerné, dans l'exemple ci-après sur la colonne "suivis" :
+La pastille orange apparaît d’abord sur la colonne d’état du dossier concerné, dans l'exemple ci-après sur la colonne « suivis » :
 
 ![](<../.gitbook/assets/Capture (2).PNG>)
 
@@ -404,7 +404,7 @@ L'instructeur est notifié par e-mail de l'activité sur chacune des procédures
 
 Toutefois, si la démarche est déclarative, cet e-mail n'est pas envoyé.&#x20;
 
-Afin de paramétrer son choix de notification, l'instructeur a accès au bouton " gestion des notifications " depuis le tableau de bord de la démarche :
+Afin de paramétrer son choix de notification, l'instructeur a accès au bouton « gestion des notifications » depuis le tableau de bord de la démarche :
 
 ![](<../.gitbook/assets/gestion notif.PNG>)
 
