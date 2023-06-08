@@ -184,17 +184,17 @@ Afin d'accéder au détail d'un dossier, cliquer sur celui-ci :
 
 ### D. Modifier un dossier
 
-Un dossier peut être modifié s'il est en brouillon ou en construction. Pour cela cliquer sur le bouton "Modifier mon dossier" en haut à droite :
+Un dossier peut être modifié s'il est en brouillon ou en construction. Pour cela cliquer sur le bouton « Modifier mon dossier » en haut à droite :
 
 ![Modifier son dossier, en tant qu'usager](../.gitbook/assets/12.PNG)
 
-Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton "Enregistrer les modifications du dossier", situé en bas de page :
+Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton « Enregistrer les modifications du dossier », situé en bas de page :
 
 ![](../.gitbook/assets/13.PNG)
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
-Un onglet "Messagerie" est intégrée au dossier : celui-ci reprend les e-mails qui sont envoyés à l'usager et lui permet de communiquer directement avec le service instructeur.
+Un onglet « Messagerie » est intégrée au dossier : celui-ci reprend les e-mails qui sont envoyés à l'usager et lui permet de communiquer directement avec le service instructeur.
 
 ![](../.gitbook/assets/15.PNG)
 
@@ -204,7 +204,7 @@ Possibilité de joindre un fichier au message (max 20 Mo) en cliquant sur « Par
 
 ![Joindre un fichier sur la messagerie, en tant qu'usager](../.gitbook/assets/16.PNG)
 
-En absence de réponse ou si vous souhaitez contacter directement l'administration, les informations de contact sont disponibles en bas de page de la démarche concernée, sous la rubrique "Poser une question sur votre dossier".&#x20;
+En absence de réponse ou si vous souhaitez contacter directement l'administration, les informations de contact sont disponibles en bas de page de la démarche concernée, sous la rubrique « Poser une question sur votre dossier ».&#x20;
 
 ![Aperçu de la rubrique "Poser une question sur votre dossier", en tant qu'usager](../.gitbook/assets/18.PNG)
 

@@ -7,7 +7,7 @@
 * [Cas d'usage](cas-dusage.md)
 * [Tutoriels et vidéos](tutoriels/README.md)
   * [Tutoriel usager](tutoriels/tutoriel-usager.md)
-  * [Tutoriel "expert invité"](tutoriels/tutoriel-expert-invite.md)
+  * [Tutoriel « expert invité »](tutoriels/tutoriel-expert-invite.md)
   * [Tutoriel instructeur](tutoriels/tutoriel-instructeur.md)
   * [Tutoriel administrateur](tutoriels/tutoriel-administrateur.md)
   * [Les bonnes pratiques lors de la création d'une démarche](tutoriels/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
