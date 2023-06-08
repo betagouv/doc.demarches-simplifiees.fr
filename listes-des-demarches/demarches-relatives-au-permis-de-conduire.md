@@ -7,12 +7,12 @@ description: >-
 
 # Démarches relatives au permis de conduire
 
-Demarches-simplifiees.fr héberge quatre types de démarches relatives au permis de conduire :&#x20;
+demarches-simplifiees.fr héberge quatre types de démarches relatives au permis de conduire :&#x20;
 
-* Démarches relatives aux échanges de permis étrangers ;
-* Démarches concernant la demande de place à l’examen pratique du permis de conduire ;
-* Démarches concernant le n° NEPH ;
-* Démarches pour la labellisation des auto-écoles.
+* Démarches relatives aux échanges de permis étrangers
+* Démarches concernant la demande de place à l’examen pratique du permis de conduire
+* Démarches concernant le n° NEPH
+* Démarches pour la labellisation des auto-écoles
 
 ## Lexique
 
@@ -26,7 +26,7 @@ Demarches-simplifiees.fr héberge quatre types de démarches relatives au permis
 
 ## Démarches disponibles sur notre site
 
-Demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
+demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
 
 #### Démarches relatives aux échanges de permis de conduire étrangers
 
@@ -37,7 +37,7 @@ Demarches-simplifiees.fr est un outil numérique proposé aux administrations po
 
 \
 Pour effectuer votre demande dématérialisée, rendez-vous sur le site internet de l'Agence Nationale des Titres Sécurisés (ANTS) : [https://ants.gouv.fr/monespace/s-inscrire](https://ants.gouv.fr/monespace/s-inscrire)\
-La confirmation de vos coordonnées postales vous sera demandée à la fin de l'instruction de votre demande sur votre "espace conducteur".\
+La confirmation de vos coordonnées postales vous sera demandée à la fin de l'instruction de votre demande sur votre « espace conducteur ».\
 \
 Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduire avant le mois d'août 2020 et que vous n'avez pas eu de suites, vous pouvez déclarer votre adresse actuelle à l'aide du formulaire ci-dessous :
 
@@ -107,13 +107,11 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 
 ## Annulation de permis
 
-Si vous êtes en « annulation de permis », vous devez avant tout vous ré-inscrire auprès de l’Agence Nationale des Titres Sécurisés (ANTS)[ ici](https://ants.gouv.fr/monespace/s-inscrire). Cela permettra de mettre à jour votre dossier : il passera du statut “en annulation” au statut “en demande".
+Si vous êtes en « annulation de permis », vous devez avant tout vous ré-inscrire auprès de l’Agence Nationale des Titres Sécurisés (ANTS)[ ici](https://ants.gouv.fr/monespace/s-inscrire). Cela permettra de mettre à jour votre dossier : il passera du statut « en annulation » au statut « en demande ».
 
 Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivrée automatiquement, accompagnée d’un relevé d’information vous indiquant s’il faut repasser le code ou bien à la fois le code et le permis de conduire.
 
 ## Autres démarches
-
-
 
 ### 18 - Cher
 
@@ -179,7 +177,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 55 - Déclaration de formation post-permis - Département de la Meuse\
 [https://www.demarches-simplifiees.fr/commencer/declaration-formation-post-permis\_55](https://www.demarches-simplifiees.fr/commencer/declaration-formation-post-permis\_55)\
 \
-55 - Demande de convention dans le cadre du dispositif "Permis à un euro par jour" entre l'Etat et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
+55 - Demande de convention dans le cadre du dispositif « Permis à un euro par jour » entre l'État et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
 [https://www.demarches-simplifiees.fr/commencer/demande-convention-permis-1-euro\_55](https://www.demarches-simplifiees.fr/commencer/demande-convention-permis-1-euro\_55)\
 \
 55 - Dénonciation de la convention "Permis à un euro par jour" entre l'Etat et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
