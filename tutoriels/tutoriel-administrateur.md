@@ -256,7 +256,7 @@ Le titre de section permet de segmenter et de structurer votre formulaire.  En e
 
 #### **b) Explication**&#x20;
 
-&#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique de guider l'usager ou bien d'introduire des sous-titres de section.
+&#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique, de guider l'usager ou bien d'introduire des sous-titres de section.
 
 <figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>Champ "explication" en tant qu'administrateur </p></figcaption></figure>
 
@@ -284,7 +284,7 @@ Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois
 
 #### a) Civilité&#x20;
 
-L'usager peut choisir entre "Madame" ou "Monsieur".
+L'usager peut choisir entre « Madame » ou « Monsieur ».
 
 <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Champ "civilité", en tant qu'usager </p></figcaption></figure>
 
@@ -316,7 +316,7 @@ Le champ « Pays » comporte des pays qui ont existé dans le passé, ou dont 
 
 Les champs « Régions », « Département » et « Communes » utilisent des valeurs provenant de l’[API Géo](https://api.gouv.fr/les-api/api-geo). Il s’agit des régions, départements et communes de France métropolitaine et des DROM. Les communes des TOM ne sont donc pas incluses.
 
-Pour le champ "Communes", les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera .&#x20;
+Pour le champ « Communes », les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera.&#x20;
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager </p></figcaption></figure>
 
@@ -328,13 +328,13 @@ Pour le champ "Communes", les usagers doivent dans un premier temps entrer par a
 
 #### a) Le numéro Iban&#x20;
 
-Ce champ permet uniquement de collecter les numéros  Iban valides français.
+Ce champ permet uniquement de collecter les numéros Iban valides français.
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Le champ "Iban", en tant qu'usager </p></figcaption></figure>
 
 #### b) Le numéro Siret&#x20;
 
-Ce champ permet de collecter le numéro Siret ainsi que les informations administratives reliées à ce numéro grâce à l'API Entreprise&#x20;
+Ce champ permet de collecter le numéro Siret ainsi que les informations administratives reliées à ce numéro grâce à l'API Entreprise.&#x20;
 
 Le numéro SIRET doit comporter exactement 14 chiffres.&#x20;
 
@@ -368,13 +368,13 @@ L'usager doit renseigner un nombre entier.
 
 #### e) Date&#x20;
 
-L' usager doit renseigner une date au format jj/mm/aaaa.
+L'usager doit renseigner une date au format jj/mm/aaaa.
 
 <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
 
 #### f) Date et Heure&#x20;
 
-L' usager doit renseigner une date et un horaire.
+L'usager doit renseigner une date et un horaire.
 
 <figure><img src="../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager </p></figcaption></figure>
 
@@ -382,11 +382,11 @@ L' usager doit renseigner une date et un horaire.
 
 #### a) Pièce justificative&#x20;
 
-Ce champ permet à l'usager d'ajouter à son dossier un document, quelque soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
+Ce champ permet à l'usager d'ajouter à son dossier un document, quel que soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Champ "pièce justificative" en tant qu'administrateur </p></figcaption></figure>
 
-Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableur.
+Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableurs.
 
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Champ "pièce justificative" avec modèle en tant qu'usager </p></figcaption></figure>
 
@@ -394,9 +394,9 @@ Vous avez également la possibilité de joindre un modèle de pièce justificati
 
 #### b) Titre d'identité&#x20;
 
-Ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20MO
+Ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20 Mo
 
-De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé ( faisant l'objet d'une décision finale).&#x20;
+De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale).&#x20;
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
 
@@ -410,11 +410,11 @@ Ce type de champ insère à gauche du libellé du champ une case que l'usager pe
 
 **b) Choix simple**&#x20;
 
-L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie "options de la liste" .&#x20;
+L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste » .&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
 
-Vous pouvez également proposer à l'usager une option "autre" avec un texte libre afin de laisser la possibilité à l'usager de cocher cette valeur si les autres valeurs ne correspondent pas à sa situation.
+Vous pouvez également proposer à l'usager une option « autre » avec un texte libre afin de laisser la possibilité à l'usager de cocher cette valeur si les autres valeurs ne correspondent pas à sa situation.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Champ "choix simple" en tant qu'usager </p></figcaption></figure>
 
@@ -422,7 +422,7 @@ Vous pouvez également proposer à l'usager une option "autre" avec un texte lib
 
 Le principe est le même que le champ précédent à la différence que l'usager pourra sélectionner plusieurs valeurs simultanément.
 
-A noter : lorsque plus de six champs sont ajoutés, le champ choix mulitple est affiché sous forme de liste déroulante&#x20;
+À noter : lorsque plus de six champs sont ajoutés, le champ choix multiple est affiché sous forme de liste déroulante.&#x20;
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'administrateur </p></figcaption></figure>
 
@@ -434,11 +434,11 @@ Ce champ autorise un premier niveau de conditionnalité, c'est-à-dire que le co
 
 Exemple : si mon premier menu propose les choix A, B, C et que l’usager fait le choix B, un second menu déroulant apparaît avec les choix B1, B2, B3.&#x20;
 
-Pour l'utiliser, remplissez l'encadré "Liste déroulante " en suivant le modèle ci-dessous :
+Pour l'utiliser, remplissez l'encadré « Liste déroulante » en suivant le modèle ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (10) (2).png" alt=""><figcaption><p>Exemple de choix dans la liste déroulante </p></figcaption></figure>
 
-Les titres des menus déroulant liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels
+Les titres des menus déroulant liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels.
 
 <figure><img src="../.gitbook/assets/image (27) (1).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés", en tant qu'administrateur</p></figcaption></figure>
 
@@ -446,7 +446,7 @@ Les titres des menus déroulant liés doivent donc être encadrés par des doubl
 
 **e) Oui/Non**&#x20;
 
-L'usager peut répondre "Oui" ou "Non" à la question posée dans le libellé du champ.
+L'usager peut répondre « Oui » ou « Non » à la question posée dans le libellé du champ.
 
 #### &#x20;
 
@@ -456,7 +456,7 @@ L'usager peut répondre "Oui" ou "Non" à la question posée dans le libellé du
 
 #### a) L'annuaire de l'éducation
 
-Il s'agit d'un référentiel spécifique de l’éducation nationale permettant d'accéder aux caractéristiques et aux informations de contact des établissements de l'Éducation nationale grâce à son [API ](https://api.gouv.fr/les-api/api-annuaire-education)dédiée.&#x20;
+Il s'agit d'un référentiel spécifique de l’Éducation nationale permettant d'accéder aux caractéristiques et aux informations de contact des établissements de l'Éducation nationale grâce à son [API ](https://api.gouv.fr/les-api/api-annuaire-education)dédiée.&#x20;
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Champ " Annuaire de l'éductaion" en tant qu'usager </p></figcaption></figure>
 
@@ -464,11 +464,11 @@ Il s'agit d'un référentiel spécifique de l’éducation nationale permettant 
 
 #### b) RNA
 
-Ce champ permet aux associations d'indiquer leurs numéros RNA. Les données liées aux numéros RNA seront alors automatiquement récupérées via  l’API Répertoire des Associations (RNA).&#x20;
+Ce champ permet aux associations d'indiquer leurs numéros RNA. Les données liées aux numéros RNA seront alors automatiquement récupérées via l’API Répertoire des Associations (RNA).&#x20;
 
 <figure><img src="../.gitbook/assets/image (28) (1).png" alt=""><figcaption><p>Champ "RNA" en tant qu'usager</p></figcaption></figure>
 
-c) Carte&#x20;
+**c) Carte**&#x20;
 
 Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les parcelles cadastrales, les quartiers prioritaires et les parcelles agricoles touchées par ce projet. Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/cartographie)&#x20;
 
@@ -498,9 +498,9 @@ Pour supprimer un champ, cliquez sur la corbeille située en haut à droite du c
 
 ### F. Rendre un champ obligatoire&#x20;
 
-Il est possible de rendre un champ obligatoire. Il suffit alors de remplir un champ et de cocher la case "Obligatoire". Si vous choisissez de rendre un champ obligatoire, l’usager ne pourra pas déposer son dossier tant que ce champ ne sera pas rempli.
+Il est possible de rendre un champ obligatoire. Il suffit alors de remplir un champ et de cocher la case « Obligatoire ». Si vous choisissez de rendre un champ obligatoire, l’usager ne pourra pas déposer son dossier tant que ce champ ne sera pas rempli.
 
-Avant de cocher cette case, assurez vous que tous les usagers disposeront de l'information demandée. Dans le cas contraire, l'usager ne pourra pas effectuer la démarche.&#x20;
+Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'information demandée. Dans le cas contraire, l'usager ne pourra pas effectuer la démarche.&#x20;
 
 <figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption><p>Rendre un champ obligatoire, en tant qu'usager </p></figcaption></figure>
 
