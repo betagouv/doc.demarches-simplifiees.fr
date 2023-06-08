@@ -1,18 +1,16 @@
 ---
-description: >-
-  Cette page présente l'objectif de "démarches-simplifiées": la
-  dématérialisation des procédures.
+description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la dématérialisation des procédures."
 ---
 
 # Généralités
 
-Demarches-simplifiees.fr permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la Direction Interministérielle du Numérique (DINUM), mise à disposition à l'ensemble des organismes publics. Elle est interconnectée à de nombreux services de l'Etat, notamment France Connect, API Entreprise, API Géo et BAN.
+« Démarches simplifiées » permet de dématérialiser des démarches administratives grâce à un générateur de formulaires et une plateforme d'instruction de dossiers. Il s'agit d'une application en ligne prête à l'emploi développée, hébergée et maintenue par la Direction Interministérielle du Numérique (DINUM), mise à disposition de l'ensemble des organismes publics. Elle est interconnectée à de nombreux services de l'État, notamment France Connect, API Entreprise, API Géo et BAN.
 
-### Retrouvez le guide pratique pour dématérialiser vos démarches avec "démarches simplifiées".
+### Retrouvez le guide pratique pour dématérialiser vos démarches avec « Démarches simplifiées »
 
 {% file src=".gitbook/assets/Guide des bonnes pratiques démarches-simplifiees.pdf" %}
 
-### **Retrouvez ci-après les différents bilans effectués relatifs aux usages de "démarches-simplifiées"**
+### **Retrouvez ci-après les différents bilans des usages de** « Démarches simplifiées »
 
 **Bilan 2022**
 
