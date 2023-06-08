@@ -571,7 +571,7 @@ Une fois le formulaire annotations privées créé, vous pouvez alors cliquer su
 
 ## 10. Informer l’usager sur l’état d’avancement de sa démarche
 
-Il convient désormais de penser d’un point de vue usager à la vie de la démarche suite à la transmission du dossier. Dés à présent, il faut envisager les modalités d’information de l’usager sur l’état d’avancement de son dossier. Pour cela, demarches-simplifiees envoie des e-mails dans lesquels vous pouvez communiquer les informations souhaitées.
+Il convient désormais de penser d’un point de vue usager à la vie de la démarche suite à la transmission du dossier. Dès à présent, il faut envisager les modalités d’information de l’usager sur l’état d’avancement de son dossier. Pour cela, demarches-simplifiees envoie des e-mails dans lesquels vous pouvez communiquer les informations souhaitées.
 
 ### Les e-mails automatiques&#x20;
 
@@ -597,7 +597,7 @@ Les balises sont notamment utiles pour remonter les annotations privées car ell
 
 ### Attestation
 
-Les attestations sont des documents au format .pdf qui sont délivrés en pièce-jointe des e-mails d’acceptation. Celles-ci sont également disponibles en téléchargement sur l’espace personnel de l’usager. Comme pour les e-mails, l’attestation est entièrement personnalisable, notamment avec une signature et différentes balises envisageables.
+Les attestations sont des documents au format .pdf qui sont délivrés en pièce jointe des e-mails d’acceptation. Celles-ci sont également disponibles en téléchargement sur l’espace personnel de l’usager. Comme pour les e-mails, l’attestation est entièrement personnalisable, notamment avec une signature et différentes balises envisageables.
 
 <figure><img src="../.gitbook/assets/image (54) (2).png" alt=""><figcaption><p>Configuration de l'attestation, en tant qu'administrateur </p></figcaption></figure>
 
@@ -647,7 +647,7 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 <figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-* &#x20;Pour retirer un instructeur : cliquer sur le bouton « retirer » situé en bas à droite de l’écran.
+* &#x20;Pour retirer un instructeur : cliquer sur le bouton « Retirer » situé en bas à droite de l’écran.
 
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Retirer un instructeur, en tant qu'administrateur </p></figcaption></figure>
 
