@@ -1,16 +1,16 @@
 ---
 description: >-
   Retrouvez ici toutes les nouveautés développées pour les administrateurs de
-  démarches-simplifiées.fr
+  demarches-simplifiees.fr
 ---
 
 # Pour les administrateurs
 
 ## Changement de couleurs
 
-Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'état.\
+Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'État.\
 \
-La première phase d'adaptation de démarches-simplifiées se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
+La première phase d'adaptation de « Démarches simplifiées » se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
 
 ## Modification d'une démarche en ligne
 
@@ -24,31 +24,21 @@ Cette fonctionnalité est désormais activée pour l'ensemble des administrateur
 
 ![](<../.gitbook/assets/Capture d’écran 2021-08-18 à 10.32.28.png>)
 
-### &#x20;Pour republier, il suffit de cliquer sur le bouton "publier les modifications"
+### Pour republier, il suffit de cliquer sur le bouton « publier les modifications »
 
 ![](<../.gitbook/assets/Capture d’écran 2021-08-18 à 10.33.01.png>)
 
-La publication des modifications **n'entraine pas la suppression des dossiers !**
+La publication des modifications **n'entraîne pas la suppression des dossiers !**
 
 ### **Pour les instructeurs, les nouveaux champs et les champs supprimés sont accessibles dans les dossiers et dans les exports.**
 
 **Les dossiers déposés ne sont obligés de modifier leur dossier, seuls les nouveaux dossiers auront les modifications accessibles**
 
-### Recommandations:
+### Recommandations :
 
-Pour les utilisateurs de l'API, il conviendra donc parfois d'adapter l'utilisation de l'API à la nouvelle structure de données
+Pour les utilisateurs de l'API, il conviendra donc parfois d'adapter l'utilisation de l'API à la nouvelle structure de données.
 
-## Déploiement de la fonctionnalité "Routage" pour l'ensemble des administrateurs&#x20;
-
-Il est possible de configurer une démarche afin que les dossiers soient automatiquement routés vers des groupes d'instructeurs préalablement définis.
-
-Cette fonctionnalité est désactivée par défaut **mais vous pouvez désormais l'activer depuis l'onglet "instructeurs" de l'interface administrateur de votre démarche** :&#x20;
-
-![](<../.gitbook/assets/MAJ - instructeurs .png>)
-
-Pour en savoir plus concernant le routage, consultez notre page dédiée [en cliquant ici. ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/routage)
-
-## Le type de champ "Communes" est disponible&#x20;
+## Le type de champ « Communes » est disponible&#x20;
 
 Ce champ est connecté à la BAN (Base d'Adresse Nationale) et permet à l'usager de chercher sa commune parmi l'ensemble des communes françaises.&#x20;
 
@@ -76,9 +66,9 @@ Elle a été simplifiée et suit désormais la charte graphique du reste du site
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse email associée à votre compte démarches-simplifiées.fr. Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email](https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email)
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte démarches-simplifiées.fr. Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email](https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email)
 
-## Les administrateurs peuvent proposer à l'usager d'évaluer leurs démarches grâce à "MonAvis"&#x20;
+## Les administrateurs peuvent proposer à l'usager d'évaluer leurs démarches grâce à « MonAvis »&#x20;
 
 ![monavis.numerique.gouv.fr](../.gitbook/assets/screely-1568035395585.png)
 
@@ -90,7 +80,7 @@ Plus d'informations ici : [https://doc.demarches-simplifiees.fr/tutoriels/integr
 
 ![](../.gitbook/assets/Screenshot\_2019-08-09\_at\_15.08.03.png)
 
-Vous pouvez désormais ajoutez autant de co-administrateur sur votre démarche que vous voulez !
+Vous pouvez désormais ajouter autant de co-administrateur sur votre démarche que vous voulez !
 
 Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/52-plusieurs-administrateurs-sur-une-meme-demarche](https://faq.demarches-simplifiees.fr/article/52-plusieurs-administrateurs-sur-une-meme-demarche)
 
