@@ -6,7 +6,7 @@ description: Comment instruire un dossier sur demarches-simplifiees.fr ?
 
 Ce tutoriel détaille les étapes d’instruction d'un dossier sur demarches-simplifiees.fr par un instructeur.
 
-**Télécharger la version papier du Tutoriel**
+**Télécharger la version papier du tutoriel**
 
 {% file src="../.gitbook/assets/spaces--L7_aKvpAJdAIEfxHudA-pdf-1404230692.pdf" %}
 TUTORIEL PAPIER AU 4 FEVRIER 2021
@@ -66,17 +66,17 @@ Ces différents stades de traitement correspondent à :
 
 Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure.
 
-Cliquer sur le bouton " Personnaliser" situé en haut à droite,  puis cliquer sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquer sur le bouton « Enregistrer » comme suit :
+Cliquer sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquer sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquer sur le bouton « Enregistrer » comme suit :
 
 ![Localisation du bouton "Personnaliser"](../.gitbook/assets/instructeur-2.PNG)
 
 ![Choix d'un champ de recherche et enregistrement](../.gitbook/assets/instructeur-3.PNG)
 
-Un champ peut être retiré du tableau de suivi : cliquer de nouveau sur " Personnaliser " puis sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer », comme suit :
+Un champ peut être retiré du tableau de suivi : cliquer de nouveau sur « Personnaliser » puis sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer », comme suit :
 
 ![Retrait d'un champ du tableau de suivi et enregistrement](<../.gitbook/assets/CAPTURE MANQUANTE-tutoinstu.PNG>)
 
-Si vous retirez toutes les colonnes depuis le bouton "Personnaliser", seuls les numéros des dossiers seront affichés en plus du statut de ceux-ci.&#x20;
+Si vous retirez toutes les colonnes depuis le bouton « Personnaliser », seuls les numéros des dossiers seront affichés en plus du statut de ceux-ci.&#x20;
 
 ### B. Filtrer les dossiers
 
@@ -86,7 +86,7 @@ Cliquer sur le bouton « Filtrer », Sélectionner un champ, puis une valeur ass
 
 ![Localisation du bouton "Filtrer"](../.gitbook/assets/instruc4.PNG)
 
-&#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton "Ajouter le filtre" comme suit :
+&#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « Ajouter le filtre » comme suit :
 
 ![](../.gitbook/assets/instruc5.PNG)
 
@@ -96,11 +96,11 @@ Cliquer sur le bouton « Filtrer », Sélectionner un champ, puis une valeur ass
 
 Il possible de trier les dossiers par ordre alphabétique et/ou numérique en cliquant sur la colonne souhaitée, en plus des options de filtre et de personnalisation sus-mentionnés.
 
-Dans l'exemple suivant, la colonne "Nom" est affichée à la place de la colonne par défaut "Demandeur" qui affiche l'adresse e-mail associée au compte de l'usager. Le tri par défaut porte sur les numéros de dossiers. Les dossiers sont alors affichés selon la date de dépôt, du plus récent au plus ancien
+Dans l'exemple suivant, la colonne « Nom » est affichée à la place de la colonne par défaut «"Demandeur » qui affiche l'adresse e-mail associée au compte de l'usager. Le tri par défaut porte sur les numéros de dossiers. Les dossiers sont alors affichés selon la date de dépôt, du plus récent au plus ancien.
 
 ![Affichage avec le tri par défaut](../.gitbook/assets/instruc6.PNG)
 
-En cliquant sur la colonne "Nom", l'affichage est modifié :
+En cliquant sur la colonne « Nom », l'affichage est modifié :
 
 ![Affichage avec un tri dans l'ordre alphabétique (Nom)](../.gitbook/assets/instruc7.PNG)
 
