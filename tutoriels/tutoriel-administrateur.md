@@ -1,12 +1,12 @@
 ---
-description: Comment créer sa démarche sur demarches-simplifiees.fr (DS) ?
+description: Comment créer sa démarche sur demarches-simplifiees.fr ?
 ---
 
 # Tutoriel administrateur
 
 Ce tutoriel présente les étapes de création d’une démarche sur demarches-simplifiees.fr par un administrateur.
 
-Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat  situé en bas à droite de la page :&#x20;
+Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat situé en bas à droite de la page :&#x20;
 
 <div align="left">
 
@@ -19,14 +19,14 @@ Vous avez également la possibilité de nous contacter à l'adresse : contact@de
 ## Version vidéo
 
 {% hint style="info" %}
-**ATTENTION** : Nous apportons continuellement des améliorations à demarches-simplifiees.fr. De ce fait, la vidéo ci-dessous ne mentionne pas les dernières nouveautés. La documentation écrite qui suit la vidéo est, quant à elle, bien à jour.&#x20;
+**ATTENTION** : nous apportons continuellement des améliorations à demarches-simplifiees.fr. De ce fait, la vidéo ci-dessous ne mentionne pas les dernières nouveautés. La documentation écrite qui suit la vidéo est, quant à elle, bien à jour.&#x20;
 {% endhint %}
 
 {% embed url="https://player.vimeo.com/video/261478872?byline=0&portrait=0" %}
 
 \
-**Qu’est qu’un administrateur ?**&#x20;
----------------------------------------
+**Qu’est-ce qu’un administrateur ?**&#x20;
+------------------------------------------
 
 Un administrateur est en charge de la construction du formulaire et de la gestion de la démarche en général. Il nomme les instructeurs et est automatiquement considéré comme instructeur. Il a donc accès aux dossiers et peut les instruire. Pour ce faire, il devra néanmoins changer de profil pour passer du profil d’administrateur à celui d’instructeur ou bien d’usager.
 
@@ -40,7 +40,7 @@ Rendez-vous sur la page : [https://www.demarches-simplifiees.fr/commencer/demand
 
 Les comptes administrateurs sont les seuls comptes que demarches-simplifiees.fr filtre. En effet, ils sont réservés aux seuls agents publics.&#x20;
 
-Une fois votre demande acceptée, vous recevrez un mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
+Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
 
 {% hint style="info" %}
 Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,  nous vous enverrons un mail vous demandant de vérifier votre compte. Il suffit alors de cliquer sur le lien contenu dans l'e-mail envoyé automatiquement par nos services.
@@ -48,7 +48,7 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 ## 2. Se connecter à demarches-simplifiees.fr
 
-[Se rendre sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquer sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
+[Rendez-vous sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
 
 <figure><img src="../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
