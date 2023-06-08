@@ -517,28 +517,28 @@ L’estimation considère qu’un bloc répétable est répété en moyenne entr
 Pour réduire la durée de remplissage de votre démarche, réellement simplifier la vie des usagers, et réduire le taux d'abandon de votre démarche, pensez à :
 
 * **Demander uniquement les informations strictement nécessaires** à la démarche.&#x20;
-* **Demander moins de pièces justificatives**. Chaque pièce justificative nécessite généralement de retrouver un document papier et de le scanner (avec un scanner ou un téléphone), puis de le transférer sur l'appareil où on remplit la démarche pour l'envoyer. Un excès de pièces justificatives est  une source majeure d’abandon de la démarche.
+* **Demander moins de pièces justificatives**. Chaque pièce justificative nécessite généralement de retrouver un document papier et de le scanner (avec un scanner ou un téléphone), puis de le transférer sur l'appareil où on remplit la démarche pour l'envoyer. Un excès de pièces justificatives est une source majeure d’abandon de la démarche.
 * **Utiliser les API pour récupérer des informations**. Vous pouvez par exemple demander le n° SIRET pour obtenir automatiquement des informations sur un établissement (plutôt que de demander ces informations une par une) ; ou interroger l’annuaire Éducation.
 
 _Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)_._
 
 ### H. Prévisualiser le formulaire&#x20;
 
-Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bouton "Prévisualiser le formulaire" situé en haut de la page. Toutefois, des champs tels que les blocs répétables ne sont pas fonctionnels dans la partie prévisualisation. Il est donc recommandé de déposer un dossier en test pour avoir un véritable aperçu du point de vue de l'usager.
+Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bouton « Prévisualiser le formulaire » situé en haut de la page. Toutefois, des champs tels que les blocs répétables ne sont pas fonctionnels dans la partie prévisualisation. Il est donc recommandé de déposer un dossier en test pour avoir un véritable aperçu du point de vue de l'usager.
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption><p>Prévisualisation du formulaire en tant qu'administrateur </p></figcaption></figure>
 
-La création de champs s'enregistre automatiquement à chaque modification. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en cliquant sur le bouton "Continuer", situé en haut à droite de la page.
+Les modifications apportés aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en cliquant sur le bouton « Continuer », situé en haut à droite de la page.
 
 <figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption><p>Poursuivre la création de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
-A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet "Tester". Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations etc.).\
+A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.&#x20;
 
 <figure><img src="../.gitbook/assets/image (48) (2).png" alt=""><figcaption><p>Tester la démarche en tant qu'administrateur </p></figcaption></figure>
 
 {% hint style="info" %}
-**ATTENTION** : Les dossiers remplis pendant la phase de test seront automatiquement supprimés lors de la modification ou bien de la publication de votre démarche.
+**ATTENTION** : les dossiers remplis pendant la phase de test seront automatiquement supprimés lors de la modification ou bien de la publication de votre démarche.
 {% endhint %}
 
 Vous pouvez également transmettre **une copie de votre démarche** à vos collègues à condition que ces derniers disposent d'un profil administrateur.&#x20;
@@ -547,19 +547,19 @@ Vous pouvez également transmettre **une copie de votre démarche** à vos coll�
 
 Vous venez de finir votre formulaire, il convient désormais d’en prévoir les modalités d’instruction. Il s’agit de déterminer le processus que suivra l’instructeur pour traiter les dossiers déposés par l’usager.&#x20;
 
-A cette fin, demarches-simplifiees.fr vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**&#x20;
+À cette fin, demarches-simplifiees.fr vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**&#x20;
 
 D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisés dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
 
 ### Annotations privées
 
-Les annotations privées sont l’équivalent du cadre réservé à l’administration présent sur les formulaires papiers. **Ceux sont des champs à destination des seuls instructeurs, visibles et modifiables uniquement par eux.**&#x20;
+Les annotations privées sont l’équivalent du cadre réservé à l’administration présent sur les formulaires papiers. **Ce sont des champs à destination des seuls instructeurs, visibles et modifiables uniquement par eux.**&#x20;
 
 En créant des champs « Annotations privées », vous pouvez en tant qu’administrateur prévoir quelles sont les informations que doit analyser l’instructeur pour traiter le dossier.&#x20;
 
 A titre d’exemple, pour une démarche de demande provisoire de titre de travail pour un étudiant étranger, vous pouvez créer une annotation privée intitulée « Qualité de l’expérience universitaire ». L’instructeur saura donc qu’il doit renseigner et analyser cet élément dans son évaluation générale pour la délivrance ou non du titre. Par ailleurs, comme sur DS, plusieurs instructeurs peuvent instruire le même dossier, les annotations privées peuvent permettre un dialogue entre eux.&#x20;
 
-Pour créer des annotations privées, rendez-vous dans l’onglet « Annotation privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de "formulaire instructe
+Pour créer des annotations privées, rendez-vous dans l’onglet « Annotation privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de « formulaire instructeur ».
 
 <figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption><p>Configuration des annotations privées, en tant qu'administrateur </p></figcaption></figure>
 
@@ -567,7 +567,7 @@ Pour créer des annotations privées, rendez-vous dans l’onglet « Annotation 
 
 <figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>Création des annotations privées , en tant qu'administrateur </p></figcaption></figure>
 
-Une fois le formulaire annotations privées créé, vous pouvez alors cliquer sur "continuer".&#x20;
+Une fois le formulaire annotations privées créé, vous pouvez alors cliquer sur « Continuer ».&#x20;
 
 ## 10. Informer l’usager sur l’état d’avancement de sa démarche
 
