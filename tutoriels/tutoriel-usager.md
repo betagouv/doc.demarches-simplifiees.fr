@@ -1,8 +1,5 @@
 ---
-description: >-
-  Ce tutoriel présenté, soit sous la forme d'une video ( sans sous-titre) sous
-  sous une forme didactique, les différentes fonctionnalités proposées aux
-  usagers pour effectuer une démarche avec DS.
+description: "Ce tutoriel présente, sous forme de vidéo ou de texte, les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarches simplifiées\_»."
 ---
 
 # Tutoriel usager
@@ -49,9 +46,6 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 * Une entreprise ou organisme possédant un numéro SIRET
 * Une personne physique
-
-
-
 * Une entreprise ou un organisme possédant un numéro SIRET :
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe.
@@ -64,11 +58,11 @@ Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », u
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
 
-Une fois les informations relatives à l'établissement vérifiées, cliquer sur le bouton "Continuer avec ces informations".  Vous êtes alors redirigé vers le formulaire.
+Une fois les informations relatives à l'établissement vérifiées, cliquer sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
 
 * Une personne physique :
 
-Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur "Continuer", vous êtes automatiquement redirigé vers le formulaire.
+Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
 
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
@@ -82,27 +76,27 @@ Les premières informations demandées sont la civilité, le nom et le prénom d
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
 
-**Déposer un document en pièce-jointe**&#x20;
+**Déposer un document en pièce jointe**&#x20;
 
-Le dépôt du dossier peut nécessiter l’ajout de pièces-jointes afin de fournir des documents justificatifs.
+Le dépôt du dossier peut nécessiter l’ajout de pièces jointes afin de fournir des documents justificatifs.
 
-Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur "Ouvrir". Le nom du fichier sélectionné apparait à côté du bouton "Parcourir", la pièce est alors enregistrée.
+Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée.
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
 
-Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces-jointes ». Cliquer sur le lien en bleu, télécharger le fichier, remplir le document puis l’ajouter en pièce-jointe dans le dossier demarches-simplifiees.fr.
+Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquer sur le lien en bleu, télécharger le fichier, remplir le document puis l’ajouter en pièce jointe dans le dossier demarches-simplifiees.fr.
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce-jointe est de 200 Mo au total par enregistrement. Si l'ensemble des pièces-jointe dépasse 200 Mo au moment de cliquer sur le bouton « Enregistrer », ajouter les pièces jointes une par une et cliquer sur enregistrer à chaque ajout de pièce.
+La capacité maximale d’ajout de pièce jointe est de 200 Mo au total par enregistrement. Si l'ensemble des pièces-jointes dépasse 200 Mo au moment de cliquer sur le bouton « Enregistrer », ajouter les pièces jointes une par une et cliquer sur enregistrer à chaque ajout de pièce.
 
-Formats de pièces-jointes acceptés : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png
+Formats de pièces jointes acceptées : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
 Il est possible d'inviter un tiers à compléter ou à modifier un dossier.&#x20;
 
-En accédant au dossier concerné, cliquer sur le bouton "Inviter une personne à modifier ce dossier" en haut à droite, saisir une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquer sur le bouton « Envoyer une invitation ».&#x20;
+En accédant au dossier concerné, cliquer sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, saisir une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquer sur le bouton « Envoyer une invitation ».&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
 
@@ -130,15 +124,15 @@ Une fois le dossier complété, cliquer sur le bouton « Déposer le dossier » 
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager </p></figcaption></figure>
 
-Le dossier passe alors du statut «brouillon» au statut « en construction ».&#x20;
+Le dossier passe alors du statut « brouillon » au statut « en construction ».&#x20;
 
-Le statut "en construction" indique que le dossier est visible par l’administration mais reste modifiable par l'usager.
+Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager.
 
 ## 3. Accéder au suivi de mon dossier
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets " en cours" , "traités", "dossiers invités", "expirant", "supprimés récemment" et "supprimés définitivement" .&#x20;
+En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », « supprimés récemment » et « supprimés définitivement » .&#x20;
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Tableau de bord en tant qu'usager </p></figcaption></figure>
 
@@ -146,7 +140,7 @@ En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès 
 
 Cet onglet reprend toutes les démarchées en cours effectuées par l'usager ( brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
 
-Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour .&#x20;
+Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour.&#x20;
 
 #### Traités
 
@@ -162,7 +156,7 @@ Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'app
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
 
-#### Expirant&#x20;
+&#x20;
 
 ### B. Les différents statuts d'un dossier
 
@@ -172,11 +166,11 @@ Une fois la démarche effectuée par l'usager et le dossier enregistré, celui-c
 
 #### En construction
 
-Une fois le dossier déposé par l'usager, son statut est "en construction". L'usager peut encore le modifier.
+Une fois le dossier déposé par l'usager, son statut est « en construction ». L'usager peut encore le modifier.
 
 #### En instruction
 
-Le dossier "en instruction" est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable.
+Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable.
 
 #### Accepté / Sans suite / Refusé
 
