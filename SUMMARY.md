@@ -11,7 +11,7 @@
   * [Tutoriel instructeur](tutoriels/tutoriel-instructeur.md)
   * [Tutoriel administrateur](tutoriels/tutoriel-administrateur.md)
   * [Les bonnes pratiques lors de la création d'une démarche](tutoriels/les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)
-  * [Vidéo : la sécurité de demarches-simplifiees](tutoriels/video-la-securite-de-demarches-simplifiees.md)
+  * [Vidéo : la sécurité de demarches-simplifiees.fr](tutoriels/video-la-securite-de-demarches-simplifiees.md)
   * [Vidéo : le cadre juridique](tutoriels/video-le-cadre-juridique.md)
   * [Vidéo : la relation usager](tutoriels/video-la-relation-usager.md)
   * [Intégration du bouton "Mon avis"](tutoriels/integration-du-bouton-mon-avis.md)
