@@ -118,7 +118,7 @@ Pour suivre un dossier cliquer sur le bouton « Suivre le dossier ». Le dossier
 
 ![](../.gitbook/assets/instruc9.PNG)
 
-Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le "sortir" de la liste de tous les dossiers à suivre.&#x20;
+Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
 En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille orange sur le dossier, si ce dernier a été modifié par l'usager ou si l'usager a écrit un nouveau message. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
@@ -144,7 +144,7 @@ Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le
 
 Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par les usagers ni par les personnes invitées à consulter le dossier.
 
-Une fois les annotations renseignées, il convient de cliquer sur le bouton "Sauvegarder" afin d'enregistrer toute modification comme suit :
+Une fois les annotations renseignées, il convient de cliquer sur le bouton « Sauvegarder » afin d'enregistrer toute modification comme suit :
 
 ![Sauvegarde d'annotation privée, en tant qu'instructeur](../.gitbook/assets/instruc12.PNG)
 
@@ -154,7 +154,7 @@ Il est possible qu’il ne figure aucune annotation privée à remplir si la pro
 
 #### _- Avis externes :_&#x20;
 
-Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit "expert" à rendre un avis sur le dossier.
+Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit « expert » à rendre un avis sur le dossier.
 
 L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question.
 
@@ -176,7 +176,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
-* Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en définissant, désormais, à l'avance une liste d'experts invités. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel "administrateur " en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). \
+* Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en définissant, désormais, à l'avance une liste d'experts invités. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). \
 
 * Dès lors, les instructeurs de la démarche **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de la liste.** &#x20;
 
@@ -186,11 +186,11 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 ### Message et option de visibilité de l'avis renseigné :&#x20;
 
-* Une fois l'adresse e-mail des experts de la liste ajoutée, la fonctionnalité "avis externe" permet également à l'instructeur de personnaliser le message adressé à l'expert. En ce sens, **l'instructeur a la possibilité de partager une pièce justificative à l'expert** afin de l'aider à rendre son avis . \
+* Une fois l'adresse e-mail des experts de la liste ajoutée, la fonctionnalité « avis externe » permet également à l'instructeur de personnaliser le message adressé à l'expert. En ce sens, **l'instructeur a la possibilité de partager une pièce justificative à l'expert** afin de l'aider à rendre son avis . \
 
 * De plus, l**es avis externes ne sont pas visibles par l'usager**.\
 
-* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention "Cet avis sera", comme suit :
+* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit :
 
 ![Les deux options de visibilité des avis](../.gitbook/assets/avis-expert2.PNG)
 
