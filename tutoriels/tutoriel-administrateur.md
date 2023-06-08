@@ -154,7 +154,7 @@ Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez
 
 <figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Justification du cadre juridique en tant qu'administrateur </p></figcaption></figure>
 
-**e) Contact du Délégué à la Protection des Données ( DPO)**&#x20;
+**e) Contact du Délégué à la Protection des Données (DPO)**&#x20;
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
@@ -168,7 +168,7 @@ Les usagers pourront consulter l'ensemble des informations relatives au cadre ju
 
 Afin de favoriser la transparence des données, vous avez la possibilité d'autoriser la publication  des descriptifs des démarches sur https://data.gouv.fr.&#x20;
 
-Cette donnée est modifiable pour chaque démarche depuis la partie "présentation" de votre interface administrateur .&#x20;
+Cette donnée est modifiable pour chaque démarche depuis la partie « présentation » de votre interface administrateur .&#x20;
 
 <figure><img src="../.gitbook/assets/image (32) (2).png" alt=""><figcaption><p>Autorisation de l'open data des démarches, en tant qu'administrateur </p></figcaption></figure>
 
@@ -178,7 +178,7 @@ Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Un
 
 <figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Sélection d'une note explicative de la démarche, en tant qu'administrateur </p></figcaption></figure>
 
-Les premiers éléments que vous venez de renseigner sont les premières informations vues par l’usager lorsqu'il aura cliquer sur le lien de votre démarche. Ils constituent ainsi la page d’accueil de votre démarche.
+Les premiers éléments que vous venez de renseigner sont les premières informations vues par l’usager lorsqu'il aura cliqué sur le lien de votre démarche. Ils constituent ainsi la page d’accueil de votre démarche.
 
 **h) Choix du public de votre démarche : personnes morales ou particuliers ?**
 
@@ -202,11 +202,11 @@ Enfin, il existe deux options avancées optionnelles. La première est le choix 
 
 <figure><img src="../.gitbook/assets/image (31) (2).png" alt=""><figcaption><p>Rendre sa démarche déclarative, en tant qu'administrateur </p></figcaption></figure>
 
-* **Champ "pièces justificative" avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichier par champ "pièce justificative" .&#x20;
+* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificativ » .&#x20;
 
 <figure><img src="../.gitbook/assets/Capture multiupload.PNG" alt=""><figcaption><p>Permettre aux usagers d'envoyer plusieurs fichier par champ PJ, en tant d'administrateur </p></figcaption></figure>
 
-Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou "enregistrer" , situé en bas à droite de l’écran.
+Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou « enregistrer » , situé en bas à droite de l’écran.
 
 <figure><img src="../.gitbook/assets/Capture publier démarche.PNG" alt=""><figcaption><p>création de la démarche , en tant qu'administrateur </p></figcaption></figure>
 
@@ -216,13 +216,13 @@ Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton �
 
 Le corps de votre démarche est constitué par votre formulaire. Celui-ci va permettre de recueillir les informations fournies par les usagers lesquelles vous permettront de valider leur demande ou non. Un formulaire se construit par empilement de champs, un champ étant une information que vous indiquez ou que vous demandez à l’usager.&#x20;
 
-Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez créer un champ «adresse », un champ « téléphone » et un champ « e-mail ».
+Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez créer un champ « adresse », un champ « téléphone » et un champ « e-mail ».
 
-A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet "Prévisualiser le formulaire".
+A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
 
 <figure><img src="../.gitbook/assets/prévisualisation formulaire (1).png" alt=""><figcaption><p>Prévisualiser le formulaire, en tant qu'administrateur </p></figcaption></figure>
 
-Pour commencer votre formulaire, vous cliquerez sur l’onglet "Ajouter un champ" dans le menu situé en bas à gauche de l’écran. Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
+Pour commencer votre formulaire, vous cliquerez sur l’onglet « Ajouter un champ » dans le menu situé en bas à gauche de l’écran. Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
 
 <figure><img src="../.gitbook/assets/ajout d&#x27;un champ .png" alt=""><figcaption><p>Ajout d'un champ , en tant qu'administrateur </p></figcaption></figure>
 
