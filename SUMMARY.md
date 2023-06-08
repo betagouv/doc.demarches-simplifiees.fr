@@ -19,7 +19,6 @@
   * [Pour les administrateurs](nouveautes/pour-les-administrateurs.md)
   * [Pour les instructeurs](nouveautes/pour-les-instructeurs.md)
   * [Pour les usagers](nouveautes/pour-les-usagers.md)
-  * [Untitled](nouveautes/untitled.md)
 * [Nos démarches](listes-des-demarches/README.md)
   * [Démarches relatives au permis de conduire](listes-des-demarches/demarches-relatives-au-permis-de-conduire.md)
   * [Démarches relatives aux transporteurs](listes-des-demarches/demarches-relatives-au-transporteur.md)
