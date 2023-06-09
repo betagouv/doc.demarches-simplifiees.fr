@@ -41,7 +41,7 @@ demarches-simplifiees.fr a l'avantage d'être un outil :
 
 * **Simple** : entièrement en ligne, sans installation ni paramétrage à effectuer, qui peut être utilisé directement par les services gestionnaires (modèle Typeform, Google Form).
 * **Intégré à l’écosystème numérique public** : récupération automatique d’informations sur les demandeurs via API Entreprise et France Connect et récupération d'informations géographiques via BAN et API Géo ;
-* **Collaboratif**: possibilité de co-construire et co-instruire les demandes pour simplifier la vie des usagers et des administrations, ce qui simplifie l'instruction des dossiers lorsque plusieurs organismes publics interviennent ;
+* **Collaboratif** : possibilité de co-construire et co-instruire les demandes pour simplifier la vie des usagers et des administrations, ce qui simplifie l'instruction des dossiers lorsque plusieurs organismes publics interviennent ;
 * **Sûr** : plateforme homologuée Référentiel Général de Sécurité (RGS) et disponibilité constatée toujours supérieure à 99 % sur une période de 30 jours et accessible en ligne sur [**https://dashboard.entreprise.api.gouv.fr/**](https://dashboard.entreprise.api.gouv.fr/real\_time)
 
 Les retours d'expérience montrent une réduction considérable des délais de traitement des demandes :
