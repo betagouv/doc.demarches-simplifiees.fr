@@ -2,7 +2,7 @@
 
 ## Quelles démarches ?
 
-En fonction de votre Préfecture de résidence, demarches-simplifiees héberge des démarches relatives au titre de séjour, lesquelles sont listées ci-après.
+En fonction de votre préfecture de résidence, « Démarches simplifiées » héberge des démarches relatives au titre de séjour, lesquelles sont listées ci-après.
 
 Par ailleurs demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. Pour les titres de séjour et la naturalisation, seule une partie des départements ont fait le choix d'utiliser notre outil. De ce fait, les démarches administratives ne se trouvent pas toutes sur notre site.&#x20;
 
@@ -16,14 +16,14 @@ Pour les demandes concernant les échanges de permis de conduire étrangers, veu
 
 ## Démarches relatives aux titres de séjour&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **INFORMATION IMPORTANTE**&#x20;
 
-Tout détenteur d’un titre de séjour, d’un récépissé, d’une autorisation provisoire de séjour ou d’un visa de long séjour qui expire **entre le 16 mars et le 15 juin 2020** est en séjour régulier pour **6 mois supplémentaires** suivant la date d’expiration figurant sur le document de séjour. Le droit de travailler ainsi que l’ensemble des droits sociaux sont prolongés de la même manière**.**
+Tout détenteur d’un titre de séjour, d’un récépissé, d’une autorisation provisoire de séjour ou d’un visa de long séjour qui expire **entre le 16 mars et le 15 juin 2020** est en séjour régulier pour **6 mois supplémentaires** suivant la date d’expiration figurant sur le document de séjour. Le droit de travailler ainsi que l’ensemble des droits sociaux sont prolongés de la même manière.
 
 Pour ces personnes, il n’y a donc aucune démarche à accomplir avant l’automne.
 
-Pour plus d’informations, veuillez consultez la page suivante : [https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Information-generale-sur-la-prolongation-des-documents-de-sejour-General-information-on-the-extension-of-residency-documents](https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Information-generale-sur-la-prolongation-des-documents-de-sejour-General-information-on-the-extension-of-residency-documents)
+Pour plus d’informations, veuillez consulter la page suivante : [https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Information-generale-sur-la-prolongation-des-documents-de-sejour-General-information-on-the-extension-of-residency-documents](https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Information-generale-sur-la-prolongation-des-documents-de-sejour-General-information-on-the-extension-of-residency-documents)
 {% endhint %}
 
 Pour toute question ou information relative à une demande effectuée en préfecture, merci de vous adresser au guichet d'accueil des étrangers de votre préfecture de résidence. En amont, renseignez-vous sur les modalités d'accueil (horaires et modalités de prise de rendez-vous) sur le site internet de la préfecture.
@@ -69,7 +69,7 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 
 ### 35 - Ille-Et-Vilaine&#x20;
 
-#### **Certaines démarches relatives à la préfecture D'ille-et-Vilaine sont désormais à effectuer sur la plateforme :** [**https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/**](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)
+#### **Certaines démarches relatives à la préfecture d'Ille-et-Vilaine sont désormais à effectuer sur la plateforme :** [**https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/**](https://administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/)
 
 Un point d'accès numérique est également mis à disposition des usagers, vous pouvez contacter le standard de la préfecture pour plus d'informations.&#x20;
 
@@ -122,7 +122,7 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 
 ### 65 - Hautes-Pyrénées
 
-* &#x20;[Première demande de titre de séjour (sauf réfugié ou bénéficiaire de la protection subsidiaire)](https://www.demarches-simplifiees.fr/commencer/type1-hp)
+* [Première demande de titre de séjour (sauf réfugié ou bénéficiaire de la protection subsidiaire)](https://www.demarches-simplifiees.fr/commencer/type1-hp)
 * [Renouvellement de titre de séjour, titre de séjour réfugié ou bénéficiaire de la protection subsidiaire, demande de duplicata, changement d'adresse, titre de voyage ou titre de séjour étudiant en recherche d'emploi](https://www.demarches-simplifiees.fr/commencer/type2-hp)
 * [Première demande de titre de séjour pour les membres de famille de réfugié ](https://www.demarches-simplifiees.fr/commencer/membre-de-famille-de-refugie)
 * [Demande de document de circulation enfants mineurs (DCEM)](https://www.demarches-simplifiees.fr/commencer/type4-hp)
