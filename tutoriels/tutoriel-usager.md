@@ -138,7 +138,7 @@ En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès 
 
 #### En cours
 
-Cet onglet reprend toutes les démarchées en cours effectuées par l'usager ( brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
+Cet onglet reprend toutes les démarchées en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
 
 Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour.&#x20;
 
