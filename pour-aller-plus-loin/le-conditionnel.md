@@ -16,10 +16,12 @@ Voici un exemple d’utilisation du conditionnel :
 
 1\)    Le premier champ : le conditionnel ne s’applique pas sur le premier champ. La conditionnalité s’affichera à partir du deuxième champ.
 
-Pour que le conditionnel fonctionne, il faut que le champ précédent la question conditionnée soit :
+Pour que le conditionnel fonctionne, il faut que le champ précédant la question conditionnée soit :
 
 * Un champ oui/non
-* &#x20;Une case à cocher
+
+Une case à cocher
+
 * Un champ à choix unique
 * Un champ numérique&#x20;
 
@@ -31,7 +33,7 @@ Le conditionnel ne fonctionne pas sur tous les types de champs.
 
 Voici un exemple en utilisant un champ oui/non
 
-Le champ Oui/non est le premier champ, il va permettre d’activer le conditionnel sur le deuxième champ.
+Le champ oui/non est le premier champ, il va permettre d’activer le conditionnel sur le deuxième champ.
 
 <figure><img src="../.gitbook/assets/Conditionnel 1.png" alt=""><figcaption></figcaption></figure>
 
@@ -39,8 +41,8 @@ Le champ Oui/non est le premier champ, il va permettre d’activer le conditionn
 
 Nous souhaitons faire apparaître la deuxième question en fonction de la question précédente.
 
-* &#x20;Etape 1 : créer un nouveau champ avec les informations nécessaires
-* &#x20;Etape 2 : activer la logique conditionnelle : « cliquer pour activer »
+* &#x20;Étape 1 : créer un nouveau champ avec les informations nécessaires
+* &#x20;Étape 2 : activer la logique conditionnelle : « cliquer pour activer »
 
 <figure><img src="../.gitbook/assets/Conditionnel 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -48,5 +50,5 @@ Etape 3 : Sélectionner le champ cible (la question) que vous souhaitez conditio
 
 <figure><img src="../.gitbook/assets/Conditionnel 3.png" alt=""><figcaption></figcaption></figure>
 
-Sélectionnez la valeur, qui conditionne le champ (oui pour afficher la question, non pour ne pas l’afficher)
+Sélectionnez la valeur qui conditionne le champ (oui pour afficher la question, non pour ne pas l’afficher)
 
