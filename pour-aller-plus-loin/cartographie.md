@@ -6,7 +6,7 @@ description: Présentation du nouveau module cartographique
 
 **Tutoriels vidéo :**&#x20;
 
-Dans ces vidéos, nous allons vous présenter le nouveau module cartographique et les fonctionnalités dont vous avez désormais accès.
+Dans ces vidéos, nous allons vous présenter le nouveau module cartographique et les fonctionnalités auxquels vous avez désormais accès.
 
 Comment rechercher par adresse et dessiner des polygones, tracés et points 👇
 

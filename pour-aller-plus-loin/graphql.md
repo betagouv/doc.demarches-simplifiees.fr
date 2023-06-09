@@ -774,7 +774,7 @@ fragment PageInfoFragment on PageInfo {
 
 #### Pagination
 
-La pagination sur l’API GraphQL se fait par "curseur". Ça veut dire que pour récupérer la prochaine page il faut passer à l’API le "curseur" de la fin de la page précédente.
+La pagination sur l’API GraphQL se fait par « curseur ». Ça veut dire que pour récupérer la prochaine page il faut passer à l’API le « curseur » de la fin de la page précédente.
 
 Voici un exemple. On commence par faire une query pour récupérer les 100 premiers dossiers :
 
@@ -805,7 +805,7 @@ query getDemarche($demarcheNumber: Int!, $after: String) {
 }
 ```
 
-Dans le résultat obtenu il faut lire la valeur du "curseur" dans le champ `demarche.dossiers.pageInfo.endCursor` . On peut passer alors ce "curseur" comme argument `after` dans la prochaine query. Et ainsi de suite jusqu’à ce que le champ `demarche.dossiers.pageInfo.hasNextPage` soit égale à `false`.
+Dans le résultat obtenu il faut lire la valeur du « curseur » dans le champ `demarche.dossiers.pageInfo.endCursor` . On peut passer alors ce « curseur » comme argument `after` dans la prochaine query. Et ainsi de suite jusqu’à ce que le champ `demarche.dossiers.pageInfo.hasNextPage` soit égal à `false`.
 
 ```graphql
 query getDemarche($demarcheNumber: Int!, $after: String) {
@@ -844,7 +844,7 @@ Certaines opérations sur dossier sont accessibles via l’API :
 * Envoyer un message à l’usager qui a déposé le dossier
 * Ajouter des annotations privées sur un dossier
 
-**Attention !** Les identifiants utilisés dans les variables `input` des mutations sont les identifiants « technique » que vous devez récupérer dans les réponses des requêtes précédentes. En particulier, l'identifiant du dossier est différent du « numéro de dossier » :
+**Attention !** Les identifiants utilisés dans les variables `input` des mutations sont les identifiants « techniques » que vous devez récupérer dans les réponses des requêtes précédentes. En particulier, l'identifiant du dossier est différent du « numéro de dossier » :
 
 ```graphql
 query getDossierIdByNumber($dossierNumber: Int!) {
@@ -862,7 +862,7 @@ query getDossierIdByNumber($dossierNumber: Int!) {
 }
 ```
 
-Si un identifiant d’instructeur est demandé, il s’agit d’identifier l’instructeur qui sera enregistré dans le système comme responsable de l’opération. Pour récupérer la liste des instructeurs avec leurs identifiants,  vous avez plusieurs possibilités.
+Si un identifiant d’instructeur est demandé, il s’agit d’identifier l’instructeur qui sera enregistré dans le système comme responsable de l’opération. Pour récupérer la liste des instructeurs avec leurs identifiants, vous avez plusieurs possibilités.
 
 Vous pouvez récupérer tous les instructeurs qui suivent un dossier :
 
