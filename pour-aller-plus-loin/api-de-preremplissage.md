@@ -10,7 +10,7 @@ Vous disposez de données sur vos usager·ères et vous souhaitez les utiliser p
 
 ## Présentation
 
-Demarches-simplifiees.fr propose une **API de préremplissage.** Pour une démarche donnée, elle permet de préremplir un dossier, avec les données dont vous disposez déjà.
+demarches-simplifiees.fr propose une **API de préremplissage.** Pour une démarche donnée, elle permet de préremplir un dossier, avec les données dont vous disposez déjà.
 
 Le dossier est créé en **brouillon** et vous pouvez y diriger votre usager·ère afin qu'iel s'authentifie, poursuive son remplissage, et le dépose auprès de l'administration.
 
@@ -81,7 +81,7 @@ Au moment de la réponse, le dossier est orphelin. Il est rattaché à l'usager�
 
 ## Environnement
 
-Demarches-simplifiees.fr ne propose pas d'environnement de test, intégration, préproduction ou sandbox, sur lequel réaliser votre intégration.
+demarches-simplifiees.fr ne propose pas d'environnement de test, intégration, préproduction ou sandbox, sur lequel réaliser votre intégration.
 
 À la place, vous pouvez travailler sans risque directement sur la production (https://demarches-simplifiees.fr). En effet, au cours de l'intégration, vous allez créer des dossiers en brouillon, et ceux-ci :&#x20;
 
@@ -119,7 +119,7 @@ Par exemple, si votre démarche est `une-demarche-a-preremplir`, la requête doi
 [https://www.demarches-simplifiees.fr/preremplir/une-demarche-a-preremplir/schema](https://www.demarches-simplifiees.fr/preremplir/une-demarche-a-preremplir/schema)
 {% endhint %}
 
-L'API répond en JSON. La réponse contient des informations génériques sur la démarches ainsi que l’identifiant stable, le titre, la description de chaque champ de la démarche. Elle indique aussi les champs requis ou non.
+L'API répond en JSON. La réponse contient des informations génériques sur la démarche ainsi que l’identifiant stable, le titre, la description de chaque champ de la démarche. Elle indique aussi les champs requis ou non.
 
 ### Réponse
 
