@@ -4,7 +4,7 @@
 
 Il est possible d'exporter manuellement un tableau contenant la _majeure partie_ des informations relatives aux dossiers déposés sur une procédure donnée.
 
-Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur le bouton "Téléchargez tous les dossiers" en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods).
+Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur le bouton « Télécharger tous les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods).
 
 ![](<../.gitbook/assets/Capture d’écran 2019-02-11 à 14.23.09.png>)
 
@@ -12,21 +12,21 @@ Il n'est pas possible d'effectuer cette opération dans l'interface administrate
 
 Le tableau exporté est composé d'une ligne par dossier, chaque ligne comportant les informations suivantes :
 
-* métadonnées : numéro de dossier et dates ;
-* données saisies par le demandeur : identité du demandeur et  champs du formulaire ;
-* données d'instruction : emails des usagers suivant le dossier et annotations privées.
+* métadonnées : numéro de dossier et dates
+* données saisies par le demandeur : identité du demandeur et  champs du formulaire
+* données d'instruction : emails des usagers suivant le dossier et annotations privées
 
 En revanche, les informations suivantes ne figurent pas dans le tableau :
 
-* liens vers les pièces jointes ;
-* avis ;
-* messages échangés;
+* liens vers les pièces jointes
+* avis
+* messages échangés
 
 #### Export sous la forme d'un ZIP
 
 ![Une nouvelle option permet d'exporter l'ensemble des dossiers sous forme d'un zip](<../.gitbook/assets/Capture d’écran 2021-05-03 à 16.36.06.png>)
 
-Une nouvelle option a été mis en place qui permet d'exporte non pas sous forme d'un tableau, mais sous forme de fichier ( un fichier par dossier) contenant les données, les PJ, et les métadonnées.
+Une nouvelle option a été mis en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
 
 **Tout est alors prêt pour faire de l'archivage !**
 
@@ -49,7 +49,7 @@ Les métadonnées du dossier comprennent les informations suivantes:&#x20;
 * received\_at: date du passage en instruction
 * processed\_at: date de décision du dossier
 * motivation: motivation de la décision&#x20;
-* email\_insructeurs: email de l'instructeur qui a donné la décision pour le dossier
+* email\_instructeurs: email de l'instructeur qui a donné la décision pour le dossier
 
 ![](../.gitbook/assets/CaptureExport2.PNG)
 

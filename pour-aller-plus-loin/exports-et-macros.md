@@ -4,7 +4,7 @@ description: Stabilité et bonnes pratiques
 
 # Exports et Macros
 
-Les scripts (macro) sont un moyen très efficace pour gagner du temps. Néanmoins, il nécessite des mises jour fréquentes, en particulier lorsque le format de la feuille change (et il changera).
+Les scripts (macros) sont un moyen très efficace pour gagner du temps. Néanmoins, ils nécessitent des mises jour fréquentes, en particulier lorsque le format de la feuille change (et il changera).
 
 ## Pourquoi les colonnes changent-elles ?
 
