@@ -2,9 +2,9 @@
 
 ### Suppression automatique des dossiers
 
-Quel que soit leur état, les dossiers ne sont conservés sur la plateforme que pendant la durée de conservation définie au moment de la création de la démarche. Cette durée de conservation peut être modifiée à posteriori.
+Quel que soit leur état, les dossiers ne sont conservés sur la plateforme que pendant la durée de conservation définie au moment de la création de la démarche. Cette durée de conservation peut être modifiée a posteriori.
 
-Deux semaines avant l’expiration d’un dossier, l’usager et l’administration sont notifiés par email. Un bandeau est affiché sur la page du dossier, pour signaler que ce dossier va bientôt expirer. **L’usager a la possibilité de demander une extension de la conservation d'une durée égale à la durée de conservation d'origine (renouvelable)**. Les instructeurs peuvent aussi demander une extension de conservation, mais d'un mois (renouvelable).
+Deux semaines avant l’expiration d’un dossier, l’usager et l’administration sont notifiés par e-mail. Un bandeau est affiché sur la page du dossier, pour signaler que ce dossier va bientôt expirer. **L’usager a la possibilité de demander une extension de la conservation d'une durée égale à la durée de conservation d'origine (renouvelable)**. Les instructeurs peuvent aussi demander une extension de conservation, mais d'un mois (renouvelable).
 
 Une fois le délai de conservation dépassé, le dossier est définitivement supprimé de la plateforme.
 

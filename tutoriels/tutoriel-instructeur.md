@@ -194,7 +194,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 ![Les deux options de visibilité des avis](../.gitbook/assets/avis-expert2.PNG)
 
-* Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton "Demander un avis"** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
+* Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton «** **Demander un avis** **»** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
 
 ![Localisation du bouton "Demander un avis"](../.gitbook/assets/avis-expert3.PNG)
 
@@ -208,11 +208,11 @@ La messagerie permet à l’instructeur d’échanger directement avec l’usage
 
 Pour envoyer un message à l’usager : taper le contenu du message puis cliquer sur le bouton « Envoyer ».
 
-Pour envoyer une pièce-jointe à l’usager : cliquer sur le bouton « Parcourir », sélectionner un fichier puis cliquer sur le bouton « Envoyer le message ».&#x20;
+Pour envoyer une pièce jointe à l’usager : cliquer sur le bouton « Parcourir », sélectionner un fichier puis cliquer sur le bouton « Envoyer le message ».&#x20;
 
-Une pièce-jointe ne peut pas être envoyée seule, il est nécessaire de taper un texte dans le corps du message.
+Une pièce jointe ne peut pas être envoyée seule, il est nécessaire de taper un texte dans le corps du message.
 
-La capacité maximale d’envoi de pièce-jointe est de 300Mo par pièce envoyée.
+La capacité maximale d’envoi de pièce jointe est de 300Mo par pièce envoyée.
 
 {% hint style="info" %}
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
@@ -232,15 +232,15 @@ A partir de cet onglet, il est également possible d'envoyer le dossier à un au
 
 #### - _Dossier en construction_
 
-Une fois un dossier déposé par un usager, ce dossier est au stade "En construction". Le statut du dossier est notifié en haut à droite de votre écran :
+Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à droite de votre écran :
 
 ![](<../.gitbook/assets/en-construction (2).PNG>)
 
-Un dossier "en construction" reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie.&#x20;
+Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie.&#x20;
 
 #### _- Passer le dossier en instruction :_
 
-Une fois le dossier complet, il convient de passer ce dossier au statut "En instruction" afin d'empêcher toute nouvelle modification par l'usager_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
+Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usager_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
 
 ![](../.gitbook/assets/passer-instru.PNG)
 
@@ -270,7 +270,7 @@ L’instruction du dossier peut aboutir à trois décisions :&#x20;
 
 Dans les trois cas, la décision peut être motivée par le biais d'un encart spécial : ce motif est optionnel en cas d'acceptation, mais obligatoire dans les deux autres cas. Celui-ci peut par ailleurs apparaître ou non dans les e-mails reçus par l'usager ou sur l'attestation en fonction des paramètres retenus par l'administrateur de la procédure.&#x20;
 
-Par ailleurs il est également possible de joindre un justificatif à la décision lequel sera reçu par l'usager sur la boîte e-mail associée à son compte.&#x20;
+Par ailleurs il est également possible de joindre un justificatif à la décision lequel sera reçu par l'usager sur la boite e-mail associée à son compte.&#x20;
 
 #### a. Accepter&#x20;
 
@@ -330,7 +330,7 @@ Dans l’onglet « traité », cliquez sur le bouton « Archiver le dossier ». 
 
 ![Archiver un dossier, en tant qu'instructeur](<../.gitbook/assets/archiver (1).PNG>)
 
-Il est possible de repasser le dossier dans l’onglet " traité ".  Il suffit de cliquer sur l'onglet "archivé" puis sur le bouton "Désarchiver le dossier ». Le dossier est alors automatiquement transféré dans l’onglet « traité ».
+Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton "Désarchiver le dossier ». Le dossier est alors automatiquement transféré dans l’onglet « traité ».
 
 ![Désarchiver un dossier, en tant qu'instructeur](<../.gitbook/assets/désarchiver (1).PNG>)
 
