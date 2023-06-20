@@ -42,14 +42,6 @@ Une fois authentifié en tant qu’administrateur disposant d’un token, vous p
 
 [https://www.demarches-simplifiees.fr/graphql](https://www.demarches-simplifiees.fr/graphql)
 
-### **Vous êtes un organisme public, un intégrateur, une SSII ou un éditeur, et vous souhaitez tester l’API Graph QL**
-
-Vous devez effectuer une démarche auprès des équipes DS et pour cela remplir une demande à l’adresse suivante.
-
-{% embed url="https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-a-ds-pour-api" %}
-
-Votre demande sera examinée, et vous recevrez un token de test, ainsi qu'un accès à un formulaire de test qui vous permettra d’effectuer des saisies de dossiers puis de tester les API.
-
 ### Authentification
 
 Tous les appels sont authentifiés et doivent donc fournir un jeton valide qui est accessible dans la partie profil de l’administrateur. Ce jeton doit être fourni dans l’en-tête HTTP `Authorization` de la requête.
