@@ -4,7 +4,9 @@ description: Comment télécharger les dossiers d'une démarche pour archivage
 
 # Archivage longue durée des démarches
 
-« Démarches simplifiées » conserve **par défaut** les dossiers pour une **durée maximale de 36 mois**. Cette durée est configurable par les administrateurs au moment de la création de la démarche.
+« Démarches simplifiées » conserve **par défaut** les dossiers pour une **durée maximale de 12 mois**. Cette durée est configurable par les administrateurs au moment de la création de la démarche. Aussi pour certaines démarches, il est possible d'étendre cette durée jusqu'à 5 ans. Pour cela merci de contacter notre support.
+
+La durée de conservation renseignée sur « Démarches simplifiées » sera appliqué à partir de la dernière action d'instruction (exemple, acceptation, refus ou classement sans suite d'un dossier).&#x20;
 
 Dans la très grande majorité des cas, cette durée peut être inférieure, **car le principe est la suppression des dossiers de la plateforme à l'issue de son traitement.**
 
@@ -16,7 +18,7 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 * [L'export des dossiers au format tableur](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/exports-de-donnees) permet d'avoir une vue d'ensemble des dossiers d'une démarche.
 
-![Exporter aus formats xlsx, ods, csv et zip une liste de dossier filtré](<../.gitbook/assets/Screen Shot 2022-05-12 at 2.40.09 PM.png>)
+![Exporter aus formats xlsx, ods, csv et zip une liste de dossier filtré](<../.gitbook/assets/Screenshot 2023-07-04 at 9.39.50 AM.png>)
 
 
 
@@ -26,15 +28,15 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 * L'export PDF d'un dossier permet d'avoir une archive de la demande.
 
-![Export PDF d'un dossier](<../.gitbook/assets/export-pdf (1).png>)
+![Export PDF d'un dossier](<../.gitbook/assets/Screenshot 2023-07-04 at 9.40.34 AM.png>)
 
 * [L'utilisation de l'API](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/graphql) permet d'automatiser la récupération des données.
 
-Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers d'une démarche. Cet archive au format ZIP intègre&#x20;
+Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cet archive au format ZIP intègre&#x20;
 
 * tous les dossiers et leurs pièces jointes
 * tous les messages échangés par le biais de la messagerie entre les instructeurs et les usagers (incluant aussi les pièces jointes)
 * les attestations pour chaque dossier quand celles ci sont présentes
 
-![Accéder a l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screen Shot 2022-05-12 at 2.34.14 PM.png>)
+![Accéder a l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screenshot 2023-07-04 at 9.41.27 AM (1).png>)
 
