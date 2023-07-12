@@ -1095,6 +1095,18 @@ Il est important de noter que l’erreur `timeout` peut apparaître même lorsqu
 Dans les faits, à moins de vraiment savoir ce que vous faites, on conseille de traiter toute présence d'erreurs à la racine comme fatale.
 {% endhint %}
 
+```json
+{
+  "data": null,
+  "errors": [
+    {
+      "message": "Demarche not found",
+      "extensions": { "code": "not_found" }
+    }
+  ]
+}
+```
+
 #### Erreurs des mutations
 
 Dans le cas des mutations, nous utilisons une approche "d’erreur en tant que données". Chaque mutation expose un champ `erreurs` qui est rempli en cas d’erreur et est nul autrement. Les erreurs de mutation n’ont pas de code. Si des erreurs sont présentes, le champ contenant la réponse sera nul.
