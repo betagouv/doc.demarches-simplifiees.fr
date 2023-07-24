@@ -1,5 +1,5 @@
 ---
-description: "Ce tutoriel présente, sous forme de vidéo ou de texte, les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarches simplifiées\_»."
+description: "Ce tutoriel présente les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarches simplifiées\_»."
 ---
 
 # Tutoriel usager
@@ -18,7 +18,7 @@ La page d'accueil de demarches-simplifiees.fr permet à l'usager de se connecter
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Page d'accueil Demarches-simplifiees.fr</p></figcaption></figure>
 
-Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être public sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication.
+Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication.
 
 Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à l'exemple ci-dessous :&#x20;
 
@@ -29,14 +29,14 @@ Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à
 Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simplifiees.fr :
 
 * **L’usager possède déjà un compte** sur demarches-simplifiees.fr : cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doutes, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
-* **L’usager possède un compte France Connect** : cliquer sur le bouton « France Connect », choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
+* **L’usager possède un compte France Connect** : dans ce cas il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
 
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Connexion avec France connect</p></figcaption></figure>
 
-S'il s'agit d'une inscription, **un lien vous sera envoyé par e-mail afin de valider votre inscription**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
+S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
-Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous que votre entreprise n'utilise pas un filtre anti-spam qui empêcherait la réception de celui-ci.&#x20;
+Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la réception de celui-ci.&#x20;
 
 ## 2. Déposer un dossier
 
@@ -46,9 +46,12 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 * Une entreprise ou organisme possédant un numéro SIRET
 * Une personne physique
-* Une entreprise ou un organisme possédant un numéro SIRET :
 
-La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe.
+
+
+Pour l'entreprise ou l'organisme possédant un numéro SIRET :
+
+La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
@@ -88,7 +91,7 @@ Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au f
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce jointe est de 200 Mo au total par enregistrement. Si l'ensemble des pièces-jointes dépasse 200 Mo au moment de cliquer sur le bouton « Enregistrer », ajouter les pièces jointes une par une et cliquer sur enregistrer à chaque ajout de pièce.
+La capacité maximale d’ajout de pièce jointe est de 200 Mo au total par champ. Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.&#x20;
 
 Formats de pièces jointes acceptées : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png
 
