@@ -99,13 +99,13 @@ Formats de pièces jointes acceptées : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .p
 
 Il est possible d'inviter un tiers à compléter ou à modifier un dossier.&#x20;
 
-En accédant au dossier concerné, cliquer sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, saisir une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquer sur le bouton « Envoyer une invitation ».&#x20;
+En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
 
 La personne invitée reçoit alors un e-mail l’invitant à se connecter sur demarches-simplifiees.fr afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
 
-Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine du dossier dispose des droits pour déposer celui-ci.
+Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine de la création du dossier dispose des droits pour déposer celui-ci.
 
 ### **C. Enregistrement automatique du brouillon**&#x20;
 
@@ -115,13 +115,13 @@ Lorsque vous remplissez un formulaire sur demarches-simplifiees.fr, les informat
 
 Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.&#x20;
 
-Le brouillon est accessible depuis votre espace personnel et peut être complété à tout moment.
+Le brouillon est accessible depuis votre espace personnel et peut être complété à tout moment, tant que la démarche n'a pas été clôturée.
 
 Un message apparaît pour vous confirmer la sauvegarde de votre brouillon.&#x20;
 
 ### **D. Déposer le dossier**
 
-Une fois le dossier complété, cliquer sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
+Une fois le dossier complété, cliquez sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
 
