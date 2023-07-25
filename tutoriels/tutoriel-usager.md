@@ -211,19 +211,19 @@ Un dossier à corriger est un dossier qui a été consulté par l'instructeur et
 
 ### C. Consultation d'un dossier
 
-Afin d'accéder au détail d'un dossier, cliquer sur celui-ci :
+Afin d'accéder au détail d'un dossier, cliquez sur celui-ci: &#x20;
 
-![Aperçu du tableau de bord d'un dossier pour un  usager](../.gitbook/assets/11.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.50.30.png" alt=""><figcaption></figcaption></figure>
 
 ### D. Modifier un dossier
 
 Un dossier peut être modifié s'il est en brouillon ou en construction. Pour cela cliquer sur le bouton « Modifier mon dossier » en haut à droite :
 
-![Modifier son dossier, en tant qu'usager](../.gitbook/assets/12.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.53.02.png" alt=""><figcaption><p>Modification d'un dossier en construction</p></figcaption></figure>
 
 Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton « Enregistrer les modifications du dossier », situé en bas de page :
 
-![](../.gitbook/assets/13.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.56.15.png" alt=""><figcaption></figcaption></figure>
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
