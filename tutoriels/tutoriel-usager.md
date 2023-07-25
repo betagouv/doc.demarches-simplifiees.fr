@@ -137,9 +137,19 @@ Le statut « en construction » indique que le dossier est visible par l’admin
 
 En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », « supprimés récemment » et « supprimés définitivement » .&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Tableau de bord en tant qu'usager </p></figcaption></figure>
+Vous avez la possibilité de rechercher un dossier en renseignant le numéro de dossier dans la barre de recherche et également de rechercher un dossier en fonction du nom de la démarche.&#x20;
 
-#### En cours
+<div align="center">
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 09.34.40.png" alt=""><figcaption><p>Tableau de bord d'un usager</p></figcaption></figure>
+
+</div>
+
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52.png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
+
+**En cours**
 
 Cet onglet reprend toutes les démarchées en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
 
@@ -149,15 +159,17 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue (acceptation, refus, classement sans suite).&#x20;
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
 
-Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.17.11.png" alt=""><figcaption><p>Onglet des dossiers traités</p></figcaption></figure>
+
+Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.&#x20;
 
 **Dossiers invités**
 
 Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager des dossiers invités</p></figcaption></figure>
 
 &#x20;
 
