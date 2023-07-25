@@ -203,6 +203,12 @@ Le dossier « en instruction » est pris en charge par le service compétent. Il
 
 Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie est alors désactivée.&#x20;
 
+**Dossier à corriger**&#x20;
+
+Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc). La mention "à corriger" s'affiche sur le dossier.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.03.08.png" alt=""><figcaption><p>Dossier à corriger par l'usager</p></figcaption></figure>
+
 ### C. Consultation d'un dossier
 
 Afin d'accéder au détail d'un dossier, cliquer sur celui-ci :
