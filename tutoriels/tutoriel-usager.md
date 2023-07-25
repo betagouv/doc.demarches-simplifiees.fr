@@ -131,6 +131,14 @@ Le dossier passe alors du statut « brouillon » au statut « en construction »
 
 Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager.
 
+### **E. Consultez l'attestation de dépôt de votre dossier**
+
+Une fois le dossier déposé, une attestation de dépôt de dossier est automatiquement générée. Elle est disponible dans l'onglet "résumé" du dossier.&#x20;
+
+Cette attestation comporte des informations telles que le nom, prénom de l'usager, la date de dépôt du dossier ainsi que son numéro, les coordonnées du service traitant, etc.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.46.11.png" alt=""><figcaption><p>Attestation de dépôôt du dossier</p></figcaption></figure>
+
 ## 3. Accéder au suivi de mon dossier
 
 ### A. Présentation du tableau de bord
@@ -167,8 +175,6 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue (acceptation, refus, classement sans suite).&#x20;
 
-
-
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.17.11.png" alt=""><figcaption><p>Onglet des dossiers traités</p></figcaption></figure>
 
 Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.&#x20;
@@ -187,9 +193,9 @@ Dans l'onglet "supprimés définitivement", vous retrouverez les dossiers qui on
 
 ### B. Les différents statuts d'un dossier
 
-#### Brouillon
+#### En brouillon
 
-Une fois la démarche effectuée par l'usager et le dossier enregistré, celui-ci est au statut de brouillon tant que l'usager ne l'a pas déposé.&#x20;
+Une fois la démarche débutée par l'usager et le dossier enregistré, celui-ci est au statut de brouillon tant que l'usager ne l'a pas déposé.&#x20;
 
 #### En construction
 
@@ -199,13 +205,15 @@ Une fois le dossier déposé par l'usager, son statut est « en construction ».
 
 Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable.
 
-#### Accepté / Sans suite / Refusé
+#### Accepté / Classé sans suite / Refusé
 
 Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie est alors désactivée.&#x20;
 
 **Dossier à corriger**&#x20;
 
-Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc). La mention "à corriger" s'affiche sur le dossier.
+Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc).&#x20;
+
+La mention "à corriger" s'affiche sur le dossier.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.03.08.png" alt=""><figcaption><p>Dossier à corriger par l'usager</p></figcaption></figure>
 
@@ -213,7 +221,7 @@ Un dossier à corriger est un dossier qui a été consulté par l'instructeur et
 
 Afin d'accéder au détail d'un dossier, cliquez sur celui-ci: &#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.50.30.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.50.30.png" alt=""><figcaption><p>Contenu du dossier vue usager </p></figcaption></figure>
 
 ### D. Modifier un dossier
 
@@ -229,17 +237,21 @@ Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton �
 
 Un onglet « Messagerie » est intégrée au dossier : celui-ci reprend les e-mails qui sont envoyés à l'usager et lui permet de communiquer directement avec le service instructeur.
 
-![](../.gitbook/assets/15.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.55.00.png" alt=""><figcaption><p>Messagerie de l'usager</p></figcaption></figure>
 
-Après avoir saisi le corps du texte, cliquer sur le bouton « Envoyer le message ».
+Après avoir saisi votre message, vous pouvez cliquer sur le bouton "envoyer le message".&#x20;
 
-Possibilité de joindre un fichier au message (max 20 Mo) en cliquant sur « Parcourir ».
+Vous avez également la possibilité de joindre un fichier au message (max 20 Mo) en cliquant sur « Parcourir ».
 
-![Joindre un fichier sur la messagerie, en tant qu'usager](../.gitbook/assets/16.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.58.26 (1).png" alt=""><figcaption><p>Joindre un fichier sur la messagerie, en tant qu'usager</p></figcaption></figure>
 
-En absence de réponse ou si vous souhaitez contacter directement l'administration, les informations de contact sont disponibles en bas de page de la démarche concernée, sous la rubrique « Poser une question sur votre dossier ».&#x20;
 
-![Aperçu de la rubrique "Poser une question sur votre dossier", en tant qu'usager](../.gitbook/assets/18.PNG)
+
+En l'absence de réponse ou si vous souhaitez contacter directement l'administration, les informations de contact sont disponibles en bas de page de la démarche concernée, sous la rubrique « Poser une question sur votre dossier ».&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.04.51.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **ATTENTION** : Une fois l'instruction du dossier terminée et la décision prise, l'usager n'aura plus accès à la messagerie.&#x20;
