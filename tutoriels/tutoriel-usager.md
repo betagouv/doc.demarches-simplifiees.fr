@@ -74,7 +74,7 @@ Les premières informations demandées sont la civilité, le nom et le prénom d
 #### Présentation des champs du formulaire
 
 {% hint style="info" %}
-**ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier est conditionné par le remplissage de ces champs.
+**ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier est conditionné par le remplissage de ces champs. Une mention s'affiche pour les champs facultatifs.&#x20;
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
