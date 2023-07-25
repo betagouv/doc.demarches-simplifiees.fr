@@ -256,3 +256,14 @@ En l'absence de réponse ou si vous souhaitez contacter directement l'administra
 {% hint style="info" %}
 **ATTENTION** : Une fois l'instruction du dossier terminée et la décision prise, l'usager n'aura plus accès à la messagerie.&#x20;
 {% endhint %}
+
+### F. Les différentes actions à effectuer sur un dossier
+
+En cliquant sur le bouton "Actions", vous pouvez :&#x20;
+
+* Transférer le dossier à un tiers en renseignant son adresse email&#x20;
+* Commencer un nouveau dossier de la même démarche: vous serez redirigé vers le lien de la démarche
+* Dupliquer le dossier (en copiant l'ensemble des champs de pièces jointes)
+* Supprimer le dossier&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.30.56.png" alt=""><figcaption><p>Les différentes actions sur un dossier</p></figcaption></figure>
