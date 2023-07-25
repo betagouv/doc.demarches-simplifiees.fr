@@ -74,11 +74,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 * Pour supprimer le routage, vous pouvez soit supprimer tous les groupes d'instructeurs, soit aller dans la page « Options » et cliquer sur « Supprimer le routage ».
 
-## 9. Le routage en tant qu'usager
-
-* Si l'usager s'est trompé en sélectionnant une mauvaise option du champ dédié au routage et que son dossier est routé vers le mauvais groupe d'instructeurs, il lui suffit de modifier la valeur du champ pour que son dossier puisse être transmis au bon groupe d'instructeurs. Pour ce faire, il faut néanmoins que son dossier soit en construction.
-
-## 10. Le routage en tant qu'instructeur&#x20;
+## 9. Le routage en tant qu'instructeur&#x20;
 
 * En tant qu'instructeur d'une démarche utilisant le routage, l'onglet « instructeurs » apparaît en dessous du titre de la démarche.
 
@@ -93,3 +89,15 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 ![](<../.gitbook/assets/Screenshot 2020-01-31 at 11.29.53.png>)
 
 * Tous les instructeurs d'un groupe ont la possibilité d'ajouter un nouvel instructeur à ce groupe ou d'en retirer un. La gestion des groupes peut donc se faire en autonomie et ne nécessite pas l'intervention de l'administrateur.&#x20;
+
+## 10. Réaffectation d'un dossier
+
+* Si l'usager se trompe en sélectionnant une option du champ dédié au routage, son dossier est routé vers le mauvais groupe d'instructeurs. Cependant, tant que le dossier est en construction, l'usager peut modifier lui-même la valeur du champ pour que son dossier soit réaffecté au bon groupe d'instructeurs.
+* En tant qu'instructeur, suite à une erreur de l'usager, il est aussi possible de réaffecter un dossier à un autre groupe d'instructeurs.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-07-25 10-12-43.png" alt=""><figcaption></figcaption></figure>
+
+
+
