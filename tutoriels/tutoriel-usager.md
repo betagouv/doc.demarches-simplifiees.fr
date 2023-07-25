@@ -49,7 +49,7 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 
 
-Pour l'entreprise ou l'organisme possédant un numéro SIRET :
+**Pour l'entreprise ou l'organisme possédant un numéro SIRET :**
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise.
 
@@ -63,7 +63,7 @@ Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », u
 
 Une fois les informations relatives à l'établissement vérifiées, cliquer sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
 
-* Une personne physique :
+**Une personne physique :**
 
 Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
 
