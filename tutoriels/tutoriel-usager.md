@@ -145,6 +145,16 @@ Vous avez la possibilité de rechercher un dossier en renseignant le numéro de 
 
 </div>
 
+**Affichage des filtres**&#x20;
+
+Vous avez la possibilité de filtrer l'affichage de vos dossiers en fonction de plusieurs critères:&#x20;
+
+* Le statut du dossier
+* La date de création du dossier
+* La date de dépôt du dossier&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.56.17.png" alt=""><figcaption><p>Sélection des filtres</p></figcaption></figure>
+
 **En cours**
 
 Cet onglet reprend toutes les démarchées en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
