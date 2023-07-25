@@ -137,7 +137,7 @@ Une fois le dossier déposé, une attestation de dépôt de dossier est automati
 
 Cette attestation comporte des informations telles que le nom, prénom de l'usager, la date de dépôt du dossier ainsi que son numéro, les coordonnées du service traitant, etc.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.46.11.png" alt=""><figcaption><p>Attestation de dépôôt du dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.46.11.png" alt=""><figcaption><p>Attestation de dépôt du dossier</p></figcaption></figure>
 
 ## 3. Accéder au suivi de mon dossier
 
@@ -219,7 +219,7 @@ La mention "à corriger" s'affiche sur le dossier.
 
 ### C. Consultation d'un dossier
 
-Afin d'accéder au détail d'un dossier, cliquez sur celui-ci: &#x20;
+Afin d'accéder au détail d'un dossier, cliquez sur celui-ci. Cliquez ensuite sur l'onglet "demande" pour consulter l'intégralité du dossier soumis.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.50.30.png" alt=""><figcaption><p>Contenu du dossier vue usager </p></figcaption></figure>
 
@@ -231,7 +231,7 @@ Un dossier peut être modifié s'il est en brouillon ou en construction. Pour ce
 
 Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton « Enregistrer les modifications du dossier », situé en bas de page :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.56.15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.56.15.png" alt=""><figcaption><p>Modification d'un dossier</p></figcaption></figure>
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
@@ -251,7 +251,7 @@ En l'absence de réponse ou si vous souhaitez contacter directement l'administra
 
 
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.04.51.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.04.51.png" alt=""><figcaption><p>Contact de l'administration</p></figcaption></figure>
 
 {% hint style="info" %}
 **ATTENTION** : Une fois l'instruction du dossier terminée et la décision prise, l'usager n'aura plus accès à la messagerie.&#x20;
