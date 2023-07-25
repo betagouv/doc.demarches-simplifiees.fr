@@ -145,15 +145,13 @@ Vous avez la possibilité de rechercher un dossier en renseignant le numéro de 
 
 </div>
 
-
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52.png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
-
 **En cours**
 
 Cet onglet reprend toutes les démarchées en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
 
 Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52.png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
 
 #### Traités
 
@@ -167,11 +165,15 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 **Dossiers invités**
 
-Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier :&#x20;
+Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier. L'invité peut modifier le dossier mais ne peut le déposer à la place de l'usager qui a initié le dossier:&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Exemple de tableau de bord en tant qu'usager des dossiers invités</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.40.28.png" alt=""><figcaption><p>Onglet des dossiers invités</p></figcaption></figure>
 
-&#x20;
+**Dossiers supprimés**
+
+Si vous avez supprimé des dossiers récemment, vous avez la possibilité de les restaurer en cliquant sur le bouton "restaurer".&#x20;
+
+Dans l'onglet "supprimés définitivement", vous retrouverez les dossiers qui ont été supprimés mais que vous ne pouvez restaurer.&#x20;
 
 ### B. Les différents statuts d'un dossier
 
@@ -181,7 +183,7 @@ Une fois la démarche effectuée par l'usager et le dossier enregistré, celui-c
 
 #### En construction
 
-Une fois le dossier déposé par l'usager, son statut est « en construction ». L'usager peut encore le modifier.
+Une fois le dossier déposé par l'usager, son statut est « en construction ». L'usager peut encore le modifier tant qu'il n'est pas passé en "instruction".&#x20;
 
 #### En instruction
 
