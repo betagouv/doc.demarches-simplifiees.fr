@@ -8,7 +8,7 @@ Lorsque l'instruction d'un dossier sur demarches-simplifiees.fr nécessite l'avi
 
 Cette invitation prend la forme d'un e-mail que l'invité reçoit.&#x20;
 
-![](<../.gitbook/assets/image (12) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.14.14.png" alt=""><figcaption><p>Invitation à donner un avis sur un dossier</p></figcaption></figure>
 
 L'e-mail reçu indique l'adresse e-mail du demandeur, le numéro du dossier concerné et l'intitulé de la démarche, ainsi que le message rédigé par l'instructeur à l'origine de la demande d'avis.&#x20;
 
@@ -24,14 +24,16 @@ Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressé
 
 Une fois connecté, vous avez accès à une liste des dossiers pour lesquels votre avis est demandé : les dossiers sont identifiés par un numéro et par l'intitulé de la démarche.
 
-![](<../.gitbook/assets/image (14) (1) (1).png>)
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.20.46.png" alt=""><figcaption></figcaption></figure>
 
 Une pastille de notification orange indique qu'un ou plusieurs nouveaux avis vous sont demandés. La pastille peut être affichée à nouveau si un avis supplémentaire sur un dossier pour lequel vous avez déjà émis un premier avis vous est demandé. Le nombre de ces avis est rappelé en orange sur l'intitulé « Avis » en haut à gauche de l'écran.&#x20;
 
 Les dossiers sont organisés en deux onglets :
 
-* les avis à donner
-* les avis donnés
+* les avis à donner : une réponse est attendue par l'instructeur en charge du dossier
+* les avis donnés : cet onglet comporte les anciens avis formulés sur les dossiers précédents.
 
 ## 3. Consulter le dossier et donner son avis
 
@@ -41,7 +43,7 @@ Depuis la liste, il suffit de cliquer sur un dossier afin d'accéder au détail 
 
 En cliquant sur le dossier vous avez accès à l'onglet « Demande » qui récapitule le formulaire tel que rempli par l'usager :
 
-![](<../.gitbook/assets/image (15) (1).png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.43 (2).png" alt=""><figcaption></figcaption></figure>
 
 Cet onglet vous permet également de consulter les pièces justificatives jointes au dossier par l'usager.
 
@@ -51,7 +53,9 @@ Cet onglet vous permet de donner votre avis sur le dossier : l'e-mail du demande
 
 Vous avez ensuite un champ dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 
-![](<../.gitbook/assets/image (16) (1) (1).png>)
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.02 (1).png" alt=""><figcaption><p>Interface expert de la demande d'avis </p></figcaption></figure>
 
 Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton correspondant.&#x20;
 
