@@ -51,7 +51,7 @@ Cet onglet vous permet également de consulter les pièces justificatives jointe
 
 Cet onglet vous permet de donner votre avis sur le dossier : l'e-mail du demandeur de l'avis et son message sont affichés.&#x20;
 
-Vous avez la possibilité de répondre par "oui" ou "non" à la question "Etes-vous favorable à cette demande"
+Vous avez la possibilité de répondre par "oui" ou "non" à la question posée par l'instructeur: dans cet exemple il s'agit de la question "Etes-vous favorable à cette demande".&#x20;
 
 Vous avez également un champ de texte libre dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 
@@ -59,19 +59,21 @@ Vous avez également un champ de texte libre dédié pour rédiger l'avis après
 
 Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton correspondant.&#x20;
 
-Une fois l'avis rédigé et la pièce jointe ajoutée si nécessaire, vous devez cliquer sur le bouton correspondant afin d'envoyer votre avis. À côté de ce bouton, il vous est indiqué si votre avis sera visible par tous les experts ou s'il est confidentiel (donc uniquement visible par l'instructeur).
+Une fois l'avis rédigé et la pièce jointe ajoutée si nécessaire, vous devez cliquer sur le bouton "envoyer votre avis". En haut de ce bouton, il vous est indiqué si votre avis sera partagé avec les autres experts ou s'il est confidentiel (donc uniquement visible par l'instructeur).
 
-En bas de cet onglet vous aurez un récapitulatif des autres avis demandés sur ce dossier :
+Dans l'onglet "voir les avis", vous aurez un récapitulatif des autres avis demandés sur ce dossier : vous pouvez voir si les avis ont été rendus ou s'ils sont encore en attente de réponse.&#x20;
 
-![](<../.gitbook/assets/image (18) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 12.02.21.png" alt=""><figcaption><p>Tous les avis d'un dossier </p></figcaption></figure>
 
 ### C. Messagerie&#x20;
 
 Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges. Il se peut que l'accès à cette messagerie vous soit restreint, c'est à la discretion de l'administrateur de laisser ou non la messagerie accessible.
 
-![](<../.gitbook/assets/image (19) (1).png>)
 
-Vous avez également la possibilité de rédiger un message qui sera visible par l'usager et par l'instructeur : vous disposez pour cela d'un champ libre ; il vous est également possible de joindre un document à ce message ; il suffit ensuite de cliquer sur le bouton correspondant pour envoyer ce message.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 12.07.36.png" alt=""><figcaption><p>Messagerie du dossier depuis l'interface expert</p></figcaption></figure>
+
+Si vous avez accès à la messagerie, vous avez également la possibilité de rédiger un message qui sera visible par l'usager et par l'instructeur : vous disposez pour cela d'un champ libre ; il vous est également possible de joindre un document à ce message ; il suffit ensuite de cliquer sur le bouton correspondant pour envoyer ce message.
 
 ### **D. La notification de la décision finale**&#x20;
 
