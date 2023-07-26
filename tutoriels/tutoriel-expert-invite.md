@@ -24,8 +24,6 @@ Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressé
 
 Une fois connecté, vous avez accès à une liste des dossiers pour lesquels votre avis est demandé : les dossiers sont identifiés par un numéro et par l'intitulé de la démarche.
 
-
-
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.20.46.png" alt=""><figcaption></figcaption></figure>
 
 Une pastille de notification orange indique qu'un ou plusieurs nouveaux avis vous sont demandés. La pastille peut être affichée à nouveau si un avis supplémentaire sur un dossier pour lequel vous avez déjà émis un premier avis vous est demandé. Le nombre de ces avis est rappelé en orange sur l'intitulé « Avis » en haut à gauche de l'écran.&#x20;
@@ -46,6 +44,8 @@ En cliquant sur le dossier vous avez accès à l'onglet « Demande » qui récap
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.43 (2).png" alt=""><figcaption></figcaption></figure>
 
 Cet onglet vous permet également de consulter les pièces justificatives jointes au dossier par l'usager.
+
+L'expert peut télécharger le dossier et toutes les pièces jointes qui y sont rattachées sous format zip.&#x20;
 
 ### B. Avis
 
@@ -69,11 +69,11 @@ Dans l'onglet "voir les avis", vous aurez un récapitulatif des autres avis dema
 
 Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges. Il se peut que l'accès à cette messagerie vous soit restreint, c'est à la discretion de l'administrateur de laisser ou non la messagerie accessible.
 
-
-
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 12.07.36.png" alt=""><figcaption><p>Messagerie du dossier depuis l'interface expert</p></figcaption></figure>
 
 Si vous avez accès à la messagerie, vous avez également la possibilité de rédiger un message qui sera visible par l'usager et par l'instructeur : vous disposez pour cela d'un champ libre ; il vous est également possible de joindre un document à ce message ; il suffit ensuite de cliquer sur le bouton correspondant pour envoyer ce message.
+
+Lorsqu'un dossier a été instruit par l'instructeur, vous n'avez plus la possibilité d'envoyer votre avis en tant qu'expert.&#x20;
 
 ### **D. La notification de la décision finale**&#x20;
 
@@ -83,16 +83,16 @@ Pour en savoir plus concernant la gestion des avis experts invités par l'admini
 
 Si l'administrateur de la démarche active la fonctionnalité « notifier des décisions sur les dossiers », en tant qu'expert invité, vous recevrez une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure :&#x20;
 
-* En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été accepté.&#x20;
+* En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été accepté:&#x20;
 
-![](<../.gitbook/assets/image (45) (1).png>)
+![Email reçu par un expert pour l'acceptation d'un dossier](<../.gitbook/assets/image (45) (1).png>)
 
 * En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (46) (1).png>)
+![Email reçu par un expert pour le refus d'un dossier](<../.gitbook/assets/image (46) (1).png>)
 
 * En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (47).png>)
+![Email reçu par un expert pour le classement sans suite d'un dossier](<../.gitbook/assets/image (47).png>)
 
 ###
