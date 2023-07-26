@@ -24,7 +24,7 @@ Attention : nous apportons continuellement des améliorations à demarches-simpl
 
 Un instructeur est une personne nommée par un administrateur afin de prendre en charge le traitement et l'instruction des dossiers d'une démarche administrative.&#x20;
 
-L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a été nommé (champs renseignés, pièces justificatives, messagerie). Il dispose des droits pour statuer sur le dossier (acceptation, classement sans suite, refus) et peut inviter un tiers à consulter un dossier afin d'émettre un avis sur celui-ci.&#x20;
+L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a été nommé (champs renseignés, pièces justificatives, messagerie). Il dispose des droits pour statuer sur le dossier (acceptation, classement sans suite, refus) et peut inviter un tiers à consulter un dossier afin d'émettre un avis sur celui-ci si l'administrateur de la démarche le permet.&#x20;
 
 ## 1. Se connecter à demarches-simplifiees.fr
 
@@ -44,11 +44,13 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 ## 2. Le tableau de suivi des procédures
 
-Le tableau de suivi des démarches permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé.&#x20;
+Le tableau de suivi des démarches permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé. Le nom de la démarche et son numéro y figurent.&#x20;
 
-<figure><img src="../.gitbook/assets/Instructeur page 1.png" alt=""><figcaption></figcaption></figure>
+Les démarches sont classées dans plusieurs onglets : les démarches publiées, en test et closes.&#x20;
 
-Cliquer sur l'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ».
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 15.33.17.png" alt=""><figcaption><p>Interface instructeur et vue sur les démarches</p></figcaption></figure>
+
+Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ».
 
 Les dossiers sont classés selon leur stade de traitement : à suivre, suivi, traité, tous les dossiers et archivé.
 

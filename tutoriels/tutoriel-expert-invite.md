@@ -57,7 +57,7 @@ Vous avez également un champ de texte libre dédié pour rédiger l'avis après
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.02 (1).png" alt=""><figcaption><p>Interface expert de la demande d'avis </p></figcaption></figure>
 
-Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton correspondant.&#x20;
+Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton "parcourir".&#x20;
 
 Une fois l'avis rédigé et la pièce jointe ajoutée si nécessaire, vous devez cliquer sur le bouton "envoyer votre avis". En haut de ce bouton, il vous est indiqué si votre avis sera partagé avec les autres experts ou s'il est confidentiel (donc uniquement visible par l'instructeur).
 
