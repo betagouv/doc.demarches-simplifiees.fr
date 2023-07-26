@@ -143,7 +143,7 @@ Cette attestation comporte des informations telles que le nom, prénom de l'usag
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », « supprimés récemment » et « supprimés définitivement » .&#x20;
+En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », « supprimés récemment », « supprimés définitivement » et "demande de transfert".&#x20;
 
 Vous avez la possibilité de rechercher un dossier en renseignant le numéro de dossier dans la barre de recherche et également de rechercher un dossier en fonction du nom de la démarche.&#x20;
 
@@ -190,6 +190,12 @@ Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'app
 Si vous avez supprimé des dossiers récemment, vous avez la possibilité de les restaurer en cliquant sur le bouton "restaurer".&#x20;
 
 Dans l'onglet "supprimés définitivement", vous retrouverez les dossiers qui ont été supprimés mais que vous ne pouvez restaurer.&#x20;
+
+**Demande de transfert**
+
+Il s'agit des dossiers qui sont transférés d'un usager à l'autre. L'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.47.20.png" alt=""><figcaption><p>Demande de transfert d'un dossier</p></figcaption></figure>
 
 ### B. Les différents statuts d'un dossier
 
