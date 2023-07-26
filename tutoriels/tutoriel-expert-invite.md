@@ -49,11 +49,11 @@ Cet onglet vous permet également de consulter les pièces justificatives jointe
 
 ### B. Avis
 
-Cet onglet vous permet de donner votre avis sur le dossier : l'e-mail du demandeur de l'avis et son message sont repris en haut de la page.&#x20;
+Cet onglet vous permet de donner votre avis sur le dossier : l'e-mail du demandeur de l'avis et son message sont affichés.&#x20;
 
-Vous avez ensuite un champ dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
+Vous avez la possibilité de répondre par "oui" ou "non" à la question "Etes-vous favorable à cette demande"
 
-
+Vous avez également un champ de texte libre dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.02 (1).png" alt=""><figcaption><p>Interface expert de la demande d'avis </p></figcaption></figure>
 
@@ -67,7 +67,7 @@ En bas de cet onglet vous aurez un récapitulatif des autres avis demandés sur 
 
 ### C. Messagerie&#x20;
 
-Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges :
+Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges. Il se peut que l'accès à cette messagerie vous soit restreint, c'est à la discretion de l'administrateur de laisser ou non la messagerie accessible.
 
 ![](<../.gitbook/assets/image (19) (1).png>)
 
