@@ -65,6 +65,12 @@ Dans l'onglet "voir les avis", vous aurez un récapitulatif des autres avis dema
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 12.02.21.png" alt=""><figcaption><p>Tous les avis d'un dossier </p></figcaption></figure>
 
+Si l'administrateur vous donne les droits en amont, vous avez également la possibilité en tant qu'expert de demander un autre avis à un autre expert. Il vous suffit pour cela de cliquer sur l'onglet "demander un autre avis". Vous pourrez donc par ce biais envoyer le dossier de l'usager ainsi que ses pièces jointes à un autre expert qui pourra formuler un avis. Cet avis sera consultable par l'instructeur du dossier.&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 14.56.52.png" alt=""><figcaption><p>Demande d'avis à un autre expert</p></figcaption></figure>
+
 ### C. Messagerie&#x20;
 
 Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges. Il se peut que l'accès à cette messagerie vous soit restreint, c'est à la discretion de l'administrateur de laisser ou non la messagerie accessible.
