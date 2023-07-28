@@ -52,17 +52,21 @@ Les démarches sont classées dans plusieurs onglets : les démarches publiées,
 
 Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ».
 
-Les dossiers sont classés selon leur stade de traitement : à suivre, suivi, traité, tous les dossiers et archivé.
+Les dossiers sont classés selon leur stade de traitement : à suivre, suivi, traité, au total, supprimé récemment, expirant et archivé.
 
-![Onglets classifiant les dossiers par stade de traitement](<../.gitbook/assets/tableau suivi-instructeur (1).PNG>)
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-28 à 11.52.48.png" alt=""><figcaption></figcaption></figure>
 
 Ces différents stades de traitement correspondent à :
 
 * **à suivre** : onglet contenant l'ensemble des dossiers qui ne sont suivis par aucun instructeur
-* **suivi** : onglet listant seulement les dossiers suivis par l'instructeur connecté ;
-* **traité** : dossiers sur lesquels un instructeur a statué ;
-* **tous les dossiers** : ensemble des dossiers dont ceux suivis par les instructeurs autres que celui connecté ;
-* **archivé** : dossiers archivés par un instructeur.
+* **Suivi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier
+* **Traité** : dossiers sur lesquels un instructeur a statué et apporté une décision
+* **Au total** : l'ensemble des dossiers de la démarche dont ceux suivis par les instructeurs autres que celui connecté. Si la démarche est routée, vous ne trouverez que les dossiers de votre groupe.
+* **Supprimé récemment** : Vous y retrouvez les dossiers "traités" que vous avez supprimé
+* **Expirant** : les dossiers ont une durée de conservation fixé par l'administrateur de la démarche. Les dossiers qui arrivent à expiration sont donc dans cet onglet. Passé ce délai, les dossiers expirent définitivement. Il faut donc les instruire avant l'expiration.   &#x20;
+* **Archivé** : dossiers archivés par un instructeur.
 
 ### **A. Personnaliser le tableau de suivi des dossiers**&#x20;
 
