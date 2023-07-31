@@ -50,53 +50,57 @@ Les démarches sont classées dans plusieurs onglets : les démarches publiées,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 15.33.17.png" alt=""><figcaption><p>Interface instructeur et vue sur les démarches</p></figcaption></figure>
 
-Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ».
+Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ». Vous pouvez continuer d'instruire une démarche même si elle est close. Seul le dépôt de nouveau dossier ne sera plus possible sur cette démarche close.&#x20;
 
 Les dossiers sont classés selon leur stade de traitement : à suivre, suivi, traité, au total, supprimé récemment, expirant et archivé.
 
-
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-28 à 11.52.48.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-28 à 11.52.48.png" alt=""><figcaption><p>Vue du tableau de bord instructeur </p></figcaption></figure>
 
 Ces différents stades de traitement correspondent à :
 
-* **à suivre** : onglet contenant l'ensemble des dossiers qui ne sont suivis par aucun instructeur
-* **Suivi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier
-* **Traité** : dossiers sur lesquels un instructeur a statué et apporté une décision
+* **à suivre** : onglet contenant l'ensemble des dossiers qui ne sont suivis par aucun instructeur. Pour s'assigner le dossier, il suffit de cliquer sur "suivre le dossier".
+* **Suivi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier.
+* **Traité** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.&#x20;
 * **Au total** : l'ensemble des dossiers de la démarche dont ceux suivis par les instructeurs autres que celui connecté. Si la démarche est routée, vous ne trouverez que les dossiers de votre groupe.
 * **Supprimé récemment** : Vous y retrouvez les dossiers "traités" que vous avez supprimé
 * **Expirant** : les dossiers ont une durée de conservation fixé par l'administrateur de la démarche. Les dossiers qui arrivent à expiration sont donc dans cet onglet. Passé ce délai, les dossiers expirent définitivement. Il faut donc les instruire avant l'expiration.   &#x20;
-* **Archivé** : dossiers archivés par un instructeur.
+* **Archivé** : dossiers archivés par un instructeur. Seuls les dossiers traités peuvent être archivés. La messagerie est automatiquement désactivée sur le dossier dès que le dossier est archivé.&#x20;
 
 ### **A. Personnaliser le tableau de suivi des dossiers**&#x20;
 
 Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure.
 
-Cliquer sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquer sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquer sur le bouton « Enregistrer » comme suit :
+Cliquer sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquer sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquer sur le bouton « Enregistrer » comme suit :&#x20;
 
-![Localisation du bouton "Personnaliser"](../.gitbook/assets/instructeur-2.PNG)
 
-![Choix d'un champ de recherche et enregistrement](../.gitbook/assets/instructeur-3.PNG)
 
-Un champ peut être retiré du tableau de suivi : cliquer de nouveau sur « Personnaliser » puis sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer », comme suit :
+<figure><img src="broken-reference" alt=""><figcaption><p>Personnalisation du tableau de bord instructeur</p></figcaption></figure>
 
-![Retrait d'un champ du tableau de suivi et enregistrement](<../.gitbook/assets/CAPTURE MANQUANTE-tutoinstu.PNG>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 16.55.15.png" alt=""><figcaption><p>Personnalisation du tableau de bord instructeur </p></figcaption></figure>
+
+Un champ peut être retiré du tableau de suivi : cliquer de nouveau sur « Personnaliser » puis retirer le champ en cliquant sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer ».&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 16.59.45.png" alt=""><figcaption><p>Retrait d'un champ </p></figcaption></figure>
 
 Si vous retirez toutes les colonnes depuis le bouton « Personnaliser », seuls les numéros des dossiers seront affichés en plus du statut de ceux-ci.&#x20;
 
+Vous pouvez sélectionner tout type de champ pour la personnalisation de votre tableau de bord notamment des annotations privées et le champ oui/non de l'avis expert. Cela peut vous être utile dans l'instruction de vos dossiers.&#x20;
+
 ### B. Filtrer les dossiers
 
-Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure.
+Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que les dossiers qui vous intéressent.
 
-Cliquer sur le bouton « Filtrer », Sélectionner un champ, puis une valeur associée à ce champs et cliquer sur le bouton « Ajouter un filtre ». Vous aurez alors accès à l'ensemble des champs du formulaire pour filtrer les dossiers.
+Pour cela, il faut cliquer sur le bouton « Filtrer », Sélectionner un champ, puis une valeur associée à ce champ et cliquer sur le bouton « Ajouter un filtre ». Vous aurez alors accès à l'ensemble des champs du formulaire pour filtrer les dossiers.
 
-![Localisation du bouton "Filtrer"](../.gitbook/assets/instruc4.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.07.14.png" alt=""><figcaption><p>Filtrer l'affichage du tableau selon des champs</p></figcaption></figure>
 
 &#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « Ajouter le filtre » comme suit :
 
-![](../.gitbook/assets/instruc5.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.14.46.png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
 
-![Exemple de filtre, en tant qu'instructeur](../.gitbook/assets/tutoinstructeur1.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.18.31.png" alt=""><figcaption></figcaption></figure>
 
 ### **C. Trier les dossiers**&#x20;
 
