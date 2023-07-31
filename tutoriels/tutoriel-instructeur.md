@@ -108,6 +108,8 @@ Il possible de trier les dossiers par ordre alphabétique et/ou numérique en cl
 
 Dans l'exemple suivant, la colonne « Nom » est affichée à la place de la colonne par défaut «"Demandeur » qui affiche l'adresse e-mail associée au compte de l'usager. Le tri par défaut porte sur les numéros de dossiers. Les dossiers sont alors affichés selon la date de dépôt, du plus récent au plus ancien.
 
+
+
 ![Affichage avec le tri par défaut](../.gitbook/assets/instruc6.PNG)
 
 En cliquant sur la colonne « Nom », l'affichage est modifié :
@@ -126,7 +128,9 @@ Un dossier à suivre a le statut « en construction ». Il est consultable et mo
 
 Pour suivre un dossier cliquer sur le bouton « Suivre le dossier ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-![](../.gitbook/assets/instruc9.PNG)
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.26.14 (1).png" alt=""><figcaption><p>Suivre un dossier</p></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
