@@ -128,15 +128,15 @@ Un dossier à suivre a le statut « en construction ». Il est consultable et mo
 
 Pour suivre un dossier cliquer sur le bouton « Suivre le dossier ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-
-
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.26.14 (1).png" alt=""><figcaption><p>Suivre un dossier</p></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
 En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille orange sur le dossier, si ce dernier a été modifié par l'usager ou si l'usager a écrit un nouveau message. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
-![Exemple de pastille orange en cas de modification ou de nouveau message](../.gitbook/assets/pastille-orange.PNG)
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.31.55.png" alt=""><figcaption><p>Exemple de pastille orange en cas de modification ou de nouveau message</p></figcaption></figure>
 
 Plusieurs instructeurs peuvent suivre le même dossier.
 
