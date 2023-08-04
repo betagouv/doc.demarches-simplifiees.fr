@@ -48,3 +48,7 @@ Dès juin 2013, l’État a pu expérimenter au sein de la Direction interminist
 L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles explicites ou implicites qui fondent le service tel qu’il existe aujourd'hui. Pour autant, elle n’a pas besoin de capital privé. Une Startup d’État est donc simplement une équipe de 2 à 4 personnes financée par une administration et totalement autonome.
 
 L'ensemble des Startups d’État sont présentées sur [**beta.gouv.fr**](https://beta.gouv.fr)**.**
+
+**Vous trouevrez ci-dessous notre support de présentation :**&#x20;
+
+{% file src=".gitbook/assets/Présentation- webinaire demarches-simplifiees.fr- Aout  2023.pdf" %}
