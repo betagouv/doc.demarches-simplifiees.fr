@@ -182,7 +182,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Ainsi, les instructeurs de la démarche doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
 
-![](<../.gitbook/assets/image (43) (1).png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.07.53.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
@@ -190,7 +190,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Dès lors, les instructeurs de la démarche **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de la liste.** &#x20;
 
-![](<../.gitbook/assets/image (44).png>)
+![Liste d'experts invités déterminée par l'administrateur](<../.gitbook/assets/image (44).png>)
 
 * L'instructeur de la démarche devra alors **cliquer une à une sur les adresses e-mail des experts** sollicités à émettre un avis parmi la liste prédéfinie par l'administrateur.
 
@@ -202,11 +202,9 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit :
 
-![Les deux options de visibilité des avis](../.gitbook/assets/avis-expert2.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.16.21.png" alt=""><figcaption><p>Les deux options de visibilité des avis</p></figcaption></figure>
 
 * Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton «** **Demander un avis** **»** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
-
-![Localisation du bouton "Demander un avis"](../.gitbook/assets/avis-expert3.PNG)
 
 {% hint style="info" %}
 INFORMATION : le nombre d'avis que l'instructeur peut demander est illimité.
@@ -222,13 +220,15 @@ Pour envoyer une pièce jointe à l’usager : cliquer sur le bouton « Parcouri
 
 Une pièce jointe ne peut pas être envoyée seule, il est nécessaire de taper un texte dans le corps du message.
 
-La capacité maximale d’envoi de pièce jointe est de 300Mo par pièce envoyée.
+La capacité maximale d’envoi de pièce jointe est de 20 Mo par pièce envoyée.
 
 {% hint style="info" %}
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
 {% endhint %}
 
 ![](../.gitbook/assets/messgrie.PNG)
+
+####
 
 #### _- Personnes impliquées :_
 
