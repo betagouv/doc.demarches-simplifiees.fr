@@ -226,25 +226,34 @@ La capacité maximale d’envoi de pièce jointe est de 20 Mo par pièce envoyé
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
 {% endhint %}
 
-![](../.gitbook/assets/messgrie.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.36.28.png" alt=""><figcaption><p>Messagerie de l'instructeur </p></figcaption></figure>
 
-####
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.34.42.png" alt=""><figcaption><p>Vue de la messagerie pour envoyer un messager et/ou une pièce jointe</p></figcaption></figure>
 
 #### _- Personnes impliquées :_
 
-Cet onglet fait office de récapitulatif de l'ensemble des personnes contribuant au traitement du dossier : il contient la liste des instructeurs suivant le dossier et des experts invités à rendre un avis.
+Cet onglet fait office de récapitulatif de l'ensemble des personnes contribuant au traitement du dossier : il permet à l'instructeur d'envoyer le dossier à un autre instructeur qui a été au préalable nommé sur la procédure. Celui-ci suivra alors automatiquement le dossier concerné et recevra également un e-mail lui indiquant que le dossier lui a été transmis.
 
-A partir de cet onglet, il est également possible d'envoyer le dossier à un autre instructeur qui a été au préalable nommé sur la procédure. Celui-ci suivra alors automatiquement le dossier concerné et recevra également un e-mail lui indiquant que le dossier lui a été transmis.
+Cet onglet contient également:&#x20;
 
-![Liste des personnes impliquées, en tant qu'instructeur](../.gitbook/assets/personnes.PNG)
+* La liste des instructeurs qui suivent le dossier&#x20;
+* Les personnes à qui un avis a été demandé (demande d'avis aux experts)
+* Les personnes invitées par l'usager à co-construire ou modifier le dossier
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.56.09.png" alt=""><figcaption><p>Liste des personnes impliquées dans la vue instructeur</p></figcaption></figure>
+
+* Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.&#x20;
+* "Réaffectations" vous permet de suivre si le dossier vous a été réaffecté à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.57.34.png" alt=""><figcaption></figcaption></figure>
 
 ### B. Premières étapes : construction et instruction du dossier
 
 #### - _Dossier en construction_
 
-Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à droite de votre écran :
+Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à gauche de votre écran :&#x20;
 
-![](<../.gitbook/assets/en-construction (2).PNG>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.08.43.png" alt=""><figcaption></figcaption></figure>
 
 Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie.&#x20;
 
