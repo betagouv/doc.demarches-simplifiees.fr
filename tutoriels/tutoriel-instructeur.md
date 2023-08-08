@@ -70,17 +70,11 @@ Ces différents stades de traitement correspondent à :
 
 Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure.
 
-Cliquer sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquer sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquer sur le bouton « Enregistrer » comme suit :&#x20;
-
-
-
-<figure><img src="broken-reference" alt=""><figcaption><p>Personnalisation du tableau de bord instructeur</p></figcaption></figure>
+Cliquez sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquez sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquez sur le bouton « Enregistrer » comme suit :&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 16.55.15.png" alt=""><figcaption><p>Personnalisation du tableau de bord instructeur </p></figcaption></figure>
 
-Un champ peut être retiré du tableau de suivi : cliquer de nouveau sur « Personnaliser » puis retirer le champ en cliquant sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer ».&#x20;
-
-
+Un champ peut être retiré du tableau de suivi : cliquez de nouveau sur « Personnaliser » puis retirez le champ en cliquant sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer ».&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 16.59.45.png" alt=""><figcaption><p>Retrait d'un champ </p></figcaption></figure>
 
@@ -100,25 +94,21 @@ Pour cela, il faut cliquer sur le bouton « Filtrer », Sélectionner un champ, 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.14.46.png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.18.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.18.31.png" alt=""><figcaption><p>Affichage du tableau de bord avec un filtre de date de création de dossier</p></figcaption></figure>
 
 ### **C. Trier les dossiers**&#x20;
 
 Il possible de trier les dossiers par ordre alphabétique et/ou numérique en cliquant sur la colonne souhaitée, en plus des options de filtre et de personnalisation sus-mentionnés.
 
-Dans l'exemple suivant, la colonne « Nom » est affichée à la place de la colonne par défaut «"Demandeur » qui affiche l'adresse e-mail associée au compte de l'usager. Le tri par défaut porte sur les numéros de dossiers. Les dossiers sont alors affichés selon la date de dépôt, du plus récent au plus ancien.
+Dans l'exemple suivant, vous pouvez afficher grâce au filtre "personnaliser le tableau" le "nom" du demandeur, son "prénom" et la date de dépôt du dossier. Si vous cliquez sur une des colonnes, vous ferez apparaître les dossiers par ordre (soit alphabétique si vous cliquez sur "nom", soit chronologique si vous cliquez sur "déposé le", etc)
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 09.41.25.png" alt=""><figcaption><p>Affichage avec tri par défaut</p></figcaption></figure>
 
+En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "déposé le" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.&#x20;
 
-![Affichage avec le tri par défaut](../.gitbook/assets/instruc6.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 10.20.20.png" alt=""><figcaption></figcaption></figure>
 
-En cliquant sur la colonne « Nom », l'affichage est modifié :
-
-![Affichage avec un tri dans l'ordre alphabétique (Nom)](../.gitbook/assets/instruc7.PNG)
-
-En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse :
-
-![Affichage avec un tri dans l' ordre anti-alphabétique (Nom)](../.gitbook/assets/instruc8.PNG)
+En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
 
 ### **D. Suivre un dossier**
 
@@ -126,15 +116,13 @@ Les dossiers déposés sont regroupés par défaut sous le statut « à suivre �
 
 Un dossier à suivre a le statut « en construction ». Il est consultable et modifiable par l’usager.
 
-Pour suivre un dossier cliquer sur le bouton « Suivre le dossier ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
+Pour suivre un dossier, cliquez sur le bouton « Suivre le dossier ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.26.14 (1).png" alt=""><figcaption><p>Suivre un dossier</p></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
 En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille orange sur le dossier, si ce dernier a été modifié par l'usager ou si l'usager a écrit un nouveau message. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
-
-
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.31.55.png" alt=""><figcaption><p>Exemple de pastille orange en cas de modification ou de nouveau message</p></figcaption></figure>
 
@@ -150,7 +138,7 @@ L’instructeur a accès à un ensemble de fonctionnalités :
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 
-![Ongle "Demande" récapitulatif du dossier, en tant qu'instructeur](../.gitbook/assets/instruc10.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.30.39.png" alt=""><figcaption><p>Onglet "Demande" récapitulatif du dossier, en tant qu'instructeur</p></figcaption></figure>
 
 #### &#x20;- Annotations privées :
 
@@ -160,11 +148,13 @@ Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par l
 
 Une fois les annotations renseignées, il convient de cliquer sur le bouton « Sauvegarder » afin d'enregistrer toute modification comme suit :
 
-![Sauvegarde d'annotation privée, en tant qu'instructeur](../.gitbook/assets/instruc12.PNG)
 
-Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas.
 
-![Cas de figure "Aucune annotation privée", en tant qu'instructeur](../.gitbook/assets/annotationprivée.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.39.04.png" alt=""><figcaption><p>Sauvegarde d'annotation privée, en tant qu'instructeur</p></figcaption></figure>
+
+Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.46.42.png" alt=""><figcaption><p>Cas de figure "Aucune annotation privée", en tant qu'instructeur</p></figcaption></figure>
 
 #### _- Avis externes :_&#x20;
 
@@ -172,7 +162,13 @@ Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit « expe
 
 L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question.
 
-![Inviter des personnes à donner leur avis, en tant qu'instructeur](../.gitbook/assets/avis-expert.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.50.41.png" alt=""><figcaption><p>Inviter des personnes à donner leur avis, en tant qu'instructeur</p></figcaption></figure>
+
+Il est également possible de poser une question à un expert qui devra répondre par "oui" ou "non". Ce champ est pratique puisqu'une fois que l'expert a formulé un avis et répondu à cette question, vous pourrez faire apparaître ce champ dans le tableau de bord et donc instruire les dossiers plus rapidement.&#x20;
+
+Vous pouvez aussi joindre une pièce jointe à la demande d'avis à l'expert.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.52.50 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### L'ajout d'experts à une démarche&#x20;
 
