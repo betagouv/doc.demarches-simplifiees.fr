@@ -243,7 +243,7 @@ Cet onglet contient également:&#x20;
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.56.09.png" alt=""><figcaption><p>Liste des personnes impliquées dans la vue instructeur</p></figcaption></figure>
 
 * Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.&#x20;
-* "Réaffectations" vous permet de suivre si le dossier vous a été réaffecté à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
+* "Réaffectations" vous permet de suivre si le dossier a été réaffecté à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.57.34.png" alt=""><figcaption></figcaption></figure>
 
@@ -253,7 +253,7 @@ Cet onglet contient également:&#x20;
 
 Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à gauche de votre écran :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.08.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.08.43.png" alt=""><figcaption><p>Dossier en construction vu de l'interface instructeur</p></figcaption></figure>
 
 Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie.&#x20;
 
@@ -261,23 +261,27 @@ Un dossier « en construction » reste modifiable par l'usager. Ce stade permet 
 
 Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usager_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
 
-![](../.gitbook/assets/passer-instru.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.54.45.png" alt=""><figcaption><p>Passage en instruction d'un dossier</p></figcaption></figure>
 
-L’instructeur peut à tout moment passer un dossier « En construction » en « Instruction ».&#x20;
+L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».&#x20;
 
-Un dossier en instruction n’est plus modifiable par l’usager.
+Un dossier en instruction n’est plus modifiable par l’usager. Si l'usager doit apporter des modifications sur un dossier en instruction, il faudra que l'instructeur repasse le dossier en construction.&#x20;
 
 Un message automatique est envoyé à l’usager au moment du passage en instruction afin de l’avertir qu’il ne peut plus modifier son dossier.
 
 Toutefois, les échanges de messages et de documents entre l’instructeur et l’usager restent possibles à travers la messagerie.
 
-#### _- Repasser le dossier en construction :_
+#### _- Repasser le dossier en instruction au statut en "construction" :_
 
-Il est possible pour l’instructeur de repasser le dossier en construction afin de permettre à l’usager de compléter son dossier.
+Il est possible pour l’instructeur de repasser le dossier en construction (après l'avoir passé en instruction) afin de permettre à l’usager de compléter son dossier.
 
-Cliquer sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Repasser en construction ». L’instructeur est alors invité à confirmer son choix de repassage en construction en cliquant sur le bouton « OK ».
+Cliquez sur le bouton « Repasser en construction » en haut à droite de l’écran. L’instructeur est alors invité à confirmer son choix de repassage en construction en cliquant sur le bouton bleu « Valider et repasser en construction ».
 
-![Repasser un dossier en construction, en tant qu'instructeur](<../.gitbook/assets/Capture (1).PNG>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.58.18.png" alt=""><figcaption><p>Repasser un dossier en construction</p></figcaption></figure>
+
+_**- Demande de correction d'un dossier :**_&#x20;
+
+L'instructeur a la possibilité de demander à l'usager d'apporter des corrections à son dossier.&#x20;
 
 ### C. Rendre une décision sur le dossier
 
