@@ -297,7 +297,9 @@ Cette mention s'affiche également dans le tableau de bord ce qui permet de dist
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.48.09.png" alt=""><figcaption><p>Dossier en attente dans le tableau de bord de l'instructeur</p></figcaption></figure>
 
-### C. Rendre une décision sur le dossier
+### C. Prendre une décision sur le dossier
+
+Lors du traitement des dossiers, l'instructeur peut choisir d'instruire les dossiers un à un ou bien d'instruire les dossiers **en masse (voir point 4)**.&#x20;
 
 L’instruction du dossier peut aboutir à trois décisions :&#x20;
 
@@ -369,7 +371,57 @@ Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.57.45 (1).png" alt=""><figcaption><p>Désarchiver un dossier depuis le tableau de bord instructeur</p></figcaption></figure>
 
-## 4. Récapitulatif de l'activité - extraire les dossiers
+## 4. Instruction en masse des dossiers
+
+**a. Suivre les dossiers "en masse" :**&#x20;
+
+Pour pouvoir instruire les dossiers en masse, vous devez d'abord suivre ces dossiers. Pour cela, vous devez cocher les cases correspondants aux dossiers que vous souhaitez instruire. Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit:&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.18.02.png" alt=""><figcaption><p>Suivi en masse des dossiers</p></figcaption></figure>
+
+Une fois que vous aurez coché sur les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers:&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.23.04.png" alt=""><figcaption><p>Suivi des dossiers en masse</p></figcaption></figure>
+
+Un message s'affichera pour confirmer l'action de masse réalisée. Cliquez sur "ok" pour valider l'action. Les dossiers seront automatiquement transférés vers l'onglet des dossiers "suivis".&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.29.12.png" alt=""><figcaption><p>Confirmation de l'action de masse</p></figcaption></figure>
+
+Dans l'onglet des dossiers suivis, un message vous informe lorsque "L'action de masse est terminée" :
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.35.15.png" alt=""><figcaption><p>L'action de masse est terminée</p></figcaption></figure>
+
+Vous pouvez dès lors procéder au passage en instruction en masse des dossiers.&#x20;
+
+**b. Passage en instruction en masse des dossiers**
+
+Sur le même principe que l'action de suivi des dossiers, il vous suffit de cocher les cases des dossiers que vous souhaitez passer en instruction puis cliquer sur le bouton "Passer en instruction". Un message de confirmation s'affichera pour valider l'action.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.46.43.png" alt=""><figcaption><p>Passage des dossiers en instruction</p></figcaption></figure>
+
+c. Prise de la décision des dossiers en masse:&#x20;
+
+Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), le processus est le même.&#x20;
+
+Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondants aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".&#x20;
+
+A savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.58.17.png" alt=""><figcaption></figcaption></figure>
+
+Le motif renseigné sera le même pour tous les dossiers sélectionnés. L'usager sera notifié par email du motif de la décision.&#x20;
+
+Un justification optionnel peut aussi être envoyé en masse à tous les dossiers sélectionnés.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 15.18.46.png" alt=""><figcaption><p>Motif de la décision des dossiers </p></figcaption></figure>
+
+
+
+{% hint style="info" %}
+A noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.&#x20;
+{% endhint %}
+
+## 5. Récapitulatif de l'activité - extraire les dossiers
 
 ### A. Extraire les dossiers
 
