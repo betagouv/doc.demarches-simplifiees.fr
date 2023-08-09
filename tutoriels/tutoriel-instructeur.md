@@ -271,9 +271,9 @@ Un message automatique est envoyé à l’usager au moment du passage en instruc
 
 Toutefois, les échanges de messages et de documents entre l’instructeur et l’usager restent possibles à travers la messagerie.
 
-#### _- Repasser le dossier en instruction au statut en "construction" :_
+#### _- Repasser le dossier en "instruction" au statut en "construction" :_
 
-Il est possible pour l’instructeur de repasser le dossier en construction (après l'avoir passé en instruction) afin de permettre à l’usager de compléter son dossier.
+Il est possible pour l’instructeur de repasser le dossier en construction (après l'avoir passé en instruction) afin de permettre à l’usager de modifier ou compléter son dossier.
 
 Cliquez sur le bouton « Repasser en construction » en haut à droite de l’écran. L’instructeur est alors invité à confirmer son choix de repassage en construction en cliquant sur le bouton bleu « Valider et repasser en construction ».
 
@@ -305,19 +305,17 @@ L’instruction du dossier peut aboutir à trois décisions :&#x20;
 * Classer sans suite
 * Refuser
 
-Dans les trois cas, la décision peut être motivée par le biais d'un encart spécial : ce motif est optionnel en cas d'acceptation, mais obligatoire dans les deux autres cas. Celui-ci peut par ailleurs apparaître ou non dans les e-mails reçus par l'usager ou sur l'attestation en fonction des paramètres retenus par l'administrateur de la procédure.&#x20;
+Dans les trois cas, la décision peut être motivée par le biais d'un encart spécial : ce motif est optionnel en cas d'acceptation, mais est obligatoire dans les deux autres cas. Celui-ci peut par ailleurs apparaître ou non dans les e-mails reçus par l'usager ou sur l'attestation en fonction des paramètres retenus par l'administrateur de la procédure.&#x20;
 
 Par ailleurs il est également possible de joindre un justificatif à la décision lequel sera reçu par l'usager sur la boite e-mail associée à son compte.&#x20;
 
-#### a. Accepter&#x20;
+#### a. Accepter le dossier
 
-Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Accepter ». L’instructeur peut alors rédiger une motivation qui sera consultable par l’usager dans son dossier après acceptation. Dans le cas d'une acceptation, cette motivation reste optionnelle.&#x20;
+Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Accepter ». L’instructeur peut alors rédiger une motivation dans l'encart dédié qui sera consultable par l’usager dans son dossier après acceptation. Dans le cas d'une acceptation, cette motivation reste optionnelle.&#x20;
 
-![Localisation du bouton "Accepter"](../.gitbook/assets/Accepter.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.08.22.png" alt=""><figcaption><p>Accepter un dossier en tant qu'instructeur</p></figcaption></figure>
 
-Cliquez sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK » comme suit :
-
-![Localisation du bouton "Valider la décision"](<../.gitbook/assets/Valider dc.PNG>)
+Cliquez ensuite sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK » comme suit :
 
 ![Confirmer l'acceptation du dossier, en tant qu'instructeur](../.gitbook/assets/OK.PNG)
 
@@ -325,21 +323,21 @@ Un message automatique est envoyé à l’usager afin de le notifier de l’acce
 
 Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
-#### b. Classer sans suite&#x20;
+#### b. Classer sans suite le dossier
 
 Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Classer sans suite ». L’instructeur doit alors remplir une motivation qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK» .
 
-Aucun message de notification n’est envoyé à l’usager. Le dossier passe automatiquement dans l’onglet des dossiers traités.
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.18.24.png" alt=""><figcaption><p>Classement sans suite d'un dossier</p></figcaption></figure>
 
-![Localisation du bouton "Classer sans suite"](<../.gitbook/assets/Classer (1).PNG>)
+Un message de notification est envoyé à l’usager. Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
 ![Confirmer le classement sans suite du dossier, en tant qu'instructeur](../.gitbook/assets/OK-classmt.PNG)
 
-#### c. Refuser
+#### c. Refuser le dossier
 
 Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Refuser ». L’instructeur doit alors rédiger une motivation qui sera consultable par l’usager dans son dossier après acceptation. Cliquez sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK ».
 
-![Localisation du bouton "Refuser"](../.gitbook/assets/Refuser.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.47.35.png" alt=""><figcaption><p>Refuser un dossier en tant qu'instructeur</p></figcaption></figure>
 
 ![Confirmer le refus du dossier, en tant qu'instructeur](../.gitbook/assets/OK-refus.PNG)
 
@@ -347,13 +345,13 @@ Un message automatique est envoyé à l’usager afin de le notifier du refus de
 
 Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
+Quelle que soit la décision du dossier, l'instructeur a la possibilité de joindre une pièce jointe à la décision en cliquant sur "ajouter un justificatif".&#x20;
+
 #### d. Repasser un dossier en instruction&#x20;
 
 Une fois la décision prise, si celle-ci a été prise par erreur ou si l'instructeur souhaite revenir sur sa décision, il est possible de repasser le dossier en instruction.
 
 Cliquez sur le bouton relatif au statut du dossier (Accepté, Classé sans suite ou Refusé) en haut à droite de l’écran puis cliquez sur le bouton « Repasser en instruction».
-
-![Repasser en instruction après avoir pris une décision, en tant qu'instructeur](../.gitbook/assets/Repasser-instru-2.PNG)
 
 {% hint style="info" %}
 **ATTENTION** : l'acceptation d'un dossier est une action créatrice de droits. Revenir sur cette décision dans un **délai supérieur à 4 mois** après l'avoir prise peut vous exposer à des risques de poursuites de la part de l'usager.&#x20;
@@ -365,11 +363,11 @@ Cette fonctionnalité permet à l’instructeur d’avoir une vision plus claire
 
 Dans l’onglet « traité », cliquez sur le bouton « Archiver le dossier ». Le dossier est automatiquement transféré dans l’onglet « archivé ».
 
-![Archiver un dossier, en tant qu'instructeur](<../.gitbook/assets/archiver (1).PNG>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.55.43.png" alt=""><figcaption><p>Archiver un dossier depuis la vue instructeur</p></figcaption></figure>
 
 Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton "Désarchiver le dossier ». Le dossier est alors automatiquement transféré dans l’onglet « traité ».
 
-![Désarchiver un dossier, en tant qu'instructeur](<../.gitbook/assets/désarchiver (1).PNG>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.57.45 (1).png" alt=""><figcaption><p>Désarchiver un dossier depuis le tableau de bord instructeur</p></figcaption></figure>
 
 ## 4. Récapitulatif de l'activité - extraire les dossiers
 
