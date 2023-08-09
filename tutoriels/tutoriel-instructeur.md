@@ -283,6 +283,14 @@ _**- Demande de correction d'un dossier :**_&#x20;
 
 L'instructeur a la possibilité de demander à l'usager d'apporter des corrections à son dossier.&#x20;
 
+Pour cela, lorsque vous êtes dans l'onglet "demande" qui permet de consulter le dossier, il faut cliquer sur "Repasser en construction" puis renseigner l'encart "Demander une correction" en expliquant clairement à l'usager les modifications attendues sur le dossier.&#x20;
+
+Demander une correction basculera automatiquement le dossier "en construction".&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.29.37.png" alt=""><figcaption><p>Demande de correction du dossier usager</p></figcaption></figure>
+
+###
+
 ### C. Rendre une décision sur le dossier
 
 L’instruction du dossier peut aboutir à trois décisions :&#x20;
