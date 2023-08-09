@@ -289,7 +289,13 @@ Demander une correction basculera automatiquement le dossier "en construction".&
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.29.37.png" alt=""><figcaption><p>Demande de correction du dossier usager</p></figcaption></figure>
 
-###
+Une fois que la demande de correction a été demandée sur le dossier, la mention "en attente" s'affiche sur le dossier.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.46.45.png" alt=""><figcaption><p>Dossier en attente de correction</p></figcaption></figure>
+
+Cette mention s'affiche également dans le tableau de bord ce qui permet de distinguer plus facilement les dossiers complets des dossiers en attente de modification :&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.48.09.png" alt=""><figcaption><p>Dossier en attente dans le tableau de bord de l'instructeur</p></figcaption></figure>
 
 ### C. Rendre une décision sur le dossier
 
