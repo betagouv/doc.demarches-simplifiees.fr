@@ -148,8 +148,6 @@ Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par l
 
 Une fois les annotations renseignées, il convient de cliquer sur le bouton « Sauvegarder » afin d'enregistrer toute modification comme suit :
 
-
-
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.39.04.png" alt=""><figcaption><p>Sauvegarde d'annotation privée, en tant qu'instructeur</p></figcaption></figure>
 
 Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
@@ -245,7 +243,7 @@ Cet onglet contient également:&#x20;
 * Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.&#x20;
 * "Réaffectations" vous permet de suivre si le dossier a été réaffecté à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.57.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.57.34.png" alt=""><figcaption><p>Liste des personnes impliquées dans la vue instructeur</p></figcaption></figure>
 
 ### B. Premières étapes : construction et instruction du dossier
 
@@ -439,13 +437,14 @@ Une fois les dossiers archivés, vous les retrouverez dans l'onglet des dossiers
 
 ### A. Extraire les dossiers
 
-L’ensemble des dossiers est téléchargeable sous la forme d'un tableur récapitulatif aux formats .csv, .xlsx ou .ods.
+L’ensemble des dossiers est téléchargeable sous la forme d'un tableur récapitulatif aux formats .csv, .xlsx, .ods ou .zip. Les dossiers peuvent être téléchargés, quel que soit leur statut.&#x20;
 
 Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à droite de votre écran. Un menu déroulant s'affiche alors pour proposer un export selon le format souhaité :
 
 * demander un export au format .xlsx
 * demander un export au format .csv (uniquement les dossiers, sans les champs répétables)
 * demander un export au format .ods
+* demander un export au format .zip
 
 {% hint style="info" %}
 **ATTENTION** : Veillez à désactiver les extensions de blocage de publicités qui peuvent empêcher le téléchargement du fichier d'export.&#x20;
@@ -453,13 +452,21 @@ Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à dr
 
 Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction :
 
-![Télécharger tous les dossiers, en tant qu'instructeur](../.gitbook/assets/tél-dossiers.PNG)
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.39.55.png" alt=""><figcaption><p>Télécharger tous les dossiers, en tant qu'instructeur</p></figcaption></figure>
+
+Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.44.47.png" alt=""><figcaption><p>Téléchargement de l'export</p></figcaption></figure>
 
 Un message s'affiche afin d'informer que le fichier est en cours de préparation.
 
-![](../.gitbook/assets/attente-export.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.55.41.png" alt=""><figcaption></figcaption></figure>
 
-Après quelques minutes (environ 5 minutes), vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.&#x20;
+Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.56.48.png" alt=""><figcaption></figcaption></figure>
 
 Lorsque le libellé du bouton change (il passe de "Demander un export" à "Télécharger l'export"), vous pouvez télécharger votre fichier. Vous n'êtes pas obligé de rester sur cette page durant la génération du fichier tableur.
 
