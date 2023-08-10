@@ -409,17 +409,31 @@ A savoir que le motif de la décision pour les dossiers acceptés est optionnel,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.58.17.png" alt=""><figcaption></figcaption></figure>
 
-Le motif renseigné sera le même pour tous les dossiers sélectionnés. L'usager sera notifié par email du motif de la décision.&#x20;
+**Le motif renseigné sera le même pour tous les dossiers sélectionnés puisqu'il s'agit d'une action en masse**. L'usager sera notifié par email du motif de la décision.&#x20;
 
 Un justification optionnel peut aussi être envoyé en masse à tous les dossiers sélectionnés.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 15.18.46.png" alt=""><figcaption><p>Motif de la décision des dossiers </p></figcaption></figure>
 
+Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours:&#x20;
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 17.59.47.png" alt=""><figcaption><p>Instruction en masse des dossiers</p></figcaption></figure>
 
 {% hint style="info" %}
 A noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.&#x20;
 {% endhint %}
+
+Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités": un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.06.13.png" alt=""><figcaption><p>Action de masse terminée dans l'onglet des dossiers suivis </p></figcaption></figure>
+
+d. Archivage des dossiers en masse
+
+Sur le même principe expliqué précedemment, il est possible d'archiver les dossiers en masse depuis l'onglet des dossiers "traités". Il suffit de cocher la case en haut à gauche pour sélectionner tous les dossiers ou bien cocher chacun des dossiers à archiver. Seuls les dossiers qui ont été traités peuvent être archivés.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.17.03.png" alt=""><figcaption><p>Archivage des dossiers en masse</p></figcaption></figure>
+
+Une fois les dossiers archivés, vous les retrouverez dans l'onglet des dossiers "archivés". La messagerie sera automatiquement désactivée pour ces dossiers. Vous pouvez désarchiver les dossiers, pour cela, il suffit de cliquer sur "désarchiver le dossier".&#x20;
 
 ## 5. Récapitulatif de l'activité - extraire les dossiers
 
