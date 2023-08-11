@@ -12,7 +12,7 @@ Vous pouvez déposer une demande en cliquant sur ce lien : [https://www.demarche
 
 ### 2. Médaille d'honneur du travail pour le Pas-de-Calais :&#x20;
 
-Vous pouvez déposer une demande en cliquant sur ce lien : [https://www.demarches-simplifiees.fr/commencer/demande-de-medaille-du-travail-pas-de-calais](https://www.demarches-simplifiees.fr/commencer/demande-de-medaille-du-travail-pas-de-calais)
+Vous pouvez déposer une demande en cliquant sur ce lien : [https://www.demarches-simplifiees.fr/commencer/mhtravail](https://www.demarches-simplifiees.fr/commencer/mhtravail)
 
 ### 3. Médaille d'honneur régionale, départementale ou communale - Collectivités
 
