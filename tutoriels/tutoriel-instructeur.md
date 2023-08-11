@@ -441,10 +441,10 @@ L’ensemble des dossiers est téléchargeable sous la forme d'un tableur récap
 
 Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à droite de votre écran. Un menu déroulant s'affiche alors pour proposer un export selon le format souhaité :
 
-* demander un export au format .xlsx
+* demander un export au format .xlsx : un fichier excel sera généré avec l'ensemble des champs du formulaire, des annotations privées et des avis de l'expert.&#x20;
 * demander un export au format .csv (uniquement les dossiers, sans les champs répétables)
-* demander un export au format .ods
-* demander un export au format .zip
+* demander un export au format .ods : une feuille de calcul au format OpenDocument générée par OpenOffice.&#x20;
+* demander un export au format .zip : il contient un fichier en pdf du dossier ainsi que toutes les pièces jointes associées au dossier. Il contient également l'attestation si le dossier a été paramétré avec une attestation.&#x20;
 
 {% hint style="info" %}
 **ATTENTION** : Veillez à désactiver les extensions de blocage de publicités qui peuvent empêcher le téléchargement du fichier d'export.&#x20;
@@ -452,35 +452,33 @@ Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à dr
 
 Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction :
 
-
-
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.39.55.png" alt=""><figcaption><p>Télécharger tous les dossiers, en tant qu'instructeur</p></figcaption></figure>
 
 Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.44.47.png" alt=""><figcaption><p>Téléchargement de l'export</p></figcaption></figure>
 
+Lorsque le libellé du bouton change (il passe de "Demander un export" à "Télécharger l'export"), vous pouvez télécharger votre fichier. Vous n'êtes pas obligé de rester sur cette page durant la génération du fichier tableur.
+
 Un message s'affiche afin d'informer que le fichier est en cours de préparation.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.55.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.55.41.png" alt=""><figcaption><p>Téléchargement des dossiers en cours </p></figcaption></figure>
 
 Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.56.48.png" alt=""><figcaption></figcaption></figure>
-
-Lorsque le libellé du bouton change (il passe de "Demander un export" à "Télécharger l'export"), vous pouvez télécharger votre fichier. Vous n'êtes pas obligé de rester sur cette page durant la génération du fichier tableur.
-
-![](<../.gitbook/assets/Capture d’écran 2021-05-03 à 16.36.06.png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.56.48.png" alt=""><figcaption><p>Téléchargement des dossiers prêt</p></figcaption></figure>
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.&#x20;
 
 Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consultant la page dédiée en cliquant [ici](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/exports-de-donnees).
 
-Vous pouvez faire la demande auprès du support pour bénéficier le la possibilité d'exporter les dossiers en format ZIP ( Dossiers + PJ+ données+ horodatage !)
-
 ### B. Extraire les dossiers et les pièces jointes
 
-Le tableau d'extraction des dossiers ne contient pas les pièces jointes par les usagers à leurs dossiers. Vous pouvez télécharger l'ensemble des pièces jointes, dossier par dossier, en utilisant le bouton "Télécharger toutes les pièces jointes". Si vous souhaitez télécharger l'ensemble des pièces jointes de tous les dossiers, il faut utiliser notre API.
+Vous ne pouvez pas télécharger uniquement les pièces jointes associées aux dossiers. Vous devez télécharger l'ensemble du dossier en .zip pour avoir accès aux pièces jointes.&#x20;
+
+Vous pouvez faire un export massif de l'ensemble des dossiers ou bien exporter dossier par dossier. Pour éviter une attente longue, nous vous conseillons d'exporter vos dossiers au fur et à mesure des dépôts.&#x20;
+
+L'API vous permet également de télécharger les dossiers et les pièces jointes.&#x20;
 
 ## 6. Autres paramètres
 
@@ -488,13 +486,9 @@ Le tableau d'extraction des dossiers ne contient pas les pièces jointes par les
 
 Toute modification effectuée par l’usager sur un dossier suivi ou traité génère une notification du côté instructeur afin de l’en avertir. Cette notification est représentée par une pastille orange qui permet à l’instructeur de trouver le ou les dossier(s) mis à jour par l'usager.&#x20;
 
-La pastille orange apparaît d’abord sur la colonne d’état du dossier concerné, dans l'exemple ci-après sur la colonne « suivis » :
+Les pastilles orange apparaissent sur la colonne d’état du dossier concerné, dans l'exemple ci-après sur la colonne « suivis » mais aussi sur le dossier concerné par la mise à jour :
 
-![](<../.gitbook/assets/Capture (2).PNG>)
-
-En accédant à la colonne concernée, la pastille se trouve alors sur le dossier mis à jour :
-
-![](../.gitbook/assets/pastille-orange2.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 09.00.09.png" alt=""><figcaption><p>Pastille orange mise à jour dossier</p></figcaption></figure>
 
 Si  vous suivez plusieurs dossiers, utiliser les options de personnalisation (_cf. ultra_ 2.A) et de filtre (_cf. ultra_ 2.B) afin d'afficher les dossiers les plus récents par exemple.
 
