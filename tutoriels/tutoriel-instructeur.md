@@ -484,19 +484,27 @@ L'API vous permet également de télécharger les dossiers et les pièces jointe
 
 ### A. Notifications de mise à jour d'un dossier
 
+**a. Les pastilles oranges**&#x20;
+
 Toute modification effectuée par l’usager sur un dossier suivi ou traité génère une notification du côté instructeur afin de l’en avertir. Cette notification est représentée par une pastille orange qui permet à l’instructeur de trouver le ou les dossier(s) mis à jour par l'usager.&#x20;
 
 Les pastilles orange apparaissent sur la colonne d’état du dossier concerné, dans l'exemple ci-après sur la colonne « suivis » mais aussi sur le dossier concerné par la mise à jour :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 09.00.09.png" alt=""><figcaption><p>Pastille orange mise à jour dossier</p></figcaption></figure>
 
-Si  vous suivez plusieurs dossiers, utiliser les options de personnalisation (_cf. ultra_ 2.A) et de filtre (_cf. ultra_ 2.B) afin d'afficher les dossiers les plus récents par exemple.
+La pastille est effacée lorsque vous cliquez sur le dossier en question.&#x20;
+
+**b. Remonter les dossiers avec une notification**&#x20;
+
+Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc). Cela peut être utile lorsque les pastilles oranges sont effacées.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.45.28.png" alt=""><figcaption><p>Remonter les dossiers avec une notification</p></figcaption></figure>
 
 ### B. Statistiques
 
 Sur chaque procédure, l'instructeur a accès à des statistiques :
 
-![](../.gitbook/assets/statistiques.PNG)
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.49.17.png" alt=""><figcaption><p>Statistiques de la démarche</p></figcaption></figure>
 
 Ces statistiques sont calculées à partir du temps effectif de traitement des dossiers.&#x20;
 
