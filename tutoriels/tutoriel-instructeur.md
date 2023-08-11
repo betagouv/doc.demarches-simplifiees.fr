@@ -492,7 +492,7 @@ Les pastilles orange apparaissent sur la colonne d’état du dossier concerné,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 09.00.09.png" alt=""><figcaption><p>Pastille orange mise à jour dossier</p></figcaption></figure>
 
-La pastille est effacée lorsque vous cliquez sur le dossier en question.&#x20;
+La pastille s'efface lorsque vous cliquez sur le dossier en question.&#x20;
 
 **b. Remonter les dossiers avec une notification**&#x20;
 
@@ -506,7 +506,14 @@ Sur chaque procédure, l'instructeur a accès à des statistiques :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.49.17.png" alt=""><figcaption><p>Statistiques de la démarche</p></figcaption></figure>
 
-Ces statistiques sont calculées à partir du temps effectif de traitement des dossiers.&#x20;
+Ces statistiques sont calculées à partir du temps effectif de traitement des dossiers. Elles permettent aux instructeurs d'avoir une vue d'ensemble sur la démarche et un suivi de l'instruction.&#x20;
+
+Dans cet onglet "statistiques", vous trouverez les informations suivantes:&#x20;
+
+* Le temps de traitement usuel de la démarche&#x20;
+* 4 graphiques qui représentent respectivement: le temps de traitement des dossiers, l'avancée des dossiers, le taux d'acceptation et la répartition par semaine.&#x20;
+
+Ces données ne peuvent être exportées. En revanche, ces données sont publiques et peuvent donc être consultées à tout moment.&#x20;
 
 ### C. Récapitulatif de l'activité
 
