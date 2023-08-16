@@ -527,13 +527,13 @@ Afin de paramétrer son choix de notification, l'instructeur a accès au bouton 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 10.30.34.png" alt=""><figcaption><p>Onglet gestion des notifications </p></figcaption></figure>
 
-Cinq types de notifications sont proposés, dont vous trouverez le détail ci-après :
+Cinq types de notifications sont proposés, dont vous trouverez le détail ci-après : vous pouvez sélectionner"oui" ou par "non" en fonction de votre besoin :&#x20;
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 11.24.52.png" alt=""><figcaption><p>Gestion des notifications instructeur</p></figcaption></figure>
 
+Une fois les notifications paramétrées, vous devez cliquer sur le bouton "enregistrer" en bas de page :
 
-![Typologie des notifications par e-mail, en tant qu'instructeur](../.gitbook/assets/notifications.PNG)
-
-
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 11.31.29.png" alt=""><figcaption><p>Enregistrer les notifications</p></figcaption></figure>
 
 #### a. Notification à chaque dossier déposé
 
@@ -541,11 +541,11 @@ Cet e-mail vous signale le dépôt de chaque nouveau dossier. Si vous choisissez
 
 #### b. Notification à chaque message déposé
 
-Cet e-mail vous signale le dépôt d'un nouveau message sur vos dossiers suivis. Il est envoyé à chaque fois qu'un usage dépose un message.
+Cet e-mail vous signale le dépôt d'un nouveau message sur vos dossiers suivis. Il est envoyé à chaque fois qu'un usager dépose un message via la messagerie du dossier.
 
 #### c. Notification quotidienne
 
-En plus de la notification hebdomadaire, l'instructeur peut faire le choix d'une notification quotidienne afin de recevoir un récapitulatif sur une fréquence plus soutenue.&#x20;
+En plus de la notification hebdomadaire, l'instructeur peut faire le choix d'une notification quotidienne afin de recevoir un récapitulatif des dossiers à instruire.&#x20;
 
 Cet notification est envoyée du lundi au samedi vers 10h du matin.
 
@@ -553,4 +553,8 @@ Cet notification est envoyée du lundi au samedi vers 10h du matin.
 
 Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédures suivies.&#x20;
 
-Cette notification n'est pas désactivable, et permet d'informer _a minima_ l'instructeur du dépôt de dossiers sur la procédure si celui-ci ne se connecte qu'occasionnellement.
+Cette notification permet d'informer _a minima_ l'instructeur du dépôt de dossiers sur la procédure si celui-ci ne se connecte qu'occasionnellement.
+
+**e. Notification d'un avis rendu par un expert**&#x20;
+
+Un e-mail est envoyé à l'instructeur lorsqu'un expert a rendu un avis sur un dossier.&#x20;
