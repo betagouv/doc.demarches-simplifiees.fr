@@ -513,7 +513,7 @@ Dans cet onglet "statistiques", vous trouverez les informations suivantes:&#x20;
 * Le temps de traitement usuel de la démarche&#x20;
 * 4 graphiques qui représentent respectivement: le temps de traitement des dossiers, l'avancée des dossiers, le taux d'acceptation et la répartition par semaine.&#x20;
 
-Ces données ne peuvent être exportées. En revanche, ces données sont publiques et peuvent donc être consultées à tout moment.&#x20;
+Ces données ne peuvent être exportées. En revanche, elles sont publiques et peuvent donc être consultées à tout moment.&#x20;
 
 ### C. Récapitulatif de l'activité
 
@@ -523,9 +523,13 @@ Toutefois, si la démarche est déclarative, cet e-mail n'est pas envoyé.&#x20;
 
 Afin de paramétrer son choix de notification, l'instructeur a accès au bouton « gestion des notifications » depuis le tableau de bord de la démarche :
 
-![](<../.gitbook/assets/gestion notif.PNG>)
 
-Quatre types de notifications sont proposés, dont vous trouverez le détail ci-après :
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 10.30.34.png" alt=""><figcaption><p>Onglet gestion des notifications </p></figcaption></figure>
+
+Cinq types de notifications sont proposés, dont vous trouverez le détail ci-après :
+
+
 
 ![Typologie des notifications par e-mail, en tant qu'instructeur](../.gitbook/assets/notifications.PNG)
 
