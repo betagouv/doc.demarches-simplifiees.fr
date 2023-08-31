@@ -16,7 +16,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 ## **2. Configuration du routage**&#x20;
 
-* Dans la page « Configuration des champs », créez un champ de type choix simple qui permettra de router les dossiers. Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
+* Dans la page « Configuration des champs », créez un champ de type « Choix simple » ou « Départements » qui permettra de router les dossiers. Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-31-50.png" alt=""><figcaption></figcaption></figure>
 
