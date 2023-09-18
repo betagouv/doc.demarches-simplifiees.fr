@@ -16,7 +16,8 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 ## **2. Configuration du routage**&#x20;
 
-* Dans la page « Configuration des champs », créez un champ de type « Choix simple » ou « Départements » qui permettra de router les dossiers. Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
+* Plusieurs types de champ du formulaire permettent de router les dossiers : « Choix simple », « Communes », « Départements » et « Régions ».
+* Dans la page « Configuration des champs », créez un champ de l'un de ces types, par exemple « Choix simple ». Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-31-50.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +31,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 ## **3.  Routage à partir d'un champ**
 
-* Ce mode de configuration du routage vous permet de créer automatiquement les groupes d'instructeurs et les règles de routage à partir du contenu d'un champ de type choix simple.
+* Ce mode de configuration du routage vous permet de créer automatiquement les groupes d'instructeurs et les règles de routage à partir du contenu d'un champ.
 * Une fois le mode « Routage à partir d'un champ » sélectionné, choisissez le champ du formulaire à partir duquel router les dossiers.
 
 
@@ -43,7 +44,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 
 
-## 4.Routage avancé&#x20;
+## 4. Routage avancé&#x20;
 
 * Ce mode de configuration du routage crée deux groupes d'instructeurs. Ensuite, libre à vous de les renommer et de leur attribuer des règles de routage à partir du ou des champs de type choix simple de votre formulaire.
 
