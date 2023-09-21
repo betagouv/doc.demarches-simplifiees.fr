@@ -40,14 +40,14 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-59-46.png" alt=""><figcaption></figcaption></figure>
 
-* Dans le cas d'un routage à partir d'un champ de type  « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ
-* Dans le cas d'un routage à partir d'un champ de type « Régions », 18 groupes sont créés (un par région)
-* Dans le cas d'un routage à partir d'un champ de type « Départements », 110 groupes sont créés (un par département)
+* Dans le cas d'un routage à partir d'un champ de type  « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ.
+* Dans le cas d'un routage à partir d'un champ de type « Régions », 18 groupes sont créés (un par région).
+* Dans le cas d'un routage à partir d'un champ de type « Départements », 110 groupes sont créés (un par département).
 * Dans le cas d'un routage à partir d'un champ de type « Communes » ou « Choix simple », 110 groupes (un par département) sont créés également. Ainsi, lors du dépôt du dossier, le code du département correspondant à la commune ou à l'EPCI choisi par l'usager permet de router le dossier vers le bon groupe d'instructeurs.
 
 ## 4. Routage avancé&#x20;
 
-* Ce mode de configuration du routage crée deux groupes d'instructeurs. Ensuite, libre à vous de les renommer et de leur attribuer des règles de routage à partir du ou des champs de type choix simple de votre formulaire.
+* Ce mode de configuration du routage crée deux groupes d'instructeurs. Ensuite, libre à vous de les renommer et de leur attribuer des règles de routage à partir du ou des champs « routables » de votre formulaire.
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 11-00-49.png" alt=""><figcaption></figcaption></figure>
 
