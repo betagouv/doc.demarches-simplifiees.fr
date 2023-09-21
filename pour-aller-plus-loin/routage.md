@@ -19,28 +19,26 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 * Plusieurs types de champ du formulaire permettent de router les dossiers : « Choix simple », « Communes »,  « EPCI », « Départements » et « Régions ».
 * Dans la page « Configuration des champs », créez un champ de l'un de ces types, par exemple « Choix simple ». Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-31-50.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-56-17.png" alt=""><figcaption></figcaption></figure>
 
 * Cliquez sur la tuile « Instructeurs » de votre interface de configuration, puis sur « Options » dans le menu latéral, puis sur le bouton « Configurer le routage ».
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-12 14-14-52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-58-03.png" alt=""><figcaption></figcaption></figure>
 
 * Deux options sont possibles : routage à partir d'un champ et routage avancé.
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-12 14-20-51 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-58-32.png" alt=""><figcaption></figcaption></figure>
 
 ## **3.  Routage à partir d'un champ**
 
 * Ce mode de configuration du routage vous permet de créer automatiquement les groupes d'instructeurs et les règles de routage à partir du contenu d'un champ.
 * Une fois le mode « Routage à partir d'un champ » sélectionné, choisissez le champ du formulaire à partir duquel router les dossiers.
 
-
-
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-12 14-36-55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-59-13.png" alt=""><figcaption></figcaption></figure>
 
 * Au clic sur « Créer les groupes », un groupe d'instructeurs et la règle de routage associée seront créés pour chaque valeur possible du champ choisi.
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-24-00.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-59-46.png" alt=""><figcaption></figcaption></figure>
 
 * Dans le cas d'un routage à partir d'un champ de type  « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ
 * Dans le cas d'un routage à partir d'un champ de type « Régions », 18 groupes sont créés (un par région)
@@ -51,16 +49,16 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 * Ce mode de configuration du routage crée deux groupes d'instructeurs. Ensuite, libre à vous de les renommer et de leur attribuer des règles de routage à partir du ou des champs de type choix simple de votre formulaire.
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-34-13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 11-00-49.png" alt=""><figcaption></figcaption></figure>
 
-* Si un badge « À configurer » apparaît , c'est que la règle de routage du groupe doit être définie
+* Si un badge « Règle invalide » apparaît , c'est que la règle de routage du groupe doit être définie
 * Si deux groupes ont la même règle de routage, les dossiers seront envoyés au premier groupe de la liste par ordre d'affichage
 
 ## 5. Gestion d'un groupe
 
 * Dans la page d'un groupe d'instructeurs, il est possible de renommer le groupe, de changer ses règles de routage, de le désactiver ou encore de le supprimer.
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-35-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 11-05-20.png" alt=""><figcaption></figcaption></figure>
 
 * Par défaut, une règle de routage est construite de la façon suivante : « Router si le champ Votre ville **est égal à** Lyon »
 * Il est possible de changer l'opérateur pour que la règle devienne : « Router si le champ Votre ville **n'est pas** Lyon »
