@@ -36,7 +36,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-59-13.png" alt=""><figcaption></figcaption></figure>
 
-* Au clic sur « Créer les groupes », un groupe d'instructeurs et la règle de routage associée seront créés pour chaque valeur possible du champ choisi.
+* Au clic sur « Créer les groupes », un groupe d'instructeurs et la règle de routage associée seront créés pour chaque option du champ.
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-59-46.png" alt=""><figcaption></figcaption></figure>
 
