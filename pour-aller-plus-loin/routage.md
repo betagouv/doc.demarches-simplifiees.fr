@@ -51,8 +51,8 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 11-00-49.png" alt=""><figcaption></figcaption></figure>
 
-* Si un badge « Règle invalide » apparaît , c'est que la règle de routage du groupe doit être définie
-* Si deux groupes ont la même règle de routage, les dossiers seront envoyés au premier groupe de la liste par ordre d'affichage
+* Si un badge « Règle invalide » apparaît , c'est que la règle de routage du groupe doit être définie.
+* Si deux groupes ont la même règle de routage, les dossiers seront envoyés au premier groupe de la liste par ordre d'affichage.
 
 ## 5. Gestion d'un groupe
 
@@ -60,8 +60,8 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 11-05-20.png" alt=""><figcaption></figcaption></figure>
 
-* Par défaut, une règle de routage est construite de la façon suivante : « Router si le champ Votre ville **est égal à** Lyon »
-* Il est possible de changer l'opérateur pour que la règle devienne : « Router si le champ Votre ville **n'est pas** Lyon »
+* Par défaut, une règle de routage est construite de la façon suivante : « Router si le champ Votre ville **est égal à** Lyon ».
+* Il est possible de changer l'opérateur pour que la règle devienne : « Router si le champ Votre ville **n'est pas** Lyon ».
 
 ## 6. Ajout de groupes
 
