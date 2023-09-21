@@ -16,7 +16,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 ## **2. Configuration du routage**&#x20;
 
-* Plusieurs types de champ du formulaire permettent de router les dossiers : « Choix simple », « Communes », « Départements » et « Régions ».
+* Plusieurs types de champ du formulaire permettent de router les dossiers : « Choix simple », « Communes »,  « EPCI », « Départements » et « Régions ».
 * Dans la page « Configuration des champs », créez un champ de l'un de ces types, par exemple « Choix simple ». Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-31-50.png" alt=""><figcaption></figcaption></figure>
@@ -42,7 +42,10 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-24-00.png" alt=""><figcaption></figcaption></figure>
 
-
+* Dans le cas d'un routage à partir d'un champ de type  « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ
+* Dans le cas d'un routage à partir d'un champ de type « Régions », 18 groupes sont créés (un par région)
+* Dans le cas d'un routage à partir d'un champ de type « Départements », 110 groupes sont créés (un par département)
+* Dans le cas d'un routage à partir d'un champ de type « Communes » ou « Choix simple », 110 groupes (un par département) sont créés également. Ainsi, lors du dépôt du dossier, le code du département correspondant à la commune ou à l'EPCI choisi par l'usager permet de router le dossier vers le bon groupe d'instructeurs.
 
 ## 4. Routage avancé&#x20;
 
@@ -59,7 +62,8 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-05-10 10-35-20.png" alt=""><figcaption></figcaption></figure>
 
-
+* Par défaut, une règle de routage est construite de la façon suivante : « Router si le champ Votre ville est égal à Lyon »
+* Il est possible de changer l'opérateur pour que la règle devienne : « Router si le champ Votre ville n'est pas Lyon »
 
 ## 6. Ajout de groupes
 
