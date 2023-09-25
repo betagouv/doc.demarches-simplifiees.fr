@@ -96,7 +96,39 @@ Tout d'abord,  plusieurs irritants lors du dépôt d'un dossier ont conditionné
 
 
 
+## Dématerialisation des déclarations de prélèvement réalisés par les locataires de chasse.&#x20;
 
+Témoignage de Jonathan Fischbach, ONF,  Agence de Sarrebourg&#x20;
+
+#### En quoi consiste la démarche mise en place par l'ONF - Agence de Sarrebourg via notre site demarches-simplifiees.fr?&#x20;
+
+Nous avions besoin d'avoir une plateforme déclarative des prélèvements réalisés par les locataires de chasse. Une démarche a été créée et adaptée suivant les agences et les besoins pour que les usagers puissent saisir en ligne leurs prélèvements et que nous puissions les traiter directement. Cette démarche est uniquement déclarative, une macro VBA permet d'utiliser la fonction Api de démarches-simplifiees.fr pour rapatrier les données dans notre base de données et d'établir automatiquement les tableaux de bord. Les photos sont téléchargées automatiquement pour être contrôlées si besoin. Les instructeurs n'ont donc même pas besoin d'utiliser le site demarches-simplifiees.fr, mais uniquement Excel !
+
+#### Comment s'est déroulée la mise en place de la démarche ?
+
+&#x20;La démarche a été très rapide à créer : il s'agissait uniquement de dématérialiser une procédure papier et de la compléter par les besoins identifiés. Une première phase de test nous a permis d'identifier les points de tensions pour les usagers et grâce à la modification en ligne de la démarche sans dépublication, nous pouvons l'améliorer continuellement au fur et à mesure de l'analyse des retours. La macro VBA via l'API a nécessité un peu plus de travail de programmation et engendrait parfois des erreurs du fait de données non-anticipés mais ont été corrigées au fur et à mesure. Les usagers ont fait l'objet d'un support de nos services pour utiliser la démarche et sont maintenant à l'aise avec toutes les démarches. Cela nécessite néanmoins un travail d'accompagnement important suivant les compétences des usagers, à prévoir lors de la mise en place de la démarche
+
+#### Quels sont les avantages que vous avez trouvés en utilisant demarches-simplifiees.fr ?&#x20;
+
+Le site demarches-simplifiees.fr a été utilisé pour plusieurs raisons :
+
+* Pas besoin de créer une base de données en ligne avec un formulaire et du traitement : très rapide à mettre en place
+* Dématérialisation et sécurisation de la donnée (absence de re-saisie manuelle)
+* Plus de perte de déclaration
+* Possibilité de traiter automatiquement les données sur Excel via une macro VBA
+
+#### Quelles sont les prochaines étapes avec demarches-simplifiees.fr ?&#x20;
+
+Bien évidemment, la démarche n'est que déclarative, des erreurs de déclarations peuvent occurrer et restent à traiter a posteriori. Néanmoins, le gain de temps est énorme (>80%) si on compare à de la re-saisie et les erreurs bien moins nombreuses. De nombreuses démarches sont publiées par l'ONF aux niveaux territorial et national, qu'elles soient uniquement déclaratives ou suivies (instruction avec demande d'avis aux experts concernés), pour tout ce qui peut être dématérialisé :
+
+* Demande d'autorisation de manifestation en forêt domaniale
+* Demande de macrons de circulations
+* Signalement d'incivilités
+* Dépôt de candidature à des adjudications
+
+Grâce aux possibilités du site, un projet d'utilisation de l'API depuis un logiciel SIG (pour importer des données géoréférencées et les localiser directement sur une carte) est en cours. Une autre utilisation possible pourrait être l'import des données de demarches-simplifiees.fr directement sur un site web (à l'étude).
+
+##
 
 
 
