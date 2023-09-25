@@ -94,9 +94,7 @@ Tout d'abord,  plusieurs irritants lors du dépôt d'un dossier ont conditionné
 
 
 
-
-
-## Dématerialisation des déclarations de prélèvement réalisés par les locataires de chasse.&#x20;
+## La dématerialisation des déclarations de prélèvement réalisés par les locataires de chasse.&#x20;
 
 Témoignage de Jonathan Fischbach, ONF,  Agence de Sarrebourg&#x20;
 
