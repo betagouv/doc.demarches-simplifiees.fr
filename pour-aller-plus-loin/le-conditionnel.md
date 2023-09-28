@@ -16,14 +16,15 @@ Voici un exemple d’utilisation du conditionnel :
 
 1\)    Le premier champ : le conditionnel ne s’applique pas sur le premier champ. La conditionnalité s’affichera à partir du deuxième champ.
 
-Pour que le conditionnel fonctionne, il faut que le champ précédant la question conditionnée soit :
+Pour que le conditionnel fonctionne, il faut que le champ précédant la question conditionnée soit de l'un des types suivants :
 
-* Un champ oui/non
-
-Une case à cocher
-
-* Un champ à choix unique
-* Un champ numérique&#x20;
+* Oui/Non
+* Case à cocher seule
+* Nombre décimal
+* Nombre entier
+* Choix simple
+* Choix multiple
+* Départements
 
 
 
