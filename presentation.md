@@ -49,6 +49,6 @@ L’exigence d’innovation radicale impose d’initier une Startup d’État lo
 
 L'ensemble des Startups d’État sont présentées sur [**beta.gouv.fr**](https://beta.gouv.fr)**.**
 
-**Vous trouevrez ci-dessous notre support de présentation :**&#x20;
+**Vous trouverez ci-dessous notre support de présentation :**&#x20;
 
-{% file src=".gitbook/assets/Présentation- webinaire demarches-simplifiees.fr- Aout  2023.pdf" %}
+{% file src=".gitbook/assets/Présentation- webinaire demarches-simplifiees.fr- octobre  2023 (2) (1).pdf" %}
