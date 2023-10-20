@@ -7,7 +7,6 @@
 Transport de marchandises
 
 * [Demande de copies certifiées conformes de licence pour le transport de marchandises](https://www.demarches-simplifiees.fr/commencer/trm-demande-de-copies-certifiees-conformes-de-lice)
-* [Demande de copie(s) conforme(s) supplémentaires(s) de licence de transport pour le transport de marchandises](https://www.demarches-simplifiees.fr/commencer/trm-demande-de-renouvellement-de-licence-pour-le-t)
 
 Transport de personnes
 
