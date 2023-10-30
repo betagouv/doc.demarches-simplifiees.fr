@@ -27,8 +27,11 @@ Des informations sont à renseigner :&#x20;
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 * Saisissez votre expression régulière : vous pouvez la tester sur [https://rubular.com/](https://rubular.com/)
-  * Exemple pour valider un numéro de téléphone français avec ou sans indicatif : ^(?:+33|0033)?1-9{4}$
-  * Exemple pour valider un email : ^\[a-zA-Z0-9.\_%+-]+@\[a-zA-Z0-9.-]+.\[a-zA-Z]{2,}$
+  * Exemple pour valider un code APE : ^\[0-9]{4}\[A-Z]$
+    * Explication étape par étape :
+      1. `^` et `$` : Ces symboles indiquent le début et la fin de la chaîne, respectivement. Ils s'assurent que tout le texte doit correspondre au modèle.
+      2. `[0-9]{4}` : Ceci vérifie que les quatre premiers caractères sont des chiffres de 0 à 9.
+      3. `[A-Z]` : Ceci vérifie qu'il y a une lettre majuscule à la fin.
 * Saisissez un exemple qui passe votre expression régulière : pour que la démarche soit publiable, l'exemple doit être valide. Sinon il vous sera impossible de publier la démarche.
 * Message d'erreur à afficher à l'usager : Il s'agit du message que vous voulez transmettre à l'usager en cas d'erreur de saisie&#x20;
 
