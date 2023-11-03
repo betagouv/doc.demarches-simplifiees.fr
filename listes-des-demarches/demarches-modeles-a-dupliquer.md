@@ -31,4 +31,21 @@ Lorsque vous arrivez sur la page "Toutes les démarches", vous avez plusieurs fa
 
 2: Effectuer une « Recherche par libellé » : Vous pouvez retrouver une démarche en renseignant un mot clé par exemple « subvention » ou « inscription ». Les démarches qui comportent ce mot dans le titre s’afficheront.
 
-<figure><img src="../.gitbook/assets/Etape 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Etape 3.png" alt=""><figcaption><p>(1) "Mes zones", (2) "Rechercher des démarches par libellé"</p></figcaption></figure>
+
+3: « Service »: vous pouvez faire une recherche grâce au numéro de Siret de l’administration qui a mis en place la démarche
+
+4: "Date de publication": vous pouvez trier les démarches en fonction de la date de publication
+
+5: « Statut » : Vous pouvez trier les démarches en fonction de leur statut (publiée ou close)
+
+6: « Tags »: Nous avons trié les démarches en fonction de grandes thématiques, par exemple:
+
+* Subvention
+* Scolaire
+* Etrangers
+* MODELE&#x20;
+
+
+
+<figure><img src="../.gitbook/assets/Etape 3 bis.png" alt=""><figcaption></figcaption></figure>
