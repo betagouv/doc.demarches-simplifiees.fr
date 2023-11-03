@@ -20,6 +20,7 @@
   * [Pour les instructeurs](nouveautes/pour-les-instructeurs.md)
   * [Pour les usagers](nouveautes/pour-les-usagers.md)
 * [Nos démarches](listes-des-demarches/README.md)
+  * [Démarches modèles à dupliquer](listes-des-demarches/demarches-modeles-a-dupliquer.md)
   * [Démarches relatives au permis de conduire](listes-des-demarches/demarches-relatives-au-permis-de-conduire.md)
   * [Démarches relatives aux transporteurs](listes-des-demarches/demarches-relatives-au-transporteur.md)
   * [Démarches relatives au secteur du transport public de tourisme (T3P) - Taxis et VTC](listes-des-demarches/demarches-relatives-aux-cartes-professionnelles-de-chauffeurs-de-voiture-de-tourisme-vtc.md)
