@@ -49,3 +49,13 @@ Lorsque vous arrivez sur la page "Toutes les démarches", vous avez plusieurs fa
 
 
 <figure><img src="../.gitbook/assets/Etape 3 bis.png" alt=""><figcaption></figcaption></figure>
+
+Dans le filtre « Tags »: vous pouvez saisir le mot « MODELE » pour retrouver la liste des démarches que nous avons standardisées.
+
+<figure><img src="../.gitbook/assets/Etape 4.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez consulter les démarches pour en voir le contenu.
+
+Vous pouvez cloner la démarche pour en devenir le propriétaire et l’adapter en fonction de vous besoins.
+
+Vous avez également la possibilité de consulter la liste des administrateurs pour les contacter si besoin.&#x20;
