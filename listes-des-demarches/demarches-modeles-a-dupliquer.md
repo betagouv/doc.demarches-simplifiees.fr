@@ -46,7 +46,7 @@ Lorsque vous arrivez sur la page "Toutes les démarches", vous avez plusieurs fa
 * Etrangers
 * MODELE&#x20;
 
-
+<figure><img src="../.gitbook/assets/Screenshot 2023-11-06 11.19.14.png" alt=""><figcaption></figcaption></figure>
 
 Dans le filtre « Tags »: vous pouvez saisir le mot « MODELE » pour retrouver la liste des démarches que nous avons standardisées.
 
