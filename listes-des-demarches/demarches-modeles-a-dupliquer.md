@@ -48,8 +48,6 @@ Lorsque vous arrivez sur la page "Toutes les démarches", vous avez plusieurs fa
 
 
 
-<figure><img src="../.gitbook/assets/Etape 3 bis.png" alt=""><figcaption></figcaption></figure>
-
 Dans le filtre « Tags »: vous pouvez saisir le mot « MODELE » pour retrouver la liste des démarches que nous avons standardisées.
 
 <figure><img src="../.gitbook/assets/Etape 4.png" alt=""><figcaption></figcaption></figure>
