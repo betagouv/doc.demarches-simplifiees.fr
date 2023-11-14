@@ -22,7 +22,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 ## **2. Configuration du routage**&#x20;
 
 * Plusieurs types de champ du formulaire permettent de router les dossiers, notamment « Choix simple », « Choix multiple », « Case à  cocher»,  « Nombre entier »,  « Nombre décimal », « Communes »,  « EPCI », « Départements » et « Régions ».
-* Dans la page « Configuration des champs », créez un champ de l'un de ces types, par exemple « Choix simple ». Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Continuer ».
+* Dans la page « Configuration des champs », créez un champ de l'un de ces types, par exemple « Choix simple ». Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Valider le formulaire ».
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 10-56-17.png" alt=""><figcaption></figcaption></figure>
 
