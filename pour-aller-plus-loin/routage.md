@@ -6,6 +6,10 @@ description: >-
 
 # Routage des dossiers
 
+## Version vidéo
+
+{% embed url="https://www.loom.com/share/59b913777264477b8a603a77d8045fc7?sid=92477667-8b77-4b32-bf39-0516db9c82d4" %}
+
 ## 1. **Présentation**&#x20;
 
 Le routage permet de partager l’instruction entre différents groupes en fonction d’un critère précis (territoire, thématique, etc.).
