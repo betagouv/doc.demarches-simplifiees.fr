@@ -48,7 +48,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 * Dans le cas d'un routage à partir d'un champ de type  « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ.
 * Dans le cas d'un routage à partir d'un champ de type « Régions », 18 groupes sont créés (un par région).
 * Dans le cas d'un routage à partir d'un champ de type « Départements », 110 groupes sont créés (un par département).
-* Dans le cas d'un routage à partir d'un champ de type « Communes » ou « Choix simple », 110 groupes (un par département) sont créés également. Ainsi, lors du dépôt du dossier, le code du département correspondant à la commune ou à l'EPCI choisi par l'usager permet de router le dossier vers le bon groupe d'instructeurs.
+* Dans le cas d'un routage à partir d'un champ de type « Communes » ou « EPCI », 110 groupes (un par département) sont créés également. Ainsi, lors du dépôt du dossier, le code du département correspondant à la commune ou à l'EPCI choisi par l'usager permet de router le dossier vers le bon groupe d'instructeurs.
 
 ## 4. Routage avancé&#x20;
 
