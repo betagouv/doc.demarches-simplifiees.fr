@@ -65,8 +65,9 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/Screenshot from 2023-11-14 15-37-28.png" alt=""><figcaption></figcaption></figure>
 
-* Par défaut, une règle de routage est construite de la façon suivante : « Router si le champ Votre ville **est égal à** Lyon ».
-* Il est possible de changer l'opérateur pour que la règle devienne : « Router si le champ Votre ville **n'est pas** Lyon ».
+* Par défaut la règle de routage concerne un seul champ cible. On peut aussi définir une règle composite impliquant plusieurs champs, avec l'opérateur ET ou OU.
+
+<figure><img src="../.gitbook/assets/Screenshot from 2023-11-14 15-42-58.png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Ajout de groupes
 
