@@ -63,7 +63,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 * Dans la page d'un groupe d'instructeurs, il est possible de renommer le groupe, de changer ses règles de routage, de le désactiver ou encore de le supprimer.
 
-<figure><img src="../.gitbook/assets/Screenshot from 2023-09-21 11-05-20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot from 2023-11-14 15-37-28.png" alt=""><figcaption></figcaption></figure>
 
 * Par défaut, une règle de routage est construite de la façon suivante : « Router si le champ Votre ville **est égal à** Lyon ».
 * Il est possible de changer l'opérateur pour que la règle devienne : « Router si le champ Votre ville **n'est pas** Lyon ».
