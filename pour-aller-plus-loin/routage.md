@@ -71,7 +71,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 ## 6. Ajout de groupes
 
-* Une fois le routage mis en place, vous pouvez créer de nouveaux groupes d'instructeurs. Pour leur associer de nouvelles règles de routage, il faut ajouter des options dans le champ utilisé pour le routage, depuis la page « Champs du formulaire ». Une fois les modifications du formulaire publiées, vous pouvez sélectionner la règle de routage dans la page du groupe d'instructeurs.&#x20;
+* Une fois le routage mis en place, vous pouvez créer de nouveaux groupes d'instructeurs. Si besoin, vous pouvez créer ou modifier des champs à utiliser pour le routage depuis la page « Champs du formulaire ». Une fois les modifications du formulaire publiées, vous pouvez définir la règle de routage dans la page du groupe d'instructeurs.&#x20;
 
 ## 7. Routage et conditionnel
 
