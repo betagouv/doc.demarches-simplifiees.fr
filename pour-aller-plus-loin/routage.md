@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dans vos démarches, il est possible d'attribuer automatiquement des dossiers à
-  des groupes d'instructeurs.
+  Il est possible de répartir les dossiers entre différents groupes
+  d'instructeurs, sur la base des informations saisies par les utilisateurs.
 ---
 
 # Routage des dossiers
@@ -12,9 +12,9 @@ description: >-
 
 ## 1. **Présentation**&#x20;
 
-Le routage permet de partager l’instruction entre différents groupes en fonction d’un critère précis (territoire, thématique, etc.).
+Pour faciliter le travail des instructeurs, il est possible de configurer à l'avance la répartition automatique des dossiers en activant le « routage ».
 
-Une fois le routage configuré, les dossiers sont acheminés automatiquement vers les groupes d'instructeurs en fonction des règles de routage définies par l'administrateur.
+Cette fonctionnalité permet d'affecter les dossiers uniquement à certains instructeurs, en fonction du contenu du formulaire rempli par l'usager.
 
 Ce système est particulièrement adapté aux démarches nationales instruites localement.
 
