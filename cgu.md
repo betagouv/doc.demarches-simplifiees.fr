@@ -1,5 +1,5 @@
 ---
-description: Dernière mise à jour, le 20 janvier 2023 (ajout de la numérotation)
+description: Dernière mise à jour, le 17 novembre 2023.
 ---
 
 # Conditions Générales d'Utilisation
