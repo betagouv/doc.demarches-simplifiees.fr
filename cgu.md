@@ -258,7 +258,9 @@ La DINUM n’accorde aux membres de son personnel l’accès aux données à car
 
 #### iv. Données sensibles <a href="#_toc108111749" id="_toc108111749"></a>
 
-L'administration consommatrice du service doit se mettre en conformité avec les règles du RGPD s'agissant de la collecte et du traitement des données personnelles et /ou sensibles.
+L’homologation de Démarches simplifiées ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD.&#x20;
+
+Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations utilisatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de sécurité complémentaires.&#x20;
 
 #### v. Documentation et conformité <a href="#_toc108111750" id="_toc108111750"></a>
 
