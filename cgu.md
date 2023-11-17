@@ -1,5 +1,7 @@
 ---
-description: Dernière mise à jour, le 17 novembre 2023.
+description: >-
+  Dernière mise à jour, le 17 novembre 2023 ( modification concernant le
+  traitement des données sensibles iv.)
 ---
 
 # Conditions Générales d'Utilisation
