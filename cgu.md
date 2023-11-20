@@ -1,7 +1,8 @@
 ---
 description: >-
-  Dernière mise à jour, le 17 novembre 2023 ( modification concernant le
-  traitement des données sensibles iv.)
+  Dernière mise à jour, le 20 novembre 2023 ( modification concernant le
+  traitement des données sensibles (b. restrictions d'usage) et fusion de
+  sous-parties .)
 ---
 
 # Conditions Générales d'Utilisation
@@ -54,17 +55,15 @@ description: >-
 
 #### [iii.       Sécurité du traitement](cgu.md#\_toc108111748)
 
-#### [iv.       Données sensibles](cgu.md#\_toc108111749)
+#### [iv.](cgu.md#\_toc108111749)  [Documentation et conformité](cgu.md#\_toc108111750)
 
-#### [v.    Documentation et conformité](cgu.md#\_toc108111750)
+#### [v.       Liste des sous-traitants ultérieurs](cgu.md#\_toc108111751)
 
-#### [vi.       Liste des sous-traitants ultérieurs](cgu.md#\_toc108111751)
+#### [vi.      Transferts internationaux](cgu.md#\_toc108111752)
 
-#### [vii.      Transferts internationaux](cgu.md#\_toc108111752)
+#### [vii.     Assistance](cgu.md#\_toc108111753)
 
-#### [viii.     Assistance](cgu.md#\_toc108111753)
-
-#### [ix.       Notification de violation de données à caractère personnel](cgu.md#\_toc108111754)
+#### viii[.       Notification de violation de données à caractère personnel](cgu.md#\_toc108111754)
 
 ## [7.    Dispositions générales](cgu.md#\_toc108111755)
 
