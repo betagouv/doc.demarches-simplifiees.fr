@@ -189,9 +189,11 @@ Compte tenu de l’intégration de la démarche dans son propre système d’inf
 
 L'administration consommatrice du service doit se mettre en conformité avec les règles du RGPD s'agissant de la collecte et du traitement des données personnelles et /ou sensibles. On entend par données à caractère personnel dites « sensibles » : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions .
 
-Le Service n’est pas prévu pour les démarches qui pourraient être effectuées par des mineurs de moins de 15 ans. L’accès à une démarche administrative pour les mineurs de plus de 15 ans relève de l’appréciation de l’Administration.
+L’homologation de Démarches simplifiées ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD.&#x20;
 
-Le service n'est pas prévu pour la collecte et le traitement des données de santé.
+Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations utilisatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de de sécurité complémentaires.&#x20;
+
+Le Service n’est pas prévu pour les démarches qui pourraient être effectuées par des mineurs de moins de 15 ans. L’accès à une démarche administrative pour les mineurs de plus de 15 ans relève de l’appréciation de l’Administration.
 
 ### c. Les différents rôles de l’Administration : <a href="#_toc108111738" id="_toc108111738"></a>
 
@@ -258,13 +260,7 @@ Lors de l’évaluation du niveau de sécurité approprié, la DINUM et l’Admi
 
 La DINUM n’accorde aux membres de son personnel l’accès aux données à caractère personnel faisant l’objet du traitement que dans la mesure où cet accès est strictement nécessaire à l’accomplissement de leur mission. La DINUM veille à ce que les personnes autorisées à traiter les données à caractère personnel s'engagent à respecter la confidentialité ou soient soumises à une obligation légale appropriée de confidentialité.
 
-#### iv. Données sensibles <a href="#_toc108111749" id="_toc108111749"></a>
-
-L’homologation de Démarches simplifiées ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD.&#x20;
-
-Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations utilisatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de sécurité complémentaires.&#x20;
-
-#### v. Documentation et conformité <a href="#_toc108111750" id="_toc108111750"></a>
+#### iv. Documentation et conformité <a href="#_toc108111750" id="_toc108111750"></a>
 
 La DINUM et l’Administration doivent pouvoir démontrer leur conformité à la règlementation applicable aux traitements de données à caractère personnel.
 
@@ -276,7 +272,7 @@ L’Administration est associée à la définition des besoins en matière de pr
 
 La DINUM et l’Administration mettent à la disposition de l’autorité de contrôle compétente, dès que celles-ci en fait la demande, les informations nécessaires pour démontrer leur conformité, y compris les résultats de tout audit.
 
-#### vi. Liste des sous-traitants ultérieurs <a href="#_toc108111751" id="_toc108111751"></a>
+#### v. Liste des sous-traitants ultérieurs <a href="#_toc108111751" id="_toc108111751"></a>
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
@@ -290,13 +286,13 @@ Lorsque la DINUM recrute un sous-traitant ultérieur pour mener des activités d
 
 La DINUM demeure pleinement responsable, à l’égard de l’Administration, de l’exécution des obligations du sous-traitant ultérieur conformément au contrat conclu avec le sous-traitant ultérieur. La DINUM informe le Partenaire de tout manquement du sous-traitant ultérieur à ses obligations contractuelles.
 
-#### vii. Transferts internationaux <a href="#_toc108111752" id="_toc108111752"></a>
+#### vi. Transferts internationaux <a href="#_toc108111752" id="_toc108111752"></a>
 
 Tout transfert de données vers un pays tiers ou une organisation internationale par la DINUM n’est effectué que sur la base d’instructions documentées de l’Administration ou afin de satisfaire à une exigence spécifique du droit de l’Union ou du droit de l’État membre à laquelle la DINUM est soumise et s’effectue conformément au chapitre V du règlement (UE) 2016/679.
 
 L’Administration convient que lorsque la DINUM recrute un sous-traitant ultérieur conformément à la clause 6.b.vi. pour mener des activités de traitement spécifiques (pour le compte de l’Administration) et que ces activités de traitement impliquent un transfert de données à caractère personnel au sens du chapitre V du règlement (UE) 2016/679, la DINUM et le sous-traitant ultérieur peuvent garantir le respect du chapitre V du règlement (UE) 2016/679 en utilisant les clauses contractuelles types adoptées par la Commission européenne sur la base de l’article 46, paragraphe 2, du règlement (UE) 2016/679, pour autant que les conditions d’utilisation de ces clauses contractuelles types soient remplies.
 
-#### viii. Assistance <a href="#_toc108111753" id="_toc108111753"></a>
+#### vii. Assistance <a href="#_toc108111753" id="_toc108111753"></a>
 
 La DINUM informe sans délai l’Administration de toute demande d’exercice de ses droits qu’elle a reçu de la part d’un Usager. Elle ne donne pas elle-même suite à cette demande dans la mesure où elle n’est pas responsable du traitement.
 
@@ -304,7 +300,7 @@ La DINUM prête assistance à l’Administration pour ce qui est de remplir l’
 
 La DINUM aide l’Administration à garantir le respect des obligations prévues aux articles 32 à 36 du règlement général sur la protection des données (RGPD), compte tenu de la nature du traitement et des informations à sa disposition.
 
-#### ix. Notification de violation de données à caractère personnel <a href="#_toc108111754" id="_toc108111754"></a>
+#### vii. Notification de violation de données à caractère personnel <a href="#_toc108111754" id="_toc108111754"></a>
 
 En cas de violation de données à caractère personnel, la DINUM coopère avec l’Administration et lui prête assistance aux fins de la mise en conformité avec les obligations qui lui incombent en vertu des articles 33 et 34 du règlement (UE) 2016/679, en tenant compte de la nature du traitement et des informations dont dispose la DINUM.
 
