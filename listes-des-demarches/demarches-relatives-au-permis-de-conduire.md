@@ -46,11 +46,13 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 #### Demander une place d'examen pratique au permis de conduire
 
 * [**27 - L'Eure**](https://www.demarches-simplifiees.fr/commencer/inscription-des-candidats-libres-epreuve-pratique)
+* [**46 - Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-place-candidat-libre)
 * [**51 - Marne**](https://candidat.convonom.fr/#/)
 * [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
 * [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)
 * [**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
 * [**77 - Seine-et-Marne**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
+* [**82 - Tarn-et-Garonne**](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)&#x20;
 
 #### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
 
@@ -59,6 +61,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**29 - Finistère**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-neph-finistere)
 * [**35 - Ille-et-Vilaine**](https://www.demarches-simplifiees.fr/commencer/reactivation-communication\_neph35)
 * [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_neph\_reactiv\_com\_correction)
+* [**46 - Lot**](https://www.demarches-simplifiees.fr/commencer/46-duplicata-dossier-demande-de-permis-de-conduire)
 * [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-numero-neph)
 * [**50 - Manche**](https://www.demarches-simplifiees.fr/commencer/neph-manche)
 * [**51 - Marne** ](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-communication-du-numero-neph)
@@ -72,6 +75,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/neph-76)
 * [**77- Seine-et-Marne (réactivation)**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-numero-neph-77)
 * [**78 - Yvelines**](https://www.demarches-simplifiees.fr/commencer/78-dem-duplicata-react-et-com-neph-modif-fnpc)
+* [**82- Tarn-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/82-pour-les-residents-de-tarn-et-garonne-uniquemen)
 * [**88 - Vosges (communication)** ](https://www.demarches-simplifiees.fr/commencer/communication\_neph\_88)[**ou (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation\_neph\_88)
 * [**91 - Essonne**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-actualisation-numero-neph-91)
 * [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/neph92)
@@ -155,6 +159,16 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 * [**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture\_ddtm44\_duplicata-aipc)
 
+### 46 - Lot
+
+* [**46 - Demande de place candidat libre**](https://www.demarches-simplifiees.fr/commencer/46-demande-place-candidat-libre)&#x20;
+* [**46- Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Lot**](https://www.demarches-simplifiees.fr/commencer/46-operateur-agree-oa-pour-les-examens-du-code)
+* [**46 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-place-d-examen-au-code-de-la-rout)
+* [**46 - Demande agrément auto-école (EECSR) dans Lot (1ère demande, renouvellement, reprise/transfert/déménagement, ou extension)**](https://www.demarches-simplifiees.fr/commencer/46-demande-agrement-auto-ecole-eecsr-dans-lot)
+* [**46 - Demande d'une ATRE - autorisation temporaire et restritice d'exercer (pour école de conduite du Lot)**](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [**Duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH**](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [**46 - Demande d'une autorisation d'enseigner pour résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-autorisation-d-enseigner)
+
 ### 47 - Lot-et-Garonne
 
 * [**47 - Dépôt de demande d'agrément préfectoral pour l'exploitation d'une école de conduite**](https://www.demarches-simplifiees.fr/commencer/47-agrement-initial-eeca)
@@ -224,6 +238,13 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 ### 76 - Seine-Maritime
 
 * [76 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur ](https://www.demarches-simplifiees.fr/commencer/autorisation-enseigner76)
+
+### 82 - Tarn-et-Garonne
+
+* [82 - Demande place examen permis conduire candidat libre (sans auto-école) pratique B (résidents de Tarn-et-Garonne uniquement)](https://www.demarches-simplifiees.fr/commencer/82-demande-place-examen-candidat-libre)
+* [82 - Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-operateur-agree-oa-pour-les-examens-du-code-de-)
+* [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [82 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents de Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-demande-d-une-place-d-examen-au-code-de-la-rout)
 
 ### 88 - Vosges
 
