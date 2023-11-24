@@ -17,6 +17,14 @@ Temporairement, il existe deux exceptions afin de permettre aux usagers et aux a
 Très prochainement, lorsque nous serons en mesure de proposer de meilleurs outils d'export des données, la fonctionnalité sera activée sur toutes les démarches .
 {% endhint %}
 
+### Suppression automatique des comptes usagerss usagers
+
+Les usagers inactifs (qui ne se sont pas connectés pendant deux ans et n'ayant pas de dossier en instruction) sont automatiquement supprimés. Deux semaines avant la suppression du compte,  l’usager est notifié par e-mail. Après la suppression, il pourra plus tard recréer un compte avec la même adresse électronique. Si l'usager ne souhaite pas que nous supprimions son compte automatiquement, il lui suffit de se connecter une fois à son compte avec ses identifiants habituels. Le délai sera réinitialisé et le compte conservé à nouveau pendant 2 ans.
+
+Concernant les dossiers des usagers inactifs, nous supprimons : les dossiers en brouillon et les dossiers en construction (nous considérons qu'un dossier en construction inactif pendant 2 ans ne sera jamais déposé).
+
+Les dossiers terminés sont conservés, mais le lien avec l'usager n'est plus possible car son compte a été détruit.
+
 ### Supprimer un dossier manuellement
 
 La suppression manuelle d’un dossier est possible en fonction de l'état du dossier :
