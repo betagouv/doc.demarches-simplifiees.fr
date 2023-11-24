@@ -19,6 +19,7 @@
   * [Pour les administrateurs](nouveautes/pour-les-administrateurs.md)
   * [Pour les instructeurs](nouveautes/pour-les-instructeurs.md)
   * [Pour les usagers](nouveautes/pour-les-usagers.md)
+  * [Expérimentation Chorus](nouveautes/experimentation-chorus.md)
 * [Nos démarches](listes-des-demarches/README.md)
   * [Démarches modèles à dupliquer](listes-des-demarches/demarches-modeles-a-dupliquer.md)
   * [Démarches relatives au permis de conduire](listes-des-demarches/demarches-relatives-au-permis-de-conduire.md)
