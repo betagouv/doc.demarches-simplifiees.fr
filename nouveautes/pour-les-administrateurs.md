@@ -37,6 +37,11 @@ Des informations sont à renseigner :&#x20;
 * Saisissez un exemple qui passe votre expression régulière : pour que la démarche soit publiable, l'exemple doit être valide. Sinon il vous sera impossible de publier la démarche.
 * Message d'erreur à afficher à l'usager : Il s'agit du message que vous voulez transmettre à l'usager en cas d'erreur de saisie&#x20;
 
+Exemples d'expression régulières que nous testons actuellement :thumbsup:
+
+* je souhaite contraindre la saisie qu'à des chiffres, pas d'espace possible, ni caractère spécial : l'expression régulière à saisir est : "^\d+$" (sans les guillemets)
+* je souhaite contraindre la saisie à 9 chiffres pas un de plus ni un de moins, l'expression régulière à saisir est  : "^\d{9}$" (sans les guillemets)
+
 ## Changement de couleurs
 
 Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'État.\
