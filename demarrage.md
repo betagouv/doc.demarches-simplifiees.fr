@@ -32,7 +32,7 @@ Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous pu
 
 ### La dématérialisation... ce n'est pas prendre un formulaire papier et le mettre en ligne à l'identique.
 
-La DITP (le Direction interministérielle à la Transformation Publique) a produit un [**guide à la création des formulaires** ](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs)qui présente les étapes essentielles à la simplification d'une démarche.
+La DITP (le Direction interministérielle à la Transformation Publique) a produit un [**guide à la création des formulaires** ](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs)qui présente les étapes essentielles à la simplification d'une démarche.
 
 Les conseils valent tout autant pour des démarches papiers et des démarches en ligne.
 
@@ -42,10 +42,10 @@ Prenez le temps de regarder ces guides et ces vidéos avant vous lancer !
 
 **SIMPLIFIER LES DOCUMENTS ADMINISTRATIFS**&#x20;
 
-* [**Aller à l'essentiel**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#Essentiel)
-* [**Utiliser des mots simples**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#MotsSimples)
-* [**Organiser l'information logiquement**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#OrganiserInfo)
-* [**Considérer l'usager**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#ConsidererUsager)
-* [**Inciter à l'action**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#InciterALaction)
-* [**Soigner la présentation**](https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/simplifier-les-documents-administratifs#SoignerPresentation)
+* [**Aller à l'essentiel**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#Essentiel)
+* [**Utiliser des mots simples**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#MotsSimples)
+* [**Organiser l'information logiquement**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#OrganiserInfo)
+* [**Considérer l'usager**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#ConsidererUsager)
+* [**Inciter à l'action**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#InciterALaction)
+* [**Soigner la présentation**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#SoignerPresentation)
 
