@@ -15,12 +15,6 @@ Elle permet également de **modifier** certaines informations d'un dossier :
 * Envoyer un message à l'usager d'un dossier ;
 * Changer l'état d'un dossier (accepté, refusé, etc.)
 
-### Présentation de l'API
-
-{% embed url="https://vimeo.com/333749814" %}
-3 minutes pour tout savoir de notre API
-{% endembed %}
-
 ### Aperçu général de GraphQL
 
 Cette API suit le paradigme GraphQL. Pour plus d'informations sur le fonctionnement de GraphQL en général, vous pouvez consulter les liens suivants :
