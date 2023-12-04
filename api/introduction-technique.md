@@ -1,5 +1,5 @@
 ---
-description: GraphQL, késako ?
+description: GraphQL, qu'est ce que c'est ?
 ---
 
 # Introduction technique
