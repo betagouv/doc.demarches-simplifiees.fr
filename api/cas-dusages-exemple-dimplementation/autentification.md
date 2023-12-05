@@ -5,7 +5,7 @@ description: Exemple d'implémentation pour requeter l'API en étant authentifi�
 # Autentification
 
 {% hint style="info" %}
-Avant de pouvoir envoyer des requêtes authentifiées, il vous faudra les[accreditation.md](../accreditation.md "mention")s nécessaire. Aussi pensez a consulter notre doc sur l'[authentification](../authentification/ "mention").
+Avant de pouvoir envoyer des requêtes authentifiées, il vous faudra les[accreditation.md](../accreditation.md "mention")s nécessaire. Aussi pensez a consulter notre doc sur l'[jeton-dauthentification](../jeton-dauthentification/ "mention").
 {% endhint %}
 
 Vous pouvez tester en executant le script suivant avec les variables d'environnement adaptées :
