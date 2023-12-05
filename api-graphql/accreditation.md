@@ -6,7 +6,7 @@ description: Tous les appels sont authentifiés et doivent fournir un jeton vali
 
 ## Qui peut avoir un jeton ?
 
-Les **jetons d'API sont accessibles aux usagers ayant un compte administrateur** sur demarches-simplifiees.fr .&#x20;
+Les **jetons d'API sont accessibles aux usagers ayant un compte administrateur** sur demarches-simplifiees.fr . Le jeton d'un administrateur ne donne un accès à l'API qu'aux démarches de ce compte administrateur (voir même qu'à une liste limitée de ces démarches).
 
 Deux options s'offrent à vous :&#x20;
 
