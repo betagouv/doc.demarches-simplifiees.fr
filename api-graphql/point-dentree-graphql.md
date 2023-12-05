@@ -9,5 +9,5 @@ Vous avez maintenant les pré-requis pour avancer sur votre propre client des AP
 Vous pouvez maintenant ouvrir votre IDE, et définir l'host de notre API : **https://www.demarches-simplifiees.fr/api/v2/graphql**&#x20;
 
 {% hint style="info" %}
-Cette adresse n’est pas visitable dans un navigateur. Elle renvoie des données au format JSON, à travers un transport HTTPS. Pour communiquer avec le endpoint, veuillez utiliser le verbe http POST.
+**Cette adresse n’est pas visitable dans un navigateur**. Elle renvoie des données au format JSON, à travers un transport HTTPS. Pour communiquer avec le endpoint, **veuillez utiliser le verbe http POST**.
 {% endhint %}
