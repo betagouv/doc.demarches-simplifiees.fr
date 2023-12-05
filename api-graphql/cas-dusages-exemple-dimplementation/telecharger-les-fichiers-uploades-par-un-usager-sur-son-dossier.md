@@ -5,10 +5,10 @@ description: >-
   méthode de votre choix.
 ---
 
-# Télécharger les fichiers uploadé par un usager sur son dossier
+# Télécharger les fichiers uploadés par un usager sur son dossier
 
 {% hint style="info" %}
-N**ous recommandons de paralléliser / asynchroniser le téléchargement des fichiers**. En effet, un dossier peut avoir de nombreuses PJ, qui elle même peuvent peser jusqu'a 200Mo. Attention, les liens vers **les fichiers expirent au bout de 2h**.
+N**ous recommandons de paralléliser / asynchroniser le téléchargement des fichiers**. En effet, un dossier peut avoir de nombreuses PJ, qui elle même peuvent peser jusqu'a 200Mo. Attention, les liens vers **les fichiers expirent au bout de 1h**.
 {% endhint %}
 
 Pour ajouter les URLs des fichiers à votre code existant, Il vous faut ajouter le `FileFragment` au `ChampFragment` :
