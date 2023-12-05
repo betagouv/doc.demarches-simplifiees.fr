@@ -76,7 +76,7 @@ EMPTY_CURSOR = {}
 ### that's the GraphQL part.
 # We store the query in a flat file because it's easier to read
 def query
-  File.read("getDemarche.graphql")
+  File.read("getDemarche.samplePagination.graphql")
 end
 
 
