@@ -174,5 +174,5 @@ Si vous obtenez une erreur, vérifiez que :&#x20;
 * il n'y a pas d'espace ou de guillemet en trop ou en moins&#x20;
 * les majuscules et miniscules sont respectées
 * l'url, le jeton et le numéro de démarche sont corrects
-* lisez le message d'erreur et consultez [la page d'erreur](../gestion-des-erreurs.md)
+* lisez le message d'erreur et consultez nos pages [Problèmes fréquents d'authentification](problemes-frequents.md) et [la gestion d'erreur](../gestion-des-erreurs.md)
 {% endhint %}
