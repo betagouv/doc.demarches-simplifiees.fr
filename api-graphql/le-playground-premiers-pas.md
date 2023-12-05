@@ -6,6 +6,10 @@ Une fois votre démarche créée, vous pouvez accéder à l’**éditeur de requ
 
 Cet éditeur de requêtes en ligne vous permet de requeter directement nos API sur **vos démarches** sans que vous ayez a coder de client. C'est un bon outil pour prendre en main l'API.
 
+{% hint style="info" %}
+Pour construire une requête et interpréter les réponses, consultez la [**documentation complète du schéma de l’API**](https://www.demarches-simplifiees.fr/graphql/schema/).
+{% endhint %}
+
 {% hint style="danger" %}
 Attention, le playground **n'est pas une sandbox**, les requêtes effectuées sur le playground impactent directement les données de production. Si vous utilisez des opérations de mutations, pensez à utiliser une démarche de test
 {% endhint %}
