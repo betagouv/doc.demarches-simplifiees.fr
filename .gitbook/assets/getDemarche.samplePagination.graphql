@@ -1,30 +1,185 @@
 query getDemarche(
     $demarcheNumber: Int!
+    $state: DossierState
+    $order: Order
+    $first: Int
+    $after: String
     $includeDossiers: Boolean = true
-    $includeChamps: Boolean = true
-    $includeGeometry: Boolean = false
   ) {
     demarche(number: $demarcheNumber) {
       id
       number
-      dossiers @include(if: $includeDossiers) {
+      title
+      dossiers(
+        order: $order
+        first: $first
+        after: $after
+      ) @include(if: $includeDossiers) {
+        pageInfo {
+          ...PageInfoFragment
+        }
         nodes {
           ...DossierFragment
+        }
+        pageInfo {
+          endCursor
+          hasNextPage
         }
       }
     }
   }
 
-
   fragment DossierFragment on Dossier {
     id
     number
+    archived
+    state
+    dateDerniereModification
+    dateDepot
+    datePassageEnConstruction
+    datePassageEnInstruction
+    dateTraitement
+    dateExpiration
+    dateSuppressionParUsager
+    motivation
+    motivationAttachment {
+      ...FileFragment
+    }
+    attestation {
+      ...FileFragment
+    }
+    pdf {
+      url
+    }
+    usager {
+      email
+    }
+    groupeInstructeur {
+      ...GroupeInstructeurFragment
+    }
+    demandeur {
+      __typename
+      ... on PersonnePhysique {
+        civilite
+        nom
+        prenom
+      }
+      ... on PersonneMoraleIncomplete { siret }
+      ...PersonneMoraleFragment
+    }
+    demarche {
+      revision {
+        id
+      }
+    }
+    instructeurs @include(if: $includeInstructeurs) {
+      id
+      email
+    }
+    traitements @include(if: $includeTraitements) {
+      state
+      emailAgentTraitant
+      dateTraitement
+      motivation
+    }
     champs @include(if: $includeChamps) {
       ...ChampFragment
       ...RootChampFragment
     }
+    annotations @include(if: $includeAnotations) {
+      ...ChampFragment
+      ...RootChampFragment
+    }
+    avis @include(if: $includeAvis) {
+      ...AvisFragment
+    }
+    messages @include(if: $includeMessages) {
+      ...MessageFragment
+    }
   }
 
+  fragment DeletedDossierFragment on DeletedDossier {
+    id
+    number
+    dateSupression
+    state
+    reason
+  }
+
+  fragment RevisionFragment on Revision {
+    id
+    datePublication
+    champDescriptors {
+      ...ChampDescriptorFragment
+      ... on RepetitionChampDescriptor {
+        champDescriptors {
+          ...ChampDescriptorFragment
+        }
+      }
+    }
+    annotationDescriptors {
+      ...ChampDescriptorFragment
+      ... on RepetitionChampDescriptor {
+        champDescriptors {
+          ...ChampDescriptorFragment
+        }
+      }
+    }
+  }
+
+  fragment ChampDescriptorFragment on ChampDescriptor {
+    __typename
+    id
+    label
+    description
+    required
+    ... on DropDownListChampDescriptor {
+      options
+      otherOption
+    }
+    ... on MultipleDropDownListChampDescriptor {
+      options
+    }
+    ... on LinkedDropDownListChampDescriptor {
+      options
+    }
+    ... on PieceJustificativeChampDescriptor {
+      fileTemplate {
+        ...FileFragment
+      }
+    }
+    ... on ExplicationChampDescriptor {
+      collapsibleExplanationEnabled
+      collapsibleExplanationText
+    }
+  }
+
+  fragment AvisFragment on Avis {
+    id
+    question
+    reponse
+    dateQuestion
+    dateReponse
+    claimant {
+      email
+    }
+    expert {
+      email
+    }
+    attachments {
+      ...FileFragment
+    }
+  }
+
+  fragment MessageFragment on Message {
+    id
+    email
+    body
+    createdAt
+    attachments {
+      ...FileFragment
+    }
+  }
 
   fragment GeoAreaFragment on GeoArea {
     id
@@ -199,4 +354,10 @@ query getDemarche(
     departmentCode
     regionName
     regionCode
+  }
+
+  fragment PageInfoFragment on PageInfo {
+    hasPreviousPage
+    hasNextPage
+    endCursor
   }

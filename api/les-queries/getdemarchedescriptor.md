@@ -1,5 +1,5 @@
 ---
-description: Récupérer les versions des formulaires par démarche
+description: Récupérer les versions du formulaire par démarche
 ---
 
 # getDemarcheDescriptor
@@ -8,11 +8,17 @@ Lors de son cycle de vie, un administrateur d'une démarche peut publier une nou
 
 Les nouveaux dossiers crées par les usagers sont donc sur cette nouvelle version du formulaire. Cependant les anciens dossiers déjà traités (accépté/refusé ou classé sans suite) eux ne changent pas de version.
 
-La correspondance entre une démarche, se versions, chacuns des dossiers, et chacuns des champs peut se faire en comparant la valeur de `data.demarche.activeRevision.champDescriptors[x].id` / avec la valeur de `data.demarche.dossiers.champs[x].id`
+La correspondance entre un champ d'un dossier, et la versions des champs de la procédure peut se faire en comparant la valeur de `data.demarche.activeRevision.champDescriptors[x].id` / avec la valeur de `data.demarche.dossiers.champs[x].id`
+
+Pour vous aider a visualiser ce lien, voici notre modele de donnée centrée sur ce concept
+
+{% file src="../../.gitbook/assets/database_models.pdf" %}
+
+##
 
 ## Query pour demander le descriptif d'une démarche
 
-Vous pouvez aussi récupérer la description d'une démarche via le endpoint getDemarche
+Vous pouvez aussi récupérer la description d'une démarche via le endpoint getDemarcheDescriptor
 
 ```graphql
 
@@ -126,7 +132,7 @@ Vous pouvez aussi récupérer la description d'une démarche via le endpoint get
   "operationName": "getDemarche",
   "variables": {
     "includeRevision": true, 
-    "demarche": {"number": 83173
+    "demarche": { "number": 83173 }
   }
 }
 ```

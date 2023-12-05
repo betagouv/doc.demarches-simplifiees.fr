@@ -1,16 +1,65 @@
+---
+description: >-
+  Exemple d'implémentation pour lister tous les dossiers d'une démarche avec la
+  pagination
+---
+
 # Récupérer tous les dossiers (pagination)
 
-Exemple d'implémentation pour lister tous les dossiers d'une démarche avec la pagination
+{% hint style="info" %}
+Avez-vous pris connaissance de notre mechanisme de [pagination](../pagination.md) ?
+{% endhint %}
 
-Vous pouvez executer ce script en lançant la commande suivante dans votre terminal
+Pour paginer vos requetes, il faut ajouter les curseurs à votre requete GraphQL, Pour ce faire ajouter le `PageInfoFragment` et déclarez les variables de pagination sur la ressource paginée Ex :
 
-```bash
-API_TOKEN="votre_token" DEMARCHE_NUMBER=votre_numero_de_demarche ruby poller.rb
+```graphql
+query getDemarche(
+    $demarcheNumber: Int!
+    $order: Order
+    $first: Int
+    $after: String
+    $includeDossiers: Boolean = true
+  ) {
+    demarche(number: $demarcheNumber) {
+      dossiers(
+        order: $order
+        first: $first
+        after: $after
+      ) @include(if: $includeDossiers) {
+        pageInfo {
+          ...PageInfoFragment
+        }
+        nodes {
+          ...DossierFragment
+        }
+        pageInfo {
+          endCursor
+          hasNextPage
+        }
+      }
+    }
+  }
+
+  fragment DossierFragment on Dossier {
+    id
+    number
+  }
+
+  fragment PageInfoFragment on PageInfo {
+    hasPreviousPage
+    hasNextPage
+    endCursor
+  }
 ```
+
+Vous pouvez tester en executant le script suivant avec les variables d'environnement adaptées :
+
+<pre class="language-bash"><code class="lang-bash"><strong>API_TOKEN="votre_token" DEMARCHE_NUMBER=votre_numero_de_demarche ruby poller.rb
+</strong></code></pre>
 
 Pour faciliter la lecture du code, la query GraphQL est fournie en PJ
 
-{% file src="../../.gitbook/assets/getDemarche.graphql" %}
+{% file src="../../.gitbook/assets/getDemarche.samplePagination.graphql" %}
 
 Ensuite, vous pouvez executer ce code ruby
 
@@ -116,3 +165,7 @@ rescue StandardError => e
 end
 ```
 {% endcode %}
+
+{% hint style="warning" %}
+Tant qu'il n'y aura pas de nouvelle page a proposer, votre curseur renvera les même dossiers de la dernière page. Pensez a gérer l'idempotence de votre implementation pour ce cas las.
+{% endhint %}
