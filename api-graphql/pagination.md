@@ -8,7 +8,7 @@ La pagination sur l’API GraphQL se fait par « curseur ». Nous vous renvoyons
 
 > Le curseur est ainsi nommé car il indique la position active dans le jeu de résultats, à l'instar du curseur de l'écran de votre ordinateur.
 
-Concrètement, pour récupérer la prochaine page il faut passer à l’API le « curseur » de la fin de la page précédente.
+Concrètement, nous suivons la spec relay : [https://relay.dev/graphql/connections.htm](https://relay.dev/graphql/connections.htm). Pour récupérer la prochaine page il faut passer à l’API le « curseur » de la fin de la page précédente.
 
 ## Application concrète&#x20;
 
