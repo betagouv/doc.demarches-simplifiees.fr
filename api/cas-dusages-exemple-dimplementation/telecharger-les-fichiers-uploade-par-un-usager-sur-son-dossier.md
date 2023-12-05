@@ -8,7 +8,7 @@ description: >-
 # Télécharger les fichiers uploadé par un usager sur son dossier
 
 {% hint style="info" %}
-Si intéragissez sur une démarche a forte volumétrie, **nous recommandons de paralléliser / asynchroniser le téléchargement des fichiers**. En effet, un dossier peut avoir de nombreuses PJ, qui elle même peuvent peser jusqu'a 200Mo.
+N**ous recommandons de paralléliser / asynchroniser le téléchargement des fichiers**. En effet, un dossier peut avoir de nombreuses PJ, qui elle même peuvent peser jusqu'a 200Mo. Attention, les liens vers **les fichiers expirent au bout de 2h**.
 {% endhint %}
 
 Pour ajouter les URLs des fichiers à votre code existant, Il vous faut ajouter le `FileFragment` au `ChampFragment` :
@@ -20,7 +20,6 @@ Pour ajouter les URLs des fichiers à votre code existant, Il vous faut ajouter 
         ...FileFragment
       }
     }
-   
   }
   
   fragment FileFragment on File {
