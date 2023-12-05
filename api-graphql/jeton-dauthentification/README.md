@@ -65,35 +65,42 @@ La requête GraphQL
 Les variables de la requête
 {% endswagger-parameter %}
 
-{% swagger-response status="200" description="Reponse GraphQL" %}
-```
+{% swagger-response status="200" description="Réponse GraphQL" %}
+```json
 {
-  "data": {
-    "dossier": {
-      "id": "RG9zc2llci0xMDMyODgy",
-      "number": "1032882"
-    }
-  },
-  "errors": [
-    {
-      "message": "Field 'dosier' doesn't exist on type 'Query'",
-      "locations": [
-        {
-          "line": 2,
-          "column": 3
+    "data": {
+    	"demarche": {
+    	    "id": "UHJvY2VkdXJlLTYyNTE1",
+	    "dossiers": {
+	    	"nodes": [
+		    {
+		        "id": "RG9zc2llci05Mzk5MTkw",
+		        "demandeur": {
+			    "civilite": "M",
+			    "nom": "Franklin",
+			    "prenom": "Benjamin"
+			}
+		    },
+	            {
+			"id": "RG9zc2llci05NjQzMDIz",
+			"demandeur": {
+			    "civilite": "Mme",
+		            "nom": "Curie",
+			    "prenom": "Marie"
+			}
+		    },
+		    {
+			"id": "RG9zc2llci0xMzI2Njg1NQ==",
+                        "demandeur": {
+                            "civilite": "M",
+			    "nom": "Pasteur",
+			    "prenom": "Louis"
+			}
+		    }
+		]
+	    }
         }
-      ],
-      "path": [
-        "query getDossier",
-        "dosier"
-      ],
-      "extensions": {
-        "code": "undefinedField",
-        "typeName": "Query",
-        "fieldName": "dosier"
-      }
     }
-  ]
 }
 ```
 {% endswagger-response %}
