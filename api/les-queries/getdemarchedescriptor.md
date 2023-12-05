@@ -6,15 +6,21 @@ description: Récupérer les versions du formulaire par démarche
 
 Lors de son cycle de vie, un administrateur d'une démarche peut publier une nouvelle version du formulaire (ex, ajout d'un champ au formulaire).&#x20;
 
-Les nouveaux dossiers crées par les usagers sont donc sur cette nouvelle version du formulaire. Cependant les anciens dossiers déjà traités (accépté/refusé ou classé sans suite) eux ne changent pas de version.
+Les dossiers crées a partir de ce moment auront donc la derniere version du formulaire de la démarche.&#x20;
 
-La correspondance entre un champ d'un dossier, et la versions des champs de la procédure peut se faire en comparant la valeur de `data.demarche.activeRevision.champDescriptors[x].id` / avec la valeur de `data.demarche.dossiers.champs[x].id`
+Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex: on ne vas demandé à un usager de mettre à jour son dossier si celui ci a été accepté).
 
-Pour vous aider a visualiser ce lien, voici notre modele de donnée centrée sur ce concept
+
+
+getDemarcheDescriptor permet de lister :&#x20;
+
+* Toutes les versions d'une démarche (au travers des objets `Revision` : [https://www.demarches-simplifiees.fr/graphql/schema/revision.doc.html](https://www.demarches-simplifiees.fr/graphql/schema/revision.doc.html)).
+* Une `Revision` porte le schema de donnée des dossiers déposé lorsque la démarche était sur cette version. Vous trouverez donc la liste des champs et des annotations sur la révision (cf:  ([https://www.demarches-simplifiees.fr/graphql/schema/champdescriptor.doc.html](https://www.demarches-simplifiees.fr/graphql/schema/champdescriptor.doc.html))
+* Les champs et annotations des dossiers de la démarche  `(data.demarche.dossiers.champs[].id)` correspondent à l'une des Revision de la démarches `data.demarche.revisions[].champDescriptors[].id`&#x20;
+
+Pour vous aider a visualiser ce lien, voici notre modele de donnée isolant cette architecture
 
 {% file src="../../.gitbook/assets/database_models.pdf" %}
-
-##
 
 ## Query pour demander le descriptif d'une démarche
 
