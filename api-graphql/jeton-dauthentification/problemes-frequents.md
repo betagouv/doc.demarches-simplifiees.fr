@@ -1,8 +1,8 @@
 # Problèmes fréquents
 
-## J'arrive pas à requeter l'API avec mon token
+## Je n'arrive pas à requêter l'API avec mon jeton (token)
 
-Si notre API vous répond :
+Si l'API vous répond :
 
 {% code overflow="wrap" %}
 ```json
@@ -29,9 +29,13 @@ Si notre API vous répond :
 ```
 {% endcode %}
 
-Vous devez vérifier :&#x20;
+Vous devez vérifier que :&#x20;
 
-* que vous envoyez bien le token
-* que le format envoyé est bien dans le header et respecte la synthax (--header 'Authorization: Bearer \<votre\_token>' )
-* que le format demandé est bien de type (--header 'Content-Type: application/json')
-* que le token à accès à la démarche (vous pouvez uniquement requeter les données que vous maitrisez)
+* vous envoyez bien le token (sans espace à l'intérieur du jeton, probablement avec des `==` à la fin)
+* le token est envoyé par un header et respecte la syntaxe `--header 'Authorization: Bearer <votre_token>'`
+* le format demandé est de type `--header 'Content-Type: application/json'`
+* vérifiez les guillements, apostrophes, les espaces, majuscules et miniscules
+* le token a accès à la démarche (vous pouvez uniquement requêter les données des démarches de votre compte administrateur, et pour lesquelles le jeton a été autorisé)
+* si vous avez perdu votre jeton, vous pouvez le révoquer et en créer un nouveau depuis la page _Voir mon profil_ sur demarches-simplifiees.fr
+
+Consultez également [notre documentation sur les erreurs](../gestion-des-erreurs.md) si vous obtenez une autre erreur.
