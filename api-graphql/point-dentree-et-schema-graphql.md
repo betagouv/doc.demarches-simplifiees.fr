@@ -1,4 +1,4 @@
-# Point d'entrée GraphQL
+# Point d'entrée et Schema GraphQL
 
 Vous avez maintenant les pré-requis pour avancer sur votre propre client des API de Démarche Simplifiées :&#x20;
 
@@ -11,3 +11,11 @@ Vous pouvez maintenant ouvrir votre éditeur de code préféré et définir l'ho
 {% hint style="info" %}
 **Cette adresse n’est pas visitable dans un navigateur**. Elle renvoie des données au format JSON, à travers un transport HTTPS. Pour communiquer avec le endpoint, **veuillez toujours utiliser le verbe http POST**.
 {% endhint %}
+
+Pour plus d'information concernant le schema, vous pouvez:&#x20;
+
+* consulter la documentation : [https://www.demarches-simplifiees.fr/graphql/schema/index.html](https://www.demarches-simplifiees.fr/graphql/schema/index.html)
+* consulter le fichier graphql.schema : [https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/app/graphql/schema.graphql](https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/app/graphql/schema.graphql) (attention il peut être en avance par rapport à l'environnement de production)
+* utiliser GraphiQL explorer du playground : [https://www.demarches-simplifiees.fr/graphql/](https://www.demarches-simplifiees.fr/graphql/)
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-12-06 at 8.25.22 PM.png" alt=""><figcaption></figcaption></figure>

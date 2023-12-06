@@ -34,7 +34,7 @@
   * [Introduction technique](api-graphql/introduction-technique.md)
   * [Accréditation](api-graphql/accreditation.md)
   * [Le playground / Premiers pas](api-graphql/le-playground-premiers-pas.md)
-  * [Point d'entrée GraphQL](api-graphql/point-dentree-graphql.md)
+  * [Point d'entrée et Schema GraphQL](api-graphql/point-dentree-et-schema-graphql.md)
   * [Jeton d'authentification](api-graphql/jeton-dauthentification/README.md)
     * [Problèmes fréquents](api-graphql/jeton-dauthentification/problemes-frequents.md)
   * [Les queries](api-graphql/les-queries/README.md)
