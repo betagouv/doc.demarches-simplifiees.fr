@@ -1,0 +1,39 @@
+query getDemarche(
+    $demarcheNumber: Int!
+    $order: Order
+    $first: Int
+    $after: String
+    $updatedSince: ISO8601DateTime,
+    $includeDossiers: Boolean = true
+  ) {
+    demarche(number: $demarcheNumber) {
+      dossiers(
+        order: $order
+        first: $first
+        after: $after
+        updatedSince: $updatedSince
+      ) @include(if: $includeDossiers) {
+        pageInfo {
+          ...PageInfoFragment
+        }
+        nodes {
+          ...DossierFragment
+        }
+        pageInfo {
+          endCursor
+          hasNextPage
+        }
+      }
+    }
+  }
+
+  fragment DossierFragment on Dossier {
+    id
+    number
+  }
+
+  fragment PageInfoFragment on PageInfo {
+    hasPreviousPage
+    hasNextPage
+    endCursor
+  }

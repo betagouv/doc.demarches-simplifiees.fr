@@ -54,7 +54,7 @@ ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
 ### that's the GraphQL part.
 # We store the query in a flat file because it's easier to read
 def query
-  File.read("getDemarche.graphql")
+  File.read("getDemarche.listOnlyFilesUrl.graphql")
 end
 
 ### that's the HTTP part
