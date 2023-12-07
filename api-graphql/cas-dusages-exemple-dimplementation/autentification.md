@@ -64,7 +64,7 @@ def request_headers
   }
 end
 
-# given an http connexion, request the API for page
+# given an http connexion, request the API
 def request_page(http)
   # the data of our query
   data = {
@@ -74,8 +74,10 @@ def request_page(http)
       "demarcheNumber": ENV['DEMARCHE_NUMBER'].to_i
     }
   }
-
+  
+  # the HTTP format
   req = Net::HTTP::Post.new(ENDPOINT, request_headers)
+  # the request body format
   req.body = data.to_json
 
   response = http.request(req)
@@ -86,7 +88,6 @@ end
 
 http = open_http_connection
 begin
-  # check if we persisted a cursor so we continue polling
   data = request_page(http)
 
   puts "Info: fetched it should work: #{data}"
