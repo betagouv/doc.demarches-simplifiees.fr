@@ -17,11 +17,11 @@ Les requêtes doivent être envoyées avec le verbe HTTP **POST**
 {% endhint %}
 
 {% hint style="danger" %}
-Les headers doivent contenir le token au format attendu confère : [jeton d'authentification](jeton-dauthentification/)
+Les **headers doivent contenir le jeton d'authentification au format attendu** confère : [jeton d'authentification](jeton-dauthentification/)
 {% endhint %}
 
 {% hint style="danger" %}
-Le contenu de votre requete POST, doit être un JSON respectant la spécification GraphQL
+Le corps de votre requete POST, **doit être un JSON respectant la spécification GraphQL**
 {% endhint %}
 
 {% hint style="info" %}
