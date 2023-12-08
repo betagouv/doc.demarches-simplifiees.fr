@@ -6,6 +6,15 @@ En fonction de votre préfecture de résidence, « Démarches simplifiées » h�
 
 Par ailleurs demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. Pour les titres de séjour et la naturalisation, seule une partie des départements ont fait le choix d'utiliser notre outil. De ce fait, les démarches administratives ne se trouvent pas toutes sur notre site.&#x20;
 
+{% hint style="warning" %}
+Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est pas obligatoire que la démarche recherchée soit dématérialisée sur notre site.&#x20;
+
+**Pour retrouver votre démarche ou être accompagné par un agent, nous vous invitons à consulter les sites suivants :** \
+\- [https://www.service-public.fr](https://www.service-public.fr/), site public de renseignement administratif\
+\- [https://cartographie.societenumerique.gouv.fr/orientation/besoin](https://cartographie.societenumerique.gouv.fr/orientation/besoin) , cartographie permettant d'orienter les usagers vers les lieux d'inclusion numérique qui sauront répondre à vos besoins.\
+\- ou encore le site France services [https://www.france-services.gouv.fr/demarches-et-services](https://www.france-services.gouv.fr/demarches-et-services) afin de vous aider dans l'accomplissement de vos démarches en ligne.&#x20;
+{% endhint %}
+
 #### Démarches relatives aux échanges de permis étrangers
 
 Pour les demandes concernant les échanges de permis de conduire étrangers, veuillez consulter [cette page](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire).
