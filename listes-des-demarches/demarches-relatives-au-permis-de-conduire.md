@@ -26,7 +26,18 @@ demarches-simplifiees.fr héberge quatre types de démarches relatives au permis
 
 ## Démarches disponibles sur notre site
 
-demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
+Demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
+
+
+
+{% hint style="warning" %}
+Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est pas obligatoire que la démarche recherchée soit dématérialisée sur notre site.&#x20;
+
+**Pour retrouver votre démarche ou être accompagné par un agent, nous vous invitons à consulter les sites suivants :** \
+\- [https://www.service-public.fr](https://www.service-public.fr/), site public de renseignement administratif\
+\- [https://cartographie.societenumerique.gouv.fr/orientation/besoin](https://cartographie.societenumerique.gouv.fr/orientation/besoin) , cartographie permettant d'orienter les usagers vers les lieux d'inclusion numérique qui sauront répondre à vos besoins.\
+\- ou encore le site France services [https://www.france-services.gouv.fr/demarches-et-services](https://www.france-services.gouv.fr/demarches-et-services) afin de vous aider dans l'accomplissement de vos démarches en ligne.&#x20;
+{% endhint %}
 
 #### Démarches relatives aux échanges de permis de conduire étrangers
 
@@ -52,7 +63,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)
 * [**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
 * [**77 - Seine-et-Marne**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
-* [**82 - Tarn-et-Garonne**](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)&#x20;
+* [**82 - Tarn-et-Garonne**](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)&#x20;
 
 #### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
 
@@ -165,8 +176,8 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [**46- Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Lot**](https://www.demarches-simplifiees.fr/commencer/46-operateur-agree-oa-pour-les-examens-du-code)
 * [**46 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-place-d-examen-au-code-de-la-rout)
 * [**46 - Demande agrément auto-école (EECSR) dans Lot (1ère demande, renouvellement, reprise/transfert/déménagement, ou extension)**](https://www.demarches-simplifiees.fr/commencer/46-demande-agrement-auto-ecole-eecsr-dans-lot)
-* [**46 - Demande d'une ATRE - autorisation temporaire et restritice d'exercer (pour école de conduite du Lot)**](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)
-* [**Duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH**](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [**46 - Demande d'une ATRE - autorisation temporaire et restritice d'exercer (pour école de conduite du Lot)**](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [**Duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH**](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)
 * [**46 - Demande d'une autorisation d'enseigner pour résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-autorisation-d-enseigner)
 
 ### 47 - Lot-et-Garonne
@@ -243,7 +254,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 * [82 - Demande place examen permis conduire candidat libre (sans auto-école) pratique B (résidents de Tarn-et-Garonne uniquement)](https://www.demarches-simplifiees.fr/commencer/82-demande-place-examen-candidat-libre)
 * [82 - Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-operateur-agree-oa-pour-les-examens-du-code-de-)
-* [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](http://127.0.0.1:5000/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)
 * [82 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents de Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-demande-d-une-place-d-examen-au-code-de-la-rout)
 
 ### 88 - Vosges
