@@ -1,4 +1,17 @@
+---
+description: Vous trouverez ci-dessous la liste des démarches relatives aux transporteurs.
+---
+
 # Démarches relatives aux transporteurs
+
+{% hint style="warning" %}
+Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est pas obligatoire que la démarche recherchée soit dématérialisée sur notre site.&#x20;
+
+**Pour retrouver votre démarche ou être accompagné par un agent, nous vous invitons à consulter les sites suivants :** \
+\- [https://www.service-public.fr](https://www.service-public.fr/), site public de renseignement administratif\
+\- [https://cartographie.societenumerique.gouv.fr/orientation/besoin](https://cartographie.societenumerique.gouv.fr/orientation/besoin) , cartographie permettant d'orienter les usagers vers les lieux d'inclusion numérique qui sauront répondre à vos besoins.\
+\- ou encore le site France services [https://www.france-services.gouv.fr/demarches-et-services](https://www.france-services.gouv.fr/demarches-et-services) afin de vous aider dans l'accomplissement de vos démarches en ligne.&#x20;
+{% endhint %}
 
 ## Île-de-France (DRIEA)
 
