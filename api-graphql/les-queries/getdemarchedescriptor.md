@@ -134,10 +134,10 @@ Vous pouvez aussi récupérer la description d'une démarche via le endpoint get
 ```graphql
 {
   "query": <query>,
-  "operationName": "getDemarche",
+  "operationName": "getDemarcheDescriptor",
   "variables": {
     "includeRevision": true, 
-    "demarche": { "number": 83173 }
+    {"demarche": { "number":64482 }, "includeRevision": true }
   }
 }
 ```
