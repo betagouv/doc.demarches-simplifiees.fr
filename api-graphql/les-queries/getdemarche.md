@@ -4,9 +4,15 @@ description: Récupérer les dossiers par démarche
 
 # getDemarche
 
-Le cas d'usage classique de ce endpoint est de lister tous les dossiers d'une démarche (ex: si vous souhaitez faire des statistiques etc...).
+Le cas d'usage classique de ce endpoint est de lister tous les dossiers d'une démarche (par exemple, si vous souhaitez faire des statistiques).
 
-## Query pour récupérer les informations d'une démarches :&#x20;
+
+
+{% hint style="info" %}
+Là encore, réferrez-vous [au schéma de l'API](https://www.demarches-simplifiees.fr/graphql/schema/index.html) qui documente à quoi correspond chaque attribut.
+{% endhint %}
+
+## Query pour récupérer les informations d'une démarche :&#x20;
 
 ```graphql
 query getDemarche(
@@ -486,7 +492,7 @@ Une fois cette query en place, vous pouvez utilisez differentes variantes pour e
 }
 ```
 
-### Variables pour récupérer tous les dossiers en instruction
+### Variables pour récupérer tous les dossiers en attente de suppression définitive
 
 ```graphql
 {
@@ -500,7 +506,7 @@ Une fois cette query en place, vous pouvez utilisez differentes variantes pour e
 
 ```
 
-### Variables pour récupérer tous les dossiers supprimés
+### Variables pour récupérer la liste des dossiers définitivement supprimés
 
 ```graphql
 {
