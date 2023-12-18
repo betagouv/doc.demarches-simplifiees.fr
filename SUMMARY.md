@@ -31,6 +31,7 @@
 * [Conditions Générales d'Utilisation](cgu.md)
 * [Mentions légales](mentions-legales.md)
 * [API GraphQL](api-graphql/README.md)
+  * [Automatisation : obligations des utilisateurs publics](api-graphql/automatisation-obligations-des-utilisateurs-publics.md)
   * [Introduction technique](api-graphql/introduction-technique.md)
   * [Accréditation](api-graphql/accreditation.md)
   * [Le playground / Premiers pas](api-graphql/le-playground-premiers-pas.md)
