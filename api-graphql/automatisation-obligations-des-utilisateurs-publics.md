@@ -8,4 +8,4 @@ Aussi, tout traitement de dossier dans un back office doit obilgatoirement faire
 
 Ces notifications sont à synchroniser via l'API entre les outils de back-office et démarches-simplifiées.
 
-La DINUM n'est pas tenue de soustraire dans démarches-simplifiées les informations relatives aux temps de traitement des dossiers qui sont affichés aux usagers, et qui est propre à chaque démarche en cas de non utilisation, ou de mauvaise utilisation de l'API.
+La DINUM n'est pas tenue de soustraire dans démarches-simplifiées les informations relatives aux temps de traitement des dossiers qui sont affichées aux usagers, et qui est propre à chaque démarche en cas de non utilisation, ou de mauvaise utilisation de l'API.
