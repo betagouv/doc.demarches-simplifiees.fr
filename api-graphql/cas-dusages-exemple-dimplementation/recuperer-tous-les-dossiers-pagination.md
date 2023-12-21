@@ -42,7 +42,6 @@ query getDemarche(
 
   fragment DossierFragment on Dossier {
     id
-    number
   }
 
   fragment PageInfoFragment on PageInfo {
@@ -76,6 +75,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 
+
 ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
 CURSOR_STORAGE = 'lastCursor'
 EMPTY_CURSOR = {}
@@ -95,7 +95,7 @@ end
 
 # when we emit a request, we try to reuse last persisted cursor
 def retrieve_last_persisted_cursor(demarche_number)
-  JSON.parse(File.read(cursor_file_path(ENV['DEMARCHE_NUMBER']))) || {}
+  JSON.parse(File.read(cursor_file_path(ENV.fetch('DEMARCHE_NUMBER') { raise 'missing env var DEMARCHE_NUMBER' }))) || {}
 rescue Errno::ENOENT # first call, file was never written
   puts "Info: first time using cursor on #{demarche_number}"
   EMPTY_CURSOR
@@ -119,8 +119,10 @@ end
 # open an http connexion to our GraphQL endpoint
 def open_http_connection
   http = Net::HTTP.new(ENDPOINT.host, ENDPOINT.port)
-  http.use_ssl = true
-  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  if ENDPOINT.scheme == 'https'
+    http.use_ssl = true
+    http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  end
   http
 end
 
