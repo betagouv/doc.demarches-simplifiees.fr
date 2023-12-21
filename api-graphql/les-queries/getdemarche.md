@@ -471,7 +471,7 @@ Une fois cette query en place, vous pouvez utilisez differentes variantes pour e
   "operationName": "getDemarche",
   "variables": {
     "demarcheNumber": 1234,
-    "includeDossiers" true,
+    "includeDossiers": true,
     "includeChamps": true
   }
 }
