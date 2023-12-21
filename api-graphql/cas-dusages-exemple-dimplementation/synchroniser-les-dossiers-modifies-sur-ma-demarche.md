@@ -35,8 +35,6 @@ def query
   File.read("getDemarche.updatedSince.graphql")
 end
 
-
-
 ### that's the cursor / pagination part.
 # We store the cursor in a .json file because it's easier for the demo
 # Each demarche can have it's own cursor for continuous/batch polling
@@ -108,25 +106,29 @@ def request_page(http, last_cursor)
   data
 end
 
-http = open_http_connection
-begin
-  last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
-  last_cursor ||= {}
+def log_dossiers_ids(ids)
+  File.write('logsince-bis.ids', "\n#{ids.map { _1.join(',') }.join("\n")}", mode: 'a')
+end
 
+all_dossier_ids = []
+http = open_http_connection
+last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
+last_cursor ||= {}
+loop do
   # check if we persisted a cursor so we continue polling
   data = request_page(http, last_cursor)
-
   dossiers = data.dig('data', 'demarche', 'dossiers', 'nodes')
-  dossier_ids = dossiers.map{ _1['number'] }
-  
+  dossier_ids = dossiers.map { [_1['number'], _1['dateDerniereModification']] }
+  log_dossiers_ids(dossier_ids)
+  all_dossier_ids.concat(dossier_ids)
+
   persist_last_cursor(data, ENV['DEMARCHE_NUMBER'])
   last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
 
-  puts "Info: total count: fetched dossiers ids: #{dossiers.map{ _1['number'] }.join(', ')}" 
-rescue StandardError => e
-  puts "Error: #{e.inspect}"
-  http.close if !http.closed?
+  puts "Info: total count: #{all_dossier_ids.size}, fetched dossiers ids: #{dossiers.map { _1['number'] }.join(', ')}"
+  break if !(last_cursor['endCursor'] && last_cursor['hasNextPage'])
 end
+
 ```
 {% endcode %}
 

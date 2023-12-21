@@ -87,14 +87,8 @@ def request_page(http)
 end
 
 http = open_http_connection
-begin
-  data = request_page(http)
-
-  puts "Info: fetched it should work: #{data}"
-rescue StandardError => e
-  puts "Error: #{e.inspect}"
-  http.close if !http.closed?
-end
+data = request_page(http)
+puts "Info: fetched it should work: #{data}"
 
 ```
 {% endcode %}

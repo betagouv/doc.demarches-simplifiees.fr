@@ -79,8 +79,6 @@ def query
   File.read("getDemarche.samplePagination.graphql")
 end
 
-
-
 ### that's the cursor / pagination part.
 # We store the cursor in a .json file because it's easier for the demo
 # Each demarche can have it's own cursor for continuous/batch polling
@@ -114,8 +112,8 @@ end
 # open an http connexion to our GraphQL endpoint
 def open_http_connection
   http = Net::HTTP.new(ENDPOINT.host, ENDPOINT.port)
-  # http.use_ssl = true
-  # http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  http.use_ssl = true
+  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
   http
 end
 
@@ -123,7 +121,7 @@ end
 def request_headers
   {
     "Content-Type" => "application/json",
-    "Authorization" => "Bearer #{ENV['API_TOKEN']}"
+    "Authorization" => "Bearer #{ENV.fetch('API_TOKEN') { raise 'missing env var API_TOKEN' }}"
   }
 end
 
@@ -134,7 +132,7 @@ def request_page(http, last_cursor)
     "query" => query,
     "operationName" => "getDemarche",
     "variables" => {
-      "demarcheNumber": ENV['DEMARCHE_NUMBER'].to_i,
+      "demarcheNumber": ENV.fetch('DEMARCHE_NUMBER') { raise 'missing env var DEMARCHE_NUMBER' }.to_i,
       "first": 100
     }
   }
@@ -151,18 +149,15 @@ def request_page(http, last_cursor)
 end
 
 http = open_http_connection
-begin
-  # check if we persisted a cursor so we continue polling
-  last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
-  data = request_page(http, last_cursor)
-  persist_last_cursor(data, ENV['DEMARCHE_NUMBER'])
 
-  dossiers = data.dig('data', 'demarche', 'dossiers', 'nodes')
-  puts "Info: fetched dossiers ids: #{dossiers.map{ _1['number'] }.join(', ')}"
-rescue StandardError => e
-  puts "Error: #{e.inspect}"
-  http.close if !http.closed?
-end
+# check if we persisted a cursor so we continue polling
+last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
+data = request_page(http, last_cursor)
+persist_last_cursor(data, ENV['DEMARCHE_NUMBER'])
+dossiers = data.dig('data', 'demarche', 'dossiers', 'nodes')
+puts "Info: fetched dossiers ids: #{dossiers.map { _1['number'] }.join(', ')}"
+puts "Debug: #{data.inspect}"
+
 ```
 {% endcode %}
 

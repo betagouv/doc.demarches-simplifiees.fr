@@ -100,21 +100,17 @@ def request_page(http)
 end
 
 http = open_http_connection
-begin
-  # check if we persisted a cursor so we continue polling
-  data = request_page(http)
+# check if we persisted a cursor so we continue polling
+data = request_page(http)
 
-  dossiers = data.dig('data', 'demarche', 'dossiers', 'nodes')
-  puts "Info: fetched dossiers ids: #{dossiers.map{ _1['number'] }.join(', ')}"
+dossiers = data.dig('data', 'demarche', 'dossiers', 'nodes')
+puts "Info: fetched dossiers ids: #{dossiers.map{ _1['number'] }.join(', ')}"
 
-  all_champs = dossiers.flat_map { |dossier| dossier['champs'] }
-  all_champs_pj = all_champs.filter { |champ| champ['files'] }
-  all_url_to_download = all_champs_pj.flat_map { |pj| pj['files'].map{ |file| file['url'] } }
+all_champs = dossiers.flat_map { |dossier| dossier['champs'] }
+all_champs_pj = all_champs.filter { |champ| champ['files'] }
+all_url_to_download = all_champs_pj.flat_map { |pj| pj['files'].map{ |file| file['url'] } }
 
-  puts "Info: now you can download each of those url: #{all_url_to_download.join(', ')}"
-rescue StandardError => e
-  puts "Error: #{e.inspect}"
-  http.close if !http.closed?
-end
+puts "Info: now you can download each of those url: #{all_url_to_download.join(', ')}"
+
 ```
 {% endcode %}
