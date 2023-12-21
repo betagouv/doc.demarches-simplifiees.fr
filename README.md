@@ -34,6 +34,8 @@ La plateforme demarches-simplifiees.fr comporte trois rôles :
 
 Aucune connaissance spécifique en informatique n'est requise pour comprendre cette documentation.
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Retours
 
 Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact@demarches-simplifiees.fr)
