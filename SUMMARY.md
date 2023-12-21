@@ -57,6 +57,7 @@
     * [Télécharger les fichiers uploadés par un usager sur son dossier](api-graphql/cas-dusages-exemple-dimplementation/telecharger-les-fichiers-uploades-par-un-usager-sur-son-dossier.md)
     * [Synchroniser les dossiers modifiés sur ma démarche](api-graphql/cas-dusages-exemple-dimplementation/synchroniser-les-dossiers-modifies-sur-ma-demarche.md)
     * [Envoyer un message avec une PJ](api-graphql/cas-dusages-exemple-dimplementation/envoyer-un-message-avec-une-pj.md)
+    * [Lister les Id des instructeurs](api-graphql/cas-dusages-exemple-dimplementation/lister-les-id-des-instructeurs.md)
 * [Pour aller plus loin](pour-aller-plus-loin/README.md)
   * [Cartographie](pour-aller-plus-loin/cartographie.md)
   * [API de préremplissage](pour-aller-plus-loin/api-de-preremplissage.md)

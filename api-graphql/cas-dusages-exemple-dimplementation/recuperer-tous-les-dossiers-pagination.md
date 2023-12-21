@@ -61,7 +61,14 @@ Pour faciliter la lecture du code, la query GraphQL est fournie en PJ
 
 {% file src="../../.gitbook/assets/getDemarche.samplePagination.graphql" %}
 
-Ensuite, vous pouvez executer ce code ruby
+Ensuite, vous pouvez executer ce code ruby qui :&#x20;
+
+1. cherche a retrouver le dernier curseur que vous avez utiliser
+2. si il est présent, le ré-utilise pour requeter la page suivante (sinon il repart a 0)
+3. requete la page
+4. sauve le curseur&#x20;
+
+Vous pouvez ainsi executer le script plusieurs fois pour parcourir toutes les pages de dossier de votre démarche
 
 {% code title="poller.rb" %}
 ```ruby
