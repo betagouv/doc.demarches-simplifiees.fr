@@ -40,6 +40,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 require 'byebug'
+require 'digest'
 ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
 
 QUERY_UPLOAD_REQUEST = "
@@ -59,8 +60,10 @@ mutation createDirectUpload($input: CreateDirectUploadInput!) {
 # open an http connexion to our GraphQL endpoint
 def open_http_connection
   http = Net::HTTP.new(ENDPOINT.host, ENDPOINT.port)
-  http.use_ssl = true
-  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  if ENDPOINT.scheme == 'https'
+    http.use_ssl = true
+    http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  end
   http
 end
 
@@ -96,6 +99,7 @@ def request_direct_upload_credentials(http, file)
       }
     }
   }
+  pp "SENT DATA : #{data.inspect}"
 
   req = Net::HTTP::Post.new(ENDPOINT, request_headers)
   req.body = data.to_json
@@ -106,7 +110,10 @@ fp = ENV.fetch('FILE') { raise 'missing env var FILE' }
 File.open(fp, 'r') do |file|
   http = open_http_connection
   response = request_direct_upload_credentials(http, file)
-  credentials = JSON.parse(response.body)['data']['createDirectUpload']['directUpload']
+  body = JSON.parse(response.body)
+  puts body.inspect
+
+  credentials = body['data']['createDirectUpload']['directUpload']
   credentials_headers = JSON.parse(credentials['headers'])
 
   puts <<~CURL
@@ -118,6 +125,7 @@ File.open(fp, 'r') do |file|
     "#{credentials['url']}"
   CURL
 end
+
 
 ```
 {% endcode %}
@@ -159,9 +167,78 @@ curl -vvv --data-binary @./file.txt -X PUT -H "Content-Type: LE type de votre fi
 
 ### 3eme étape : Associer ce fichier lors d'un envoie de message à un usager.
 
-En préambule, il vous faut envoyer ce message au nom d'un instructeur, nous vous renvoyons à la documentation pour lister les id des instructeurs
+En préambule, il vous faut envoyer ce message au nom d'un instructeur, nous vous renvoyons à la documentation pour [lister les id des instructeurs](lister-les-id-des-instructeurs.md).
 
-```ruby
-// Some code
+Utiliser la mutation dossierEnvoyerMessage. Voici un exemple complet de script que vous pouvez executer :
+
+```bash
+API_TOKEN="VOTRE TOKEN" DOSSIER_ID="L'ID DU DOSSIER (faire comme pour les instructeur)" INSTRUCTEUR_ID="L'ID de l'instructeur" SIGNED_BLOB_ID="le signed_blob id de la reponse a votre mutation de createDirectUpload de l'etape 1 " ruby send_message_with_uploaded_file.rb
+
 ```
+
+{% code title="send_message_with_uploaded_file.rb" %}
+```ruby
+require 'net/http'
+require 'uri'
+require 'json'
+require 'byebug'
+ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+QUERY = "
+mutation dossierEnvoyerMessage($input: DossierEnvoyerMessageInput!) {
+  dossierEnvoyerMessage(input: $input) {
+    message {
+      body
+    }
+    errors {
+      message
+    }
+  }
+}
+"
+
+### that's the HTTP part
+# open an http connexion to our GraphQL endpoint
+def open_http_connection
+  http = Net::HTTP.new(ENDPOINT.host, ENDPOINT.port)
+  if ENDPOINT.scheme == 'https'
+    http.use_ssl = true
+    http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  end
+  http
+end
+
+# the headers of our http query, include auth
+def request_headers
+  {
+    "Content-Type" => "application/json",
+    "Authorization" => "Bearer #{ENV.fetch('API_TOKEN') { raise 'missing env var API_TOKEN=xxx' }}"
+  }
+end
+
+def send_message_and_attach_prior_uploaded_file(http)
+  data = {
+    "query" => QUERY,
+    "operationName" => "dossierEnvoyerMessage",
+    "variables" => {
+      "input" => {
+        "dossierId" => ENV.fetch('DOSSIER_ID') { raise 'missing env var DOSSIER_ID' },
+        "instructeurId" => ENV.fetch('INSTRUCTEUR_ID') { raise 'missing env var INSTRUCTEUR_ID' },
+        "body" => "pouf pouf un pouf autre message",
+        "attachment" => ENV.fetch('SIGNED_BLOB_ID') { raise 'missing SIGNED_BLOB_ID env var' }
+      }
+    }
+  }
+
+  req = Net::HTTP::Post.new(ENDPOINT, request_headers)
+  req.body = data.to_json
+  response = http.request(req)
+  byebug
+  pp JSON.parse(response.body)
+end
+
+http = open_http_connection
+puts send_message_and_attach_prior_uploaded_file(http)
+
+```
+{% endcode %}
 
