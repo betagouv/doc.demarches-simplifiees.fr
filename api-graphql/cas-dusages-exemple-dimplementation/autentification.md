@@ -51,8 +51,10 @@ end
 # open an http connexion to our GraphQL endpoint
 def open_http_connection
   http = Net::HTTP.new(ENDPOINT.host, ENDPOINT.port)
-  http.use_ssl = true
-  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  if ENDPOINT.scheme == 'https'
+    http.use_ssl = true
+    http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  end
   http
 end
 
