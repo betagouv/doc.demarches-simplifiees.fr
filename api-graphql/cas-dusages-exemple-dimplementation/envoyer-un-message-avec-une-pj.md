@@ -232,7 +232,6 @@ def send_message_and_attach_prior_uploaded_file(http)
   req = Net::HTTP::Post.new(ENDPOINT, request_headers)
   req.body = data.to_json
   response = http.request(req)
-  byebug
   pp JSON.parse(response.body)
 end
 
