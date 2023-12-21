@@ -9,6 +9,8 @@ description: >-
 
 La prise en main de demarches-simplifiees.fr ne nécessite aucune compétence informatique. L'équipe accompagne les organismes qui le souhaitent dans la mise en place de démarches.
 
+<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+
 ### Une prise en main simple
 
 demarches-simplifiees.fr  peut être mise en œuvre directement par les directions métiers, sans qu'intervienne un service informatique. Une fois un cas d'usage identifié, le formulaire en ligne est édité et la démarche paramétrée en quelques minutes. Les organismes autonomes peuvent demander un compte administrateur et passer directement en production.
@@ -29,6 +31,8 @@ Pour obtenir un compte administrateur permettant de créer des formulaires en li
 Pour être accompagné, contactez-nous ici : [**https://www.demarches-simplifiees.fr/contact-admin**](https://www.demarches-simplifiees.fr/contact-admin)
 
 Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous puissions vous rappeler.&#x20;
+
+**Découvrez notre e-capsule de formation disponible sur Mentor depuis le lien suivant :** [**https://mentor.gouv.fr/course/view.php?id=4364\&section=1**](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
 
 ### La dématérialisation... ce n'est pas prendre un formulaire papier et le mettre en ligne à l'identique.
 
