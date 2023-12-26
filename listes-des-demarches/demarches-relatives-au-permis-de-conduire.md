@@ -63,7 +63,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)
 * [**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
 * [**77 - Seine-et-Marne**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
-* [**82 - Tarn-et-Garonne**](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)&#x20;
+* [**82 - Tarn-et-Garonne**](broken-reference)&#x20;
 
 #### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
 
@@ -176,8 +176,8 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [**46- Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Lot**](https://www.demarches-simplifiees.fr/commencer/46-operateur-agree-oa-pour-les-examens-du-code)
 * [**46 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-place-d-examen-au-code-de-la-rout)
 * [**46 - Demande agrément auto-école (EECSR) dans Lot (1ère demande, renouvellement, reprise/transfert/déménagement, ou extension)**](https://www.demarches-simplifiees.fr/commencer/46-demande-agrement-auto-ecole-eecsr-dans-lot)
-* [**46 - Demande d'une ATRE - autorisation temporaire et restritice d'exercer (pour école de conduite du Lot)**](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)
-* [**Duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH**](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [**46 - Demande d'une ATRE - autorisation temporaire et restritice d'exercer (pour école de conduite du Lot)**](broken-reference)
+* [**Duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH**](broken-reference)
 * [**46 - Demande d'une autorisation d'enseigner pour résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-autorisation-d-enseigner)
 
 ### 47 - Lot-et-Garonne
@@ -254,7 +254,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 * [82 - Demande place examen permis conduire candidat libre (sans auto-école) pratique B (résidents de Tarn-et-Garonne uniquement)](https://www.demarches-simplifiees.fr/commencer/82-demande-place-examen-candidat-libre)
 * [82 - Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-operateur-agree-oa-pour-les-examens-du-code-de-)
-* [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](https://app.gitbook.com/s/KpOZVXy3Vz7OEv3RTZkB/)
+* [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](broken-reference)
 * [82 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents de Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-demande-d-une-place-d-examen-au-code-de-la-rout)
 
 ### 88 - Vosges

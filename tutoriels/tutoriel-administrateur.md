@@ -306,7 +306,7 @@ a) Adresse&#x20;
 
 L'usager doit entrer une adresse avec une auto-complétion - l'adresse se complète sans que l'usager n'ait besoin de l’écrire entièrement - grâce à la connexion à la Base Adresse Nationale (BAN).
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Champ "adresse",en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption><p>Champ "adresse",en tant qu'usager </p></figcaption></figure>
 
 #### b) Communes, départements, régions, pays&#x20;
 
@@ -412,7 +412,7 @@ Ce type de champ insère à gauche du libellé du champ une case que l'usager pe
 
 L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste » .&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
 
 Vous pouvez également proposer à l'usager une option « autre » avec un texte libre afin de laisser la possibilité à l'usager de cocher cette valeur si les autres valeurs ne correspondent pas à sa situation.
 
@@ -839,7 +839,7 @@ La fenêtre suivante apparaît, cliquer à nouveau sur « Envoyer une copie »
 * Renseignez l'adresse e-mail de votre collègue
 * Enfin, cliquez sur le bouton « Envoyer à l'administrateur »
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Transfert d'une démarche à un autre administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (6).png" alt=""><figcaption><p>Transfert d'une démarche à un autre administrateur </p></figcaption></figure>
 
 Une copie de votre démarche apparaît dans ses démarches « En test ».
 

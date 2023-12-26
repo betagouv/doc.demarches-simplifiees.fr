@@ -7,6 +7,48 @@ description: >-
 
 # Pour les usagers
 
+## Nouveau bloc "mandataire"
+
+
+
+Le nouveau bloc mandataire est une nouvelle fonctionnalité sur la plateforme demarches-simplifiees.fr, conçue pour faciliter et optimiser la co-construction des dossiers. Cette introduction vise à offrir un aperçu détaillé de son fonctionnement et de ses avantages dans le processus de gestion des dossiers.
+
+
+
+#### Objectif du Nouveau Bloc Mandataire
+
+Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : simplifier la collaboration entre différents acteurs dans le cadre de la préparation et du suivi des dossiers dans démarches-simplifiees. Il vise à rendre les échanges plus fluides et plus transparents, tout en assurant une gestion efficace des informations.
+
+\
+**1. Choisissez si le dossier est pour vous ou pour un bénéficiaire**
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+**Pour vous** : Cette option est à sélectionner si vous créez le dossier en votre nom propre. Elle est destinée aux individus qui s'engagent personnellement dans la démarche.
+
+**Pour un bénéficiaire : membre de la famille, proche, mandant...** : Cette option doit être utilisée si vous agissez en tant que représentant d'un tiers. Que vous soyez un membre de la famille, un proche, ou un professionnel responsable du suivi du dossier, il est impératif de choisir cette deuxième option lorsque le dossier est établi pour le compte d'une autre personne.\
+\
+**2. Dans le cas ou le dossier est pour un bénéficiaire**
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+Le mandataire doit d'abord renseigner ses propres informations personnelles sous la section "Votre identité", en fournissant son prénom et son nom. Ceci permet d'identifier clairement qui effectue la démarche.
+
+Ensuite, il est requis de compléter la section "Identité du bénéficiaire". Cela inclut la civilité du bénéficiaire—Madame ou Monsieur—ainsi que son prénom et son nom. Cette étape est cruciale pour assurer que le dossier soit correctement attribué.
+
+Il est important de noter que le mandataire doit s'assurer de respecter les conditions stipulées dans les articles pertinents du Code civil, qui régissent la représentation légale et les pouvoirs du mandataire. Cela garantit la conformité légale du processus et la validité des actions entreprises au nom du bénéficiaire.
+
+
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+Dans cette partie du formulaire, après avoir rempli les informations d'identité du bénéficiaire, le mandataire est confronté à un choix important : décider si le bénéficiaire doit être notifié des avancements du dossier.
+
+**Options de Notification :**
+
+1. **Par e-mail** : Si vous choisissez cette option, le bénéficiaire recevra des notifications par email concernant les étapes clés du processus. Cependant, il est essentiel de souligner que ces notifications sont informatives ; elles ne confèrent aucun accès direct au dossier sur la plateforme.
+2. **Pas de notification** : Si vous optez pour cette alternative, le bénéficiaire ne sera pas informé par des notifications automatiques. Cette option peut être préférable dans des situations où il n'est pas nécessaire ou souhaitable d'informer le bénéficiaire à chaque étape.
+
 ## Nouvelle interface usager&#x20;
 
 Afin de garantir tant une meilleure gestion des dossiers qu'une meilleure ergonomie dans le processus de dépôt de dossiers sur « Démarches simplifiées », l'interface usager a été rafraichie.&#x20;

@@ -55,7 +55,7 @@ La première information demandée est le numéro SIRET permettant de récupére
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
 Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
 
@@ -123,7 +123,7 @@ Un message apparaît pour vous confirmer la sauvegarde de votre brouillon.&#x20;
 
 Une fois le dossier complété, cliquez sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager </p></figcaption></figure>
 
