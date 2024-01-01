@@ -20,6 +20,12 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 
 {% file src=".gitbook/assets/Bilan 2022 Démarches simplifiées.pdf" %}
 
+### Bilan 2023
+
+{% file src=".gitbook/assets/DS bilan 2023V3.pdf" %}
+Retrouver le bilan 2023 de DS
+{% endfile %}
+
 ### Objectif
 
 L'objectif principal de cette documentation est de permettre aux organismes publics ayant des besoins de dématérialisation de déterminer si demarches-simplifiees.fr constitue une solution adaptée.
