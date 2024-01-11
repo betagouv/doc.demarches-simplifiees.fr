@@ -57,7 +57,7 @@ end
 def persist_last_cursor(response, demarche_number)
   cursor = response.dig("data", "demarche", "dossiers", "pageInfo")
 
-  if cursor['endCursor'] && cursor['hasNextPage']
+  if cursor['endCursor']
     puts "end of cursor not yet reached, persist for next call: #{cursor.inspect}"
     File.write(cursor_file_path(demarche_number), JSON.dump(cursor.to_h), mode: 'w')
   else
@@ -69,8 +69,10 @@ end
 # open an http connexion to our GraphQL endpoint
 def open_http_connection
   http = Net::HTTP.new(ENDPOINT.host, ENDPOINT.port)
-  http.use_ssl = true
-  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  if ENDPOINT.scheme == 'https'
+    http.use_ssl = true
+    http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+  end
   http
 end
 
@@ -95,8 +97,8 @@ def request_page(http, last_cursor)
     }
   }
   # continue pagination
-  data['variables']['after'] = last_cursor['endCursor'] if last_cursor
-
+  data['variables']['after'] = last_cursor['endCursor'] if last_cursor && last_cursor['endCursor']
+  puts "variable: #{data['variables']}"
   req = Net::HTTP::Post.new(ENDPOINT, request_headers)
   req.body = data.to_json
 
@@ -113,10 +115,12 @@ end
 all_dossier_ids = []
 http = open_http_connection
 last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
+puts "last_cursor: #{last_cursor.inspect}"
 last_cursor ||= {}
 loop do
   # check if we persisted a cursor so we continue polling
   data = request_page(http, last_cursor)
+  puts data.inspect
   dossiers = data.dig('data', 'demarche', 'dossiers', 'nodes')
   dossier_ids = dossiers.map { [_1['number'], _1['dateDerniereModification']] }
   log_dossiers_ids(dossier_ids)
@@ -126,12 +130,26 @@ loop do
   last_cursor = retrieve_last_persisted_cursor(ENV['DEMARCHE_NUMBER'])
 
   puts "Info: total count: #{all_dossier_ids.size}, fetched dossiers ids: #{dossiers.map { _1['number'] }.join(', ')}"
-  break if !(last_cursor['endCursor'] && last_cursor['hasNextPage'])
+  if !(last_cursor['endCursor'] && last_cursor['hasNextPage'])
+    puts "Info: loaded all available pages. call this script after updating a dossier and it will appear in next response"
+    break
+  end
 end
+
 
 ```
 {% endcode %}
 
-{% hint style="warning" %}
-Tant qu'il n'y aura pas de nouvelle page a proposer, votre curseur renvera les même dossiers de la dernière page. Pensez a gérer l'idempotence de votre implementation pour ce cas las.
+### Questions fréquente
+
+{% hint style="info" %}
+La **variable updatedSince/UPDATED\_SINCE permet ici deux choses** : #1 contraindre le jeu de données **initial** aux dossiers ayant été modifiés depuis cette date, #2 ordonner le résultat de notre API par ce même champs. **Vous n'avez pas a la manipuler pour récupérer les dossier modifié votre dernier appel à l'API.**
 {% endhint %}
+
+{% hint style="info" %}
+**Le curseur permet ici deux choses** : #1 paginer les appels successif (ex: lorsque vous lancez la synchronisation la 1ere fois, vous pourriez avoir a récuperer plus d'une page), #2 en ré-utilisant le pageInfo.endCursor, récupérer les nouveaux résultats (ex: lors de batch quotidien).
+{% endhint %}
+
+Concrètement, l'usage de l'updatedSince permet de filtrer et ordonner les réponses aux appels de notre APIs. Le curseur permet  de rappeler l'API sur cette contrainte et de récupérer les nouveaux résultats.
+
+Donc si vous voulez faire du polling regulier, ne changer pas cette date (updatedSince), utilisez simplement le pageInfo.endCursor (et faites attention à ne pas l'écraser lorsqu'il n'y a plus de résultat).
