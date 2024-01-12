@@ -34,7 +34,7 @@ Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simpli
 * **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
 * **L’usager possède un compte France Connect** : dans ce cas il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Connexion avec France connect</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
 
 S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
@@ -66,6 +66,22 @@ Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », u
 Une fois les informations relatives à l'établissement vérifiées, cliquer sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
 
 **Une personne physique :**
+
+**Vous déposez un dossier pour vous-même:**&#x20;
+
+Vous devez sélectionner l'option "pour vous" puis renseigner votre civilité, nom et prénom.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.32.24.png" alt=""><figcaption></figcaption></figure>
+
+**Vous déposez un dossier pour un tiers bénéficiaire:**&#x20;
+
+**Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre identité et celle du bénéficiaire.**&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.39.43.png" alt=""><figcaption><p>Connexion pour un bénéficiaire</p></figcaption></figure>
+
+Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier:&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.43.08.png" alt=""><figcaption><p>Notifier le bénéficiaire</p></figcaption></figure>
 
 Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
 
