@@ -1,6 +1,6 @@
-# Envoyer un message avec une PJ
+# Accepter un dossier et y joindre un justificatif (une PJ)
 
-Il est possible d'envoyer un message via les API GraphQL. Mais avant cela, voici un petit tour d'horizon du fonctionnement :&#x20;
+Il est possible d'accepter un dossier et d'y joindre le justificatif via les API GraphQL. Mais avant cela, voici un petit tour d'horizon du fonctionnement :&#x20;
 
 ## 3 étapes :
 
@@ -15,7 +15,7 @@ Cette requete implique de décrire le fichier que vous allez envoyer : le filena
 
 <figure><img src="../../.gitbook/assets/evil-martions-direct-upload-architecture.webp" alt=""><figcaption><p>résumé des étapes 1 et 2,source: <a href="https://evilmartians.com/chronicles/active-storage-meets-graphql-direct-uploads">https://evilmartians.com/chronicles/active-storage-meets-graphql-direct-uploads</a></p></figcaption></figure>
 
-### 3. Vous, client, faites une requete pour lier ce fichier (maintenant sur nos serveurs, identifié par le signed\_blob\_id) a un message
+### 3. Vous, client, faites une requete pour lier ce fichier (maintenant sur nos serveurs, identifié par le signed\_blob\_id) a un justificatif
 
 
 
@@ -165,29 +165,28 @@ Aussi notre script echo un exemple pour uploader le fichier via `curl`, il vous 
 curl -vvv --data-binary @./file.txt -X PUT -H "Content-Type: LE type de votre fichier" -H "ETag: LAVALEUR PRESENTE DANS LA REPONSE, au niveau de headers.etag [attention, c'est un json a parser]" "data[createDirectUpload][directUpload][url]"
 ```
 
-### 3eme étape : Associer ce fichier lors d'un envoie de message à un usager.
+### 3eme étape : Associer ce fichier lors de l'acceptation du dossier.
 
 En préambule, il vous faut envoyer ce message au nom d'un instructeur, nous vous renvoyons à la documentation pour [lister les id des instructeurs](lister-les-id-des-instructeurs.md).
 
-Utiliser la mutation dossierEnvoyerMessage. Voici un exemple complet de script que vous pouvez executer :
+Utiliser la mutation `dossierAccepter`. Voici un exemple complet de script que vous pouvez executer :
 
 ```bash
-API_TOKEN="VOTRE TOKEN" DOSSIER_ID="L'ID DU DOSSIER (faire comme pour les instructeur)" INSTRUCTEUR_ID="L'ID de l'instructeur" SIGNED_BLOB_ID="le signed_blob id de la reponse a votre mutation de createDirectUpload de l'etape 1 " ruby send_message_with_uploaded_file.rb
-
+SIGNED_BLOB_ID="Le signed blob id de la 1ere requete" API_TOKEN="votre token d'api" DOSSIER_ID="l'id de votre dossier" INSTRUCTEUR_ID="l'id de l'instructeur" ruby ./accept_with_pj.rb
 ```
 
-{% code title="send_message_with_uploaded_file.rb" %}
+{% code title="accept_with_pj.rb" %}
 ```ruby
 require 'net/http'
 require 'uri'
 require 'json'
-require 'byebug'
 ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+
 QUERY = "
-mutation dossierEnvoyerMessage($input: DossierEnvoyerMessageInput!) {
-  dossierEnvoyerMessage(input: $input) {
-    message {
-      body
+mutation dossierAccepter($input: DossierAccepterInput!) {
+  dossierAccepter(input: $input) {
+    dossier {
+      id
     }
     errors {
       message
@@ -215,16 +214,15 @@ def request_headers
   }
 end
 
-def send_message_and_attach_prior_uploaded_file(http)
+def accept_dossier_and_link_justificatif(http)
   data = {
     "query" => QUERY,
-    "operationName" => "dossierEnvoyerMessage",
+    "operationName" => "dossierAccepter",
     "variables" => {
       "input" => {
         "dossierId" => ENV.fetch('DOSSIER_ID') { raise 'missing env var DOSSIER_ID' },
         "instructeurId" => ENV.fetch('INSTRUCTEUR_ID') { raise 'missing env var INSTRUCTEUR_ID' },
-        "body" => "pouf pouf un pouf autre message",
-        "attachment" => ENV.fetch('SIGNED_BLOB_ID') { raise 'missing SIGNED_BLOB_ID env var' }
+        "justificatif" => ENV.fetch('SIGNED_BLOB_ID') { raise 'missing SIGNED_BLOB_ID env var' }
       }
     }
   }
@@ -236,8 +234,7 @@ def send_message_and_attach_prior_uploaded_file(http)
 end
 
 http = open_http_connection
-puts send_message_and_attach_prior_uploaded_file(http)
+puts accept_dossier_and_link_justificatif(http)
 
 ```
 {% endcode %}
-
