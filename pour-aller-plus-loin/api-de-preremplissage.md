@@ -12,6 +12,13 @@ Vous disposez de données sur vos usager·ères et vous souhaitez les utiliser p
 
 demarches-simplifiees.fr propose une **API de préremplissage.** Pour une démarche donnée, elle permet de préremplir un dossier, avec les données dont vous disposez déjà.
 
+{% hint style="info" %}
+Pour accéder à cette fonctionnalité, la démarche doit :&#x20;
+
+* être soit en brouillon, soit publiée (donc la foncionnalité n'est pas disponible pour les démarches closes)
+* être en opendata (configurable depuis la tuile "Présentation")
+{% endhint %}
+
 Le dossier est créé en **brouillon** et vous pouvez y diriger votre usager·ère afin qu'iel s'authentifie, poursuive son remplissage, et le dépose auprès de l'administration.
 
 Cette API est REST et ne nécessite pas d'authentification.
