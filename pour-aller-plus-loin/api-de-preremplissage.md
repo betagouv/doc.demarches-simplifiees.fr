@@ -15,7 +15,7 @@ demarches-simplifiees.fr propose une **API de préremplissage.** Pour une démar
 {% hint style="info" %}
 Pour accéder à cette fonctionnalité, la démarche doit :&#x20;
 
-* être soit en brouillon, soit publiée (donc la foncionnalité n'est pas disponible pour les démarches closes)
+* être soit en brouillon, soit publiée (donc la fonctionnalité n'est pas disponible pour les démarches closes)
 * être en opendata (configurable depuis la tuile "Présentation")
 {% endhint %}
 
