@@ -53,6 +53,7 @@
   * [Cas d'usages / exemple d'implémentation](api-graphql/cas-dusages-exemple-dimplementation/README.md)
     * [Client de démo en JS](api-graphql/cas-dusages-exemple-dimplementation/client-de-demo-en-js.md)
     * [Autentification](api-graphql/cas-dusages-exemple-dimplementation/autentification.md)
+    * [Récupérer un dossier](api-graphql/cas-dusages-exemple-dimplementation/recuperer-un-dossier.md)
     * [Récupérer tous les dossiers (pagination)](api-graphql/cas-dusages-exemple-dimplementation/recuperer-tous-les-dossiers-pagination.md)
     * [Télécharger les fichiers uploadés par un usager sur son dossier](api-graphql/cas-dusages-exemple-dimplementation/telecharger-les-fichiers-uploades-par-un-usager-sur-son-dossier.md)
     * [Synchroniser les dossiers modifiés sur ma démarche](api-graphql/cas-dusages-exemple-dimplementation/synchroniser-les-dossiers-modifies-sur-ma-demarche.md)
