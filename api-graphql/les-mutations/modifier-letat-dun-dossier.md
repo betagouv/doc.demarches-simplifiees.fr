@@ -134,14 +134,41 @@ mutation dossierClasserSansSuite($input: DossierClasserSansSuiteInput!) {
   }
 }
 
+
+
+# Quand le dossier a déjà été terminé : 
+mutation dossierRepasserEnInstruction($input: DossierRepasserEnInstructionInput!) {
+  dossierRepasserEnInstruction(input: $input) {
+    dossier {
+      id
+    }
+    errors {
+      message
+    }
+  }
+}
+
+# Puis éventuellement : 
+mutation dossierRepasserEnConstruction($input: DossierRepasserEnConstructionInput!) {
+  dossierRepasserEnConstruction(input: $input) {
+    dossier {
+      id
+    }
+    errors {
+      message
+    }
+  }
+}
+
+
+
 ```
 
 #### Variables <a href="#mutations-variables" id="mutations-variables"></a>
 
-```graphql
-# Archiver un dossier
+<pre class="language-graphql"><code class="lang-graphql"># Archiver un dossier
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "dossierArchiver",
   "variables": {
     "input": {
@@ -153,55 +180,85 @@ mutation dossierClasserSansSuite($input: DossierClasserSansSuiteInput!) {
 
 # Passer un dossier en instruction
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "dossierPasserEnInstruction",
   "variables": {
     "input": {
       "dossierId": "UHJvY4VkdXKlLTI5NTgw",
-      "instructeurId": "OPJvtN7kdXKlLTI4NTlf"
+      "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
+      "disableNotification": false
     }
   }
 }
 
 # Accepter un dossier
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "dossierAccepter",
   "variables": {
     "input": {
       "dossierId": "UHJvY4VkdXKlLTI5NTgw",
       "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
-      "motivation": "J’accepte ce dossier"
+      "motivation": "J’accepte ce dossier",
+      "disableNotification": false
     }
   }
 }
 
 # Refuser un dossier
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "dossierRefuser",
   "variables": {
     "input": {
       "dossierId": "UHJvY4VkdXKlLTI5NTgw",
       "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
-      "motivation": "Je refuse ce dossier"
+      "motivation": "Je refuse ce dossier",
+      "disableNotification": false
     }
   }
 }
 
 # Classer un dossier sans suite
 {
-  "query": <query>,
+  "query": &#x3C;query>,
   "operationName": "dossierClasserSansSuite",
   "variables": {
     "input": {
       "dossierId": "UHJvY4VkdXKlLTI5NTgw",
       "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
-      "motivation": "Je classe ce dossier sans suite"
+      "motivation": "Je classe ce dossier sans suite",
+      "disableNotification": false
     }
   }
 }
-```
+<strong>
+</strong># Repasser un dossier en instruction
+{
+  "query": &#x3C;query>,
+  "operationName": "dossierRepasserEnInstruction",
+  "variables": {
+    "input": {
+      "dossierId": "UHJvY4VkdXKlLTI5NTgw",
+      "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
+      "disableNotification": false
+    }
+  }
+}
+
+# Repasser un dossier en construction
+{
+  "query": &#x3C;query>,
+  "operationName": "dossierRepasserEnConstruction",
+  "variables": {
+    "input": {
+      "dossierId": "UHJvY4VkdXKlLTI5NTgw",
+      "instructeurId": "OPJvtN7kdXKlLTI4NTlf",
+      "disableNotification": false
+    }
+  }
+}
+</code></pre>
 
 {% hint style="info" %}
 Pour plus d’informations sur le format des requêtes et des réponses, consultez la [documentation complète du schéma de l’API](https://demarches-simplifiees-graphql.netlify.com/).
