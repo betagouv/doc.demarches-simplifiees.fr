@@ -1,23 +1,26 @@
 ---
 description: >-
-  Exemple d'implémentation pour lister tous les dossiers mis à jour sur votre
-  démarche
+  Exemple de cas d'usage : votre démarche a plus de 100 changements sur ses
+  dossiers par jour et vous souhaitez synchroniser tous les dossiers dans votre
+  SI.
 ---
 
-# Synchroniser les dossiers modifiés sur ma démarche
+# Pagination – Synchroniser une démarche à forte volumétrie (synchronisation)
+
+Nos API renvoient jusqu'à 100 dossiers maximum par requête. De fait, si il y a plus de 100 dossiers modifiés par jours sur votre démarche, une tache planifiée (ex quotidienne) récupérant tous les dossiers modifiées ne sera pas suffisante pour suivre tous les changements.
 
 {% hint style="info" %}
-Avez-vous pris connaissance de notre mechanisme de [pagination](../pagination.md) ?
+De fait, il vous faudra utiliser notre mechanisme de curseur, hésitez pas à prendre connaissance de notre mechanisme de [pagination](../pagination.md) !
 {% endhint %}
-
-<pre class="language-bash"><code class="lang-bash"><strong>API_TOKEN="votre_token" DEMARCHE_NUMBER=votre_numero_de_demarche UPDATED_SINCE="iso-date, ex: 2020-02-22" ruby sync.rb
-</strong></code></pre>
 
 Pour faciliter la lecture du code, la query GraphQL est fournie en PJ
 
 {% file src="../../.gitbook/assets/getDemarche.updatedSince.graphql" %}
 
 Ensuite, vous pouvez executer ce code ruby
+
+<pre class="language-bash"><code class="lang-bash"><strong>API_TOKEN="votre_token" DEMARCHE_NUMBER=votre_numero_de_demarche UPDATED_SINCE="iso-date, ex: 2020-02-22" ruby sync.rb
+</strong></code></pre>
 
 {% code title="sync.rb" %}
 ```ruby

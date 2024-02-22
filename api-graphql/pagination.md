@@ -79,6 +79,6 @@ query getDemarche($demarcheNumber: Int!, $after: String) {
 
 Pour un exemple d'implementation, rendez-vous sur :&#x20;
 
-{% content-ref url="cas-dusages-exemple-dimplementation/recuperer-tous-les-dossiers-pagination.md" %}
-[recuperer-tous-les-dossiers-pagination.md](cas-dusages-exemple-dimplementation/recuperer-tous-les-dossiers-pagination.md)
+{% content-ref url="cas-dusages-exemple-dimplementation/pagination-recuperer-tous-les-dossiers-dune-demarche.md" %}
+[pagination-recuperer-tous-les-dossiers-dune-demarche.md](cas-dusages-exemple-dimplementation/pagination-recuperer-tous-les-dossiers-dune-demarche.md)
 {% endcontent-ref %}

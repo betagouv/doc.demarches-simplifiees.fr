@@ -1,3 +1,9 @@
+---
+description: >-
+  Exemple de cas d'usage : vous souhaitez remonter les dossiers unitairement
+  dans votre SI, ex en laissant un usager saisir son numero de dossier DS.
+---
+
 # Récupérer un dossier
 
 Exemple d'implémentation pour récuperer les informations d'un dossier (dans notre cas, nous remontons uniquement quelques informations : le status du dossier, différentes dates liées a l'instruction de celui ci, l'id et le nom de la démarche et enfin les messages echangés entre l'administration et l'usager).

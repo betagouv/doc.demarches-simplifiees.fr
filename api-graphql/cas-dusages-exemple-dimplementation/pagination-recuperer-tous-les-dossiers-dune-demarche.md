@@ -1,10 +1,11 @@
 ---
 description: >-
-  Exemple d'implémentation pour lister tous les dossiers d'une démarche avec la
-  pagination
+  Exemple de cas d'usage : votre démarche est aujourd'hui close et vous
+  souhaitez récuperer les informations des dossiers pour faire de l'analyse de
+  donnée.
 ---
 
-# Récupérer tous les dossiers (pagination)
+# Pagination – Récupérer tous les dossiers d'une démarche
 
 {% hint style="info" %}
 Avez-vous pris connaissance de notre mechanisme de [pagination](../pagination.md) ?
@@ -173,3 +174,4 @@ puts "Debug: #{data.inspect}"
 {% hint style="warning" %}
 Tant qu'il n'y aura pas de nouvelle page a proposer, votre curseur renvera les même dossiers de la dernière page. Pensez a gérer l'idempotence de votre implementation pour ce cas las.
 {% endhint %}
+
