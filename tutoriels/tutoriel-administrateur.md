@@ -14,27 +14,22 @@ Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre
 
 </div>
 
-Vous avez également la possibilité de nous contacter à l'adresse : contact@demarches-simplifiees.fr
+Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarches-simplifiees.fr**
 
 ## Version vidéo
 
 {% hint style="info" %}
-**ATTENTION** : nous apportons continuellement des améliorations à demarches-simplifiees.fr. De ce fait, la vidéo ci-dessous ne mentionne pas les dernières nouveautés. La documentation écrite qui suit la vidéo est, quant à elle, bien à jour.&#x20;
+**ATTENTION** : nous apportons continuellement des améliorations à demarches-simplifiees.fr.&#x20;
 {% endhint %}
-
-{% embed url="https://player.vimeo.com/video/261478872?byline=0&portrait=0" %}
 
 \
 **Qu’est-ce qu’un administrateur ?**&#x20;
-------------------------------------------
 
 Un administrateur est en charge de la construction du formulaire et de la gestion de la démarche en général. Il nomme les instructeurs et est automatiquement considéré comme instructeur. Il a donc accès aux dossiers et peut les instruire. Pour ce faire, il devra néanmoins changer de profil pour passer du profil d’administrateur à celui d’instructeur ou bien d’usager.
 
-
-
 ## 1. Création d’un compte administrateur
 
-Rendez-vous sur la page : [https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees)
+**Rendez-vous sur la page :** [**https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees**](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees)
 
 <figure><img src="../.gitbook/assets/image (55) (1).png" alt=""><figcaption><p>Formulaire d'ouverture de compte administrateur </p></figcaption></figure>
 
