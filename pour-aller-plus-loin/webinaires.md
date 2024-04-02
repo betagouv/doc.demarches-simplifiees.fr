@@ -13,11 +13,9 @@ Tous les premiers jeudis du mois, notre équipe vous expliquera en direct et de 
 
 Vous pourrez nous poser toutes vos questions en direct.&#x20;
 
-#### Pour vous inscrire au prochain atelier en ligne, suivez ce lien :&#x20;
+Voici le lien du replay de notre dernier webinaire: [https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/630b3de417e7b1df8f1e72b71386637a62de5b60-1709816186094](https://bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/630b3de417e7b1df8f1e72b71386637a62de5b60-1709816186094)
 
-#### [https://app.livestorm.co/demarches-simplifiees/](https://app.livestorm.co/demarches-simplifiees/)
 
-####
 
 [\
 ](https://www.demarches-simplifiees.fr/commencer/inscription-aux-webinaires-demarches-simplifiees)
