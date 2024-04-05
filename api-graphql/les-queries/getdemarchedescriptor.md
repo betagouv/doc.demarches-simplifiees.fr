@@ -10,16 +10,11 @@ Les dossiers crées a partir de ce moment auront donc la derniere version du for
 
 Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex: on ne vas demandé à un usager de mettre à jour son dossier si celui ci a été accepté).
 
-getDemarcheDescriptor permet de lister :&#x20;
+getDemarcheDescriptor (et toutes les notions de champDescriptor) permet de mapper un champs à son descripteur de champ de manière fiable. En somme :&#x20;
 
 * Toutes les versions d'une démarche (au travers des objets `Revision` : [https://www.demarches-simplifiees.fr/graphql/schema/revision.doc.html](https://www.demarches-simplifiees.fr/graphql/schema/revision.doc.html)).
 * Une `Revision` porte le schema de donnée des dossiers déposés lorsque la démarche était sur cette version. Vous trouverez donc la liste des champs et des annotations sur la révision (cf:  ([https://www.demarches-simplifiees.fr/graphql/schema/champdescriptor.doc.html](https://www.demarches-simplifiees.fr/graphql/schema/champdescriptor.doc.html))
-* Les champs et annotations des dossiers de la démarche  `(data.demarche.dossiers.champs[].id)` correspondent à l'une des Revision de la démarches `data.demarche.revisions[].champDescriptors[].id`&#x20;
-* Un `champs[].id` correspond à un`champDescriptors[].id`, il n'est commun a tous les champs du même type sur une démarche
-
-Pour vous aider a visualiser ce lien, voici notre modele de donnée isolant cette architecture
-
-{% file src="../../.gitbook/assets/database_models.pdf" %}
+* Les champs et annotations des dossiers de la démarche  `(data.demarche.dossiers.champs[].champDescriptorId)` correspondent à l'une des Revision de la démarches `data.demarche.revisions[].champDescriptors[].id`&#x20;
 
 ## Query pour demander le descriptif d'une démarche
 
