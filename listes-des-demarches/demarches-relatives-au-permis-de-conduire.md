@@ -257,6 +257,25 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](broken-reference)
 * [82 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents de Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-demande-d-une-place-d-examen-au-code-de-la-rout)
 
+## 84 - Vaucluse&#x20;
+
+* Demande de réactivation/communication NEPH/modification état civil/duplicata de dossier :\
+  [https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-du-numero-ne-2](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-du-numero-ne-2)
+* Inscription à l'épreuve théorie générale (code de la route) - séances spécifiques (NF/DYS/sourds et malentendants) :\
+  [https://www.demarches-simplifiees.fr/commencer/inscription-etg-etat](https://www.demarches-simplifiees.fr/commencer/inscription-etg-etat)
+* Demande d'attestation de codification pour aménagement des véhicules pour tenir compte du handicap\
+  &#x20;[https://www.demarches-simplifiees.fr/commencer/codification-conduite-handicap](https://www.demarches-simplifiees.fr/commencer/codification-conduite-handicap)
+* Demande d'agrément pour l'exploitation d'un établissement d'enseignement de la conduite des véhicules à moteur et de la sécurité routière :\
+  &#x20;[https://www.demarches-simplifiees.fr/commencer/agrementautoecole](https://www.demarches-simplifiees.fr/commencer/agrementautoecole)
+* Demande d'autorisation d'enseigner, à titre onéreux, la conduite des véhicules à moteur et de la sécurité routière :\
+  &#x20;[https://www.demarches-simplifiees.fr/commencer/autorisationdenseigner](https://www.demarches-simplifiees.fr/commencer/autorisationdenseigner)
+* Demande de modification d'adresse mail dans l'application RdVPermis :\
+  [https://www.demarches-simplifiees.fr/commencer/modificationmailcandidat](https://www.demarches-simplifiees.fr/commencer/modificationmailcandidat)
+* Demande de renouvellement de label qualité des formations au sein des écoles de conduite :\
+  [https://www.demarches-simplifiees.fr/commencer/renouvellementlabel84](https://www.demarches-simplifiees.fr/commencer/renouvellementlabel84)
+* Demande d'adhésion au label qualité des formations au sein des écoles de conduite :\
+  [https://www.demarches-simplifiees.fr/commencer/demandedadhesionaulabelqualite84](https://www.demarches-simplifiees.fr/commencer/demandedadhesionaulabelqualite84)
+
 ### 88 - Vosges
 
 * [88 - Demande de premier agrément d'un établissement d’enseignement de la conduite et de la sécurité routière](https://www.demarches-simplifiees.fr/commencer/premier-agrement-ae)
