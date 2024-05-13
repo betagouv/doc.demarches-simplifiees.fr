@@ -126,14 +126,46 @@ Bien évidemment, la démarche n'est que déclarative, des erreurs de déclarati
 
 Grâce aux possibilités du site, un projet d'utilisation de l'API depuis un logiciel SIG (pour importer des données géoréférencées et les localiser directement sur une carte) est en cours. Une autre utilisation possible pourrait être l'import des données de demarches-simplifiees.fr directement sur un site web (à l'étude).
 
-##
+## La dématérialisation des démarches dans l'Allier&#x20;
+
+Témoignage de Nathalie DESTERNES - Adjointe au chef du BISIC, SGC de l'Allier&#x20;
 
 
 
+**En quoi consistent les démarches mises en place via démarches simplifiées ?**
 
+Dans l’Allier les démarches sont nombreuses et portent sur des thématiques diverses et variées (agriculture, délivrance des titres, réglementation générale ou encore subventions aux collectivités etc.) . Plus de trente démarches ont été dématérialisés via Démarches simplifiées. Elles sont le reflet de l’activité des agents de l’ATE (DDETSPP, DDT, Préfecture et SGC).&#x20;
 
-\
+**Comment s'est déroulée la mise en place des démarches ?**
 
+Tout part toujours de l’agent instructeur de dossiers. Souvent il veut dématérialiser un Cerfa, parfois actualiser une démarche existante, parfois même il se dit « pourquoi je ne ferai pas comme la collègue d’à côté ».
 
+Certains se lancent tout seul et suivent les guides en ligne pour créer leur démarche, d’autres font appel à moi pour les accompagner dans le processus. L’objectif n’est pas de faire à leur place mais bien de les acculturer à l’utilisation des outils numériques, dont démarches simplifiées, les rendre le plus autonome possible.
+
+**Quels sont les avantages que vous avez trouvés en utilisant démarches simplifiées ?**
+
+L’avantage indiscutable est le gain de temps. Quand les dossiers arrivent en instruction ils sont forcément complets, plus besoin de courir après les informations ou les pièces justificatives manquantes. Le circuit courrier est réduit, on passe de 3 jours pour les précédents courriers papier à 3 secondes pour l’envoi électronique du mail d’acceptation ou de refus.
+
+L’autre grand avantage est la fonction « cloner ». Ce n’est pas comme à l’école, on a le droit de copier sur ses camarades, il est même recommandé de le faire. On trouve une démarche existante, on la duplique et ensuite on la personnalise.
+
+En fin d’instruction, les dossiers sont exportés pour l’archivage en local. Tout est dématérialisé de bout en bout, pas de papier. Des experts sont sollicités, des avis sont donnés. Tout le processus d’instruction est conservé.
+
+**Quelles sont les prochaines étapes avec démarches simplifiées ?**
+
+La valorisation des agents que j’ai accompagnés dans la conception de leur 1ère démarche.
+
+Un diplôme leur est remis pour leur réussite dans la publication de démarches en ligne et leur investissement dans la simplification administrative portée par l’État. L’agent est valorisé, les collègues s’intéressent à l’outil et viennent le consulter quand ils se lancent à leur tour. Les agents qui ont vécu cette expérience deviennent des référents.
+
+Démarches simplifiées se développe ainsi en interne. Les usages des uns inspirent les autres dans leurs propres missions.
+
+**Comment s'est déroulé l'accompagnement des usagers et agents instructeurs à l'utilisation de démarches simplifiées ?**
+
+Un projet ne peut voir le jour et se développer que s’il est porté par le haut. C’est le cas pour démarches simplifiées.
+
+A la création du SGC, notre directrice Madame Dufour a donné les moyens au Bureau Interministériel des Systèmes d’Information et de Communication (BISIC) d’acculturer les agents aux ressources numériques en créant un pôle spécifique.
+
+En ma qualité d’adjointe du BISIC chargée de faire découvrir les outils et pratiques numériques locales, j’accompagne individuellement les agents par des actions d’accueil numérique des nouveaux arrivants, d’accompagnement à la mise en œuvre de projets de dématérialisation (DS, Osmose, LimeSurvey, etc …). Je participe également à la valorisation du travail des agents avec des articles dans l’intranet, des vidéos de présentation, des ateliers « Rencontres du numérique » où les missions du BISIC sont présentées aux agents de manière interactive. Je me déplace sur tous les sites, je vais vers les utilisateurs, une chose très appréciée.
+
+Grace à toutes ces actions, notre catalogue de service est maintenant connu en interne. Les agents sont de plus en plus autonomes avec les équipements et ressources numériques, satisfaits de l’offre proposée et force de proposition pour aller plus loin encore.\
 
 

@@ -31,6 +31,7 @@
   * [Démarches relatives aux inscriptions scolaires (inscription, restauration, centres de loisirs)](listes-des-demarches/demarches-relative-a-linscription-au-service-de-restauration.md)
   * [Démarches relatives aux médailles d'honneur](listes-des-demarches/demarches-relatives-aux-medailles-dhonneur.md)
 * [Conditions Générales d'Utilisation](cgu.md)
+* [Conditions générales d'utilisation :  usagers](conditions-generales-dutilisation-usagers.md)
 * [Mentions légales](mentions-legales.md)
 * [API GraphQL](api-graphql/README.md)
   * [Automatisation : obligations des utilisateurs publics](api-graphql/automatisation-obligations-des-utilisateurs-publics.md)
