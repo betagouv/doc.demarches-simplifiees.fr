@@ -1,5 +1,5 @@
 ---
-description: Mise à jour le 12/04/2024
+description: 16/05/2024
 ---
 
 # Conditions générales d'utilisation :  usagers
