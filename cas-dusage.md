@@ -156,6 +156,8 @@ La valorisation des agents que j’ai accompagnés dans la conception de leur 1�
 
 Un diplôme leur est remis pour leur réussite dans la publication de démarches en ligne et leur investissement dans la simplification administrative portée par l’État. L’agent est valorisé, les collègues s’intéressent à l’outil et viennent le consulter quand ils se lancent à leur tour. Les agents qui ont vécu cette expérience deviennent des référents.
 
+<figure><img src=".gitbook/assets/tempsnip diplome  (1).png" alt=""><figcaption><p>Diplôme délivré par le Bisic de l'Allier </p></figcaption></figure>
+
 Démarches simplifiées se développe ainsi en interne. Les usages des uns inspirent les autres dans leurs propres missions.
 
 **Comment s'est déroulé l'accompagnement des usagers et agents instructeurs à l'utilisation de démarches simplifiées ?**
