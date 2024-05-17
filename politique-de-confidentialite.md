@@ -10,15 +10,13 @@ Elle s’engage à assurer un niveau élevé de protection des données à carac
 
 L’administration est responsable des traitements de données à caractère personnel réalisés pour l’instruction des dossiers sur démarches-simplifiées. L’administration détermine les données pertinentes et leur durée de conservation. La DINUM intervient en qualité de sous-traitant pour assurer l’hébergement, la tierce maintenance applicative et l’envoi des notifications. Pour exercer vos droits sur ces traitements, vous devez vous adresser à l’administration en charge de la démarche. La DINUM peut vous aider à vous mettre en relation avec elle.
 
-
-
 ### 1. Quelles sont les données à caractères personnel traitées ?&#x20;
 
 La DINUM ne collecte et n’exploite que les données adéquates, pertinentes et strictement nécessaires pour assurer ces finalités.
 
 Vos données à caractère personnel traitées par la DINUM sont :
 
-* Données de compte : adresse électronique, nom, prénom, civilité, SIRET, historique des démarches associées au compte ;
+* Données de compte : adresse électronique, nom, prénom, civilité.&#x20;
 * Données de journalisation : logs, adresse IP.
 
 ### 2. Quelle est la base légale des traitements ?
