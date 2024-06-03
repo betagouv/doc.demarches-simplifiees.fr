@@ -85,7 +85,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/neph75)
 * [**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/neph-76)
 * [**77- Seine-et-Marne (réactivation)**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-numero-neph-77)
-* [**78 - Yvelines**](https://www.demarches-simplifiees.fr/commencer/78-dem-duplicata-react-et-com-neph-modif-fnpc)
+* [**78 - Yvelines**](https://www.demarches-simplifiees.fr/commencer/ddt-78-demande-de-reactivation-communication-dupli)
 * [**82- Tarn-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/82-pour-les-residents-de-tarn-et-garonne-uniquemen)
 * [**88 - Vosges (communication)** ](https://www.demarches-simplifiees.fr/commencer/communication\_neph\_88)[**ou (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation\_neph\_88)
 * [**91 - Essonne**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-actualisation-numero-neph-91)
