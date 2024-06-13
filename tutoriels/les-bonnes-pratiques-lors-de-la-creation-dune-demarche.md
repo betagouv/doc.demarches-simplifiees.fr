@@ -26,30 +26,33 @@ S’il est possible de récupérer une information spécifique via une API ou un
 
 Pour rendre celui-ci plus digeste, segmentez votre formulaire en utilisant les champs « Titre de section » et « Explications ».
 
-## 5. Utilisez des blocs répétables
+## 5. Utilisez des blocs répétables et les champs conditionnels
 
 Un bloc répétable sur un champ permet à ce dernier d'être répété autant de fois que nécessaires par l'usager. En particulier, lorsque vous demandez des pièces justificatives, nous recommandons de terminer votre formulaire par un bloc répétable « Autres pièces justificatives » comme dans l'image ci-dessous. Il arrive en effet que l'usager dispose d'un document séparé en plusieurs fichiers et qu'il ne sache pas comment les regrouper afin de le mettre en ligne sous une seule pièce justificative. Il se retrouve alors bloqué.
 
 ![](<../.gitbook/assets/Screenshot 2019-08-01 at 15.41.04.png>)
 
+Afin de simplifier vos formulaires, vous pouvez également activer des logiques conditionnelles. Cela permettra de guider vos usagers vers les champs dédiées à leur situations en fonction de leur réponses aux champs du formulaire. Les formulaires sont donc plus précis et il s'agit d'un gain de temps pour l'usager. Pour plus d'information : [https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel)
+
+<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+
 ## 6. Utilisez l'option « champ obligatoire » avec précaution
 
-Avant de cocher l'option obligatoire d'un champ il faut toujours se demander si cela est réellement le cas. Un usager qui ne dispose pas de l'information est en effet bloqué et ne peut alors pas déposer le dossier. De plus, comme il n'est plus possible de modifier une démarche déjà publiée, enlever le caractère obligatoire d'un champ nécessite de clôner la démarche, de la modifier puis de la republier en utilisant le même lien.
+Avant de cocher l'option obligatoire d'un champ il faut toujours se demander si cela est réellement le cas. Un usager qui ne dispose pas de l'information est en effet bloqué et ne peut alors pas déposer le dossier.
 
 ## 7. Faites un test complet avant publication
 
-Une démarche en test permet justement de déposer des dossiers fictifs qui vous permettent de prendre tour à tour le rôle d'usager et le rôle d'instructeur. Demandez également à des collègues de tester pour vous. Apportez une attention particulière à la partie « Annotations privées » qui entre dans le cadre dans le processus d'instruction et qui est parfois laissée de côté lors de la création du formulaire. Cette partie n'est pas non plus modifiable une fois la démarche publiée.
+Une démarche en test permet justement de déposer des dossiers fictifs qui vous permettent de prendre tour à tour le rôle d'usager et le rôle d'instructeur. Demandez également à des collègues de tester pour vous. Apportez une attention particulière à la partie « Annotations privées » qui entre dans le cadre dans le processus d'instruction et qui est parfois laissée de côté lors de la création du formulaire.  Cette partie est modifiable, mais les modifications seront visibles pour les nouveaux dossiers non instruits.
 
-## 8. Personnalisez l’URL de votre démarche&#x20;
+## 8. Personnalisez l’URL de votre démarche et informez votre délégué à la protections des données :  &#x20;
 
 Lorsque vous cliquez sur le bouton « Publier » de votre démarche en test, la fenêtre ci-dessous apparaît :&#x20;
 
-![](<../.gitbook/assets/Screenshot 2019-09-05 at 17.17.23.png>)
+<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-Par défaut, l'url de votre démarche ressemble à "https://www.demarches-simplifiees.fr/commencer/27b10072-7dce-43f5-abcc-064aedebe530213" et est alors très peu compréhensible par l'usager. Il est donc préférable de personnaliser la fin de l'url de votre procédure afin qu'elle ait un lien avec le titre de votre procédure.
+Par défaut, l'url de votre démarche est composé du titre de votre démarche. Mais vous avez la possibilité de personnaliser la fin de l'url selon vos besoins.&#x20;
 
 ## 9. Prenez rendez-vous avec nous !
 
-Vous avez un doute sur un élément de votre démarche ? Vous voulez que nous relisions votre démarche pour être sûr qu'elle soit claire et efficace ? N'hésitez pas à prendre rendez-vous en utilisant le lien disponible depuis votre espace administrateur !&#x20;
+Vous avez un doute sur un élément de votre démarche ? Vous voulez que nous relisions votre démarche pour être sûr qu'elle soit claire et efficace ? N'hésitez pas à nous contacter à l'adresse : contact@demarches-simplifiees.fr&#x20;
 
-![](<../.gitbook/assets/Screenshot 2019-08-01 at 15.54.58.png>)
