@@ -63,4 +63,4 @@ demarches-simplifiees.fr est fourni avec une API qui permet d'exporter de maniè
 
 Cette API ne permet en revanche pas d'entrer des données dans l'application ou de commander des opérations.
 
-Pour plus d'information, voir la [documentation de l'API](broken-reference).
+Pour plus d'information, vous pouvez consulter [la documentation dédiée à l'API](https://doc.demarches-simplifiees.fr/api-graphql)&#x20;
