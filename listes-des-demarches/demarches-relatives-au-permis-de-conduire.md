@@ -117,7 +117,8 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**83 - Var**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddtm83)
 * [**88 - Vosges**](https://www.demarches-simplifiees.fr/commencer/label-ae-88)
 * [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber92)
-* [**93 - Seine-Saint-Den**](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-d-adhesion-au-label-qualite-)
+* [**93 - Seine-Saint-Den**](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-d-adhesion-au-label-qualite-)**is**
+* [**94 - Val-de-Marne**](https://www.demarches-simplifiees.fr/commencer/label-qualite-des-formations-94)
 * [**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite)
 
 ## Annulation de permis
