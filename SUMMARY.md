@@ -74,5 +74,6 @@
   * [Horodatage](pour-aller-plus-loin/horodatage.md)
   * [Archivage longue durée des démarches](pour-aller-plus-loin/archivage-longue-duree-des-demarches.md)
   * [Le conditionnel](pour-aller-plus-loin/le-conditionnel.md)
+  * [Eligibilité des dossiers](pour-aller-plus-loin/eligibilite-des-dossiers.md)
 * [Communiqués de presse](communiques-de-presse.md)
 * [Expiration et suppression des dossiers](expiration-et-suppression-des-dossiers.md)
