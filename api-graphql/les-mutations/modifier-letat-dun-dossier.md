@@ -261,5 +261,5 @@ mutation dossierRepasserEnConstruction($input: DossierRepasserEnConstructionInpu
 </code></pre>
 
 {% hint style="info" %}
-Pour plus d’informations sur le format des requêtes et des réponses, consultez la [documentation complète du schéma de l’API](https://demarches-simplifiees-graphql.netlify.com/).
+Pour plus d’informations sur le format des requêtes et des réponses, consultez la [documentation complète du schéma de l’API](https://www.demarches-simplifiees.fr/graphql).
 {% endhint %}
