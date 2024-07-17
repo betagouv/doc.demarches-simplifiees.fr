@@ -6,7 +6,7 @@ description: "Ce tutoriel présente les différentes fonctionnalités proposées
 
 Ce tutoriel détaille les étapes de dépôt d'un dossier sur demarches-simplifiees.fr par un usager.
 
-## Version vidéo
+## Présentation en vidéo
 
 {% embed url="https://vimeo.com/386048198" %}
 
@@ -18,7 +18,7 @@ La page d'accueil de demarches-simplifiees.fr permet à l'usager de se connecter
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.11.06.png" alt=""><figcaption><p>Page de connexion </p></figcaption></figure>
 
-Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication.
+Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.&#x20;
 
 Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à l'exemple ci-dessous :&#x20;
 
@@ -30,15 +30,15 @@ Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à
 
 Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simplifiees.fr :
 
-* **L’usager possède déjà un compte** sur demarches-simplifiees.fr : cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
-* **L’usager possède un compte France Connect** : dans ce cas il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
+* **L’usager possède déjà un compte** sur demarches-simplifiees.fr : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche, puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
+* **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
 
 S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
-Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la réception de celui-ci.&#x20;
+Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la récéption de celui-ci.&#x20;
 
 ## 2. Déposer un dossier
 
@@ -53,7 +53,7 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 **Pour l'entreprise ou l'organisme possédant un numéro SIRET :**
 
-La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise.
+La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.&#x20;
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
@@ -63,7 +63,7 @@ Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », u
 
 <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
 
-Une fois les informations relatives à l'établissement vérifiées, cliquer sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
+Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
 
 **Une personne physique :**
 
@@ -85,14 +85,14 @@ Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire
 
 Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Identification usager</p></figcaption></figure>
 
 ### **B. Remplir le formulaire**
 
 #### Présentation des champs du formulaire
 
 {% hint style="info" %}
-**ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier est conditionné par le remplissage de ces champs. Une mention s'affiche pour les champs facultatifs.&#x20;
+**ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier ne peut se faire que si ces champs sont remplis.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
