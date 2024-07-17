@@ -95,7 +95,7 @@ Les premières informations demandées sont la civilité, le nom et le prénom d
 **ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier ne peut se faire que si ces champs sont remplis.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 10.46.10.png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
 
 **Déposer un document en pièce jointe**&#x20;
 
@@ -103,9 +103,11 @@ Le dépôt du dossier peut nécessiter l’ajout de pièces jointes afin de four
 
 Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée.
 
+Pour certaines démarches, il se peut que plusieurs pièces jointes soient demandées pour un seul champ.&#x20;
+
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
 
-Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquer sur le lien en bleu, télécharger le fichier, remplir le document puis l’ajouter en pièce jointe dans le dossier demarches-simplifiees.fr.
+Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquez sur le lien en bleu, téléchargez le fichier, remplissez le document puis l’ajouter en pièce jointe dans le dossier demarches-simplifiees.fr.
 
 <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
@@ -118,6 +120,8 @@ Formats de pièces jointes acceptées : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .p
 Il est possible d'inviter un tiers à compléter ou à modifier un dossier.&#x20;
 
 En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».&#x20;
+
+Vous pouvez inviter plusieurs personnes à co-construire votre dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
 
@@ -135,7 +139,7 @@ Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de ferme
 
 Le brouillon est accessible depuis votre espace personnel et peut être complété à tout moment, tant que la démarche n'a pas été clôturée.
 
-Un message apparaît pour vous confirmer la sauvegarde de votre brouillon.&#x20;
+Un message apparaît pour vous confirmer la sauvegarde de votre brouillon. Si le message de sauvegarde n'apparaît pas, assurez-vous que votre connexion internet soit active et que la page de votre navigateur n'ait pas expiré.&#x20;
 
 ### **D. Déposer le dossier**
 
@@ -147,7 +151,7 @@ Une fois le dossier complété, cliquez sur le bouton « Déposer le dossier » 
 
 Le dossier passe alors du statut « brouillon » au statut « en construction ».&#x20;
 
-Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager.
+Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.&#x20;
 
 ### **E. Consultez l'attestation de dépôt de votre dossier**
 
@@ -157,6 +161,10 @@ Cette attestation comporte des informations telles que le nom, prénom de l'usag
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.46.11.png" alt=""><figcaption><p>Attestation de dépôt du dossier</p></figcaption></figure>
 
+{% file src="../.gitbook/assets/attestation-de-depot-4.pdf" %}
+Exemple d'attestation de dépôôt
+{% endfile %}
+
 ## 3. Accéder au suivi de mon dossier
 
 ### A. Présentation du tableau de bord
@@ -165,11 +173,7 @@ En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès 
 
 Vous avez la possibilité de rechercher un dossier en renseignant le numéro de dossier dans la barre de recherche et également de rechercher un dossier en fonction du nom de la démarche.&#x20;
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 09.34.40.png" alt=""><figcaption><p>Tableau de bord d'un usager</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.08.20.png" alt=""><figcaption><p>Tableau de bord d'un usager</p></figcaption></figure>
 
 **Affichage des filtres**&#x20;
 
@@ -179,13 +183,13 @@ Vous avez la possibilité de filtrer l'affichage de vos dossiers en fonction de 
 * La date de création du dossier
 * La date de dépôt du dossier&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.56.17.png" alt=""><figcaption><p>Sélection des filtres</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.11.50.png" alt=""><figcaption><p>Sélection des filtres</p></figcaption></figure>
 
 **En cours**
 
 Cet onglet reprend toutes les démarchées en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
 
-Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour.&#x20;
+Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52.png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
 
@@ -193,7 +197,7 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue (acceptation, refus, classement sans suite).&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.17.11.png" alt=""><figcaption><p>Onglet des dossiers traités</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.15.13.png" alt=""><figcaption><p>Onglet des dossiers traités</p></figcaption></figure>
 
 Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.&#x20;
 
