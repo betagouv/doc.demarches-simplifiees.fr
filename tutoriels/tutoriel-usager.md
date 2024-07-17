@@ -201,11 +201,23 @@ Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'ide
 
 #### Traités
 
-Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue (acceptation, refus, classement sans suite).&#x20;
+Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue.  3 décisions sont possibles:&#x20;
+
+* acceptation
+* &#x20;refus&#x20;
+* classement sans suite
+
+En cas de refus ou de classement sans suite, l'administration doit motivée cette décision.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.15.13.png" alt=""><figcaption><p>Onglet des dossiers traités</p></figcaption></figure>
 
 Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.&#x20;
+
+**Décision du dossier avec accusé de lecture**
+
+Pour certaines démarches, l'administration a paramétré un accusé de récéption.&#x20;
+
+L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
 
 **Dossiers invités**
 
