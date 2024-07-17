@@ -219,6 +219,8 @@ Si vous avez supprimé des dossiers récemment, vous avez la possibilité de les
 
 Dans l'onglet "supprimés définitivement", vous retrouverez les dossiers qui ont été supprimés mais que vous ne pouvez restaurer.&#x20;
 
+Pour être conformes aux principes du RGPD, nous ne pouvons garder les données personnelles des usagers au delà d'un certain nombre de semaines, c'est pour cette raison que vos dossiers sont supprimés. Vous recevez plusieurs alertes avant la suppression de vos dossiers. Le délai de conservation est déterminé par l'administration qui a mis en place la démarche.&#x20;
+
 **Demande de transfert**
 
 Il s'agit des dossiers qui sont transférés d'un usager à l'autre. L'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier.&#x20;
