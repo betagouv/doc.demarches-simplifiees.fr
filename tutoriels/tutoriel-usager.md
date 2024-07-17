@@ -249,7 +249,7 @@ Le dossier prend l'un de ces statuts une fois que le service compétent a statu�
 
 Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc).&#x20;
 
-La mention "à corriger" s'affiche sur le dossier.
+La mention "à corriger" s'affiche alors sur le dossier. Une fois le dossier corrigé, l'instructeur sera informé de cette mise à jour.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.03.08.png" alt=""><figcaption><p>Dossier à corriger par l'usager</p></figcaption></figure>
 
