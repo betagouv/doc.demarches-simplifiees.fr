@@ -215,9 +215,15 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 **Décision du dossier avec accusé de lecture**
 
-Pour certaines démarches, l'administration a paramétré un accusé de récéption.&#x20;
+Pour certaines démarches, l'administration a paramétré un accusé de lecture de la décision du dossier.&#x20;
 
 L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.00.24.png" alt=""><figcaption><p>Notification par email de l'accusé de lecture</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.01.38.png" alt=""><figcaption><p>Onglet résumé dans lequel s'affiche la décision </p></figcaption></figure>
+
+
 
 **Dossiers invités**
 
