@@ -223,7 +223,7 @@ L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dos
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.01.38.png" alt=""><figcaption><p>Onglet résumé dans lequel s'affiche la décision </p></figcaption></figure>
 
-
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.14.40.png" alt=""><figcaption><p>Affichage de la décision </p></figcaption></figure>
 
 **Dossiers invités**
 
@@ -317,3 +317,9 @@ En cliquant sur le bouton "Actions", vous pouvez :&#x20;
 * Supprimer le dossier&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.30.56.png" alt=""><figcaption><p>Les différentes actions sur un dossier</p></figcaption></figure>
+
+### G. Téléchargement du dossier&#x20;
+
+Une fois le dossier déposé, l'usager a la possibilité de le télécharger en PDF depuis l'onglet "résumé". Il peut aussi, depuis le même espace, télécharger l'attestation délivrée en cas d'acceptation du dossier si l'administration a prévu l'envoi de ce document.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.27.08.png" alt=""><figcaption></figcaption></figure>
