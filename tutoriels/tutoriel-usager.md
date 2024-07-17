@@ -153,6 +153,12 @@ Le dossier passe alors du statut « brouillon » au statut « en construction »
 
 Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.&#x20;
 
+**Le cas du dossier inéligible**&#x20;
+
+Dans certains cas, l'administration peut paramétrer un critère d'inéligibilité. Si un usager renseigne un dossier avec des champs qui correspondent aux critères d'inégilibilité, celui ci ne pourra déposer le dossier. Un message explicatif s'affiche alors:&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 14.31.38.png" alt=""><figcaption><p>Critère d'inéligibilité</p></figcaption></figure>
+
 ### **E. Consultez l'attestation de dépôt de votre dossier**
 
 Une fois le dossier déposé, une attestation de dépôt de dossier est automatiquement générée. Elle est disponible dans l'onglet "résumé" du dossier.&#x20;
