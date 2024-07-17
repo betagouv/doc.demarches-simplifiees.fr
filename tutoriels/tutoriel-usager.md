@@ -271,7 +271,7 @@ Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton �
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
-Un onglet « Messagerie » est intégrée au dossier : celui-ci reprend les e-mails qui sont envoyés à l'usager et lui permet de communiquer directement avec le service instructeur.
+Un onglet « Messagerie » est intégré au dossier : celui-ci reprend les e-mails automatiques qui sont envoyés à l'usager à chaque changement de statut de son dossier et lui permet ainsi de communiquer directement avec le service instructeur. Il peut également contacter l'administration même après l'instruction du dossier.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.55.00.png" alt=""><figcaption><p>Messagerie de l'usager</p></figcaption></figure>
 
@@ -289,16 +289,12 @@ En l'absence de réponse ou si vous souhaitez contacter directement l'administra
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.04.51.png" alt=""><figcaption><p>Contact de l'administration</p></figcaption></figure>
 
-{% hint style="info" %}
-**ATTENTION** : Une fois l'instruction du dossier terminée et la décision prise, l'usager n'aura plus accès à la messagerie.&#x20;
-{% endhint %}
-
 ### F. Les différentes actions à effectuer sur un dossier
 
 En cliquant sur le bouton "Actions", vous pouvez :&#x20;
 
 * Transférer le dossier à un tiers en renseignant son adresse email&#x20;
-* Commencer un nouveau dossier de la même démarche: vous serez redirigé vers le lien de la démarche
+* Commencer un nouveau dossier de la même démarche: vous serez redirigé vers le lien de la démarche. Si la démarche a été clotûrée, vous devrez obtenir le nouveau lien de la démarche pour déposer un dossier.&#x20;
 * Dupliquer le dossier (en copiant l'ensemble des champs de pièces jointes)
 * Supprimer le dossier&#x20;
 
