@@ -103,4 +103,12 @@ Si l'administrateur de la démarche active la fonctionnalité « notifier des d�
 
 ![Email reçu par un expert pour le classement sans suite d'un dossier](<../.gitbook/assets/image (47).png>)
 
-###
+### E. Gestion des notifications&#x20;
+
+L'expert a la possibilité de gérer les notifications qu'il souhaite recevoir directement depuis son interface dans l'onglet "gestion des notifications". Il faudra paramétrer les notifications pour chaque démarche sur laquelle il est nommé.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.57.20.png" alt=""><figcaption><p>Onglet gestion des notifications</p></figcaption></figure>
+
+Il peut paramétrer les notifications pour recevoir un email à chaque avis demandé, et un email à chaque message envoyé.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.54.46.png" alt=""><figcaption><p>Gestion des notifications</p></figcaption></figure>
