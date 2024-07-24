@@ -22,9 +22,13 @@ Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressé
 
 ## 2. Présentation de l'interface
 
-Une fois connecté, vous avez accès à une liste des dossiers pour lesquels votre avis est demandé : les dossiers sont identifiés par un numéro et par l'intitulé de la démarche.
+Une fois connecté, l'expert a accès à une liste des démarches pour lesquels son avis est demandé : il peut donc être invité sur une ou plusieurs démarches.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.20.46.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.38.32 (1).png" alt=""><figcaption></figcaption></figure>
+
+Chaque démarche comporte les dossiers pour lesquels l'avis d'un expert a été sollicité. Les dossiers sont identifiés par un numéro et par l'intitulé de la démarche.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.35.01.png" alt=""><figcaption><p>Interface expert</p></figcaption></figure>
 
 Une pastille de notification orange indique qu'un ou plusieurs nouveaux avis vous sont demandés. La pastille peut être affichée à nouveau si un avis supplémentaire sur un dossier pour lequel vous avez déjà émis un premier avis vous est demandé. Le nombre de ces avis est rappelé en orange sur l'intitulé « Avis » en haut à gauche de l'écran.&#x20;
 
@@ -41,7 +45,7 @@ Depuis la liste, il suffit de cliquer sur un dossier afin d'accéder au détail 
 
 En cliquant sur le dossier vous avez accès à l'onglet « Demande » qui récapitule le formulaire tel que rempli par l'usager :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.43 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.43 (2).png" alt=""><figcaption><p>Onglet demande </p></figcaption></figure>
 
 Cet onglet vous permet également de consulter les pièces justificatives jointes au dossier par l'usager.
 
@@ -65,15 +69,13 @@ Dans l'onglet "voir les avis", vous aurez un récapitulatif des autres avis dema
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 12.02.21.png" alt=""><figcaption><p>Tous les avis d'un dossier </p></figcaption></figure>
 
-Si l'administrateur vous donne les droits en amont, vous avez également la possibilité en tant qu'expert de demander un autre avis à un autre expert. Il vous suffit pour cela de cliquer sur l'onglet "demander un autre avis". Vous pourrez donc par ce biais envoyer le dossier de l'usager ainsi que ses pièces jointes à un autre expert qui pourra formuler un avis. Cet avis sera consultable par l'instructeur du dossier.&#x20;
-
-
+Si l'administrateur vous donne les droits en amont, vous avez également la possibilité en tant qu'expert de **demander un autre avis à un autre expert**. Il vous suffit pour cela de cliquer sur l'onglet "demander un autre avis". Vous pourrez donc par ce biais envoyer le dossier de l'usager ainsi que ses pièces jointes à un autre expert qui pourra formuler un avis. Cet avis sera consultable par l'instructeur du dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 14.56.52.png" alt=""><figcaption><p>Demande d'avis à un autre expert</p></figcaption></figure>
 
 ### C. Messagerie&#x20;
 
-Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges. Il se peut que l'accès à cette messagerie vous soit restreint, c'est à la discretion de l'administrateur de laisser ou non la messagerie accessible.
+Ce dernier onglet vous donne accès à la messagerie qui permet à l'instructeur du dossier d'interagir directement avec l'usager. Vous aurez ainsi accès à tout l'historique des échanges. Il se peut que l'accès à cette messagerie vous soit restreint, c'est à la discretion de l'administrateur de laisser ou non la messagerie accessible à l'expert.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 12.07.36.png" alt=""><figcaption><p>Messagerie du dossier depuis l'interface expert</p></figcaption></figure>
 
