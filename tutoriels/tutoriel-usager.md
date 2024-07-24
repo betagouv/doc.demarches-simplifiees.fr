@@ -31,7 +31,7 @@ Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à
 Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simplifiees.fr :
 
 * **L’usager possède déjà un compte** sur demarches-simplifiees.fr : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche, puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
 * **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
@@ -48,8 +48,6 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 * Une entreprise ou organisme possédant un numéro SIRET
 * Une personne physique
-
-
 
 **Pour l'entreprise ou l'organisme possédant un numéro SIRET :**
 
@@ -75,7 +73,7 @@ Vous devez sélectionner l'option "pour vous" puis renseigner votre civilité, n
 
 **Vous déposez un dossier pour un tiers bénéficiaire:**&#x20;
 
-**Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre identité et celle du bénéficiaire.**&#x20;
+Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre identité et celle du bénéficiaire.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.39.43.png" alt=""><figcaption><p>Connexion pour un bénéficiaire</p></figcaption></figure>
 
@@ -117,7 +115,7 @@ Formats de pièces jointes acceptées : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .p
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
-Il est possible d'inviter un tiers à compléter ou à modifier un dossier.&#x20;
+Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier un dossier.&#x20;
 
 En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».&#x20;
 
@@ -141,17 +139,23 @@ Le brouillon est accessible depuis votre espace personnel et peut être complét
 
 Un message apparaît pour vous confirmer la sauvegarde de votre brouillon. Si le message de sauvegarde n'apparaît pas, assurez-vous que votre connexion internet soit active et que la page de votre navigateur n'ait pas expiré.&#x20;
 
+Si besoin, l'usager a la possibilité de télécharger le dossier vide en PDF (en bas de page)
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.15.35.png" alt=""><figcaption></figcaption></figure>
+
 ### **D. Déposer le dossier**
 
 Une fois le dossier complété, cliquez sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
 
 <figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.16.03.png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager</p></figcaption></figure>
 
 Le dossier passe alors du statut « brouillon » au statut « en construction ».&#x20;
 
 Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.&#x20;
+
+L'usager a également la possibilité de **télécharger son dossier en PDF** au moment du dépôt du dossier.&#x20;
 
 **Le cas du dossier inéligible**&#x20;
 
