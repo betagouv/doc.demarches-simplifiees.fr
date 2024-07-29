@@ -22,7 +22,7 @@ Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : 
 \
 **1. Choisissez si le dossier est pour vous ou pour un bénéficiaire**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 **Pour vous** : Cette option est à sélectionner si vous créez le dossier en votre nom propre. Elle est destinée aux individus qui s'engagent personnellement dans la démarche.
 
@@ -30,7 +30,7 @@ Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : 
 \
 **2. Dans le cas ou le dossier est pour un bénéficiaire**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le mandataire doit d'abord renseigner ses propres informations personnelles sous la section "Votre identité", en fournissant son prénom et son nom. Ceci permet d'identifier clairement qui effectue la démarche.
 
@@ -40,7 +40,7 @@ Il est important de noter que le mandataire doit s'assurer de respecter les cond
 
 
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dans cette partie du formulaire, après avoir rempli les informations d'identité du bénéficiaire, le mandataire est confronté à un choix important : décider si le bénéficiaire doit être notifié des avancements du dossier.
 

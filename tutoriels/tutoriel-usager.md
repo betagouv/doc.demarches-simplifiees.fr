@@ -55,7 +55,7 @@ La première information demandée est le numéro SIRET permettant de récupére
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
 Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
 

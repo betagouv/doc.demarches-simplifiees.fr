@@ -8,15 +8,11 @@ Ce tutoriel présente les étapes de création d’une démarche sur demarches-s
 
 Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat situé en bas à droite de la page :&#x20;
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (54) (1).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="325"><figcaption></figcaption></figure>
 
 Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarches-simplifiees.fr**
 
-## Version vidéo
+
 
 {% hint style="info" %}
 **ATTENTION** : nous apportons continuellement des améliorations à demarches-simplifiees.fr.&#x20;
@@ -33,7 +29,7 @@ Un administrateur est en charge de la construction du formulaire et de la gestio
 
 <figure><img src="../.gitbook/assets/image (55) (1).png" alt=""><figcaption><p>Formulaire d'ouverture de compte administrateur </p></figcaption></figure>
 
-Les comptes administrateurs sont les seuls comptes que demarches-simplifiees.fr filtre. En effet, ils sont réservés aux seuls agents publics.&#x20;
+Les comptes administrateurs sont les seuls comptes que l'équipe demarches-simplifiees.fr  instruit. En effet, ils sont uniquement réservés aux agents publics.&#x20;
 
 Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
 
@@ -58,25 +54,29 @@ Une fois connecté, vous accédez au tableau de bord qui affiche les démarches 
 * **Closes** : une démarche close est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
 * **Supprimées** : une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
 
-<div align="center">
-
-<figure><img src="../.gitbook/assets/démarche interface admin .png" alt=""><figcaption><p>tableau de bord  administrateur </p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/tuto admin.png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Découvrir le tableau de bord de l'ensemble des démarches publiées &#x20;
 
-Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié.&#x20;
+Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié. Cela vous permet également de cloner une démarche existante.
 
-Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches simplifies pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut.&#x20;
+Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches simplifies pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut, service, département, type d'usager , date de publication ou encore par thématique.&#x20;
 
-<figure><img src="../.gitbook/assets/tableau de bord toutes les démarches.png" alt=""><figcaption><p>tableau de bord de toutes les démarches</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sans titre 1.png" alt=""><figcaption></figcaption></figure>
 
-## 5. Créer une nouvelle démarche
+## 5. Découvrir les nouveautés&#x20;
+
+Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de Démarches Simplifiées. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
+
+<figure><img src="../.gitbook/assets/Sans titre 2.png" alt=""><figcaption></figcaption></figure>
+
+Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégories. Les catégories concernant votre profil sont sélectionnées par défaut.
+
+## 6. Créer une nouvelle démarche
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../.gitbook/assets/nouvelle démarche .png" alt=""><figcaption><p>Création d'une nouvelle démarche en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
 
 La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
@@ -90,7 +90,11 @@ La liste des démarches associées à l'intitulé recherché s'affichera et vous
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-<figure><img src="../.gitbook/assets/cloner une démarche .png" alt=""><figcaption><p>Cloner une démarche pré-existante</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
+
+**Vous pouvez également rechercher une démarche depuis l'onglet "toutes les démarches".**&#x20;
+
+**Enfin, nous mettons à votre disposition des démarches modèles directement prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
 
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
@@ -407,7 +411,7 @@ Ce type de champ insère à gauche du libellé du champ une case que l'usager pe
 
 L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste » .&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
 
 Vous pouvez également proposer à l'usager une option « autre » avec un texte libre afin de laisser la possibilité à l'usager de cocher cette valeur si les autres valeurs ne correspondent pas à sa situation.
 
@@ -759,7 +763,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
