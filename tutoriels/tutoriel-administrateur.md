@@ -92,7 +92,7 @@ Une copie de la démarche apparaît automatiquement dans les démarches en test.
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
 
-**Vous pouvez également rechercher une démarche depuis l'onglet "toutes les démarches".**&#x20;
+**Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
 
 **Enfin, nous mettons à votre disposition des démarches modèles directement prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
 
