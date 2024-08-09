@@ -8,7 +8,7 @@ Ce tutoriel présente les étapes de création d’une démarche sur demarches-s
 
 Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat situé en bas à droite de la page :&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="325"><figcaption></figcaption></figure>
 
 Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarches-simplifiees.fr**
 
@@ -76,7 +76,7 @@ Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégor
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
 
 La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
@@ -90,11 +90,19 @@ La liste des démarches associées à l'intitulé recherché s'affichera et vous
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
 
 **Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
 
-**Enfin, nous mettons à votre disposition des démarches modèles directement prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Le principe est le même, il vous suffit de rechercher la démarche que vous souhaitez dématérialiser et la cloner depuis ce tableau de bord.&#x20;
+
+
+
+En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !&#x20;
+
+**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
 
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
@@ -102,7 +110,7 @@ Une copie de la démarche apparaît automatiquement dans les démarches en test.
 Exemple : pour la dotation aux équipements pour les territoires ruraux, on peut aussi tester le sigle DETR.
 {% endhint %}
 
-## 6. Décrire sa démarche
+## 7. Décrire sa démarche
 
 Après avoir cliqué sur le bouton « Créer une nouvelle démarche de zéro » en haut à gauche de la page, une nouvelle page s’affiche. Celle-ci permet de paramétrer la page de présentation de votre démarche. Ce seront les premières informations visibles par l’usager.&#x20;
 
@@ -114,29 +122,43 @@ Tous les champs marqués d'un astérisque sont obligatoires.
 
 **a) Titre et description de la démarche**&#x20;
 
-<figure><img src="../.gitbook/assets/nouvelle démarche interface .png" alt=""><figcaption><p>Description de la démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire. Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
+En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire dans la partie "quel est l'objet de la démarche". Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
 
-Dans la description, on indique le contexte et l’objectif de la démarche mais aussi le public visé. Une fois la description terminée, descendez en bas de la page et cliquez sur le bouton « Créer la démarche ».&#x20;
+Dans l'objet de la démarche, on indique le contexte et l’objectif de la démarche.&#x20;
+
+Vous avez également la possibilité de décrire les destinataires finaux de la démarche dans la partie " à qui s'adresse la démarche". Cela permet à l'usager de confirmer qu'il est bien concerné par la démarche.&#x20;
+
+Une fois la description terminée, descendez en bas de la page et cliquez sur le bouton « Créer la démarche ».&#x20;
 
 Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus tard. En revanche, comme les informations remplies ne s’enregistrent pas automatiquement, nous vous conseillons de le faire par vous-même régulièrement.
 
-**b) Logo de la démarche**&#x20;
+**b) Listes des pièces jointes demandées**&#x20;
+
+Vous pouvez renseigner la liste des pièces jointes à fournir. Cela permettra à l'usager de prendre connaissance des pièces jointes avant d'accéder au formulaire.&#x20;
+
+Si votre formulaire contient des pièces jointes et que vous ne complétiez pas cette rubrique, une liste sera automatiquement générée.&#x20;
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+**c) Logo de la démarche**&#x20;
 
 Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du titre de votre démarche lorsque l’usager y déposera un dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>Sélection du logo de la démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller l'ensemble de vos logos sur un fichier texte (doc) puis de faire une capture d’écran de tous vos logos.
 
-**c) Conservation des données**&#x20;
+**d) Conservation des données**&#x20;
 
 Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez désormais indiquer le temps de conservation des données.&#x20;
 
-![Choix de la durée de conservation des données, en tant qu'administrateur ](../.gitbook/assets/Captures.PNG)
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.&#x20;
+{% hint style="info" %}
+**À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
+{% endhint %}
 
 Cependant tant l'instructeur que l'usager peuvent étendre la durée de conservation.&#x20;
 
@@ -145,25 +167,25 @@ Cependant tant l'instructeur que l'usager peuvent étendre la durée de conserva
 
 Enfin, un dossier en cours d'instruction ne peut être expiré pour des raisons juridique.
 
-**d) Cadre juridique**&#x20;
+**e) Cadre juridique**&#x20;
 
 De même, le cadre juridique doit être obligatoirement renseigné. En effet, dans l’intérêt de l’usager et de la protection de ses données, il est important de savoir ce qui vous autorise à lui demander des informations.&#x20;
 
 Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez indiquer une loi, un décret, une délibération en conseil municipal ou un règlement intérieur. Vous pouvez soit copier-coller le lien vers un site web qui le propose, soit télécharger le texte qui s'applique.
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Justification du cadre juridique en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-**e) Contact du Délégué à la Protection des Données (DPO)**&#x20;
+**f) Contact du Délégué à la Protection des Données (DPO)**&#x20;
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
-![Mention du contact du DPO, en tant qu'administrateur ](<../.gitbook/assets/image (8) (1) (2).png>)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
 
 <figure><img src="../.gitbook/assets/cadre juridique .png" alt=""><figcaption><p>Cadre juridique retranscrit en bas du formulaire </p></figcaption></figure>
 
-**f) L'open data**&#x20;
+**g) L'open data**&#x20;
 
 Afin de favoriser la transparence des données, vous avez la possibilité d'autoriser la publication  des descriptifs des démarches sur https://data.gouv.fr.&#x20;
 
@@ -297,7 +319,7 @@ L'usager peut choisir entre « Madame » ou « Monsieur ».
 
 L'usager doit renseigner un numéro de téléphone.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
 
 #### 3) Les champs relatifs à la localisation&#x20;
 
@@ -755,15 +777,15 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 1\) L'expert est notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 * 2\) L'expert est notifié que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
@@ -872,7 +894,7 @@ Vous pourrez alors accéder aux archives mensuelles :&#x20;
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
-<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2) (1).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
 
 Ensuite, un message d'avertissement apparaît. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
