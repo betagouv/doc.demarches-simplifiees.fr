@@ -19,9 +19,7 @@ description: >-
   \- [https://cartographie.societenumerique.gouv.fr/orientation/besoin](https://cartographie.societenumerique.gouv.fr/orientation/besoin) , cartographie permettant d'orienter les usagers vers les lieux d'inclusion numérique qui sauront répondre à vos besoins.\
   \- ou encore le site France services [https://www.france-services.gouv.fr/demarches-et-services](https://www.france-services.gouv.fr/demarches-et-services) afin de vous aider dans l'accomplissement de vos démarches en ligne.&#x20;
 
-
-
-## Retrouvez les 11 tutoriels des démarches administratives les plus courantes
+### Retrouvez les 11 tutoriels des démarches administratives les plus courantes
 
 * Pour vous guider dans vos démarches essentielles , l'État propose avec 7 ministères partenaires, des tutoriels vidéo afin d’accompagner concrètement et durablement les personnes en situation d’illectronisme et celles concernées par des difficultés d’accès au numérique en France.&#x20;
 * L'objectif est aussi aussi de lutter contre le non-recours aux droits causé par le manque d’information sur les aides et la complexité administrative:&#x20;
