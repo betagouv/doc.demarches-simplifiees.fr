@@ -21,13 +21,10 @@ description: >-
 
 
 
-**Tutoriels des 11 démarches les plus courantes**&#x20;
+## Retrouvez les 11 tutoriels des démarches administratives les plus courantes
 
-*   Pour vous guider dans vos démarches essentielles les plus courantes, l'État publie avec 7 ministères des tutoriels vidéo dans le cadre des travaux de dématérialisation et la simplification des démarches des Français.
-
-    &#x20;
-
-    Les objectifs sont d’accompagner concrètement et durablement les personnes en situation d’illectronisme et celles concernées par des difficultés d’accès au numérique. Et de lutter contre le non-recours aux droits causé par le manque d’information sur les aides et la complexité administrative:&#x20;
+* Pour vous guider dans vos démarches essentielles les plus courantes, l'État publie avec 7 ministères des tutoriels vidéo dans le cadre des travaux de dématérialisation et la simplification des démarches des Français.
+*   Les objectifs sont d’accompagner concrètement et durablement les personnes en situation d’illectronisme et celles concernées par des difficultés d’accès au numérique mais aussi de lutter contre le non-recours aux droits causé par le manque d’information sur les aides et la complexité administrative:&#x20;
 
     &#x20;
 
