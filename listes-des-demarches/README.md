@@ -18,6 +18,32 @@ description: >-
   \- [https://www.service-public.fr](https://www.service-public.fr/), site public de renseignement administratif\
   \- [https://cartographie.societenumerique.gouv.fr/orientation/besoin](https://cartographie.societenumerique.gouv.fr/orientation/besoin) , cartographie permettant d'orienter les usagers vers les lieux d'inclusion numérique qui sauront répondre à vos besoins.\
   \- ou encore le site France services [https://www.france-services.gouv.fr/demarches-et-services](https://www.france-services.gouv.fr/demarches-et-services) afin de vous aider dans l'accomplissement de vos démarches en ligne.&#x20;
+
+
+
+**Tutoriels des 11 démarches les plus courantes**&#x20;
+
+*   Pour vous guider dans vos démarches essentielles les plus courantes, l'État publie avec 7 ministères des tutoriels vidéo dans le cadre des travaux de dématérialisation et la simplification des démarches des Français.
+
+    &#x20;
+
+    Les objectifs sont d’accompagner concrètement et durablement les personnes en situation d’illectronisme et celles concernées par des difficultés d’accès au numérique. Et de lutter contre le non-recours aux droits causé par le manque d’information sur les aides et la complexité administrative:&#x20;
+
+    &#x20;
+
+    Consultez les 11 tutoriels vidéo :
+
+    * [Saisir le Défenseur des droits](https://dai.ly/x902hs6)
+    * [Signaler une utilisation frauduleuse de carte bancaire en ligne](https://dai.ly/x902ha4)
+    * [Consulter ses points permis de conduire](https://dai.ly/x902ie0)
+    * [Demander l’aide au logement (APL)](https://dai.ly/x902i16)
+    * [Formuler ses choix d'orientation en fin de collège (post 3e)](https://dai.ly/x902jm8)
+    * [Formuler ses choix d'orientation au lycée (post 2de GT)](https://dai.ly/x902jfg)
+    * [Faire son recensement citoyen obligatoire](https://dai.ly/x902jsa)
+    * [Participer à la journée défense et citoyenneté](https://dai.ly/x902k20)
+    * [Demander un extrait de casier judiciaire (bulletin n°3)](https://dai.ly/x902hh0)
+    * [Demander l'aide juridictionnelle](https://dai.ly/x902j5m)
+    * [Demander un logement en cité universitaire](https://dai.ly/x902iva)
 {% endhint %}
 
 {% hint style="success" %}
