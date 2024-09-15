@@ -68,7 +68,9 @@ Elle a été simplifiée et suit désormais la charte graphique du reste du site
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte démarches-simplifiées.fr. Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email](https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email)
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte démarches-simplifiées.fr. Plus d'informations ici :&#x20;
+
+[https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email](https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email)
 
 ## Les administrateurs peuvent proposer à l'usager d'évaluer leurs démarches grâce à « MonAvis »&#x20;
 
