@@ -67,7 +67,7 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 
 #### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
 
-* [**03 - Allier**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-ou-communication-neph)
+* [**03 - Allier**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-neph-ou-demande-de-dupl)
 * [**27 - Eure**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph)
 * [**29 - Finistère**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-neph-finistere)
 * [**35 - Ille-et-Vilaine**](https://www.demarches-simplifiees.fr/commencer/reactivation-communication\_neph35)
