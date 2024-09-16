@@ -1,8 +1,5 @@
 ---
-description: >-
-  Dernière mise à jour, le 20 novembre 2023 ( modification concernant le
-  traitement des données sensibles (b. restrictions d'usage) et fusion de
-  sous-parties .)
+description: Dernière mise à jour, le 16 septembre 2024 (Volet contribution financière)
 ---
 
 # Conditions Générales d'Utilisation
