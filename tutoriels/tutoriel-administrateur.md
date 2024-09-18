@@ -98,8 +98,6 @@ Une copie de la démarche apparaît automatiquement dans les démarches en test.
 
 Le principe est le même, il vous suffit de rechercher la démarche que vous souhaitez dématérialiser et la cloner depuis ce tableau de bord.&#x20;
 
-
-
 En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !&#x20;
 
 **Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
@@ -157,7 +155,7 @@ Afin d’être en conformité avec le Règlement Général sur la Protection des
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement expirés (supprimés) de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
+**À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement supprimés de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
 {% endhint %}
 
 Cependant tant l'instructeur que l'usager peuvent étendre la durée de conservation.&#x20;
