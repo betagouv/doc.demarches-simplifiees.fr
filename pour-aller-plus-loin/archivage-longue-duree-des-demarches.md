@@ -38,7 +38,7 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 ![Export PDF d'un dossier](<../.gitbook/assets/Screenshot 2023-07-04 at 9.40.34 AM.png>)
 
-* [L'utilisation de l'API](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/graphql) permet d'automatiser la récupération des données.
+* [L'utilisation de l'API ](https://doc.demarches-simplifiees.fr/api-graphql)permet d'automatiser la récupération des données.
 
 Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cet archive au format ZIP intègre&#x20;
 
