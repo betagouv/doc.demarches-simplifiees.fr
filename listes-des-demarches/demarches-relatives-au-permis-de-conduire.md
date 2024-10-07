@@ -48,22 +48,15 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 
 \
 Pour effectuer votre demande dématérialisée, rendez-vous sur le site internet de l'Agence Nationale des Titres Sécurisés (ANTS) : [https://ants.gouv.fr/monespace/s-inscrire](https://ants.gouv.fr/monespace/s-inscrire)\
-La confirmation de vos coordonnées postales vous sera demandée à la fin de l'instruction de votre demande sur votre « espace conducteur ».\
-\
-Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduire avant le mois d'août 2020 et que vous n'avez pas eu de suites, vous pouvez déclarer votre adresse actuelle à l'aide du formulaire ci-dessous :
-
-* [**Déclaration de changement d'adresse pour votre dossier en cours**](https://www.demarches-simplifiees.fr/commencer/cert-pc-epe-44-changement-d-adresse)
+La confirmation de vos coordonnées postales vous sera demandée à la fin de l'instruction de votre demande sur votre « espace conducteur ».
 
 #### Demander une place d'examen pratique au permis de conduire
 
-* [**27 - L'Eure**](https://www.demarches-simplifiees.fr/commencer/inscription-des-candidats-libres-epreuve-pratique)
 * [**46 - Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-place-candidat-libre)
-* [**51 - Marne**](https://candidat.convonom.fr/#/)
 * [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
-* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/permis\_candidatlibre\_ddtmmorbihan)
 * [**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
-* [**77 - Seine-et-Marne**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
-* [**82 - Tarn-et-Garonne**](broken-reference)&#x20;
+* [**77 - Seine-et-Marne**](https://candidat.permisdeconduire.gouv.fr)
+* [**82 - Tarn-et-Garonne** ](#user-content-fn-1)[^1]
 
 #### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
 
@@ -77,8 +70,8 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**50 - Manche**](https://www.demarches-simplifiees.fr/commencer/neph-manche)
 * [**51 - Marne** ](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-communication-du-numero-neph)
 * [**54 - Meurthe-et-Moselle (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation-du-neph) [**ou (communication)**](https://www.demarches-simplifiees.fr/commencer/communication-du-neph)
-* [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
-* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/neph-prefmorbihan)
+* **55**[ **- Meuse**](https://www.demarches-simplifiees.fr/commencer/demande-de-communication-du-numero-neph-departemen)
+* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph-morbihan)
 * [**69 - Rhône**](https://www.demarches-simplifiees.fr/commencer/neph69)
 * [**73 - Savoie** ](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph-73)
 * [**74 - Haute-Savoie (réactivation)**](https://www.demarches-simplifiees.fr/commencer/neph74)
@@ -101,7 +94,6 @@ Pour rappel, si vous avez déposé votre dossier d'échange de permis de conduir
 * [**42 - La Loire**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-4)
 * [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/demande-label-qualite-ae)
 * [**45 - Loiret**](https://www.demarches-simplifiees.fr/commencer/prefecture-45-demande-d-adhesion-au-label-qualite-)
-* [**47 - Lot-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/47-adhesion-label-qualite)
 * [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-adhesion-label-qualite-formations49)
 * [**51 - Marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations)
 * [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
@@ -291,3 +283,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 
 
+
+
+[^1]: 
