@@ -14,7 +14,7 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 
 <figure><img src=".gitbook/assets/tempsnip mentor .png" alt=""><figcaption><p>Parcours "numérique et relation aux usagers"</p></figcaption></figure>
 
-### **Retrouvez ci-après les différents bilans des usages de** « Démarches simplifiées »
+### **Retrouvez ci-après les différents bilans des usages de** Démarches simplifiées ainsi que notre support de présentation :&#x20;
 
 **Bilan 2022**
 
@@ -25,6 +25,12 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 {% file src=".gitbook/assets/DS bilan 2023V3.pdf" %}
 Bilan 2023 de DS
 {% endfile %}
+
+### Support de présentation :&#x20;
+
+
+
+{% file src=".gitbook/assets/Présentation Démarches simplifiées  2024 (2).pdf" %}
 
 ### Objectif
 
