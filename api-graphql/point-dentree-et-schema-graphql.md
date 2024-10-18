@@ -31,7 +31,7 @@ Le corps de votre requete POST, **doit être un JSON respectant la spécificatio
 Pour plus d'information concernant le schema, vous pouvez:&#x20;
 
 * consulter la documentation : [https://www.demarches-simplifiees.fr/graphql/schema/index.html](https://www.demarches-simplifiees.fr/graphql/schema/index.html)
-* consulter le fichier graphql.schema : [https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/app/graphql/schema.graphql](https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/app/graphql/schema.graphql) (attention il peut être en avance par rapport à l'environnement de production)
+* consulter le fichier graphql.schema : [https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/app/graphql/schema.graphql](https://github.com/demarches-simplifiees/demarches-simplifiees.fr/blob/main/app/graphql/schema.graphql)&#x20;
 * utiliser GraphiQL explorer du playground : [https://www.demarches-simplifiees.fr/graphql/](https://www.demarches-simplifiees.fr/graphql/)
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-12-06 at 8.25.22 PM.png" alt=""><figcaption></figcaption></figure>
