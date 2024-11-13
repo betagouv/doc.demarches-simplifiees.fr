@@ -23,7 +23,7 @@ Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : 
 \
 **2. Dans le cas ou le dossier est pour un bénéficiaire**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le mandataire doit d'abord renseigner ses propres informations personnelles sous la section "Votre identité", en fournissant son prénom et son nom. Ceci permet d'identifier clairement qui effectue la démarche.
 

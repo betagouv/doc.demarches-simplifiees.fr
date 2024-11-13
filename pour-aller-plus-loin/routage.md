@@ -77,7 +77,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 * Il est possible de conditionner l'affichage d'un champ dédié au routage (voir l'exemple ci-dessous). Si le champ est affiché, le dossier sera routé en fonction du choix de l'usager. Si le champ n'est pas affiché, le dossier sera routé vers le groupe d'instructeurs par défaut (à définir en bas de la page « Gestion des groupes »)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 8. Supprimer le routage
 

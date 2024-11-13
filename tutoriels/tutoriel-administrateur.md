@@ -76,7 +76,7 @@ Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégor
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
 
 La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
@@ -90,11 +90,11 @@ La liste des démarches associées à l'intitulé recherché s'affichera et vous
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
 
 **Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Le principe est le même, il vous suffit de rechercher la démarche que vous souhaitez dématérialiser et la cloner depuis ce tableau de bord.&#x20;
 
@@ -120,7 +120,7 @@ Tous les champs marqués d'un astérisque sont obligatoires.
 
 **a) Titre et description de la démarche**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire dans la partie "quel est l'objet de la démarche". Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
 
@@ -783,7 +783,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 

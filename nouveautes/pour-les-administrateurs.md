@@ -6,9 +6,11 @@ description: >-
 
 # Pour les administrateurs
 
-###
+### Retrouvez toutes les nouveautés et l'actualité Démarches simplifiées depuis l'onglet "nouveautés" de votre compte  :&#x20;
 
-## Changement de couleurs
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### Changement de couleurs
 
 Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'État.\
 \
