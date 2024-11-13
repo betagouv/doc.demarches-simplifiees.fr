@@ -1,10 +1,3 @@
----
-description: >-
-  Retrouvez ici toutes les nouveautés développées pour les usagers de
-  demarches-simplifiees.fr. Les usagers sont les personnes qui remplissent des
-  démarches.
----
-
 # Pour les usagers
 
 ## Nouveau bloc "mandataire"
@@ -127,7 +120,9 @@ Les boutons « enregistrer un brouillon » et « déposer le dossier », auparav
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte demarches-simplifiees.fr. Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email](https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email)
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte demarches-simplifiees.fr. Plus d'informations ici :&#x20;
+
+{% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
 ## Déposer plusieurs dossiers à la suite est plus facile
 
