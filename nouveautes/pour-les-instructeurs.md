@@ -108,11 +108,20 @@ Dorénavant, vous pouvez télécharger toutes les pièces jointes contenues dans
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte demarches-simplifiees.fr. Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email](https://faq.demarches-simplifiees.fr/article/68-changer-mon-adresse-email)
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte demarches-simplifiees.fr. Plus d'informations ici :&#x20;
 
-## Les instructeurs peuvent repasser des dossiers classés sans suite ou refusés en instruction
+{% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
+
+## Les instructeurs peuvent repasser des dossiers classés sans suite ou refusés en instruction . Il est également possible d'envoyer à l'usager une demande de correction.&#x20;
 
 ![](../.gitbook/assets/Repasser\_un\_dossier\_en\_instruction.png)
 
-Vous avez classé sans suite ou refusé un dossier par erreur ? Pas de panique : vous pouvez désormais le repasser en instruction ! Il suffit pour cela de cliquer sur le bouton « Sans suite » ou « Refusé » puis « Repasser en instruction »\
-Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/57-repasser-un-dossier-en-instruction](https://faq.demarches-simplifiees.fr/article/57-repasser-un-dossier-en-instruction)
+Vous avez classé sans suite ou refusé un dossier par erreur ? Pas de panique : vous pouvez désormais le repasser en instruction ! Il suffit pour cela de cliquer sur le bouton « Sans suite » ou « Refusé » puis « Repasser en instruction »
+
+Un usager a transmis une mauvaise information ? Pas de panique : vous pouvez désormais envoyer à l'usager une demande de correction. L'usager recevra un mail pour corriger son dossier, dans l'attente, celui sera marque comme "en attente" de correction depuis vos tableau de bord instructeur de la démarche.&#x20;
+
+\
+Plus d'informations ici :&#x20;
+
+[https://www.demarches-simplifiees.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction](https://www.demarches-simplifiees.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction)
+
