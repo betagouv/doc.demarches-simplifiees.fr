@@ -70,7 +70,7 @@ Elle a été simplifiée et suit désormais la charte graphique du reste du site
 
 Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte démarches-simplifiées.fr. Plus d'informations ici :&#x20;
 
-[https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email](https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email)
+{% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
 ## Les administrateurs peuvent proposer à l'usager d'évaluer leurs démarches grâce à « MonAvis »&#x20;
 
@@ -86,9 +86,7 @@ Plus d'informations ici : [https://doc.demarches-simplifiees.fr/tutoriels/integr
 
 Vous pouvez désormais ajouter autant de co-administrateur sur votre démarche que vous voulez !
 
-Plus d'informations ici : [https://faq.demarches-simplifiees.fr/article/52-plusieurs-administrateurs-sur-une-meme-demarche](https://faq.demarches-simplifiees.fr/article/52-plusieurs-administrateurs-sur-une-meme-demarche)
+Plus d'informations ici :&#x20;
 
-{% file src="../.gitbook/assets/PRESENTATIONDEPLIANTDSVETAT3.pdf" %}
-Une présentation de DS pour les acteurs publics
-{% endfile %}
+{% embed url="https://www.demarches-simplifiees.fr/faq/administrateur/ajouter-plusieurs-administrateurs-sur-une-meme-demarche" %}
 
