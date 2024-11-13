@@ -6,6 +6,10 @@ description: >-
 
 # Pour les instructeurs
 
+### Retrouvez toutes les nouveautés et l'actualité Démarches simplifiées depuis l'onglet "nouveautés" de votre compte :&#x20;
+
+<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+
 ## La possibilité de supprimer un message envoyé par erreur sur la messagerie
 
 
