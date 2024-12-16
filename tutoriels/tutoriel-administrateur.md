@@ -725,7 +725,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 <figure><img src="../.gitbook/assets/image (22) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté instructeurs** :&#x20;
-* Ils doivent désormais,  **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.&#x20;
+* Ils doivent désormais,  **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.&#x20;
 
 <figure><img src="../.gitbook/assets/image (23) (3).png" alt=""><figcaption><p>Demande d'avis externes, en tant qu'instructeur </p></figcaption></figure>
 

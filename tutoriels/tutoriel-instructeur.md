@@ -8,10 +8,6 @@ Ce tutoriel détaille les étapes d’instruction d'un dossier sur demarches-sim
 
 **Télécharger la version papier du tutoriel**
 
-{% file src="../.gitbook/assets/spaces--L7_aKvpAJdAIEfxHudA-pdf-1404230692.pdf" %}
-TUTORIEL PAPIER AU 4 FEVRIER 2021
-{% endfile %}
-
 
 
 ## Version vidéo
@@ -178,7 +174,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités, afin qu'après notification, ils émettent un avis sur un dossier. \
 
-* Ainsi, les instructeurs de la démarche doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuite**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
+* Ainsi, les instructeurs de la démarche doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.07.53.png" alt=""><figcaption></figcaption></figure>
 
@@ -257,7 +253,7 @@ Un dossier « en construction » reste modifiable par l'usager. Ce stade permet 
 
 #### _- Passer le dossier en instruction :_
 
-Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usager_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
+Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usage&#x72;_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.54.45.png" alt=""><figcaption><p>Passage en instruction d'un dossier</p></figcaption></figure>
 
@@ -480,6 +476,15 @@ Vous pouvez faire un export massif de l'ensemble des dossiers ou bien exporter d
 
 L'API vous permet également de télécharger les dossiers et les pièces jointes.&#x20;
 
+### C. Personnaliser les exports
+
+Vous avez la possibilité en tant qu’instructeur de personnaliser vos exports:&#x20;
+
+Cela vous permet de générer une extraction des dossiers avec seulement les colonnes qui vous intéressent. Pour ce faire, il faut cliquer sur “Modèles d’export” sur l’onglet “téléchargements” de votre interface d’instruction.&#x20;
+
+\
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt="" data-size="original">
+
 ## 6. Autres paramètres
 
 ### A. Notifications de mise à jour d'un dossier
@@ -499,6 +504,29 @@ La pastille s'efface lorsque vous cliquez sur le dossier en question.&#x20;
 Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc). Cela peut être utile lorsque les pastilles oranges sont effacées.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.45.28.png" alt=""><figcaption><p>Remonter les dossiers avec une notification</p></figcaption></figure>
+
+**c. Les labels**
+
+Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pour mieux les identifier ou les organiser. Les couleurs disponibles permettre de s’y retrouver plus facilement. Les labels sont standards ou personnalisables.&#x20;
+
+Ils sont configurables par l'administrateur de la démarche. Ce dernier a la possibilité de modifier les labels ou d’en créer un nouveau.&#x20;
+
+En tant qu''instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous:&#x20;
+
+&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePLwU53WxHLPUlPvNNPP6sOCQTSqWqieXEOaiuc6qtkxkKujWhrVI2Snt_JOxvJ_jPibe87kccyvea2aH8qAQ2tNfUmYM7GfWGJo-ip0GM6qQeZserpP2hA1QSGfrfLniiRMFHOA?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
+
+
+
+Pour ajouter ou modifier un label sur un dossier, vous devez cliquer sur le point à droite des labels pour les afficher:&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSksGcoWz9UU7Gb1Ks4gEFv1EDmMXIfRwV59sjxo0fy4Z3DUrhLYJcyys67bBSX7hAPFYMWvIXw9tkV42uDAHOVgQGt1OpfIlXKq5s3aOq6mSEDM2s7lmP7rti8dOcAPWaHGOPwg?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
+
+\
+Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tableau de bord en utilisant le filtre dédié aux labels ou en personnalisant votre tableau de bord  instructeur comme ci-dessous:&#x20;
+
+<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 ### B. Statistiques
 

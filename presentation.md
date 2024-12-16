@@ -4,7 +4,7 @@ description: "Cette page présente les grands principes de «\_Démarches simpli
 
 # Présentation
 
-_**Vidéo Vimeo (**les informations contenues dans cette vidéo sont explicitées dans le texte en dessous)_
+_**Vidéo Vimeo (**&#x6C;es informations contenues dans cette vidéo sont explicitées dans le texte en dessous)_
 
 {% embed url="https://vimeo.com/333750506" %}
 5 minutes pour comprendre demarches-simplifiees.fr
