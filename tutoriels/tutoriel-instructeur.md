@@ -483,7 +483,32 @@ Vous avez la possibilité en tant qu’instructeur de personnaliser vos exports:
 Cela vous permet de générer une extraction des dossiers avec seulement les colonnes qui vous intéressent. Pour ce faire, il faut cliquer sur “Modèles d’export” sur l’onglet “téléchargements” de votre interface d’instruction.&#x20;
 
 \
-<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt="" data-size="original">
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
+
+A noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs .&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaP1pADWfziAvrXnIXD8A8U3YXcZpiuQ9xT7MFiUdyQoZTjHjNy3uXvPm0F15xYArIt3bilG3sApS-wmEQNF8QaN58Iq2_eEelXDuxMhz9LJjNtwjjQEtwU2JZkJV2KPhHr-R9?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
+
+Il vous suffit de remplir les champs et de sélectionner les colonnes souhaitées.&#x20;
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxOLop5Uye7TmomlAh-zg6E81C5fvdV89oKrsidomo9_puhJrUl0giy4FCNq7TTzu76h3Z2JyljicEEMJFC0MBeXE9FAimuje3rHXy5pi3ZRi-mXcNJXIc63HQmBuFM3tjDZTz9w?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
+
+\
+Une fois l’ensemble des champs sélectionnés, l’export est créé et figure sur ma liste:&#x20;
+
+\
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXegE73ofuAamYFVD_nQP5FiTDaZaQ6qfOKDBet73otOXmFRapuLH7hPN3ENeRGWTMSgKNQ5Te0BSFsuwbBEOS9_rX-xH9zEMPAx9-Qp017MLUiczp2575AvsFnDnhD5RMOrTFza4g?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
+
+Pour télécharger l’export, revenez à votre écran de gestion, cliquez sur “télécharger les dossiers” et sélectionnez “à partir d’un modèle”
+
+\
+
+
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXewbBeFTbPkyNuWC1DWFuDJf0Qxt6vP4vCH2A7j48yfY7UN4Tf28fl5qkmj8c95Ilp8utaAIcxiuax4Cj2AWWopCfgSfC06gcVc_0Pie4WSFSs1LFffsYwtV2BCY_MGyRhtkwhf?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
 
 ## 6. Autres paramètres
 
@@ -505,7 +530,7 @@ Vous avez aussi la possibilité de faire remonter les dossiers avec une notifica
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.45.28.png" alt=""><figcaption><p>Remonter les dossiers avec une notification</p></figcaption></figure>
 
-**c. Les labels**
+### **B. Les labels**
 
 Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pour mieux les identifier ou les organiser. Les couleurs disponibles permettre de s’y retrouver plus facilement. Les labels sont standards ou personnalisables.&#x20;
 
@@ -528,7 +553,7 @@ Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tablea
 
 <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-### B. Statistiques
+### C. Statistiques
 
 Sur chaque procédure, l'instructeur a accès à des statistiques :
 
@@ -543,7 +568,7 @@ Dans cet onglet "statistiques", vous trouverez les informations suivantes:&#x20;
 
 Ces données ne peuvent être exportées. En revanche, elles sont publiques et peuvent donc être consultées à tout moment.&#x20;
 
-### C. Récapitulatif de l'activité
+### D. Récapitulatif de l'activité
 
 L'instructeur est notifié par e-mail de l'activité sur chacune des procédures sur lesquelles il a été nommé. L'e-mail signale le dépôt de nouveaux dossiers et les changements effectués par les usagers sur les dossiers suivis.&#x20;
 
