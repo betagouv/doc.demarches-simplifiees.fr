@@ -14,9 +14,8 @@ Là encore, réferrez-vous [au schéma de l'API](https://www.demarches-simplifie
 
 ## Query pour récupérer les informations d'une démarche :&#x20;
 
-```graphql
-query getDemarche(
-  $demarcheNumber: Int!
+<pre class="language-graphql"><code class="lang-graphql"><strong>query getDemarche(
+</strong>  $demarcheNumber: Int!
   $state: DossierState
   $order: Order
   $first: Int
@@ -45,6 +44,7 @@ query getDemarche(
   $includeInstructeurs: Boolean = true
   $includeAvis: Boolean = false
   $includeMessages: Boolean = false
+  $includeLabels: Boolean = false
   $includeGeometry: Boolean = false
 ) {
   demarche(number: $demarcheNumber) {
@@ -63,6 +63,9 @@ query getDemarche(
     }
     service @include(if: $includeService) {
       ...ServiceFragment
+    }
+    labels @include(if: $includeLabels){
+      ...LabelFragment
     }
     dossiers(
       state: $state
@@ -194,6 +197,9 @@ fragment DossierFragment on Dossier {
   messages @include(if: $includeMessages) {
     ...MessageFragment
   }
+  labels @include(if: $includeLabels) {
+    ...LabelFragment
+  }
 }
 
 fragment DeletedDossierFragment on DeletedDossier {
@@ -269,14 +275,20 @@ fragment AvisFragment on Avis {
   }
 }
 
-fragment MessageFragment on Message {
-  id
+<strong>fragment MessageFragment on Message {
+</strong>  id
   email
   body
   createdAt
   attachments {
     ...FileFragment
   }
+}
+
+fragment LabelFragment on Label {
+  id
+  name
+  color
 }
 
 fragment GeoAreaFragment on GeoArea {
@@ -459,7 +471,7 @@ fragment PageInfoFragment on PageInfo {
   hasNextPage
   endCursor
 }
-```
+</code></pre>
 
 Une fois cette query en place, vous pouvez utilisez differentes variantes pour executer une requete et en sortir les résultats suivants :
 
