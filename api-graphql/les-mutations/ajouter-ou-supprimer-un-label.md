@@ -4,7 +4,7 @@ Les instructeurs peuvent ajouter (ou modifier) des labels à un dossier, qui agi
 
 Par défaut 5 labels sont créés : _Urgent, À examiner, À relancer, Complet, À signer_. Laissez libre court à votre imagination pour organiser l’instruction: _Prêt pour la commission, Validé par la hiérarchie_, …
 
-L’API permet d’associer ou supprimer un label à un dossier. Récupérez d'abord la liste des identifiants de labels disponibles sur la démarche.
+L’API permet d’associer ou supprimer un label à un dossier. Récupérez d'abord [la liste des identifiants de labels disponibles](../les-queries/getdemarche.md#query-pour-recuperer-les-informations-dune-demarche) sur la démarche.
 
 Il n’y a pas de limite sur le nombre de labels par dossier, mais dans l’interface Démarches Simplifiées il n’est généralement pas pratique d’en afficher plus de 5 ou 6 par dossier.
 
