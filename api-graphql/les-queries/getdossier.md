@@ -19,6 +19,7 @@ query getDossier(
   $includeInstructeurs: Boolean = true
   $includeAvis: Boolean = false
   $includeMessages: Boolean = false
+  $includeLabels: Boolean = false
   $includeGeometry: Boolean = false
 ) {
   dossier(number: $dossierNumber) {
