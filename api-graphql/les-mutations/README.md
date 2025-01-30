@@ -12,7 +12,7 @@ Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisen
 
 Pour rappel, le cycle de vie d'un dossier dans DS est le suivant : brouillon -> en construction -> en instruction -> accepté ou refusé ou classé sans suite.
 
-Les mutations possibles pour un dossiers sont les suivantes :
+Les mutations possibles pour un dossier sont les suivantes :
 
 * Passer un dossier en instruction
 * Accepter un dossier
@@ -23,6 +23,8 @@ Les mutations possibles pour un dossiers sont les suivantes :
 * Archiver un dossier
 * Ajouter un message à la messagerie du dossier / usager
 * Changer un dossier de groupe d'instructeur
+* Ajouter un label
+* Retirer un label
 
 #### Demarche :
 
@@ -43,7 +45,7 @@ L'unique mutations possibles pour une démarche est la suivantes :
 * Modifier un groupe d'instructeur
 * Supprimer un instructeur d'un groupe d'instructeur
 
-PieceJointe :&#x20;
+**PieceJointe** :&#x20;
 
 * Uploader un PJ pour la liée à un message envoyé a l'usager
 
