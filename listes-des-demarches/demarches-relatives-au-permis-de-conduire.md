@@ -58,34 +58,9 @@ La confirmation de vos coordonnées postales vous sera demandée à la fin de l'
 * [**77 - Seine-et-Marne**](https://candidat.permisdeconduire.gouv.fr)
 * [**82 - Tarn-et-Garonne** ](#user-content-fn-1)[^1]
 
-#### Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC)&#x20;
+#### [Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC) ](https://www.demarches-simplifiees.fr/commencer/https-www-demarches-simplifiees-fr-communication-r)
 
-* [**03 - Allier**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-neph-ou-demande-de-dupl)
-* [**27 - Eure**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph)
-* [**29 - Finistère**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-neph-finistere)
-* [**35 - Ille-et-Vilaine**](https://www.demarches-simplifiees.fr/commencer/reactivation-communication_neph35)
-* [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/prefecture_ddtm44_neph_reactiv_com_correction)
-* [**46 - Lot**](https://www.demarches-simplifiees.fr/commencer/46-duplicata-dossier-demande-de-permis-de-conduire)
-* [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-numero-neph)
-* [**50 - Manche**](https://www.demarches-simplifiees.fr/commencer/neph-manche)
-* [**51 - Marne** ](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-communication-du-numero-neph)
-* [**54 - Meurthe-et-Moselle (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation-du-neph) [**ou (communication)**](https://www.demarches-simplifiees.fr/commencer/communication-du-neph)
-* **55**[ **- Meuse**](https://www.demarches-simplifiees.fr/commencer/demande-de-communication-du-numero-neph-departemen)
-* [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph-morbihan)
-* [**69 - Rhône**](https://www.demarches-simplifiees.fr/commencer/neph69)
-* [**73 - Savoie** ](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-reactivation-neph-73)
-* [**74 - Haute-Savoie (réactivation)**](https://www.demarches-simplifiees.fr/commencer/neph74)
-* [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/neph75)
-* [**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/neph-76)
-* [**77- Seine-et-Marne (réactivation)**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-du-numero-neph-77)
-* [**78 - Yvelines**](https://www.demarches-simplifiees.fr/commencer/ddt-78-demande-de-reactivation-communication-dupli)
-* [**82- Tarn-et-Garonne**](https://www.demarches-simplifiees.fr/commencer/82-pour-les-residents-de-tarn-et-garonne-uniquemen)
-* [**88 - Vosges (communication)** ](https://www.demarches-simplifiees.fr/commencer/communication_neph_88)[**ou (réactivation)**](https://www.demarches-simplifiees.fr/commencer/reactivation_neph_88)
-* [**91 - Essonne**](https://www.demarches-simplifiees.fr/commencer/demande-reactivation-actualisation-numero-neph-91)
-* [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/neph92)
-* [**93 - Seine-Saint-Denis**](https://www.demarches-simplifiees.fr/commencer/neph93)
-* [**94 - Val-de-Marne**](https://www.demarches-simplifiees.fr/commencer/neph94)
-* [**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-de-duplicata-neph-reactivation)
+Depuis 2025, la démarche de réactivation ou communication du NEPH est sur un formulaire national [disponible ici](https://www.demarches-simplifiees.fr/commencer/https-www-demarches-simplifiees-fr-communication-r)
 
 **Demande d'adhésion au label « Qualité des formations au sein des écoles de conduite »**
 
@@ -102,14 +77,11 @@ La confirmation de vos coordonnées postales vous sera demandée à la fin de l'
 * [**63 - Puy-de-dome et Allier**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-63-03)
 * [**74 - Haute-Savoie**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddt74)
 * [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-paris-75)
-* [**76 - Seine-Maritime**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ae-ddtm76)
 * [**77 - Seine-et-marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-3)
 * [**78 - Yvelines** ](https://www.demarches-simplifiees.fr/commencer/78-demande-d-adhesion-au-label-qualite-des-formations)
 * [**79 - Deux-Sèvres**](https://www.demarches-simplifiees.fr/commencer/79-adhesion-initiale-au-label-qualite-v2021)
 * [**83 - Var**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddtm83)
-* [**88 - Vosges**](https://www.demarches-simplifiees.fr/commencer/label-ae-88)
 * [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber92)
-* [**93 - Seine-Saint-Den**](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-d-adhesion-au-label-qualite-)**is**
 * [**94 - Val-de-Marne**](https://www.demarches-simplifiees.fr/commencer/label-qualite-des-formations-94)
 * [**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite)
 
@@ -121,9 +93,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 ## Autres démarches
 
-### 18 - Cher
 
-[Demande de numéro NEPH](https://www.demarches-simplifiees.fr/commencer/demande-neph-cher-indre)
 
 ### 27 - Eure&#x20;
 
@@ -155,10 +125,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
   &#x20;**conducteurs routiers**](https://www.demarches-simplifiees.fr/commencer/34-reservations-titres-professionnels)
 * [**34 - Demande de**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)[ **Certificat d'Examen du Permis de Conduire (CEPC) version papier dans le cas d'un retour au permis**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)
 
-## 36 - Indre
-
-[Demande de numéro NEPH](https://www.demarches-simplifiees.fr/commencer/demande-neph-cher-indre)
-
 ### 44 - Loire-Atlantique
 
 * [**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture_ddtm44_duplicata-aipc)
@@ -169,8 +135,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [**46- Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Lot**](https://www.demarches-simplifiees.fr/commencer/46-operateur-agree-oa-pour-les-examens-du-code)
 * [**46 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-place-d-examen-au-code-de-la-rout)
 * [**46 - Demande agrément auto-école (EECSR) dans Lot (1ère demande, renouvellement, reprise/transfert/déménagement, ou extension)**](https://www.demarches-simplifiees.fr/commencer/46-demande-agrement-auto-ecole-eecsr-dans-lot)
-* [**46 - Demande d'une ATRE - autorisation temporaire et restritice d'exercer (pour école de conduite du Lot)**](broken-reference)
-* [**Duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH**](broken-reference)
 * [**46 - Demande d'une autorisation d'enseigner pour résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-autorisation-d-enseigner)
 
 ### 47 - Lot-et-Garonne
@@ -186,10 +150,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 ### **55 - Meuse**
 
-#### Réactivation ou communication du NEPH
-
-55 - Réactivation NEPH / duplicata de dossier 02 ou ants\
-[https://www.demarches-simplifiees.fr/commencer/reactivation-neph-duplicata-de-dossier-d-inscripti](https://www.demarches-simplifiees.fr/commencer/reactivation-neph-duplicata-de-dossier-d-inscripti)\
 \
 **Demande d'adhésion au label qualité de l'enseignement**\
 55 - Déclaration de formation post-permis - Département de la Meuse\
@@ -247,13 +207,10 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 * [82 - Demande place examen permis conduire candidat libre (sans auto-école) pratique B (résidents de Tarn-et-Garonne uniquement)](https://www.demarches-simplifiees.fr/commencer/82-demande-place-examen-candidat-libre)
 * [82 - Opérateur agréé (OA) pour les examens du code de la route (ETG) dans le Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-operateur-agree-oa-pour-les-examens-du-code-de-)
-* [82 - Pour les résidents de Tarn-et-Garonne uniquement, duplicata dossier demande de permis de conduire (cerfa 02 / attestation d'inscription ANTS) ou demande NEPH](broken-reference)
 * [82 - Demande d'une place d'examen au code de la route spécifique en DDT pour les résidents de Tarn-et-Garonne](https://www.demarches-simplifiees.fr/commencer/82-demande-d-une-place-d-examen-au-code-de-la-rout)
 
-## 84 - Vaucluse&#x20;
+## 84 - Vaucluse
 
-* Demande de réactivation/communication NEPH/modification état civil/duplicata de dossier :\
-  [https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-du-numero-ne-2](https://www.demarches-simplifiees.fr/commencer/demande-de-reactivation-communication-du-numero-ne-2)
 * Inscription à l'épreuve théorie générale (code de la route) - séances spécifiques (NF/DYS/sourds et malentendants) :\
   [https://www.demarches-simplifiees.fr/commencer/inscription-etg-etat](https://www.demarches-simplifiees.fr/commencer/inscription-etg-etat)
 * Demande d'attestation de codification pour aménagement des véhicules pour tenir compte du handicap\
