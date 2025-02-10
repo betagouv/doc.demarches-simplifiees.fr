@@ -14,10 +14,10 @@ Temporairement, il existe deux exceptions afin de permettre aux usagers et aux a
 * Les dossiers dans l’état « en instruction » n'expirent pas – on attend d'avoir une conversation avec les administrations sur les modalités d'expiration possibles dans cet état.
 * Les dossiers en état « terminé » (accepté, refusé et classé sans suite) ne sont expirés que sur les démarches dont l'administrateur a demandé l'activation de la fonctionnalité.
 
-Très prochainement, lorsque nous serons en mesure de proposer de meilleurs outils d'export des données, la fonctionnalité sera activée sur toutes les démarches .
+Les outils d'export sont disponibles sur votre interface et la suppression des dossiers est activée sur toutes les démarches
 {% endhint %}
 
-### Suppression automatique des comptes usagerss usagers
+### Suppression automatique des comptes usagers usagers
 
 Les usagers inactifs (qui ne se sont pas connectés pendant deux ans et n'ayant pas de dossier en instruction) sont automatiquement supprimés. Deux semaines avant la suppression du compte,  l’usager est notifié par e-mail. Après la suppression, il pourra plus tard recréer un compte avec la même adresse électronique. Si l'usager ne souhaite pas que nous supprimions son compte automatiquement, il lui suffit de se connecter une fois à son compte avec ses identifiants habituels. Le délai sera réinitialisé et le compte conservé à nouveau pendant 2 ans.
 
