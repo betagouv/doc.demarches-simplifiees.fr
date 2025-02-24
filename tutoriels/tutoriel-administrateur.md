@@ -837,6 +837,14 @@ Vous devez ensuite indiquer où les usagers trouveront le lien de la démarche. 
 
 **Une fois la démarche publiée, vous avez la possibilité de modifier la démarche à tout moment excepté la partie « à qui s'adresse ma démarche ».**&#x20;
 
+### **Modifier le lien URL de sa démarche**&#x20;
+
+Vous pouvez modifier le lien URL de votre démarche, même après sa publication. Il suffit pour cela de cliquer sur le pictogramme "crayon" à côté du lien de la démarche depuis l'interface administrateur.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-02-24 à 11.28.58.png" alt=""><figcaption><p>Modification du lien de la démarche depuis l'interface administrateur</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-02-24 à 11.29.52.png" alt=""><figcaption><p>Modification du lien de la démarche </p></figcaption></figure>
+
 ## 17. Clore une démarche&#x20;
 
 Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Clore ».
