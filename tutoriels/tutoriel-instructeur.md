@@ -16,6 +16,10 @@ Attention : nous apportons continuellement des améliorations à demarches-simpl
 
 {% embed url="https://player.vimeo.com/video/261479389?byline=0&portrait=0" %}
 
+**Webinaire :**&#x20;
+
+Participez à nos webinaires dédiés aux instructeurs, organisés chaque troisième mardi du mois, pour vous former et poser toutes vos questions.
+
 ## Qu'est-ce qu'un instructeur ?
 
 Un instructeur est une personne nommée par un administrateur afin de prendre en charge le traitement et l'instruction des dossiers d'une démarche administrative.&#x20;
@@ -24,7 +28,9 @@ L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a
 
 ## 1. Se connecter à demarches-simplifiees.fr
 
-* **Réception du message d’invitation à devenir instructeur sur une procédure :**
+* **Réception du message d’invitation à devenir instructeur sur une procédure :**&#x20;
+
+**Les instructeurs doivent obligatoirement être affectés à une démarche par les administrateurs.**&#x20;
 
 Un instructeur nommé pour la première fois par un administrateur pour suivre une procédure reçoit une invitation par e-mail :&#x20;
 
@@ -40,59 +46,82 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 ## 2. Le tableau de suivi des procédures
 
-Le tableau de suivi des démarches permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé. Le nom de la démarche et son numéro y figurent.&#x20;
+### A. Personnaliser l'ordre des démarches et accès direct à une démarche&#x20;
+
+Le tableau de suivi des démarches permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé. Le nom de la démarche, son numéro et des compteurs de dossiers y figurent.&#x20;
 
 Les démarches sont classées dans plusieurs onglets : les démarches publiées, en test et closes.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 15.33.17.png" alt=""><figcaption><p>Interface instructeur et vue sur les démarches</p></figcaption></figure>
+Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches . Pour cela, il suffit de cliquer sur le bouton " personnaliser l'ordre" :&#x20;
+
+<figure><img src="../.gitbook/assets/instructeur (1).png" alt=""><figcaption><p>La liste des démarches en tant qu'instructeur </p></figcaption></figure>
+
+Vous pourrez alors déplacer les démarches dans la liste pour les classer en fonction de vos préférences comme ci-dessous :&#x20;
+
+<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p>Personnalisation de l'ordre des démarches</p></figcaption></figure>
+
+
+
+Pour accéder directement, il est désormais possible de sélectionner la démarche concernée depuis la barre de recherche " accès direct" située à droite de votre interface instructeur :&#x20;
+
+<figure><img src="../.gitbook/assets/instructeur.png" alt=""><figcaption><p>Accès direct à une démarche </p></figcaption></figure>
+
+### B. Le suivi des dossiers&#x20;
 
 Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ». Vous pouvez continuer d'instruire une démarche même si elle est close. Seul le dépôt de nouveau dossier ne sera plus possible sur cette démarche close.&#x20;
 
-Les dossiers sont classés selon leur stade de traitement : à suivre, suivi, traité, au total, supprimé récemment, expirant et archivé.
+Les dossiers sont classés selon leur stade de traitement : à suivre, suivi par moi, traités, au total, expirants, à archiver et supprimés.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-28 à 11.52.48.png" alt=""><figcaption><p>Vue du tableau de bord instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>tableau de suivi des dossiers</p></figcaption></figure>
 
 Ces différents stades de traitement correspondent à :
 
 * **à suivre** : onglet contenant l'ensemble des dossiers qui ne sont suivis par aucun instructeur. Pour s'assigner le dossier, il suffit de cliquer sur "suivre le dossier".
-* **Suivi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier.
-* **Traité** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.&#x20;
-* **Au total** : l'ensemble des dossiers de la démarche dont ceux suivis par les instructeurs autres que celui connecté. Si la démarche est routée, vous ne trouverez que les dossiers de votre groupe.
-* **Supprimé récemment** : Vous y retrouvez les dossiers "traités" que vous avez supprimé
-* **Expirant** : les dossiers ont une durée de conservation fixé par l'administrateur de la démarche. Les dossiers qui arrivent à expiration sont donc dans cet onglet. Passé ce délai, les dossiers expirent définitivement. Il faut donc les instruire avant l'expiration.   &#x20;
-* **Archivé** : dossiers archivés par un instructeur. Seuls les dossiers traités peuvent être archivés. La messagerie est automatiquement désactivée sur le dossier dès que le dossier est archivé.&#x20;
+* **Suivi par moi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier.
+* **Traités** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.&#x20;
+* **Au total :** contient l'ensemble des dossiers déposés sur cette démarche, quel que soit leur statut (« à suivre », « suivis par moi », « traités »). Si les dossiers sont routés dans des groupes instructeurs, vous ne trouverez dans cet onglet que les dossiers du (des) groupe(s) dont vous faites partie.
+* **Expirants :** contient les dossiers dont le délai de conservation va bientôt expirer (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).
+* **A archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans demarches-simplifiees.fr sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
+* **Corbeille :** cet onglet contient :\
+  \- les dossiers dont le délai de conservation a expiré (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).\
+  \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.\
+  À partir de la date à laquelle les dossiers ont été mis dans la corbeille, vous disposez d’un délai de 7 jours pour les télécharger / restaurer / étendre leur durée de conservation d’un mois. Passé ce délai, ces dossiers seront supprimés définitivement.
 
-### **A. Personnaliser le tableau de suivi des dossiers**&#x20;
+### **C. Personnaliser le tableau de suivi des dossiers**&#x20;
 
-Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure.
+Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure. La personnalisation du tableau de bord vous permet de prendre connaissance des informations avant d'accéder au dossier.&#x20;
 
-Cliquez sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquez sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquez sur le bouton « Enregistrer » comme suit :&#x20;
+Pour cela, cliquez sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquez sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquez sur le bouton « Enregistrer » comme suit :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 16.55.15.png" alt=""><figcaption><p>Personnalisation du tableau de bord instructeur </p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/instructeur (2).png" alt=""><figcaption><p>Personnalisation du tableau de bord instructeur </p></figcaption></figure>
 
 Un champ peut être retiré du tableau de suivi : cliquez de nouveau sur « Personnaliser » puis retirez le champ en cliquant sur la croix figurant sur le libellé du champ en question puis sur le bouton « Enregistrer ».&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 16.59.45.png" alt=""><figcaption><p>Retrait d'un champ </p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/instructeur (3).png" alt=""><figcaption><p>Retrait d'un champ</p></figcaption></figure>
 
 Si vous retirez toutes les colonnes depuis le bouton « Personnaliser », seuls les numéros des dossiers seront affichés en plus du statut de ceux-ci.&#x20;
 
 Vous pouvez sélectionner tout type de champ pour la personnalisation de votre tableau de bord notamment des annotations privées et le champ oui/non de l'avis expert. Cela peut vous être utile dans l'instruction de vos dossiers.&#x20;
 
-### B. Filtrer les dossiers
+### D. Filtrer les dossiers
 
-Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que les dossiers qui vous intéressent.
+Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que ceux qui vous intéressent.
 
-Pour cela, il faut cliquer sur le bouton « Filtrer », Sélectionner un champ, puis une valeur associée à ce champ et cliquer sur le bouton « Ajouter un filtre ». Vous aurez alors accès à l'ensemble des champs du formulaire pour filtrer les dossiers.
+Pour cela, il faut cliquer sur le bouton « sélectionner un filtre », situé en haut à gauche,  sélectionner la colonne souhaitée, puis une valeur associée à ce champ et cliquer sur le bouton « Ajouter le filtre ». Vous aurez alors accès à l'ensemble des champs du formulaire pour filtrer les dossiers:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.07.14.png" alt=""><figcaption><p>Filtrer l'affichage du tableau selon des champs</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption><p>Filtrer l'affichage du tableau de bord </p></figcaption></figure>
 
 &#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « Ajouter le filtre » comme suit :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.14.46.png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.18.31.png" alt=""><figcaption><p>Affichage du tableau de bord avec un filtre de date de création de dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/instructeur (4).png" alt=""><figcaption><p>Affichage du tableau de bord avec un filtre de date de création du dossier </p></figcaption></figure>
 
-### **C. Trier les dossiers**&#x20;
+### **E. Trier les dossiers**&#x20;
 
 Il possible de trier les dossiers par ordre alphabétique et/ou numérique en cliquant sur la colonne souhaitée, en plus des options de filtre et de personnalisation sus-mentionnés.
 
