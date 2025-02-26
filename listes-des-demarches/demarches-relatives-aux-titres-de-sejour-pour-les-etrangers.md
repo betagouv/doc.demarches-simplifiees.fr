@@ -34,6 +34,7 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 ### 06 - Alpes Maritimes
 
 * [Prolongation d'un visa de court séjou](https://www.demarches-simplifiees.fr/commencer/prolongation-d-un-visa-de-court-sejour)[r](https://www.demarches-simplifiees.fr/commencer/demande-de-document-de-circulation-enfants-mineurs)
+* [Je souhaite compléter mon dossier de demande de titre de séjour](https://www.demarches-simplifiees.fr/commencer/je-souhaite-completer-mon-dossier-de-demande-de-ti)
 
 ### 14 - Calvados
 
@@ -82,6 +83,8 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 
 * [Demande de titre de séjour (personnes en situation irrégulière, régularisation) ](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-regularisation)
 * [Demande de titre de séjour (personnes en situation régulière)](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-titre-de-sejour)
+* [Préfecture du Pas-de-Calais - Service Etrangers Renouvellement de récépissé](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-service-etrangers-reno)
+* D[emande d'autorisation provisoire de séjour - Réfugiés Ukrainiens](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-service-etrangers-refu)
 
 ### 67 - Bas-Rhin
 
@@ -92,10 +95,15 @@ INFORMATION : si vous ne trouvez pas de réponse sur le[ site](http://www.bas-rh
 **Première demande**&#x20;
 
 * [Pré-demande de premier titre de séjour (prise de rendez-vous)](https://www.demarches-simplifiees.fr/commencer/prefecture-du-bas-rhin-pre-demande-premier-titre)
+* [Demande d'information](https://www.demarches-simplifiees.fr/commencer/demande-information)
+* [Première demande titre de séjour ex Mineur Non Accompagné](https://www.demarches-simplifiees.fr/commencer/premiere-demande-titre-de-sejour-ex-mineur-non-acc)
 
 ### 69 - Rhône&#x20;
 
 * [Demande de carte de séjour ou d'autorisation provisoire de séjour "recherche d'emploi ou création d'entreprise" pour les titulaires d'une carte de séjour portant la mention « étudiant »](https://www.demarches-simplifiees.fr/commencer/pref-rhone-demande-titre-sejour-recherche-emploi)
+* [Admission exceptionnelle au séjour - métiers en tension - article L 435-4 CESEDA](https://www.demarches-simplifiees.fr/commencer/aes-metiers-en-tension-rhone)
+* [Renouvellement d'un titre de séjour temporaire ou pluriannuel - (hors démarches ANEF)](https://www.demarches-simplifiees.fr/commencer/renouvellement-titre-de-sejour-prefecture-rhone)
+* [Première demande de titre de séjour - (sauf bénéficiaires d'une protection internationale)](https://www.demarches-simplifiees.fr/commencer/premiere-demande-titre-sejour-prefecture-rhone)
 
 ### 75 - Paris&#x20;
 
