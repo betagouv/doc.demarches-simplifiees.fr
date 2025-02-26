@@ -7,7 +7,7 @@ En fonction de votre préfecture de résidence, « Démarches simplifiées » h�
 Par ailleurs demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. Pour les titres de séjour et la naturalisation, seule une partie des départements ont fait le choix d'utiliser notre outil. De ce fait, les démarches administratives ne se trouvent pas toutes sur notre site.&#x20;
 
 {% hint style="warning" %}
-Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est pas obligatoire que la démarche recherchée soit dématérialisée sur notre site.&#x20;
+**Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est pas obligatoire que la démarche recherchée soit dématérialisée sur notre site.**&#x20;
 
 **Pour retrouver votre démarche ou être accompagné par un agent, nous vous invitons à consulter les sites suivants :** \
 \- [https://www.service-public.fr](https://www.service-public.fr/), site public de renseignement administratif\
@@ -76,6 +76,8 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 
 * [Aide à la prise de rendez-vous pour une première demande de titre de séjour ](https://www.demarches-simplifiees.fr/commencer/prefecture49-bse3)
 
+
+
 ### 62 - Pas-de-Calais
 
 * [Demande de titre de séjour (personnes en situation irrégulière, régularisation) ](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-regularisation)
@@ -100,18 +102,34 @@ INFORMATION : si vous ne trouvez pas de réponse sur le[ site](http://www.bas-rh
 **Ressortissant étranger - cas général**
 
 * [Première demande de titre de séjour vie professionnelle ou visiteur](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-immigrationpro-visiteur)
-* [Première demande de titre de séjour - Parent d'enfant français](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-pef)
 * [Première demande de titre de séjour - Membre de famille](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-membre-famille)
 * [Première demande de titre de séjour - Jeune majeur](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-jeune-majeur)
-* [Première demande de titre de séjour - Conjoint français](https://www.demarches-simplifiees.fr/commencer/pp-1ere-demande-conjoint-francais)
 
 **Ressortissant algérien**
 
-* [Première demande de titre de séjour vie professionnelle ou visiteur - ressortissant algérien ](https://www.demarches-simplifiees.fr/commencer/pp-1ere-dde-algerien-immigrationpro-visiteur)
+* [Première demande de titre de séjour vie professionnelle ou visiteur - ressortissant algérien ](https://www.demarches-simplifiees.fr/commencer/pp-1ere-dde-algerien-immigrationpro-visiteur)ou changement de statut vers Immigration professionnelle ("salarié", "travailleur temporaire", "agent officiel algérien", "scientifique" ou exercice d'une "profession artistique et culturelle".
 
 ### 76 - Seine Maritime
 
 * [Demande de régularisation - Représentant légal d'un enfant étranger malade (L311-12 CESEDA)](https://www.demarches-simplifiees.fr/commencer/76-enfant-malade)
+* [PREFECTURE DE LA SEINE-MARITIME : Demande d'admission exceptionnelle au séjour (L435-1 CESEDA)](https://www.demarches-simplifiees.fr/commencer/76-aes)
+* [Demande d'admission exceptionnelle au séjour - Organisme d'Accueil Communautaire et d'Activité Solidaire (L435-2 CESEDA)](https://www.demarches-simplifiees.fr/commencer/76-aes-benevolat)
+* [Demande de régularisation - Liens personnels et familiaux (L. 423-23 CESEDA)](https://www.demarches-simplifiees.fr/commencer/76-lpf)
+* [Demande de titre de séjour - Mineur placé auprès de l'aide sociale à l'enfance entre 16 et 18 ans (Article L. 435-3 du CESEDA) - Première demande (dans les 6 mois précédant la majorité)](https://www.demarches-simplifiees.fr/commencer/76-313-15-mineurs)
+* [Demande de titre de séjour - Mineur placé auprès de l'aide sociale à l'enfance avant 16 ans (Article L. 423-22 du CESEDA) - Première demande (dans les 6 mois précédant la majorité)](https://www.demarches-simplifiees.fr/commencer/76-313-11-2bis-mineurs)
+* [Demande de titre de séjour - Mineur placé auprès de l'aide sociale à l'enfance avant 16 ans (Article L. 423-22 du CESEDA) - Première demande (dans l'année de la majorité)](https://www.demarches-simplifiees.fr/commencer/76-313-11-2bis-majeurs)
+* [Demande de titre de séjour - Mineur placé auprès de l'aide sociale à l'enfance entre 16 et 18 ans (Article L. 435-3 du CESEDA) - Première demande (dans l'année de la majorité)](https://www.demarches-simplifiees.fr/commencer/76-313-15-majeurs)
+* [Préfecture de la Seine-Maritime - Vérification préalable à l'embauche d'un ressortissant étranger](https://www.demarches-simplifiees.fr/commencer/verification-prealable-embauche)
+* [Prendre un rendez-vous - Titre de séjour "Immigration familiale"](https://www.demarches-simplifiees.fr/commencer/rdv-immigration-familiale)
+* [Prendre un rendez-vous - Titre de séjour "Immigration professionnelle"](https://www.demarches-simplifiees.fr/commencer/rdv-immigration-professionnelle)
+* [Formulaire de saisine de la préfecture de la Seine-Maritime -](https://www.demarches-simplifiees.fr/commencer/saisine-prefecture-etrangers)
+* [Prendre un rendez-vous - Renouvellement de récépissé](https://www.demarches-simplifiees.fr/commencer/rdv-rcs)
+* [Demande de prolongation de visa court séjour](https://www.demarches-simplifiees.fr/commencer/prolongation-de-visa)
+* [Demande d'admission exceptionnelle au séjour "Métiers en tension"(L435-4 CESEDA)](https://www.demarches-simplifiees.fr/commencer/aes-metiers-en-tension-435-4)
+* [Prendre un rendez-vous - Retrait de titre de séjour ou de titre de voyage pour étranger](https://www.demarches-simplifiees.fr/commencer/retrait-titre-sejour)
+* [Enregistrement des récépissés et autorisations provisoires de séjour](https://www.demarches-simplifiees.fr/commencer/enregistrement-rcs-aps)
+
+
 
 ### **77** - Seine-et-marne
 
@@ -121,6 +139,12 @@ INFORMATION : si vous ne trouvez pas de réponse sur le[ ](http://www.bas-rhin.g
 
 * [Demande de titre de séjour au regard d'une régularisation par le travail](https://www.demarches-simplifiees.fr/commencer/depot-d-une-demande-de-titre-de-sejour-au-regard-d)
 * [Demande de premier titre de séjour pour les usagers résidant dans l'arrondissement de Meaux](https://www.demarches-simplifiees.fr/commencer/demande-de-premier-titre-de-sejour-pour-les-usager)
+* [Demande de changement de statut "étudiant" à "vie privée et familiale"](https://www.demarches-simplifiees.fr/commencer/demande-de-changement-de-statut-etudiant-a-vpf)
+* [Renouvellement d'un récepissé de demande de titre de séjour délivré par la Sous-préfecture de Meaux](https://www.demarches-simplifiees.fr/commencer/renouvellement-d-un-recepisse-de-demande-de-titre-)
+* [Dépôt d'une demande d'autorisation provisoire de séjour pour un parent d’enfant étranger malade](https://www.demarches-simplifiees.fr/commencer/-premier-titre-de-sejour-pour-soins)
+* [Demande de 1er titre de séjour pour les étrangers entrés en France avant l'âge de 13 ans (10 ans pour les ressortissants tunisiens et algériens) et y résidant depuis lors](https://www.demarches-simplifiees.fr/commencer/demande-de-premier-titre-de-sejour-pour-les-usager)
+
+
 
 
 
@@ -130,9 +154,9 @@ INFORMATION : si vous ne trouvez pas de réponse sur le[ ](http://www.bas-rhin.g
 INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa liées au COVID19, rendez-vous [ici](https://www.demarches-simplifiees.fr/commencer/prolongation-de-visa-demarches-exceptionnelles-lie).
 {% endhint %}
 
-**Autres**&#x20;
-
 * [Demandes concomitantes asile/séjour (article L. 311-6 du CESEDA) ](https://www.demarches-simplifiees.fr/commencer/demandes-concomitantes-asile-sejour87)
+* [Demande de titre de séjour temporaire portant la mention étudiant ou chercheur en “ recherche d'emploi ou création d'entreprise ](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-temporaire-portant-la-m)
+* [Changement de statut d'étudiant à salarié ou travailleur temporaire](https://www.demarches-simplifiees.fr/commencer/changement-de-statut-salarie)
 
 ### 91 - Essonne
 
@@ -142,6 +166,17 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 * [Première demande de titre de séjour « Jeunes majeurs » - Etampes](https://www.demarches-simplifiees.fr/commencer/jeunes-majeurs-etampes)
 * [Première demande de titre de séjour « Jeunes majeurs » - Evry](https://www.demarches-simplifiees.fr/commencer/jeune-majeur-evry)
 * [Première demande de titre de séjour « Jeunes majeurs » - Palaiseau](https://www.demarches-simplifiees.fr/commencer/jeune-majeur-palaiseau)
+* Dem[ande de prolongation de votre visa court séjour pour motifs exceptionnels et humanitaires](https://www.demarches-simplifiees.fr/commencer/essonne-covid-prolongationvisa)
+* [Première demande de titre de séjour avec Visa : "carte de séjour à solliciter dans les deux mois" ou titulaire d'un titre résident longue durée UE émis par un autre pays européen.](https://www.demarches-simplifiees.fr/commencer/prefecture-de-l-essonne-premiere-demande-de-titre4)
+* [Demande d'autorisation provisoire de séjour en qualité d'accompagnant d'un enfant malade / demande de titre de séjour pour soins (étranger résidant en France depuis moins d'un an)](https://www.demarches-simplifiees.fr/commencer/prefecture-de-l-essonne-premier-titre-de-sejour-po)
+* [Formulaire dématérialisé de demande d'admission exceptionnelle au séjour au titre du travail](https://www.demarches-simplifiees.fr/commencer/rdv-aes-pro)
+* [Formulaire dématérialisé de demande d'admission exceptionnelle au séjour au titre de la vie privée et familiale ou pour motifs exceptionnels](https://www.demarches-simplifiees.fr/commencer/rdv-aes-vpf)
+* [Demande de rendez-vous renouvellement de titre de séjour mention professionnelle - Arrondissement d'EVRY-COURCOURONNES](https://www.demarches-simplifiees.fr/commencer/rnlvt-pro-evry)
+* [Demande de rendez-vous renouvellement de titre de séjour mention vie privée et familiale - Arrondissement d'EVRY-COURCOURONNES](https://www.demarches-simplifiees.fr/commencer/rnlvt-vpf-evry)
+* [Renonciation au statut de réfugié - Essonne](https://www.demarches-simplifiees.fr/commencer/renonciation-au-statut-de-refugie-essonne)
+* [Renouvellement de la Protection Temporaire Ukraine - Essonne / Поновлення тимчасового захисту Україна - Ессон](https://www.demarches-simplifiees.fr/commencer/renouvellement-de-la-protection-temporaire-ukraine91)
+* D[roit d'option franco-algérien en Essonne.](https://www.demarches-simplifiees.fr/commencer/pref91-droit-doption-franco-algerien)
+* [Demande d'admission exceptionnelle au séjour et d'autorisation de travail au titre des métiers en tension](https://www.demarches-simplifiees.fr/commencer/prefecture-de-l-essonne-demande-d-admission-except)
 
 ### 93 - Seine-Saint-Denis&#x20;
 
