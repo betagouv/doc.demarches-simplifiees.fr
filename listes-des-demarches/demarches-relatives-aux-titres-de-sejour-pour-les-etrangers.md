@@ -76,10 +76,6 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 
 * [Aide à la prise de rendez-vous pour une première demande de titre de séjour ](https://www.demarches-simplifiees.fr/commencer/prefecture49-bse3)
 
-### 51 - Marne
-
-* [Demande de document de circulation pour les étrangers mineurs (DCEM) ](https://www.demarches-simplifiees.fr/commencer/dcem511)
-
 ### 62 - Pas-de-Calais
 
 * [Demande de titre de séjour (personnes en situation irrégulière, régularisation) ](https://www.demarches-simplifiees.fr/commencer/prefecture-du-pas-de-calais-regularisation)
