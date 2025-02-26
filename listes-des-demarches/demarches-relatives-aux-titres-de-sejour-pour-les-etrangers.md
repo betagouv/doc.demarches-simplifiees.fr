@@ -63,11 +63,7 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 #### 1ère demande de  carte de séjour temporaire « Vie privée et familiale » :
 
 * [Etranger entré en France avant l’âge de 13 ans et y résidant depuis lors](https://www.demarches-simplifiees.fr/commencer/demande-premier-titre-sejour-etranger-etranger-entre-avant-13-ans)
-* [Etranger confié à l’Aide Sociale à l’Enfance (ASE) avant ses 16 ans](https://www.demarches-simplifiees.fr/commencer/demande-premier-titre-sejour-etranger-confie-aide-sociale-enfance-avant-16-ans)
 * [PACSÉ(E) avec un(e) français(e)](https://www.demarches-simplifiees.fr/commencer/demande-premier-titre-sejour-pacs-avec-francais)
-
-
-
 * [Accompagnant Etranger malade ](https://www.demarches-simplifiees.fr/commencer/demande-premier-titre-sejour-accompagnant-enfant-etranger-malade)
 
 #### 1ère demande de  carte de séjour temporaire « Carte de séjour temporaire » « Salarié » « Travailleur temporaire » : Salarié / Etranger placé auprès de l’Aide Sociale à l’Enfance (ASE) entre 16 et 18 ans /Salarié RLD - UE.
