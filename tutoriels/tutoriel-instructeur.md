@@ -129,29 +129,29 @@ Dans l'exemple suivant, vous pouvez afficher grâce au filtre "personnaliser le 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 09.41.25.png" alt=""><figcaption><p>Affichage avec tri par défaut</p></figcaption></figure>
 
-En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "déposé le" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.&#x20;
+En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "date de dépôt" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 10.20.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
 
 ### **D. Suivre un dossier**
 
-Les dossiers déposés sont regroupés par défaut sous le statut « à suivre ».
+Les dossiers déposés sont regroupés par défaut sous le statut « suivis par moi ».
 
 Un dossier à suivre a le statut « en construction ». Il est consultable et modifiable par l’usager.
 
-Pour suivre un dossier, cliquez sur le bouton « Suivre le dossier ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
+Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.26.14 (1).png" alt=""><figcaption><p>Suivre un dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
-En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille orange sur le dossier, si ce dernier a été modifié par l'usager ou si l'usager a écrit un nouveau message. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
+En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille orange sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-31 à 17.31.55.png" alt=""><figcaption><p>Exemple de pastille orange en cas de modification ou de nouveau message</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Plusieurs instructeurs peuvent suivre le même dossier.
+Plusieurs instructeurs peuvent suivre le même dossier. Pour cela, les instructeurs peuvent rechercher le dossier depuis l'onglet " au total" ou se transférer le dossier depuis l'onglet "personnes impliquées" du dossier.&#x20;
 
 ## 3. Instruire un dossier
 
@@ -163,7 +163,7 @@ L’instructeur a accès à un ensemble de fonctionnalités :
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.30.39.png" alt=""><figcaption><p>Onglet "Demande" récapitulatif du dossier, en tant qu'instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
 
 #### &#x20;- Annotations privées :
 
@@ -171,13 +171,13 @@ Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le
 
 Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par les usagers ni par les personnes invitées à consulter le dossier.
 
-Une fois les annotations renseignées, il convient de cliquer sur le bouton « Sauvegarder » afin d'enregistrer toute modification comme suit :
+Les annotations sont automatiquement enregistrées.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.39.04.png" alt=""><figcaption><p>Sauvegarde d'annotation privée, en tant qu'instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
+**Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas**. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.46.42.png" alt=""><figcaption><p>Cas de figure "Aucune annotation privée", en tant qu'instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Cas de figure "aucune annotation privée", en tant qu'instructeur </p></figcaption></figure>
 
 #### _- Avis externes :_&#x20;
 
@@ -185,27 +185,25 @@ Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit « expe
 
 L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.50.41.png" alt=""><figcaption><p>Inviter des personnes à donner leur avis, en tant qu'instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Il est également possible de poser une question à un expert qui devra répondre par "oui" ou "non". Ce champ est pratique puisqu'une fois que l'expert a formulé un avis et répondu à cette question, vous pourrez faire apparaître ce champ dans le tableau de bord et donc instruire les dossiers plus rapidement.&#x20;
 
-Vous pouvez aussi joindre une pièce jointe à la demande d'avis à l'expert.&#x20;
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 11.52.50 (1).png" alt=""><figcaption></figcaption></figure>
+Vous pouvez aussi joindre une pièce jointe à la demande d'avis à l'expert et faire le choix de partager l'avis avec les autres experts ou le rendre confidentiel.&#x20;
 
 ### L'ajout d'experts à une démarche&#x20;
 
-Nouvelles fonctionnalités : l'administrateur de la démarche peut désormais gérer les experts d'une démarche. Pour ce faire, il dispose de trois fonctionnalités. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la gestion des experts invités par l'administrateur d'une démarche en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). &#x20;
+Seul l'administrateur de la démarche peut gérer les experts d'une démarche. Pour ce faire, il dispose de trois fonctionnalités. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la gestion des experts invités par l'administrateur d'une démarche en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). &#x20;
 
 Ainsi, selon le choix de gestion des experts par l'administrateur de la démarche, plusieurs cas d'usage sont envisageables pour les instructeurs :&#x20;
 
 &#x20;    **1. La liberté de solliciter des experts invités**&#x20;
 
-* Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités, afin qu'après notification, ils émettent un avis sur un dossier. \
+* Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités de leur choix afin qu'après notification, ils émettent un avis sur un dossier. \
 
-* Ainsi, les instructeurs de la démarche doivent désormais,  **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
+* Ainsi, les instructeurs de la démarche devront **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.07.53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
@@ -213,7 +211,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Dès lors, les instructeurs de la démarche **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de la liste.** &#x20;
 
-![Liste d'experts invités déterminée par l'administrateur](<../.gitbook/assets/image (44).png>)
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * L'instructeur de la démarche devra alors **cliquer une à une sur les adresses e-mail des experts** sollicités à émettre un avis parmi la liste prédéfinie par l'administrateur.
 
@@ -223,9 +221,9 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * De plus, l**es avis externes ne sont pas visibles par l'usager**.\
 
-* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit :
+* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.16.21.png" alt=""><figcaption><p>Les deux options de visibilité des avis</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 * Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton «** **Demander un avis** **»** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
 
@@ -233,11 +231,15 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 INFORMATION : le nombre d'avis que l'instructeur peut demander est illimité.
 {% endhint %}
 
+L'instructeur a la possibilité de relancer l'expert ou de révoquer la demande d'avis.&#x20;
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
+
 #### _- Messagerie :_&#x20;
 
 La messagerie permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée.
 
-Pour envoyer un message à l’usager : taper le contenu du message puis cliquer sur le bouton « Envoyer ».
+Pour envoyer un message à l’usager : taper le contenu du message puis cliquer sur le bouton «Envoyer».
 
 Pour envoyer une pièce jointe à l’usager : cliquer sur le bouton « Parcourir », sélectionner un fichier puis cliquer sur le bouton « Envoyer le message ».&#x20;
 
@@ -249,24 +251,22 @@ La capacité maximale d’envoi de pièce jointe est de 20 Mo par pièce envoyé
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.36.28.png" alt=""><figcaption><p>Messagerie de l'instructeur </p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.34.42.png" alt=""><figcaption><p>Vue de la messagerie pour envoyer un messager et/ou une pièce jointe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Messagerie du dossier en tant qu'instructeur </p></figcaption></figure>
 
 #### _- Personnes impliquées :_
 
-Cet onglet fait office de récapitulatif de l'ensemble des personnes contribuant au traitement du dossier : il permet à l'instructeur d'envoyer le dossier à un autre instructeur qui a été au préalable nommé sur la procédure. Celui-ci suivra alors automatiquement le dossier concerné et recevra également un e-mail lui indiquant que le dossier lui a été transmis.
+Cet onglet fait office de récapitulatif de l'ensemble des personnes contribuant au traitement du dossier. Depuis cet onglet, il est également possible d'envoyer le dossier à un autre instructeur qui a été au préalable nommé sur la procédure. Celui-ci suivra alors automatiquement le dossier concerné et recevra également un e-mail lui indiquant que le dossier lui a été transmis.
 
 Cet onglet contient également:&#x20;
 
 * La liste des instructeurs qui suivent le dossier&#x20;
 * Les personnes à qui un avis a été demandé (demande d'avis aux experts)
 * Les personnes invitées par l'usager à co-construire ou modifier le dossier
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.56.09.png" alt=""><figcaption><p>Liste des personnes impliquées dans la vue instructeur</p></figcaption></figure>
-
 * Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.&#x20;
-* "Réaffectations" vous permet de suivre si le dossier a été réaffecté à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur </p></figcaption></figure>
+
+* Dans le cadre d'une démarche avec du routage, l'onglet "Réaffectations" vous permet de suivre si le dossier a été réaffecté et de le transférer à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 16.57.34.png" alt=""><figcaption><p>Liste des personnes impliquées dans la vue instructeur</p></figcaption></figure>
 
@@ -276,15 +276,15 @@ Cet onglet contient également:&#x20;
 
 Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à gauche de votre écran :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.08.43.png" alt=""><figcaption><p>Dossier en construction vu de l'interface instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
-Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie.&#x20;
+Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie ou depuis le bouton "demande une correction" afin que mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.&#x20;
 
 #### _- Passer le dossier en instruction :_
 
 Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usage&#x72;_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.54.45.png" alt=""><figcaption><p>Passage en instruction d'un dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».&#x20;
 
@@ -294,13 +294,15 @@ Un message automatique est envoyé à l’usager au moment du passage en instruc
 
 Toutefois, les échanges de messages et de documents entre l’instructeur et l’usager restent possibles à travers la messagerie.
 
+Par ailleurs, pour le moment,  les dossiers en instruction n'expirent pas.&#x20;
+
 #### _- Repasser le dossier en "instruction" au statut en "construction" :_
 
 Il est possible pour l’instructeur de repasser le dossier en construction (après l'avoir passé en instruction) afin de permettre à l’usager de modifier ou compléter son dossier.
 
 Cliquez sur le bouton « Repasser en construction » en haut à droite de l’écran. L’instructeur est alors invité à confirmer son choix de repassage en construction en cliquant sur le bouton bleu « Valider et repasser en construction ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 17.58.18.png" alt=""><figcaption><p>Repasser un dossier en construction</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 _**- Demande de correction d'un dossier :**_&#x20;
 
@@ -310,15 +312,15 @@ Pour cela, lorsque vous êtes dans l'onglet "demande" qui permet de consulter le
 
 Demander une correction basculera automatiquement le dossier "en construction".&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.29.37.png" alt=""><figcaption><p>Demande de correction du dossier usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Demande de correction à l'usager </p></figcaption></figure>
 
 Une fois que la demande de correction a été demandée sur le dossier, la mention "en attente" s'affiche sur le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.46.45.png" alt=""><figcaption><p>Dossier en attente de correction</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Dossier en attente de correction </p></figcaption></figure>
 
 Cette mention s'affiche également dans le tableau de bord ce qui permet de distinguer plus facilement les dossiers complets des dossiers en attente de modification :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 10.48.09.png" alt=""><figcaption><p>Dossier en attente dans le tableau de bord de l'instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Dossier en attente de correction depuis le tableau de suivi des dossiers en tant qu'instructeur </p></figcaption></figure>
 
 ### C. Prendre une décision sur le dossier
 
@@ -336,13 +338,15 @@ Par ailleurs il est également possible de joindre un justificatif à la décisi
 
 #### a. Accepter le dossier
 
-Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Accepter ». L’instructeur peut alors rédiger une motivation dans l'encart dédié qui sera consultable par l’usager dans son dossier après acceptation. Dans le cas d'une acceptation, cette motivation reste optionnelle.&#x20;
+Cliquez sur le bouton « instruire le dossier » en haut à droite de l’écran puis cliquer sur le bouton « Accepter ». L’instructeur peut alors rédiger une motivation dans l'encart dédié qui sera consultable par l’usager dans son dossier après acceptation. Dans le cas d'une acceptation, cette motivation reste optionnelle.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.08.22.png" alt=""><figcaption><p>Accepter un dossier en tant qu'instructeur</p></figcaption></figure>
+L'instructeur a également la possibilité de transmettre une pièce jointe au moment de l'acceptation du dossier et de prévisualiser l'attestation automatique d'acceptation, (uniquement si celle-ci a été paramétrée par l'administrateur de la démarche).&#x20;
+
+<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 Cliquez ensuite sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK » comme suit :
 
-![Confirmer l'acceptation du dossier, en tant qu'instructeur](../.gitbook/assets/OK.PNG)
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 Un message automatique est envoyé à l’usager afin de le notifier de l’acceptation de son dossier. La motivation est consultable par l'usager sur son dossier. Elle peut aussi être envoyée dans le corps du message automatique si le message a été paramétré ainsi par l'administrateur.
 

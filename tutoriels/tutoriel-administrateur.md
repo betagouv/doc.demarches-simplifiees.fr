@@ -8,7 +8,7 @@ Ce tutoriel présente les étapes de création d’une démarche sur demarches-s
 
 Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat situé en bas à droite de la page :&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt="" width="325"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt="" width="325"><figcaption></figcaption></figure>
 
 Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarches-simplifiees.fr**
 
@@ -76,7 +76,7 @@ Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégor
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
 
 La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
@@ -90,11 +90,11 @@ La liste des démarches associées à l'intitulé recherché s'affichera et vous
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
 
 **Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le principe est le même, il vous suffit de rechercher la démarche que vous souhaitez dématérialiser et la cloner depuis ce tableau de bord.&#x20;
 
@@ -120,7 +120,7 @@ Tous les champs marqués d'un astérisque sont obligatoires.
 
 **a) Titre et description de la démarche**&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire dans la partie "quel est l'objet de la démarche". Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
 
@@ -138,13 +138,13 @@ Vous pouvez renseigner la liste des pièces jointes à fournir. Cela permettra �
 
 Si votre formulaire contient des pièces jointes et que vous ne complétiez pas cette rubrique, une liste sera automatiquement générée.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 **c) Logo de la démarche**&#x20;
 
 Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du titre de votre démarche lorsque l’usager y déposera un dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller l'ensemble de vos logos sur un fichier texte (doc) puis de faire une capture d’écran de tous vos logos.
 
@@ -152,7 +152,7 @@ Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller 
 
 Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez désormais indiquer le temps de conservation des données.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement supprimés de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
@@ -171,13 +171,13 @@ De même, le cadre juridique doit être obligatoirement renseigné. En effet, da
 
 Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez indiquer une loi, un décret, une délibération en conseil municipal ou un règlement intérieur. Vous pouvez soit copier-coller le lien vers un site web qui le propose, soit télécharger le texte qui s'applique.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **f) Contact du Délégué à la Protection des Données (DPO)**&#x20;
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
 
@@ -206,7 +206,7 @@ Votre démarche s’adresse-t-elle à des personnes morales ou à des particulie
 * **Personnes morales** : l’usager est tenu de renseigner son numéro SIRET. Celui-ci nous permet d'interroger directement les bases de l’INSEE, d’Infogreffe et du Répertoire National des Associations (RNA) afin de recueillir automatiquement des informations sur les entreprises (raison sociale, adresse, code NAF).
 * **Particuliers** : l'usager renseigne simplement son nom et son prénom. Si celui-ci ne les indique pas, il ne pourra pas se rendre sur la troisième page qui correspond au corps du formulaire. Si vous choisissez cette option, nul besoin de lui demander son nom et prénom dans votre formulaire.
 
-<figure><img src="../.gitbook/assets/image (12) (3).png" alt=""><figcaption><p>Choix du public de la démarche en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (3) (1).png" alt=""><figcaption><p>Choix du public de la démarche en tant qu'administrateur </p></figcaption></figure>
 
 **i) Options avancées**
 
@@ -305,7 +305,7 @@ Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois
 
 L'usager peut choisir entre « Madame » ou « Monsieur ».
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Champ "civilité", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (3).png" alt=""><figcaption><p>Champ "civilité", en tant qu'usager </p></figcaption></figure>
 
 #### b) email&#x20;
 
@@ -317,7 +317,7 @@ L'usager peut choisir entre « Madame » ou « Monsieur ».
 
 L'usager doit renseigner un numéro de téléphone.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (2).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (2) (1).png" alt=""><figcaption><p>Champ "téléphone", en tant qu'usager </p></figcaption></figure>
 
 #### 3) Les champs relatifs à la localisation&#x20;
 
@@ -337,9 +337,9 @@ Les champs « Régions », « Département » et « Communes » utilisent 
 
 Pour le champ « Communes », les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (21) (1) (1).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager </p></figcaption></figure>
 
 
 
@@ -417,7 +417,7 @@ Ce champ permet à l’usager de joindre une carte d'identité (uniquement le re
 
 De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale).&#x20;
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (2).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
 
 **7) Les champs relatifs aux choix**&#x20;
 
@@ -445,7 +445,7 @@ Le principe est le même que le champ précédent à la différence que l'usager
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'administrateur </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'usager </p></figcaption></figure>
 
 **d) Deux menus déroulants liés**&#x20;
 
@@ -731,7 +731,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Une fois les adresses e-mails des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton « demander un avis » situé en bas de l'écran.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Du coté experts :**&#x20;
 * Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet « avis » s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.&#x20;
@@ -746,7 +746,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Vous avez également la possibilité de gérer les experts invités de la démarche en définissant, désormais, à l'avance une liste d'experts invités. Pour ce faire, il vous suffit d'activer le bouton « Gérer les experts invités de la démarche ».
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>Gestion des experts invités, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (3).png" alt=""><figcaption><p>Gestion des experts invités, en tant qu'administrateur </p></figcaption></figure>
 
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.&#x20;
 * Il vous suffit **d'ajouter une à une les adresses e-mails des experts** et de **cliquer ensuite sur l'adresse e-mail venant d'être indiquée** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche.
@@ -761,13 +761,13 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 * Du coté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### D. Gérer la notification des décisions finales aux experts affectés au dossier.
 
 Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de cliquer sur le bouton situé en dessous de « Notifier des décisions sur les dossiers ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -775,15 +775,15 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 1\) L'expert est notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 * 2\) L'expert est notifié que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
@@ -827,7 +827,7 @@ La publication de la démarche génère un lien de la forme : "https://www.demar
 
 La fenêtre suivante apparaît :&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarches-simplifiees.fr/commencer/" de l'URL n'est pas modifiable.
 
@@ -853,7 +853,7 @@ Dans le cas d’un appel à projet, il peut être souhaitable de choisir une dat
 
 Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparaît avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (3).png" alt=""><figcaption></figcaption></figure>
 
 Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
 
@@ -890,7 +890,7 @@ Vous avez également la possibilité de télécharger le formulaire en format pd
 
 Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés (faisant l'objet d'une décision finale) sous différents formats. Pour cela, il vous suffit de cliquer sur le bouton « Télécharger ».
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Générer une archive des dossiers, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Générer une archive des dossiers, en tant qu'administrateur </p></figcaption></figure>
 
 Vous pourrez alors accéder aux archives mensuelles :&#x20;
 
@@ -908,5 +908,5 @@ Ensuite, un message d'avertissement apparaît. Il suffit de confirmer afin que l
 
 Une fois la démarche supprimée, vous pourrez tout de même la restaurer en cas d'erreur :&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Restaurer une démarche supprimée, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Restaurer une démarche supprimée, en tant qu'administrateur </p></figcaption></figure>
 

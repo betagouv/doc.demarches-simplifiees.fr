@@ -31,7 +31,7 @@ Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à
 Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simplifiees.fr :
 
 * **L’usager possède déjà un compte** sur demarches-simplifiees.fr : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign\_up)&#x20;
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign_up)&#x20;
 * **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
@@ -53,13 +53,13 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
 Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (3).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
 
 Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
 

@@ -15,7 +15,7 @@ Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : 
 \
 **1. Choisissez si le dossier est pour vous ou pour un bénéficiaire**
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Pour vous** : Cette option est à sélectionner si vous créez le dossier en votre nom propre. Elle est destinée aux individus qui s'engagent personnellement dans la démarche.
 
@@ -23,7 +23,7 @@ Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : 
 \
 **2. Dans le cas ou le dossier est pour un bénéficiaire**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le mandataire doit d'abord renseigner ses propres informations personnelles sous la section "Votre identité", en fournissant son prénom et son nom. Ceci permet d'identifier clairement qui effectue la démarche.
 
@@ -33,7 +33,7 @@ Il est important de noter que le mandataire doit s'assurer de respecter les cond
 
 
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Dans cette partie du formulaire, après avoir rempli les informations d'identité du bénéficiaire, le mandataire est confronté à un choix important : décider si le bénéficiaire doit être notifié des avancements du dossier.
 
@@ -114,7 +114,7 @@ Lors d'une première visite, les pages du site se chargent de 5% à 18% plus vit
 
 Les boutons « enregistrer un brouillon » et « déposer le dossier », auparavant disponibles à la fin du formulaire, sont maintenant présentés dans une barre « flottante » qui permet à l’usager d’y accéder à tout moment.
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L7\_aKvpAJdAIEfxHudA%2F-Lpbm0lYdGad0YkK5GOI%2F-LpbmZAFje9rbg0DtjhX%2FDemo%20floating%20bar.gif?alt=media\&token=5dc526f9-4d41-4131-9671-b16e1ad247c8)
+![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L7_aKvpAJdAIEfxHudA%2F-Lpbm0lYdGad0YkK5GOI%2F-LpbmZAFje9rbg0DtjhX%2FDemo%20floating%20bar.gif?alt=media\&token=5dc526f9-4d41-4131-9671-b16e1ad247c8)
 
 ## Changez l'adresse e-mail associée à votre compte demarches-simplifiees.fr&#x20;
 
@@ -126,6 +126,6 @@ Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre c
 
 ## Déposer plusieurs dossiers à la suite est plus facile
 
-![](../.gitbook/assets/Commencer\_un\_nouveau\_dossier.png)
+![](../.gitbook/assets/Commencer_un_nouveau_dossier.png)
 
 Il est désormais plus facile pour l'usager de déposer plusieurs dossiers à la suite pour une même démarche. Une fois un dossier déposé, un lien lui donne la possibilité d'en redéposer un autre. De même, depuis son portail usager, un bouton usager permet de déposer un nouveau dossier

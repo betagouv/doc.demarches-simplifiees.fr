@@ -8,7 +8,7 @@ description: >-
 
 ### Retrouvez toutes les nouveautés et l'actualité Démarches simplifiées depuis l'onglet "nouveautés" de votre compte  :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Changement de couleurs
 
@@ -84,7 +84,7 @@ Plus d'informations ici : [https://doc.demarches-simplifiees.fr/tutoriels/integr
 
 ## Soyez plusieurs administrateurs sur une même démarche&#x20;
 
-![](../.gitbook/assets/Screenshot\_2019-08-09\_at\_15.08.03.png)
+![](../.gitbook/assets/Screenshot_2019-08-09_at_15.08.03.png)
 
 Vous pouvez désormais ajouter autant de co-administrateur sur votre démarche que vous voulez !
 
