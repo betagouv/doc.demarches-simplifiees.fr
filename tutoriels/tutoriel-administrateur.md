@@ -273,15 +273,13 @@ Le titre de section permet de segmenter et de structurer votre formulaire.  En e
 
 
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Champ "titre de section" en tant qu'usager </p></figcaption></figure>
-
 #### **b) Explication**&#x20;
 
 &#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique, de guider l'usager ou bien d'introduire des sous-titres de section.
 
-<figure><img src="../.gitbook/assets/image (1) (4).png" alt=""><figcaption><p>Champ "explication" en tant qu'administrateur </p></figcaption></figure>
+Il est possible d'afficher un texte complémentaire affichable au clic.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Champ "explication" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 16.48.38.png" alt=""><figcaption><p>Le champ explication en tant qu'administrateur</p></figcaption></figure>
 
 #### **c) Lien vers un autre dossier**&#x20;
 
@@ -405,7 +403,9 @@ L'usager doit renseigner une date et un horaire.
 
 Ce champ permet à l'usager d'ajouter à son dossier un document, quel que soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
 
-<figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Champ "pièce justificative" en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 16.53.34.png" alt=""><figcaption><p>Champ pièce justificative en tant qu'administrateur</p></figcaption></figure>
+
+
 
 Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableurs.
 
