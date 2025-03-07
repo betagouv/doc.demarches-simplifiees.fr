@@ -397,6 +397,20 @@ L'usager doit renseigner une date et un horaire.
 
 <figure><img src="../.gitbook/assets/image (26) (2).png" alt=""><figcaption><p>Champ "date et heure" en tant qu'usager </p></figcaption></figure>
 
+#### g) Champ formaté
+
+Vous avez la possibilité de formater un champ selon le format de votre choix. Deux options s'offrent à vous:&#x20;
+
+* Le mode simple: vous pouvez formater un champ en choisissant le nombre de caractères que comportera ce champ, mais aussi s'il comporte des chiffres, des lettres et/ou des caractères spéciaux.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 17.58.48.png" alt=""><figcaption><p>Champ formaté en mode "choix simple" </p></figcaption></figure>
+
+* Le mode avancé: vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correpond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 18.22.04.png" alt=""><figcaption><p>Champ formaté en mode "avancé"</p></figcaption></figure>
+
+
+
 #### 6) Les champs relatifs aux pièces jointes&#x20;
 
 #### a) Pièce justificative&#x20;
