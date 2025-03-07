@@ -263,13 +263,15 @@ Le type de champ formate la manière dont l'usager vous donnera l'information de
 
 **La durée de remplissage estimée évolue en fonction des types de champs ajoutés.**&#x20;
 
-#### **1) Les champs relatifs au cadre :**&#x20;
+#### **1) Les champs structurels :**&#x20;
 
 **a) Titre de section**&#x20;
 
-Le titre de section permet de segmenter et de structurer votre formulaire.  En effet, la construction de ce dernier étant linéaire par empilement de champs, il convient de le structurer afin de le rendre plus facilement lisible par l’usager.&#x20;
+Le titre de section permet de segmenter et de structurer votre formulaire.  En effet, la construction de ce dernier étant linéaire par empilement de champs, il convient de le structurer afin de le rendre plus facilement lisible par l’usager. Il existe plusieurs niveaux de titre de section (avec des tailles de police différentes). Cela permet également d'avoir un menu de navigation.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>champ "Titre de section" en tant qu'administrateur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 15.46.49.png" alt=""><figcaption><p>Champ "titre de section" en tant qu'administrateur</p></figcaption></figure>
+
+
 
 <figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Champ "titre de section" en tant qu'usager </p></figcaption></figure>
 
