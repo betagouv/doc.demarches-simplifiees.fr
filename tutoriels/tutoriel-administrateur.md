@@ -449,15 +449,27 @@ Ce type de champ insère à gauche du libellé du champ une case que l'usager pe
 
 <figure><img src="../.gitbook/assets/image (15) (2).png" alt=""><figcaption><p>Champ "case à cocher seule", en tant qu'usager </p></figcaption></figure>
 
-**b) Choix simple**&#x20;
+**8) Choix simple**&#x20;
+
+**a) Manuelle**&#x20;
 
 L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste » .&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption><p>Champ "choix simple", en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 14.24.24.png" alt=""><figcaption><p>Champ de choix simple dans une liste de choix "manuelle"</p></figcaption></figure>
 
 Vous pouvez également proposer à l'usager une option « autre » avec un texte libre afin de laisser la possibilité à l'usager de cocher cette valeur si les autres valeurs ne correspondent pas à sa situation.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption><p>Champ "choix simple" en tant qu'usager </p></figcaption></figure>
+
+**b) Import référentiel**&#x20;
+
+Lorsque la liste de choix est trop grande, vous avez la possibilité d'intégrer un fichier de référentiel à importer en csv.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 14.57.16.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 **c) Choix multiple**&#x20;
 
