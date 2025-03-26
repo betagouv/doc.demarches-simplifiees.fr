@@ -407,7 +407,15 @@ Vous avez la possibilité de formater un champ selon le format de votre choix. D
 
 * Le mode avancé: vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correpond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 18.22.04.png" alt=""><figcaption><p>Champ formaté en mode "avancé"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.03.28.png" alt=""><figcaption><p>Champ formaté en mode "avancé"</p></figcaption></figure>
+
+Voici le résultat en prévisualisant le formulaire&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 11.45.30.png" alt=""><figcaption></figcaption></figure>
+
+Voici l'écran en cas d'erreur dans la saisie&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.05.51.png" alt=""><figcaption></figcaption></figure>
 
 
 
