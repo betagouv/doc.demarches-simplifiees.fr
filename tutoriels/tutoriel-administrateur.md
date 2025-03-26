@@ -413,11 +413,9 @@ Voici le résultat en prévisualisant le formulaire&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 11.45.30.png" alt=""><figcaption></figcaption></figure>
 
-Voici l'écran en cas d'erreur dans la saisie&#x20;
+Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.05.51.png" alt=""><figcaption></figcaption></figure>
-
-
 
 #### 6) Les champs relatifs aux pièces jointes&#x20;
 
