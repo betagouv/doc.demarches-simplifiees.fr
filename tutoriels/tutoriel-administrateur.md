@@ -463,9 +463,11 @@ Vous pouvez également proposer à l'usager une option « autre » avec un texte
 
 **b) Import référentiel**&#x20;
 
-Lorsque la liste de choix est trop grande, vous avez la possibilité d'intégrer un fichier de référentiel à importer en csv.&#x20;
+Lorsque la liste de choix est trop grande, vous avez la possibilité d'intégrer un fichier de référentiel à importer en csv. L'usager ne verra que la première colonne présente dans le fichier. L'instructeur en revanche verra toutes les autres colonnes.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 14.57.16.png" alt=""><figcaption></figcaption></figure>
+Le fichier ne doit pas contenir plus de 5000 lignes et doit peser maximum 1 Mo
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 14.57.16.png" alt=""><figcaption><p>Champ choix simple avec import référentiel </p></figcaption></figure>
 
 
 
