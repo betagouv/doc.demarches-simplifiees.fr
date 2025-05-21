@@ -559,9 +559,9 @@ Pour télécharger l’export, revenez à votre écran de gestion, cliquez sur �
 
 Tout événement sur un dossier génère une notification du côté de l’instructeur qui suit le dossier, afin de l’en avertir.
 
-Une pastille rouge est alors affichée sur l’écran de suivi des dossier au niveau du ou des onglets contenant des dossiers avec notifications, dans l'exemple ci-après sur les onglets « suivis par moi » et « traités » :&#x20;
+Une pastille rouge est alors affichée sur l’écran de suivi des dossier au niveau du ou des onglets contenant des dossiers avec notifications, dans l'exemple ci-après sur l'onglet « suivis par moi » :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.54.08.png" alt=""><figcaption><p>Pastille rouge signalant un événement sur un dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.54.08.png" alt=""><figcaption><p>Pastille rouge signalant la présence de notifications sur des dossiers</p></figcaption></figure>
 
 **b. Les badges de notifications**
 
