@@ -561,7 +561,7 @@ Tout événement sur un dossier génère une notification du côté de l’instr
 
 Une pastille rouge est alors affichée sur l’écran de suivi des dossier au niveau du ou des onglets contenant des dossiers avec notifications, dans l'exemple ci-après sur les onglets « suivis par moi » et « traités » :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.54.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.54.08.png" alt=""><figcaption><p>Pastille rouge signalant un événement sur un dossier</p></figcaption></figure>
 
 **b. Les badges de notifications**
 
