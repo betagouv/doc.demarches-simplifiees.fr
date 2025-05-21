@@ -4,10 +4,6 @@ description: Introduction générale
 
 # API GraphQL
 
-{% hint style="info" %}
-Pour être informé des évolutions de l'API, vous pouvez vous [inscrire à notre newsletter dédiée](https://7b97debb.sibforms.com/serve/MUIEAOpYNmRDuQF5Ib0fqC2aNgJW1j\_5EkA8AUkO6UBxCpofKKXPFNSiCInma2JfRsXGchOns5RZ0UWYVbC-8utoVRMT1wK\_1JRH7o0tbP-DQ07YtTsmkotgdSobF2n4MemAagXAO1mhB1vx3vqxijaSUYKnu-kg6O-1\_l7WcTNLdgHoQM1EfkJjaVpc3TPvaOYgj6Uk35dqi86-)
-{% endhint %}
-
 L'API (**A**pplication **P**rogramming Interface) permet d'interconnecter Demarches Simplifiées à d'autres systèmes d'information ou d'autres logiciels.&#x20;
 
 Aujourd'hui notre API est **sortante et entrante.** Vous pouvez donc aussi bien **lire que écrire des données dans Démarches Simplifiées**.
