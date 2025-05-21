@@ -135,7 +135,7 @@ En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est mo
 
 En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
 
-### **D. Suivre un dossier**
+### **F. Suivre un dossier**
 
 Les dossiers déposés sont regroupés par défaut sous le statut « suivis par moi ».
 
@@ -147,7 +147,7 @@ Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
-En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille orange sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
+En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille rouge sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -553,23 +553,47 @@ Pour télécharger l’export, revenez à votre écran de gestion, cliquez sur �
 
 ## 6. Autres paramètres
 
-### A. Notifications de mise à jour d'un dossier
+### A. Notifications sur les dossiers
 
-**a. Les pastilles oranges**&#x20;
+**a. Les pastilles rouges**&#x20;
 
-Toute modification effectuée par l’usager sur un dossier suivi ou traité génère une notification du côté instructeur afin de l’en avertir. Cette notification est représentée par une pastille orange qui permet à l’instructeur de trouver le ou les dossier(s) mis à jour par l'usager.&#x20;
+Tout événement sur un dossier génère une notification du côté de l’instructeur qui suit le dossier, afin de l’en avertir.
 
-Les pastilles orange apparaissent sur la colonne d’état du dossier concerné, dans l'exemple ci-après sur la colonne « suivis » mais aussi sur le dossier concerné par la mise à jour :
+Une pastille rouge est alors affichée sur l’écran de suivi des dossier au niveau du ou des onglets contenant des dossiers avec notifications, dans l'exemple ci-après sur les onglets « suivis par moi » et « traités » :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 09.00.09.png" alt=""><figcaption><p>Pastille orange mise à jour dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.54.08.png" alt=""><figcaption></figcaption></figure>
 
-La pastille s'efface lorsque vous cliquez sur le dossier en question.&#x20;
+**b. Les badges de notifications**
 
-**b. Remonter les dossiers avec une notification**&#x20;
+Des badges de notifications sont affichés automatiquement pour signaler des événements sur les dossiers :&#x20;
 
-Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc). Cela peut être utile lorsque les pastilles oranges sont effacées.&#x20;
+<figure><img src="../.gitbook/assets/AD_4nXctBmFp3_RKakAWmPM6fT8I4K36KqNTyrUQ8LGoiNW5va5d0EhZWQJGRqhHPLG2l1x9MUGnz1R8XryW7Lv1-c2qf_DJgmfviF51W7bsWVQ7zRUsNpsi1parcxFfRDxI8Ya-paylXRWLH8UEojEgYQ.png" alt=""><figcaption><p>Table des notifications</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.45.28.png" alt=""><figcaption><p>Remonter les dossiers avec une notification</p></figcaption></figure>
+Les notifications de type **“Avertissement”** sont communes à tous les instructeurs du dossier considéré, qu’ils suivent ou non celui-ci.
+
+Les notifications relatives aux **“Nouveautés”** ou de type **“En attente”** sont quant à elles propres à chaque instructeur qui suit le dossier. Elles viennent préciser ce à quoi correspond la pastille rouge présentée dans la partie précédente.
+
+Ces badges de notifications sont visibles dans les écrans suivants :&#x20;
+
+* dans la liste des dossiers, sous le numéro de dossier :&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.59.01.png" alt=""><figcaption><p>Tableau de suivi des dossiers</p></figcaption></figure>
+
+* dans la vue détaillée d'un dossier, à côté de son état :&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.59.41.png" alt=""><figcaption><p>Vue détaillée d'un dossier</p></figcaption></figure>
+
+**c. Filtrer les dossiers avec notifications**
+
+Dans la liste des dossiers, vous pouvez filtrer les dossiers en fonction des badges de notifications. Pour cela, il faut cliquer sur le bouton « Sélectionner un filtre », situé en haut à gauche, sélectionner la colonne « Notifications sur le dossier », puis le badge de notification souhaité, et cliquer sur le bouton « Ajouter le filtre ».
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 15.10.30.png" alt=""><figcaption><p>Filtrer l'affichage des dossiers par type de notification</p></figcaption></figure>
+
+**d. Remonter les dossiers avec notifications**
+
+Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc). Cela peut être utile lorsque les pastilles rouges sont effacées.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 15.16.21.png" alt=""><figcaption><p>Remonter les dossiers avec notifications</p></figcaption></figure>
 
 ### **B. Les labels**
 
