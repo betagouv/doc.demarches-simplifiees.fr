@@ -585,13 +585,13 @@ Ces badges de notifications sont visibles dans les écrans suivants :&#x20;
 
 **c. Filtrer les dossiers avec notifications**
 
-Dans la liste des dossiers, vous pouvez filtrer les dossiers en fonction des badges de notifications. Pour cela, il faut cliquer sur le bouton « Sélectionner un filtre », situé en haut à gauche, sélectionner la colonne « Notifications sur le dossier », puis le badge de notification souhaité, et cliquer sur le bouton « Ajouter le filtre ».
+Dans la liste des dossiers, vous pouvez filtrer les dossiers en fonction des badges de notifications. Pour cela, il faut cliquer sur le bouton "Sélectionner un filtre", situé en haut à gauche, sélectionner la colonne "Notifications sur le dossier", puis le badge de notification souhaité, et cliquer sur le bouton "Ajouter le filtre".
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 15.10.30.png" alt=""><figcaption><p>Filtrer l'affichage des dossiers par type de notification</p></figcaption></figure>
 
 **d. Remonter les dossiers avec notifications**
 
-Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc). Cela peut être utile lorsque les pastilles rouges sont effacées.&#x20;
+Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc).
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 15.16.21.png" alt=""><figcaption><p>Remonter les dossiers avec notifications</p></figcaption></figure>
 
