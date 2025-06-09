@@ -618,7 +618,40 @@ Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tablea
 
 <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-### C. Statistiques
+### C. La gestion de la liste des instructeurs&#x20;
+
+{% hint style="warning" %}
+Les **administrateurs de la démarche** peuvent activer l’**auto-gestion des instructeurs**, ce qui permet aux instructeurs de gérer eux-mêmes la liste des instructeurs associés à la démarche.
+
+🔒 **Cette fonctionnalité n’est pas activée ?**\
+Vous pouvez contacter les administrateurs depuis l’onglet **« Gestion de la démarche »**, puis **«Administrateurs de la démarche »**.
+{% endhint %}
+
+Lorsque l’option d’auto-gestion des instructeurs est activée, vous avez la possibilité de cliquer sur l’onglet **« Gestion de la démarche », puis sur « Gestion des instructeurs »**
+
+<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption><p>Gestion des instructeurs </p></figcaption></figure>
+
+S'il s'agit d'une démarche pour laquelle la fonctionnalité « Routage » est activée, **vous accéderez à la liste des groupes d'instructeurs paramétrés pour cette démarche.**
+
+<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption><p>Gestion des instructeurs dans le cadre d'une démarche avec routage </p></figcaption></figure>
+
+Il vous suffit ensuite de **sélectionner le groupe de routage** concerné afin **d’ajouter ou de retirer d’autres instructeurs de la liste des instructeurs du groupe.**
+
+<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption><p>Affectation des instructeurs </p></figcaption></figure>
+
+{% hint style="success" %}
+**L’auto-gestion des instructeurs peut également être activée pour les démarches sans routage.**
+{% endhint %}
+
+
+
+**Enfin, en tant qu'instructeur, vous avez la possibilité de personnaliser d'autres options liées à votre groupe de routage, comme les informations de contact et le tampon figurant sur l'attestation d'acceptation.**
+
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p>Options des groupes de routage </p></figcaption></figure>
+
+
+
+### D. Statistiques
 
 Sur chaque procédure, l'instructeur a accès à des statistiques :
 
@@ -633,7 +666,7 @@ Dans cet onglet "statistiques", vous trouverez les informations suivantes:&#x20;
 
 Ces données ne peuvent être exportées. En revanche, elles sont publiques et peuvent donc être consultées à tout moment.&#x20;
 
-### D. Récapitulatif de l'activité
+### E. Récapitulatif de l'activité
 
 L'instructeur est notifié par e-mail de l'activité sur chacune des procédures sur lesquelles il a été nommé. L'e-mail signale le dépôt de nouveaux dossiers et les changements effectués par les usagers sur les dossiers suivis.&#x20;
 
