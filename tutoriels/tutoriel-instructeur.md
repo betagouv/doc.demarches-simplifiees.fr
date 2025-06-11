@@ -631,7 +631,7 @@ Lorsque l’option d’auto-gestion des instructeurs est activée, vous avez la 
 
 <figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption><p>Gestion des instructeurs </p></figcaption></figure>
 
-S'il s'agit d'une démarche pour laquelle la fonctionnalité « Routage » est activée, **vous accéderez à la liste des groupes d'instructeurs paramétrés pour cette démarche.**
+S'il s'agit d'une démarche pour laquelle la fonctionnalité « Routage » est activée, **vous accéderez à la liste des groupes d'instructeurs auxquels vous êtes rattaché.** &#x20;
 
 <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption><p>Gestion des instructeurs dans le cadre d'une démarche avec routage </p></figcaption></figure>
 
