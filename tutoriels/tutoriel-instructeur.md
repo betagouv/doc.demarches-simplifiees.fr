@@ -643,11 +643,13 @@ Il vous suffit ensuite de **sélectionner le groupe de routage** concerné afin 
 **L’auto-gestion des instructeurs peut également être activée pour les démarches sans routage.**
 {% endhint %}
 
+**Enfin, en tant qu'instructeur, vous avez la possibilité d'éditer les informations de contact de votre groupe de routage.** &#x20;
 
+Ces informations apparaîtront dans les mails automatiques, en pied de page lors du dépôt de dossier ainsi que dans le menu « Aide ». Elles sont essentielles pour permettre aux usagers de vous contacter par le moyen de leur choix (et ce, précisément dans le cas où la messagerie du dossier est désactivée). &#x20;
 
-**Enfin, en tant qu'instructeur, vous avez la possibilité de personnaliser d'autres options liées à votre groupe de routage, comme les informations de contact et le tampon figurant sur l'attestation d'acceptation.**
+<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption><p>Personnalisation des informations de contact du groupe de routage </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p>Options des groupes de routage </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 
 
