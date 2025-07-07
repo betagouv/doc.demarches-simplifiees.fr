@@ -567,7 +567,7 @@ Une pastille rouge est alors affichée sur l’écran de suivi des dossier au ni
 
 Des badges de notifications sont affichés automatiquement pour signaler des événements sur les dossiers :&#x20;
 
-<figure><img src="../.gitbook/assets/AD_4nXctBmFp3_RKakAWmPM6fT8I4K36KqNTyrUQ8LGoiNW5va5d0EhZWQJGRqhHPLG2l1x9MUGnz1R8XryW7Lv1-c2qf_DJgmfviF51W7bsWVQ7zRUsNpsi1parcxFfRDxI8Ya-paylXRWLH8UEojEgYQ.png" alt=""><figcaption><p>Table des notifications</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption><p>Table des notifications</p></figcaption></figure>
 
 Les notifications de type **“Avertissement”** sont communes à tous les instructeurs du dossier considéré, qu’ils suivent ou non celui-ci.
 
@@ -577,23 +577,23 @@ Ces badges de notifications sont visibles dans les écrans suivants :&#x20;
 
 * dans la liste des dossiers, sous le numéro de dossier :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.59.01.png" alt=""><figcaption><p>Tableau de suivi des dossiers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption><p>Tableau de suivi des dossiers</p></figcaption></figure>
 
 * dans la vue détaillée d'un dossier, à côté de son état :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 14.59.41.png" alt=""><figcaption><p>Vue détaillée d'un dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (1).png" alt=""><figcaption><p>Vue détaillée d'un dossier</p></figcaption></figure>
 
 **c. Filtrer les dossiers avec notifications**
 
 Dans la liste des dossiers, vous pouvez filtrer les dossiers en fonction des badges de notifications. Pour cela, il faut cliquer sur le bouton "Sélectionner un filtre", situé en haut à gauche, sélectionner la colonne "Notifications sur le dossier", puis le badge de notification souhaité, et cliquer sur le bouton "Ajouter le filtre".
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 15.10.30.png" alt=""><figcaption><p>Filtrer l'affichage des dossiers par type de notification</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption><p>Filtrer l'affichage des dossiers par type de notification</p></figcaption></figure>
 
 **d. Remonter les dossiers avec notifications**
 
 Vous avez aussi la possibilité de faire remonter les dossiers avec une notification. Les dossiers remonteront en fonction de la date des dernières mises à jour apportées (dans le dossier, dans la messagerie, etc).
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-05-21 à 15.16.21.png" alt=""><figcaption><p>Remonter les dossiers avec notifications</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption><p>Remonter les dossiers avec notifications</p></figcaption></figure>
 
 ### **B. Les labels**
 
