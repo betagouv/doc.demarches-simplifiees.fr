@@ -59,8 +59,6 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 
 Un point d'accès numérique est également mis à disposition des usagers, vous pouvez contacter le standard de la préfecture pour plus d'informations.&#x20;
 
-&#x20;
-
 #### 1ère demande de  carte de séjour temporaire « Vie privée et familiale » :
 
 * [Etranger entré en France avant l’âge de 13 ans et y résidant depuis lors](https://www.demarches-simplifiees.fr/commencer/demande-premier-titre-sejour-etranger-etranger-entre-avant-13-ans)
@@ -76,6 +74,16 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 ### 49 - Maine-et-Loire
 
 * [Aide à la prise de rendez-vous pour une première demande de titre de séjour ](https://www.demarches-simplifiees.fr/commencer/prefecture49-bse3)
+
+### 57 - Moselle&#x20;
+
+
+
+* Première demande et demande de renouvellement d'un titre de séjour "vie professionnelle et étudiante" (non traitée sur l'ANEF)
+* Première demande de carte de séjour liens personnels et familiaux (sur le fondement de l’article L. 423-23 du CESEDA)
+* Première demande et demande de renouvellement d'un titre de séjour VPF (non traitée sur l'ANEF)
+* Demande de rendez-vous - Admission exceptionnelle au séjour (L.435-1, L.435-2, L.435-3 et L.435-4 du CESEDA)
+* Demande de renouvellement de récépissé de titre de séjour ou d'attestation de Prolongation d'Instruction (ANEF)
 
 
 
@@ -151,8 +159,6 @@ INFORMATION : si vous ne trouvez pas de réponse sur le[ ](http://www.bas-rhin.g
 * [Renouvellement d'un récepissé de demande de titre de séjour délivré par la Sous-préfecture de Meaux](https://www.demarches-simplifiees.fr/commencer/renouvellement-d-un-recepisse-de-demande-de-titre-)
 * [Dépôt d'une demande d'autorisation provisoire de séjour pour un parent d’enfant étranger malade](https://www.demarches-simplifiees.fr/commencer/-premier-titre-de-sejour-pour-soins)
 * [Demande de 1er titre de séjour pour les étrangers entrés en France avant l'âge de 13 ans (10 ans pour les ressortissants tunisiens et algériens) et y résidant depuis lors](https://www.demarches-simplifiees.fr/commencer/demande-de-premier-titre-de-sejour-pour-les-usager)
-
-
 
 
 
