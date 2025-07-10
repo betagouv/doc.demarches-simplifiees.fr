@@ -79,11 +79,13 @@ Un point d'accès numérique est également mis à disposition des usagers, vous
 
 
 
-* Première demande et demande de renouvellement d'un titre de séjour "vie professionnelle et étudiante" (non traitée sur l'ANEF)
-* Première demande de carte de séjour liens personnels et familiaux (sur le fondement de l’article L. 423-23 du CESEDA)
-* Première demande et demande de renouvellement d'un titre de séjour VPF (non traitée sur l'ANEF)
-* Demande de rendez-vous - Admission exceptionnelle au séjour (L.435-1, L.435-2, L.435-3 et L.435-4 du CESEDA)
-* Demande de renouvellement de récépissé de titre de séjour ou d'attestation de Prolongation d'Instruction (ANEF)
+* [Première demande et demande de renouvellement d'un titre de séjour "vie professionnelle et étudiante" (non traitée sur l'ANEF)](https://www.demarches-simplifiees.fr/commencer/prefecture-de-la-moselle-premiere-demande)
+* [Première demande de carte de séjour liens personnels et familiaux (sur le fondement de l’article L. 423-23 du CESEDA)](https://www.demarches-simplifiees.fr/commencer/prefecture-de-la-moselle-premiere-demande-de-carte)
+* [Première demande et demande de renouvellement d'un titre de séjour VPF (non traitée sur l'ANEF)](https://www.demarches-simplifiees.fr/commencer/prefecture-de-la-moselle-premiere-demande-renouvellement-vpf)
+* [Demande de rendez-vous - Admission exceptionnelle au séjour (L.435-1, L.435-2, L.435-3 et L.435-4 du CESEDA)](https://www.demarches-simplifiees.fr/commencer/prefecture-de-la-moselle-demande-rdv-admission)
+* [Demande de renouvellement de récépissé de titre de séjour ou d'attestation de Prolongation d'Instruction (ANEF)](https://www.demarches-simplifiees.fr/commencer/prefecture-de-la-moselle-renouvellement-recepisse)
+
+Vous trouverez plus d'informations sur le site de la préfecture en cliquant [ici](https://www.moselle.gouv.fr/Demarches/Demarches-de-l-etranger-en-France/Titre-de-sejour-et-documents-de-voyage) .&#x20;
 
 
 
