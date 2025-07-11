@@ -224,13 +224,7 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 
 ### 94- Val-de-Marne&#x20;
 
-
-
-## Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN
-
-Créteil :&#x20;
-
-
+Créteil
 
 * [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant ALGÉRIEN ](https://www.demarches-simplifiees.fr/commencer/1eredemande-algerien-creteil)
 * [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-creteil)
@@ -254,7 +248,7 @@ Créteil :&#x20;
 * Première demande « visa concours (art. L.422.2) », « visa D mineur scolarisé »
 * Première demande et renouvellement « stagiaire », « jeune au pair »
 
-Pour les démarches ci-dessus, voici le lien URL :&#x20;
+**Pour les démarches ci-dessus, voici le lien URL :**&#x20;
 
 {% embed url="https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi" %}
 
