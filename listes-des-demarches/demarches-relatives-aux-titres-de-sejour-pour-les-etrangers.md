@@ -38,11 +38,19 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 
 ### 14 - Calvados
 
+**Accompagnement numérique :**&#x20;
+
+* [Demande de rendez-vous au point d'accueil numérique du bureau du séjour](https://www.demarches-simplifiees.fr/commencer/demande-rdv-pan-sejour-pref14)
+
 **Première demande**
 
 * [Pré-demande en ligne - première demande de titre de séjour avec Visa D](https://www.demarches-simplifiees.fr/commencer/pref14-premieredemande-visad)
 * [Pré-demande en ligne - première demande de titre de séjour - autres situations](https://www.demarches-simplifiees.fr/commencer/pref14-titredesejour-autressituations)
 * [Pré-demande en ligne - première demande de titre de séjour jeune majeur entré en France avant l'âge de 13 ans](https://www.demarches-simplifiees.fr/commencer/pref14-titredesejour-entreeavant13ans)
+* [Pré-demande en ligne Carte de séjour Etudiant-Autre situation](https://www.demarches-simplifiees.fr/commencer/pref14-sejour-etudiant-autre-etablissement)
+* [Pré-demande en ligne de renouvellement titre de séjour et de première demande de carte de résident](https://www.demarches-simplifiees.fr/commencer/pref14-titredesejour-renouvellement)
+* [Pré-demande en ligne : Première demande ou renouvellement d'une APS pour les personnes déplacées d'Ukraine (protection temporaire)](https://www.demarches-simplifiees.fr/commencer/pre-demande-en-ligne-premiere-demande-ou-renouvellement-d-une-aps-protection-temporaire-ukraine)
+* [Pré-demande en ligne : renouvellement d'un récépissé de demande de titre de séjour](https://www.demarches-simplifiees.fr/commencer/pre-demande-en-ligne-renouvellement-d-un-recepisse)
 
 **Changement de statut**
 
@@ -52,6 +60,12 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 
 * [Pré-demande en ligne titre de séjour parent d'enfant malad](https://www.demarches-simplifiees.fr/commencer/pref14-parentdenfantmalade)[e](https://www.demarches-simplifiees.fr/commencer/pref14-titredesejour-etrangermalade)
 * [Première demande de titre de séjour "étranger malade"](https://www.demarches-simplifiees.fr/commencer/pref14-titredesejour-etrangermalade)
+
+
+
+* [Vérification préalable à l'embauche - Préfecture du Calvados](https://www.demarches-simplifiees.fr/commencer/verification-prealable-a-l-embauche-prefecture-du-calvados)
+
+
 
 ### 35 - Ille-Et-Vilaine&#x20;
 
