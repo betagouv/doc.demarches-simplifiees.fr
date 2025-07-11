@@ -220,3 +220,48 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 * [Première demande de titre de séjour vie professionnelle ](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-vie-professionnelle)
 * [Première demande de titre de séjour vie privée et familiale ](https://www.demarches-simplifiees.fr/commencer/rdv-premier-titre-de-sejour-vie-privee-familiale)
 
+
+
+### 94- Val-de-Marne&#x20;
+
+
+
+## Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN
+
+Créteil :&#x20;
+
+
+
+* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant ALGÉRIEN ](https://www.demarches-simplifiees.fr/commencer/1eredemande-algerien-creteil)
+* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-creteil)
+* [Demande de rendez-vous pour le RENOUVELLEMENT du TITRE DE SÉJOUR](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-renouvellement-creteil)
+* [Demande de rendez-vous pour un CHANGEMENT DE STATUT](https://www.demarches-simplifiees.fr/commencer/changementdestatut-creteil)
+* ◦ [Demande d’autorisation provisoire de séjour (APS) fin d’études\
+  Pour les ressortissants de pays ayant signé une convention bilatérale avec la France : Bénin,\
+  Burkina Faso, Cap Vert, Congo (Brazzaville), Gabon, Ile Maurice , Inde, Tunisie](demarches-relatives-aux-titres-de-sejour-pour-les-etrangers.md#demarches-relatives-a-la-demande-dautorisation-provisoire-de-travail)
+* [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte](https://www.demarches-simplifiees.fr/commencer/rece1235)
+* Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention chercheur ou chercheur - programme mobilité : [https://www.demarches-simplifiees.fr/commencer/rece1235](https://www.demarches-simplifiees.fr/commencer/rece1235)
+* Demande de titre de séjour Recherche d’emploi et création d’entreprise (RECE) suite à une carte de séjour étudiant et l’obtention d’un diplôme de niveau master : [https://www.demarches-simplifiees.fr/commencer/rece1236](https://www.demarches-simplifiees.fr/commencer/rece1236)
+* [Demande de rendez-vous en vue du dépôt d'une première demande de titre de séjour ACCOMPAGNANT D'UN ÉTRANGER MINEUR MALADE](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-premiere-demande-accompagnant-mineur-malade)
+
+### Sous-Préfecture de L'Haÿ-les-Roses :&#x20;
+
+* Première demande titre de séjour « Vie privée et familiale » résidant en France depuis l’age de 13 ans\
+  ou 10 ans pour les Tunisiens
+* Première demande certificat de résidence algérien « Vie privée et familiale » résidant en France\
+  depuis l’âge de 10 ans
+* Première demande titre de séjour « Salarié » ou « Entrepreneur-profession libérale »
+* Première demande « visa concours (art. L.422.2) », « visa D mineur scolarisé »
+* Première demande et renouvellement « stagiaire », « jeune au pair »
+
+Pour les démarches ci-dessus, voici le lien URL :&#x20;
+
+{% embed url="https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi" %}
+
+* [Demande d’autorisation provisoire de séjour (APS) fin d’études](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
+* [Demande de titre de séjour Recherche d’emploi et création d’entreprise (RECE)](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
+
+## Sous préfecture de Nogent-sur-Marne
+
+#### [Séjour des étrangers (SP de Nogent-sur-Marne) - Saisine lors de blocages ANEF](https://www.demarches-simplifiees.fr/commencer/sp-nogent-sur-marne-blocages-anef)
+
