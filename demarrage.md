@@ -9,7 +9,7 @@ description: >-
 
 La prise en main de demarches-simplifiees.fr ne nécessite aucune compétence informatique. L'équipe accompagne les organismes qui le souhaitent dans la mise en place de démarches.
 
-<figure><img src=".gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 ### Une prise en main simple
 
@@ -42,7 +42,7 @@ Les conseils valent tout autant pour des démarches papiers et des démarches en
 
 Prenez le temps de regarder ces guides et ces vidéos avant vous lancer !
 
-![](.gitbook/assets/sexercer\_aux\_methodes\_de\_simplification.jpg)
+![](.gitbook/assets/sexercer_aux_methodes_de_simplification.jpg)
 
 **SIMPLIFIER LES DOCUMENTS ADMINISTRATIFS**&#x20;
 

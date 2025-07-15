@@ -30,7 +30,7 @@ Bilan 2023 de DS
 
 
 
-{% file src=".gitbook/assets/Présentation Démarches simplifiées  2024 (2).pdf" %}
+{% file src=".gitbook/assets/Webinaire Démarches simplifiées mai 2025 (1) (1).pdf" %}
 
 ### Objectif
 
@@ -46,7 +46,7 @@ La plateforme demarches-simplifiees.fr comporte trois rôles :
 
 Aucune connaissance spécifique en informatique n'est requise pour comprendre cette documentation.
 
-<figure><img src=".gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ### Retours
 

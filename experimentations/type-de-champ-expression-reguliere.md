@@ -14,11 +14,11 @@ Afin d'activer ce type de champ par démarche, veuillez vous rapprocher de notre
 \
 Une fois que la fonctionnalité est activée, vous pouvez vous rendre dans l'éditeur de champs et choisir un type de champ expression régulière :&#x20;
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p>Choix du type de champ Expression régulière</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (248).png" alt=""><figcaption><p>Choix du type de champ Expression régulière</p></figcaption></figure>
 
 Des informations sont à renseigner :&#x20;
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
 * Saisissez votre expression régulière : vous pouvez la tester sur [https://rubular.com/](https://rubular.com/)
   * Exemple pour valider un code APE : ^\[0-9]{4}\[A-Z]$

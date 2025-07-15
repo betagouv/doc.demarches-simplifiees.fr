@@ -16,7 +16,7 @@ Afin d'accéder au dossier et de donner son avis, vous devez cliquer sur le bout
 
 Si vous disposez déjà d'un compte, il vous suffit de vous connecter. En revanche, si vous ne disposez d'aucun compte, l'inscription est nécessaire afin d'accéder au dossier. Dans ce cas, l'e-mail sera présenté de la façon suivante :
 
-![](<../.gitbook/assets/image (13) (1).png>)
+![](<../.gitbook/assets/image (149).png>)
 
 Il est inutile de répondre à l'e-mail, la réponse étant dans ce cas adressée au support de demarches-simplifiees.fr et non à l'instructeur.&#x20;
 
@@ -45,7 +45,7 @@ Depuis la liste, il suffit de cliquer sur un dossier afin d'accéder au détail 
 
 En cliquant sur le dossier vous avez accès à l'onglet « Demande » qui récapitule le formulaire tel que rempli par l'usager :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.43 (2).png" alt=""><figcaption><p>Onglet demande </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.43 (3).png" alt=""><figcaption><p>Onglet demande </p></figcaption></figure>
 
 Cet onglet vous permet également de consulter les pièces justificatives jointes au dossier par l'usager.
 
@@ -59,7 +59,7 @@ Vous avez la possibilité de répondre par "oui" ou "non" à la question posée 
 
 Vous avez également un champ de texte libre dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.02 (1).png" alt=""><figcaption><p>Interface expert de la demande d'avis </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.11.02 (2).png" alt=""><figcaption><p>Interface expert de la demande d'avis </p></figcaption></figure>
 
 Vous avez la possibilité de joindre un document à votre avis en cliquant sur le bouton "parcourir".&#x20;
 
@@ -95,15 +95,15 @@ Si l'administrateur de la démarche active la fonctionnalité « notifier des d�
 
 * En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été accepté:&#x20;
 
-![Email reçu par un expert pour l'acceptation d'un dossier](<../.gitbook/assets/image (45) (1).png>)
+![Email reçu par un expert pour l'acceptation d'un dossier](<../.gitbook/assets/image (140).png>)
 
 * En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été refusé.&#x20;
 
-![Email reçu par un expert pour le refus d'un dossier](<../.gitbook/assets/image (46) (1).png>)
+![Email reçu par un expert pour le refus d'un dossier](<../.gitbook/assets/image (247).png>)
 
 * En tant « qu'expert invité », vous êtes notifié du fait que le dossier a été classé sans suite.&#x20;
 
-![Email reçu par un expert pour le classement sans suite d'un dossier](<../.gitbook/assets/image (47).png>)
+![Email reçu par un expert pour le classement sans suite d'un dossier](<../.gitbook/assets/image (180).png>)
 
 ### E. Gestion des notifications&#x20;
 

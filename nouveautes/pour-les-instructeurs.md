@@ -8,7 +8,7 @@ description: >-
 
 ### Retrouvez toutes les nouveautés et l'actualité Démarches simplifiées depuis l'onglet "nouveautés" de votre compte :&#x20;
 
-<figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
 ## La possibilité de supprimer un message envoyé par erreur sur la messagerie
 
@@ -18,11 +18,11 @@ Il est désormais possible de supprimer un message envoyé par erreur depuis la 
 
 
 
-![messagerie de l'instructeur ](<../.gitbook/assets/image (50).png>)
+![messagerie de l'instructeur ](<../.gitbook/assets/image (96).png>)
 
 Côté usager, le message envoyé par l'instructeur est automatiquement supprimé : &#x20;
 
-![messagerie de l'usager ](<../.gitbook/assets/image (52).png>)
+![messagerie de l'usager ](<../.gitbook/assets/image (246).png>)
 
 ## Les instructeurs peuvent contacter les usagers disposant d'un dossier en brouillon&#x20;
 
@@ -34,7 +34,7 @@ Pour s'assurer que l'ensemble des usagers déposent leurs dossiers, les instruct
 
 Ils peuvent alors envoyer **un mail à l'ensemble des usagers** dont le dossier est en brouillon :&#x20;
 
-![](<../.gitbook/assets/image (51).png>)
+![](<../.gitbook/assets/image (168).png>)
 
 ## L'ajout de nouveaux instructeurs à la démarche&#x20;
 
@@ -78,7 +78,7 @@ Auparavant, il fallait que l'instructeur qui reçoit le dossier fasse l'action d
 
 Si l'usager a lié son dossier à un autre dossier via un champ « Lien vers un autre dossier », l'instructeur a désormais la possibilité de permettre à l'expert invité de consulter le dossier lié. Pour cela, il lui suffit de cocher la case « Inviter aussi l'expert sur le dossier lié n°xxxx ».
 
-![](<../.gitbook/assets/download (1).png>)
+![](../.gitbook/assets/download.png)
 
 ## Changement dans la récupération des dossiers sous un format tableur
 
@@ -118,7 +118,7 @@ Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre c
 
 ## Les instructeurs peuvent repasser des dossiers classés sans suite ou refusés en instruction . Il est également possible d'envoyer à l'usager une demande de correction.&#x20;
 
-![](../.gitbook/assets/Repasser\_un\_dossier\_en\_instruction.png)
+![](../.gitbook/assets/Repasser_un_dossier_en_instruction.png)
 
 Vous avez classé sans suite ou refusé un dossier par erreur ? Pas de panique : vous pouvez désormais le repasser en instruction ! Il suffit pour cela de cliquer sur le bouton « Sans suite » ou « Refusé » puis « Repasser en instruction »
 

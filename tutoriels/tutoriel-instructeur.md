@@ -58,7 +58,7 @@ Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches . 
 
 Vous pourrez alors déplacer les démarches dans la liste pour les classer en fonction de vos préférences comme ci-dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p>Personnalisation de l'ordre des démarches</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption><p>Personnalisation de l'ordre des démarches</p></figcaption></figure>
 
 
 
@@ -72,7 +72,7 @@ Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-c
 
 Les dossiers sont classés selon leur stade de traitement : à suivre, suivi par moi, traités, au total, expirants, à archiver et supprimés.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>tableau de suivi des dossiers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption><p>tableau de suivi des dossiers</p></figcaption></figure>
 
 Ces différents stades de traitement correspondent à :
 
@@ -113,11 +113,11 @@ Il est possible de filtrer les dossiers à l'aide des champs présents dans la p
 
 Pour cela, il faut cliquer sur le bouton « sélectionner un filtre », situé en haut à gauche,  sélectionner la colonne souhaitée, puis une valeur associée à ce champ et cliquer sur le bouton « Ajouter le filtre ». Vous aurez alors accès à l'ensemble des champs du formulaire pour filtrer les dossiers:&#x20;
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption><p>Filtrer l'affichage du tableau de bord </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption><p>Filtrer l'affichage du tableau de bord </p></figcaption></figure>
 
 &#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « Ajouter le filtre » comme suit :
 
-<figure><img src="../.gitbook/assets/image (93).png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/instructeur (4).png" alt=""><figcaption><p>Affichage du tableau de bord avec un filtre de date de création du dossier </p></figcaption></figure>
 
@@ -616,7 +616,7 @@ Pour ajouter ou modifier un label sur un dossier, vous devez cliquer sur le poin
 \
 Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tableau de bord en utilisant le filtre dédié aux labels ou en personnalisant votre tableau de bord  instructeur comme ci-dessous:&#x20;
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 ### C. La gestion de la liste des instructeurs&#x20;
 
@@ -629,15 +629,15 @@ Vous pouvez contacter les administrateurs depuis l’onglet **« Gestion de la d
 
 Lorsque l’option d’auto-gestion des instructeurs est activée, vous avez la possibilité de cliquer sur l’onglet **« Gestion de la démarche », puis sur « Gestion des instructeurs »**
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption><p>Gestion des instructeurs </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (260).png" alt=""><figcaption><p>Gestion des instructeurs </p></figcaption></figure>
 
 S'il s'agit d'une démarche pour laquelle la fonctionnalité « Routage » est activée, **vous accéderez à la liste des groupes d'instructeurs auxquels vous êtes rattaché.** &#x20;
 
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption><p>Gestion des instructeurs dans le cadre d'une démarche avec routage </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (261).png" alt=""><figcaption><p>Gestion des instructeurs dans le cadre d'une démarche avec routage </p></figcaption></figure>
 
 Il vous suffit ensuite de **sélectionner le groupe de routage** concerné afin **d’ajouter ou de retirer d’autres instructeurs de la liste des instructeurs du groupe.**
 
-<figure><img src="../.gitbook/assets/image (96).png" alt=""><figcaption><p>Affectation des instructeurs </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (262).png" alt=""><figcaption><p>Affectation des instructeurs </p></figcaption></figure>
 
 {% hint style="success" %}
 **L’auto-gestion des instructeurs peut également être activée pour les démarches sans routage.**
@@ -647,9 +647,9 @@ Il vous suffit ensuite de **sélectionner le groupe de routage** concerné afin 
 
 Ces informations apparaîtront dans les mails automatiques, en pied de page lors du dépôt de dossier ainsi que dans le menu « Aide ». Elles sont essentielles pour permettre aux usagers de vous contacter par le moyen de leur choix (et ce, précisément dans le cas où la messagerie du dossier est désactivée). &#x20;
 
-<figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption><p>Personnalisation des informations de contact du groupe de routage </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (264).png" alt=""><figcaption><p>Personnalisation des informations de contact du groupe de routage </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -34,7 +34,7 @@ Un bloc répétable sur un champ permet à ce dernier d'être répété autant d
 
 Afin de simplifier vos formulaires, vous pouvez également activer des logiques conditionnelles. Cela permettra de guider vos usagers vers les champs dédiées à leur situations en fonction de leur réponses aux champs du formulaire. Les formulaires sont donc plus précis et il s'agit d'un gain de temps pour l'usager. Pour plus d'information : [https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel)
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 ## 6. Utilisez l'option « champ obligatoire » avec précaution
 
@@ -48,7 +48,7 @@ Une démarche en test permet justement de déposer des dossiers fictifs qui vous
 
 Lorsque vous cliquez sur le bouton « Publier » de votre démarche en test, la fenêtre ci-dessous apparaît :&#x20;
 
-<figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 Par défaut, l'url de votre démarche est composé du titre de votre démarche. Mais vous avez la possibilité de personnaliser la fin de l'url selon vos besoins.&#x20;
 

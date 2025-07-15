@@ -53,13 +53,13 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
 
 Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
 
-<figure><img src="../.gitbook/assets/image (16) (3).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
 
 Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
 
@@ -83,7 +83,7 @@ Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire
 
 Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Identification usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption><p>Identification usager</p></figcaption></figure>
 
 ### **B. Remplir le formulaire**
 
@@ -103,11 +103,11 @@ Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier p
 
 Pour certaines démarches, il se peut que plusieurs pièces jointes soient demandées pour un seul champ.&#x20;
 
-<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
 
 Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquez sur le lien en bleu, téléchargez le fichier, remplissez le document puis l’ajouter en pièce jointe dans le dossier demarches-simplifiees.fr.
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
 La capacité maximale d’ajout de pièce jointe est de 200 Mo au total par champ. Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.&#x20;
 
@@ -121,7 +121,7 @@ En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne
 
 Vous pouvez inviter plusieurs personnes à co-construire votre dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
 
 La personne invitée reçoit alors un e-mail l’invitant à se connecter sur demarches-simplifiees.fr afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
 
@@ -131,7 +131,7 @@ Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine
 
 Lorsque vous remplissez un formulaire sur demarches-simplifiees.fr, les informations que vous remplissez sont **enregistrées automatiquement**.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.&#x20;
 
@@ -147,7 +147,7 @@ Si besoin, l'usager a la possibilité de télécharger le dossier vide en PDF (e
 
 Une fois le dossier complété, cliquez sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
 
-<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.16.03.png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager</p></figcaption></figure>
 
@@ -201,7 +201,7 @@ Cet onglet reprend toutes les démarches en cours effectuées par l'usager (brou
 
 Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52.png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52 (1).png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
 
 #### Traités
 
