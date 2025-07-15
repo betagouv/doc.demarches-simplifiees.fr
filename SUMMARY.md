@@ -15,6 +15,7 @@
   * [Vidéo : le cadre juridique](tutoriels/video-le-cadre-juridique.md)
   * [Vidéo : la relation usager](tutoriels/video-la-relation-usager.md)
   * [Intégration du bouton « Mon avis »](tutoriels/integration-du-bouton-mon-avis.md)
+  * [Champ référentiel avancé (à configurer)](tutoriels/champ-referentiel-avance-a-configurer.md)
 * [Nouveautés](nouveautes/README.md)
   * [Pour les administrateurs](nouveautes/pour-les-administrateurs.md)
   * [Pour les instructeurs](nouveautes/pour-les-instructeurs.md)
