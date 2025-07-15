@@ -22,6 +22,8 @@
 * [Expérimentations](experimentations/README.md)
   * [Type de champ expression régulière](experimentations/type-de-champ-expression-reguliere.md)
   * [Chorus](experimentations/chorus.md)
+  * [Intégration d'un tableau Grist comme référentiel pour préchargér des données](experimentations/integration-dun-tableau-grist-comme-referentiel-pour-precharger-des-donnees.md)
+  * [Et si vous souhaitez récupérer les données de l'IBAN après un SCAN](experimentations/et-si-vous-souhaitez-recuperer-les-donnees-de-liban-apres-un-scan.md)
 * [Nos démarches](listes-des-demarches/README.md)
   * [Démarches modèles à dupliquer](listes-des-demarches/demarches-modeles-a-dupliquer.md)
   * [Démarches relatives au permis de conduire](listes-des-demarches/demarches-relatives-au-permis-de-conduire.md)
