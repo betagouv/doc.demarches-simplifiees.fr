@@ -17,6 +17,12 @@ Ce champ est conçu pour les administrateurs qui veulent fiabiliser la saisie et
 
 ***
 
+## Vidéo
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-L7_aKvpAJdAIEfxHudA%2Fuploads%2FYyG0eZ7PRmwYTs50c4W9%2Foutput-tiny.mp4?alt=media&token=1b83de91-efbe-4108-a817-69e5d1ca9288" %}
+
+***
+
 ## Sommaire
 
 * [Présentation générale](champ-referentiel-avance-a-configurer.md#champ-référentiel-avancé)
