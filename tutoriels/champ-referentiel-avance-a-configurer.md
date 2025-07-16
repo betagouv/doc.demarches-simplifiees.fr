@@ -27,14 +27,15 @@ Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des 
 ## Sommaire
 
 * [Présentation générale](champ-referentiel-avance-a-configurer.md#champ-référentiel-avancé)
+* [Vidéo](champ-referentiel-avance-a-configurer.md#vidéo)
 * [1. Valider un identifiant (exemple: numéro RNB)](champ-referentiel-avance-a-configurer.md#1-valider-un-identifiant-exemple-numéro-rnb)
 * [2. Pré-remplissage automatique des champs via le référentiel](champ-referentiel-avance-a-configurer.md#2-pré-remplissage-automatique-des-champs-via-le-référentiel)
 * [3. Afficher des données publiques à l’usager](champ-referentiel-avance-a-configurer.md#3-afficher-des-données-publiques-à-lusager)
 * [4. Afficher des données privées à l’instructeur](champ-referentiel-avance-a-configurer.md#4-afficher-des-données-privées-à-linstructeur)
-* [Table de correspondance des types de données](champ-referentiel-avance-a-configurer.md#table-de-correspondance-des-types-de-données)
-* [Que se passe-t-il en cas d’erreur lors de l’appel à l’API ?](champ-referentiel-avance-a-configurer.md#que-se-passe-t-il-en-cas-derreur-lors-de-lappel-à-lapi)
 * [Questions fréquentes](champ-referentiel-avance-a-configurer.md#questions-fréquentes)
 * [Évolutions à venir](champ-referentiel-avance-a-configurer.md#évolutions-à-venir)
+* [Table de correspondance des types de données](champ-referentiel-avance-a-configurer.md#table-de-correspondance-des-types-de-données)
+* [Que se passe-t-il en cas d’erreur lors de l’appel à l’API ?](champ-referentiel-avance-a-configurer.md#que-se-passe-t-il-en-cas-derreur-lors-de-lappel-à-lapi)
 * [Glossaire](champ-referentiel-avance-a-configurer.md#glossaire)
 
 ***
