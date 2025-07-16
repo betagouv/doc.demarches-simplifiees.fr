@@ -32,6 +32,7 @@ Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des 
 * [Cas d’usage : pré-remplissage automatique des champs via le référentiel](champ-referentiel-avance-a-configurer.md#cas-dusage--pré-remplissage-automatique-des-champs-via-le-référentiel)
 * [Cas d’usage : afficher des données publiques à l’usager](champ-referentiel-avance-a-configurer.md#cas-dusage--afficher-des-données-publiques-à-lusager)
 * [Cas d’usage : afficher des données privées à l’instructeur](champ-referentiel-avance-a-configurer.md#cas-dusage--afficher-des-données-privées-à-linstructeur)
+* [Gestion de l’authentification](champ-referentiel-avance-a-configurer.md#gestion-de-lauthentification)
 * [Questions fréquentes](champ-referentiel-avance-a-configurer.md#questions-fréquentes)
 * [Évolutions à venir](champ-referentiel-avance-a-configurer.md#évolutions-à-venir)
 * [Table de correspondance des types de données](champ-referentiel-avance-a-configurer.md#table-de-correspondance-des-types-de-données)
@@ -291,8 +292,6 @@ L’en-tête et sa valeur seront ajoutés à chaque requête API.
 > **Astuce**
 > Protégez toujours vos jetons d’authentification et ne les partagez pas publiquement.
 
-_Cette section sera enrichie prochainement avec d’autres méthodes d’authentification._
-
 #### Questions fréquentes
 
 **Q : Mon token est-il stocké de manière sécurisée ?**
@@ -302,7 +301,7 @@ R : Oui, nous appliquons plusieurs mesures de sécurité :
 * Les tokens ne sont jamais affichés dans l’interface, même pour les administrateurs.
 * Lorsqu’une démarche est clonée, les tokens ne sont pas copiés : il faut les reconfigurer dans la nouvelle démarche.
 
-> **Astuce**  
+> **Astuce**
 > Pensez à renouveler régulièrement vos tokens et à limiter leur durée de validité pour renforcer la sécurité.
 ___
 
