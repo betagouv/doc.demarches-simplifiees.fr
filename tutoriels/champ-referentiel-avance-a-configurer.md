@@ -6,14 +6,15 @@ Le champ référentiel avancé permet de connecter un champ de formulaire à une
 
 Il aide à :
 
-* Vérifier automatiquement qu’un identifiant saisi (ex : SIRET, numéro de bâtiment…) existe vraiment
+* Vérifier automatiquement qu’un identifiant saisi existe vraiment
 * Pré-remplir d’autres champs du formulaire pour éviter les ressaisies
 * Afficher des informations utiles à l’usager (publiques, non modifiables)
 * Afficher des informations réservées à l’instructeur (privées, non modifiables)
 
-Ce champ est conçu pour les administrateurs qui veulent fiabiliser la saisie et simplifier l’expérience des usagers.
+Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des usagers.
 
-**Limite actuelle** Le champ référentiel avancé fonctionne uniquement pour la recherche d’un identifiant unique (1:1). Il ne permet pas, pour le moment, de proposer une liste de résultats ou une autocomplétion lors de la saisie. L’usager doit donc connaître et saisir précisément l’identifiant recherché.
+> **Limite actuelle**
+> Le champ référentiel avancé fonctionne uniquement pour la recherche d’un identifiant unique. Il ne propose pas encore de liste de résultats ou d’autocomplétion. L’usager doit donc saisir précisément l’identifiant recherché.
 
 ***
 
@@ -42,22 +43,22 @@ Ce champ est conçu pour les administrateurs qui veulent fiabiliser la saisie et
 
 #### Fonctionnement
 
-* L’usager saisit un identifiant dans le champ référentiel à configurer (avancé).
-* Lors de la validation, la plateforme interroge l’API du référentiel externe avec l'identifiant saisi par l'usager
-* Si l'API du référentiel externe renvoie une réponse valide la saisie est acceptée ; sinon, un message d’erreur s’affiche.
+* L’usager saisit un identifiant dans le champ référentiel avancé.
+* Lors de la validation, la plateforme interroge l’API du référentiel externe avec l’identifiant saisi.
+* Si l’API renvoie une réponse valide, la saisie est acceptée. Sinon, un message d’erreur s’affiche.
 
 {% file src="../.gitbook/assets/recherche-id.mov" %}
 
 #### Comment configurer ce cas d’usage
 
-1. **Ajouter un champ référentiel avancé**
-   * Dans l’éditeur de formulaire, ajoutez un champ de type “référentiel à configurer avancé”.
-2. **Cliquer sur "Configurer le champs"**
-3. **Configurer l’URL du référentiel**
-   * Renseignez l’URL de l’API à interroger : https://rnb-api.beta.gouv.fr
-   * **Utilisation du placeholder `{id}`** :\
-     Vous pouvez inclure `{id}` dans l’URL (ex : `https://api.exemple.fr/vehicules/{id}`).\
-     Lors de l’utilisation, `{id}` sera remplacé par la valeur saisie par l’usager dans le champ (ex : la plaque d’immatriculation).
+1. **Ajoutez un champ référentiel avancé**
+   * Dans l’éditeur de formulaire, ajoutez un champ de type « référentiel avancé à configurer ».
+2. **Cliquez sur "Configurer le champ"**
+3. **Configurez l’URL du référentiel**
+   * Renseignez l’URL de l’API à interroger, par exemple : https://rnb-api.beta.gouv.fr
+   * **Utilisation du placeholder `{id}`** :
+     Vous devez inclure `{id}` dans l’URL (ex : `https://rnb-api.beta.gouv.fr/api/alpha/buildings/{id}/`).
+     Lors de l’utilisation, `{id}` sera remplacé par la valeur saisie par l’usager dans le champ (ex : la plaque d’immatriculation).
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-06-17 à 9.58.27 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -67,14 +68,14 @@ Ce champ est conçu pour les administrateurs qui veulent fiabiliser la saisie et
    * L’URL doit pointer vers un service de confiance, sécurisé (HTTPS).
    * L’API ne doit pas exposer de données sensibles sans authentification.
    * L’URL ne doit pas permettre d’exécuter du code ou de modifier des données côté serveur.
-   * Seules les URL explicitement autorisées par l’administrateur de la plateforme seront acceptées (les .gouv.fr sont par défaut autorisées).
-6. **Utiliser le champ `Exemple de saisie valide (affiché à l'usager et utilisé pour tester la requête)`**
+   * Seules les URL explicitement autorisées par l’administrateur de la plateforme sont acceptées (les .gouv.fr sont par défaut autorisées).
+6. **Utilisez le champ `Exemple de saisie valide (affiché à l'usager et utilisé pour tester la requête)`**
    * Ce champ permet de simuler une réponse de l’API lors de la configuration.
    * L’API sera appelée avec cette valeur pour vérifier qu’elle répond selon nos standards (actuellement, seuls les référentiels qui répondent à une requête HTTP GET, au format JSON, avec un statut HTTP 200 sont acceptés).
 
 #### Exemple de validation attendue (statut HTTP 200)
 
-Pour que la validation soit acceptée, l’API doit répondre avec un statut HTTP **200** (succès) et un corps JSON valide, même minimal (par exemple : `{}`).
+Pour que la validation soit acceptée, l’API doit répondre avec un statut HTTP **200** (succès) et un corps JSON valide, même minimal (par exemple : `{}`).
 
 ```json
 {}
@@ -83,7 +84,7 @@ Pour que la validation soit acceptée, l’API doit répondre avec un statut HTT
 #### Bonnes pratiques
 
 * Vérifiez que l’URL commence bien par `https://`.
-* Assurez-vous que vos usagers savent où trouver leur numéro.
+* Indiquez clairement à l’usager où trouver son identifiant.
 * Si la saisie échoue, vérifiez l’orthographe et le format de l’identifiant.
 
 ***
@@ -92,35 +93,40 @@ Pour que la validation soit acceptée, l’API doit répondre avec un statut HTT
 
 #### Fonctionnement
 
-Le pré-remplissage permet d’automatiser la saisie de certains champs du formulaire à partir de données issues d’une base externe (référentiel), après validation d’un identifiant (ex : numéro RNB). Les données récupérées (adresse, statut, etc.) sont injectées automatiquement dans les champs du formulaire selon le mapping défini.
+Le pré-remplissage permet d’automatiser la saisie de certains champs du formulaire à partir de données issues d’une base externe (référentiel), après validation d’un identifiant (ex : numéro RNB). Les données récupérées (adresse, statut, etc.) sont injectées automatiquement dans les champs du formulaire selon la correspondance (mapping) que vous définissez.
 
 #### Comment configurer ce cas d’usage
 
-1. **Visualiser la réponse de l’API** Une fois l’URL et l’identifiant de test renseignés, la réponse JSON s’affiche dans l’interface.
+1. **Visualisez la réponse de l’API**
+   * Une fois l’URL et l’identifiant de test renseignés, la réponse JSON s’affiche dans l’interface.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.27.53 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.02.03%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
-1. **Décider la nature des propriétés du JSON et leurs usages (fonction du type de donnée choisi, nous vous proposerons les types de champs compatible avec ceux de votre formulaire). Vous pouvez choisir d'utiliser la donnée pour pré-remplir un champ, ou l'afficher dans le formulaire usager et/ou interface instructeur**
+2. **Décidez l’usage de chaque propriété du JSON**
+   * Selon le type de donnée, l’interface vous propose les champs compatibles avec votre formulaire.
+   * Vous pouvez choisir d’utiliser la donnée pour pré-remplir un champ, ou l’afficher dans le formulaire usager et/ou dans l’interface instructeur.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.28.03 AM.png" alt=""><figcaption></figcaption></figure>
 
-1. Utilisez l’interface de mapping pour lier chaque propriété (ex : `addresses[0].street`, `status`) au champ cible du formulaire.
+3. **Faites le mapping**
+   * Utilisez l’interface de mapping pour lier chaque propriété (ex : `addresses[0].street`, `status`) au champ cible du formulaire.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.30.37 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.03.52%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
-1. **Gérer les répétitions (tableaux)** Si la donnée source est un tableau (ex : plusieurs adresses), chaque élément peut être mappé sur une répétition du formulaire.
+4. **Gérez les répétitions (tableaux)**
+   * Si la donnée source est un tableau (ex : plusieurs adresses), chaque élément peut être mappé sur une répétition du formulaire.
 
-Une fois la configuration terminée, un résumé du pré-remplissage sera affiché : il liste les correspondances entre les données du référentiel et les champs du formulaire.
+Une fois la configuration terminée, un résumé du pré-remplissage s’affiche. Il liste les correspondances entre les données du référentiel et les champs du formulaire.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.27.16 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
-**Vérifier l’affichage** Lors d’un test, les champs seront ainsi automatiquement pré-rempli pour l'usager :&#x20;
+**Vérifiez l’affichage** Lors d’un test, les champs sont automatiquement pré-remplis pour l’usager.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.40.15 AM.png" alt=""><figcaption></figcaption></figure>
 
@@ -152,7 +158,8 @@ Voici un exemple de réponse typique reçue lors du pré-remplissage : chaque 
 }
 ```
 
-**Conseil :** Pour chaque propriété, vérifiez qu’elle correspond bien au type de champ cible (texte, nombre, case à cocher, etc.). Pour les tableaux, chaque élément sera mappé sur une ligne de répétition du formulaire.
+> **Astuce**
+> Pour chaque propriété, vérifiez qu’elle correspond bien au type de champ cible (texte, nombre, case à cocher, etc.). Pour les tableaux, chaque élément sera mappé sur une ligne de répétition du formulaire.
 
 ***
 
@@ -164,19 +171,21 @@ Après validation d’un identifiant, certaines informations issues du référen
 
 #### Comment configurer ce cas d’usage
 
-1. **Configurer le champ référentiel avancé** (voir les étapes précédentes pour l’URL et l’identifiant de test)
-2. **Faire le mapping des propriétés à afficher** Dans l’interface de mapping, cochez l’option “Afficher à l’usager” pour chaque donnée que vous souhaitez rendre visible.
+1. **Configurez le champ référentiel avancé** (voir les étapes précédentes pour l’URL et l’identifiant de test)
+2. **Faites le mapping des propriétés à afficher**
+   * Dans l’interface de mapping, cochez l’option “Afficher à l’usager” pour chaque donnée que vous souhaitez rendre visible.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.37.06 AM.png" alt=""><figcaption></figcaption></figure>
 
-1. **Vérifier l’affichage** Lors d’un test, les données publiques apparaissent en lecture seule dans le formulaire, sous le champ référentiel.
+3. **Vérifiez l’affichage**
+   * Lors d’un test, les données publiques apparaissent en lecture seule dans le formulaire, sous le champ référentiel.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.40.03 AM.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
-> **Astuce**\
-> Affichez uniquement les informations utiles à l’usager (ex : adresse, nom, statut), pas des identifiants techniques.
+> **Astuce**
+> Affichez uniquement les informations utiles à l’usager (ex : adresse, nom, statut), pas des identifiants techniques.
 
 #### Exemple de réponse API (affichage de données publiques)
 
@@ -324,13 +333,10 @@ Principales fonctionnalités à venir :
 * Les objets imbriqués nécessitent un mapping explicite champ par champ.
 * Les types avancés (SIRET, IBAN, etc.) sont mappés directement, puis validés à la soumission du dossier.
 
-***
-
 ### Que se passe-t-il en cas d’erreur lors de l’appel à l’API ?
 
 Lorsque le champ référentiel avancé interroge une API externe, plusieurs types d’erreurs peuvent survenir. Le système gère automatiquement la plupart des cas pour garantir la meilleure expérience possible à l’usager et à l’administrateur.
 
-#### Comportement général
 
 * Si l’API répond avec un code d’erreur temporaire (ex : surcharge, indisponibilité…), la plateforme réessaie automatiquement l’appel avant d’afficher un message d’erreur.
 * Si l’API répond avec un code d’erreur permanent (ex : identifiant non trouvé, accès refusé…), un message explicite est affiché à l’usager.
