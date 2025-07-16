@@ -1,6 +1,8 @@
 # Champ référentiel avancé (à configurer)
 
-_Dernière mise à jour : 15 juillet 2025_ _Contact : via crisp ou tchap_
+_Dernière mise à jour : 16 juillet 2025_&#x20;
+
+_Des questions ? via crisp ou tchap_
 
 Le champ référentiel avancé permet de connecter un champ de formulaire à une base de données officielle ou métier, via une API.
 
