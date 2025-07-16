@@ -13,8 +13,7 @@ Il aide à :
 
 Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des usagers.
 
-> **Limite actuelle**
-> Le champ référentiel avancé fonctionne uniquement pour la recherche d’un identifiant unique. Il ne propose pas encore de liste de résultats ou d’autocomplétion. L’usager doit donc saisir précisément l’identifiant recherché.
+> **Limite actuelle** Le champ référentiel avancé fonctionne uniquement pour la recherche d’un identifiant unique. Il ne propose pas encore de liste de résultats ou d’autocomplétion. L’usager doit donc saisir précisément l’identifiant recherché.
 
 ***
 
@@ -58,13 +57,9 @@ Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des 
 2. **Cliquez sur "Configurer le champ"**
 3. **Configurez l’URL du référentiel**
    * Renseignez l’URL de l’API à interroger, par exemple : https://rnb-api.beta.gouv.fr
-   * **Utilisation du placeholder `{id}`** :
-     Vous devez inclure `{id}` dans l’URL (ex : `https://rnb-api.beta.gouv.fr/api/alpha/buildings/{id}/`).
-     Lors de l’utilisation, `{id}` sera remplacé par la valeur saisie par l’usager dans le champ (ex : la plaque d’immatriculation).
+   * **Utilisation du placeholder `{id}`** : Vous devez inclure `{id}` dans l’URL (ex : `https://rnb-api.beta.gouv.fr/api/alpha/buildings/{id}/`). Lors de l’utilisation, `{id}` sera remplacé par la valeur saisie par l’usager dans le champ (ex : la plaque d’immatriculation).
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-06-17 à 9.58.27 AM.png" alt=""><figcaption></figcaption></figure>
-
-
 
 5. **Contraintes de sécurité**
    * L’URL doit pointer vers un service de confiance, sécurisé (HTTPS).
@@ -160,8 +155,7 @@ Voici un exemple de réponse typique reçue lors du pré-remplissage : chaque 
 }
 ```
 
-> **Astuce**
-> Pour chaque propriété, vérifiez qu’elle correspond bien au type de champ cible (texte, nombre, case à cocher, etc.). Pour les tableaux, chaque élément sera mappé sur une ligne de répétition du formulaire.
+> **Astuce** Pour chaque propriété, vérifiez qu’elle correspond bien au type de champ cible (texte, nombre, case à cocher, etc.). Pour les tableaux, chaque élément sera mappé sur une ligne de répétition du formulaire.
 
 #### Bonnes pratiques
 
@@ -192,8 +186,7 @@ Après validation d’un identifiant, certaines informations issues du référen
 
 <figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
-> **Astuce**
-> Affichez uniquement les informations utiles à l’usager (ex : adresse, nom, statut), pas des identifiants techniques.
+> **Astuce** Affichez uniquement les informations utiles à l’usager (ex : adresse, nom, statut), pas des identifiants techniques.
 
 #### Exemple de réponse API (affichage de données publiques)
 
@@ -270,7 +263,7 @@ R : Non, seules les personnes ayant accès à l’interface d’instruction pe
 **Q : Peut-on afficher une donnée à la fois à l’usager et à l’instructeur ?**\
 R : Oui, il suffit de cocher les deux options dans le mapping.
 
-___
+***
 
 ### Gestion de l’authentification
 
@@ -289,21 +282,21 @@ Pour configurer l’authentification :
 
 L’en-tête et sa valeur seront ajoutés à chaque requête API.
 
-> **Astuce**
-> Protégez toujours vos jetons d’authentification et ne les partagez pas publiquement.
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 2.18.58 PM.png" alt=""><figcaption></figcaption></figure>
+
+> **Astuce** Protégez toujours vos jetons d’authentification et ne les partagez pas publiquement.
 
 #### Questions fréquentes
 
-**Q : Mon token est-il stocké de manière sécurisée ?**
-R : Oui, nous appliquons plusieurs mesures de sécurité :
+**Q : Mon token est-il stocké de manière sécurisée ?** R : Oui, nous appliquons plusieurs mesures de sécurité :
 
 * Tous les tokens sont chiffrés avant d’être enregistrés.
 * Les tokens ne sont jamais affichés dans l’interface, même pour les administrateurs.
 * Lorsqu’une démarche est clonée, les tokens ne sont pas copiés : il faut les reconfigurer dans la nouvelle démarche.
 
-> **Astuce**
-> Pensez à renouveler régulièrement vos tokens et à limiter leur durée de validité pour renforcer la sécurité.
-___
+> **Astuce** Pensez à renouveler régulièrement vos tokens et à limiter leur durée de validité pour renforcer la sécurité.
+
+***
 
 ### Questions fréquentes
 
@@ -371,7 +364,6 @@ Principales fonctionnalités à venir :
 ### Que se passe-t-il en cas d’erreur lors de l’appel à l’API ?
 
 Lorsque le champ référentiel avancé interroge une API externe, plusieurs types d’erreurs peuvent survenir. Le système gère automatiquement la plupart des cas pour garantir la meilleure expérience possible à l’usager et à l’administrateur.
-
 
 * Si l’API répond avec un code d’erreur temporaire (ex : surcharge, indisponibilité…), la plateforme réessaie automatiquement l’appel avant d’afficher un message d’erreur.
 * Si l’API répond avec un code d’erreur permanent (ex : identifiant non trouvé, accès refusé…), un message explicite est affiché à l’usager.
