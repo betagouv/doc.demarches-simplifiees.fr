@@ -162,6 +162,12 @@ Voici un exemple de réponse typique reçue lors du pré-remplissage : chaque 
 > **Astuce**
 > Pour chaque propriété, vérifiez qu’elle correspond bien au type de champ cible (texte, nombre, case à cocher, etc.). Pour les tableaux, chaque élément sera mappé sur une ligne de répétition du formulaire.
 
+#### Bonnes pratiques
+
+* Vérifiez que chaque champ cible correspond bien au type de donnée attendu (ex : texte, nombre, date…).
+* Pour les champs à choix (liste déroulante, cases à cocher…), assurez-vous que les valeurs du référentiel sont compatibles avec les options du formulaire.
+* En cas de doute, testez le pré-remplissage sur un dossier de test.
+
 ***
 
 ### Cas d’usage : afficher des données publiques à l’usager
@@ -263,13 +269,42 @@ R : Non, seules les personnes ayant accès à l’interface d’instruction pe
 **Q : Peut-on afficher une donnée à la fois à l’usager et à l’instructeur ?**\
 R : Oui, il suffit de cocher les deux options dans le mapping.
 
-#### Bonnes pratiques
+___
 
-* Vérifiez que chaque champ cible correspond bien au type de donnée attendu (ex : texte, nombre, date…).
-* Pour les champs à choix (liste déroulante, cases à cocher…), assurez-vous que les valeurs du référentiel sont compatibles avec les options du formulaire.
-* En cas de doute, testez le pré-remplissage sur un dossier de test.
+### Gestion de l’authentification
 
-***
+Vous pouvez connecter le champ référentiel avancé à une API nécessitant une authentification.
+
+Actuellement, seule l’authentification par en-tête HTTP est prise en charge.
+
+**Exemple concret** : l’intégration avec Grist (voir la vidéo ci-dessus).
+
+Pour configurer l’authentification :
+
+1. Accédez à l’écran « Configuration du champ » (nom du champ concerné).
+2. Activez l’option « Authentification ».
+3. Choisissez l’en-tête à utiliser (par exemple : `Authorization`).
+4. Saisissez la valeur attendue, par exemple : `Bearer {votre_token}`.
+
+L’en-tête et sa valeur seront ajoutés à chaque requête API.
+
+> **Astuce**
+> Protégez toujours vos jetons d’authentification et ne les partagez pas publiquement.
+
+_Cette section sera enrichie prochainement avec d’autres méthodes d’authentification._
+
+#### Questions fréquentes
+
+**Q : Mon token est-il stocké de manière sécurisée ?**
+R : Oui, nous appliquons plusieurs mesures de sécurité :
+
+* Tous les tokens sont chiffrés avant d’être enregistrés.
+* Les tokens ne sont jamais affichés dans l’interface, même pour les administrateurs.
+* Lorsqu’une démarche est clonée, les tokens ne sont pas copiés : il faut les reconfigurer dans la nouvelle démarche.
+
+> **Astuce**  
+> Pensez à renouveler régulièrement vos tokens et à limiter leur durée de validité pour renforcer la sécurité.
+___
 
 ### Questions fréquentes
 
