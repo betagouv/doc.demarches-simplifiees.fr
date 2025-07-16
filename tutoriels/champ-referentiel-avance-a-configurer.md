@@ -28,10 +28,10 @@ Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des 
 
 * [Présentation générale](champ-referentiel-avance-a-configurer.md#champ-référentiel-avancé)
 * [Vidéo](champ-referentiel-avance-a-configurer.md#vidéo)
-* [1. Valider un identifiant (exemple: numéro RNB)](champ-referentiel-avance-a-configurer.md#1-valider-un-identifiant-exemple-numéro-rnb)
-* [2. Pré-remplissage automatique des champs via le référentiel](champ-referentiel-avance-a-configurer.md#2-pré-remplissage-automatique-des-champs-via-le-référentiel)
-* [3. Afficher des données publiques à l’usager](champ-referentiel-avance-a-configurer.md#3-afficher-des-données-publiques-à-lusager)
-* [4. Afficher des données privées à l’instructeur](champ-referentiel-avance-a-configurer.md#4-afficher-des-données-privées-à-linstructeur)
+* [Cas d’usage : valider un identifiant (exemple : numéro RNB)](champ-referentiel-avance-a-configurer.md#cas-dusage--valider-un-identifiant-exemple--numéro-rnb)
+* [Cas d’usage : pré-remplissage automatique des champs via le référentiel](champ-referentiel-avance-a-configurer.md#cas-dusage--pré-remplissage-automatique-des-champs-via-le-référentiel)
+* [Cas d’usage : afficher des données publiques à l’usager](champ-referentiel-avance-a-configurer.md#cas-dusage--afficher-des-données-publiques-à-lusager)
+* [Cas d’usage : afficher des données privées à l’instructeur](champ-referentiel-avance-a-configurer.md#cas-dusage--afficher-des-données-privées-à-linstructeur)
 * [Questions fréquentes](champ-referentiel-avance-a-configurer.md#questions-fréquentes)
 * [Évolutions à venir](champ-referentiel-avance-a-configurer.md#évolutions-à-venir)
 * [Table de correspondance des types de données](champ-referentiel-avance-a-configurer.md#table-de-correspondance-des-types-de-données)
@@ -40,7 +40,7 @@ Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des 
 
 ***
 
-### 1. Valider un identifiant (exemple: numéro RNB)
+### Cas d’usage : valider un identifiant (exemple : numéro RNB)
 
 #### Fonctionnement
 
@@ -90,7 +90,7 @@ Pour que la validation soit acceptée, l’API doit répondre avec un statut HTT
 
 ***
 
-### 2. Pré-remplissage automatique des champs via le référentiel
+### Cas d’usage : pré-remplissage automatique des champs via le référentiel
 
 #### Fonctionnement
 
@@ -164,7 +164,7 @@ Voici un exemple de réponse typique reçue lors du pré-remplissage : chaque 
 
 ***
 
-### 3. Afficher des données publiques à l’usager
+### Cas d’usage : afficher des données publiques à l’usager
 
 #### Fonctionnement
 
@@ -217,7 +217,7 @@ R : Oui, il suffit de ne pas cocher l’option “Afficher à l’usager” da
 
 ***
 
-### 4. Afficher des données privées à l’instructeur
+### Cas d’usage : afficher des données privées à l’instructeur
 
 #### Fonctionnement
 
