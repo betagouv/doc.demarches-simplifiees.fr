@@ -21,9 +21,7 @@ Ce champ vous aide à fiabiliser la saisie et à simplifier l’expérience des 
 
 ## Vidéo
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-L7_aKvpAJdAIEfxHudA%2Fuploads%2FYyG0eZ7PRmwYTs50c4W9%2Foutput-tiny.mp4?alt=media&token=1b83de91-efbe-4108-a817-69e5d1ca9288" %}
-
-***
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-L7_aKvpAJdAIEfxHudA%2Fuploads%2FULpp01kmWBCrRRsOwXpH%2Foutput-tiny-h264.mp4?alt=media&token=4df1430f-cd92-4536-a6e4-a3f84859eea8" %}
 
 ## Sommaire
 
