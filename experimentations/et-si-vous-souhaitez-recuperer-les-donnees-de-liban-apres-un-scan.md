@@ -8,3 +8,4 @@ description: >-
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-18 à 15.29.43.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-18 à 15.33.28.png" alt=""><figcaption></figcaption></figure>
