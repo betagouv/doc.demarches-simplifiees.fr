@@ -6,4 +6,5 @@ description: >-
 
 # Et si vous souhaitez récupérer les données de l'IBAN après un SCAN
 
-{% file src="../.gitbook/assets/Screencast From 2025-07-07 17-01-10.mp4" %}
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-07-18 à 15.29.43.png" alt=""><figcaption></figcaption></figure>
+
