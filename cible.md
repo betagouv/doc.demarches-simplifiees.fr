@@ -20,7 +20,7 @@ Il peut s'agir d'appels à projets, de procédures de création d'entreprise, de
 
 demarches-simplifiees.fr est adaptée lorsque :
 
-* L'usager doit transmettre des pièces jointes lourdes (jusqu'à 300 Mo par pièce jointe) ;
+* L'usager doit transmettre des pièces jointes lourdes (jusqu'à 200 Mo par pièce jointe) ;
 * Une trace juridique de la demande doit être conservée (horodatage et stockage) ;
 * L’organisme n'effectue aucune vérification (procédure déclarative) ;
 * L'organisme vérifie seulement la complétude de la demande (arrêt possible à ce stade) ;
@@ -28,11 +28,11 @@ demarches-simplifiees.fr est adaptée lorsque :
 * La demande est instruite avec des partenaires publics (collectivités, agences…) ;
 * L'instruction débouche sur la délivrance d’une attestation (éditeur d’attestation) ;
 * Il existe déjà une application interne pour traiter les demandes (API permettant de sortir les données de demarches-simplifiees.fr).
+* La demande implique une prise de rendez-vous ( interconnexion avec [l'outil RDV service public ](https://rdv.anct.gouv.fr/))
 
 En revanche, l'application n'est pas l'outil le plus adapté dans les cas suivants :
 
 * Enquête (obligation de se créer un compte, ce qui crée des frictions) ;
-* Prise de rendez-vous (pas de gestion dynamique des disponibilités) ;
 * Procédure nécessitant un paiement (pas d’interconnexion avec des services de paiement).
 
 ## Bénéfices
@@ -42,7 +42,7 @@ demarches-simplifiees.fr a l'avantage d'être un outil :
 * **Simple** : entièrement en ligne, sans installation ni paramétrage à effectuer, qui peut être utilisé directement par les services gestionnaires (modèle Typeform, Google Form).
 * **Intégré à l’écosystème numérique public** : récupération automatique d’informations sur les demandeurs via API Entreprise et France Connect et récupération d'informations géographiques via BAN et API Géo ;
 * **Collaboratif** : possibilité de co-construire et co-instruire les demandes pour simplifier la vie des usagers et des administrations, ce qui simplifie l'instruction des dossiers lorsque plusieurs organismes publics interviennent ;
-* **Sûr** : plateforme homologuée Référentiel Général de Sécurité (RGS) et disponibilité constatée toujours supérieure à 99 % sur une période de 30 jours et accessible en ligne sur [**https://dashboard.entreprise.api.gouv.fr/**](https://dashboard.entreprise.api.gouv.fr/real\_time)
+* **Sûr** : plateforme homologuée Référentiel Général de Sécurité (RGS) et disponibilité constatée toujours supérieure à 99 % sur une période de 30 jours et accessible en ligne sur [**https://dashboard.entreprise.api.gouv.fr/**](https://dashboard.entreprise.api.gouv.fr/real_time)
 
 Les retours d'expérience montrent une réduction considérable des délais de traitement des demandes :
 

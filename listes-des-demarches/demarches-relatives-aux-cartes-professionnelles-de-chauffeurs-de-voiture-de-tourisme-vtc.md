@@ -11,9 +11,11 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 \- ou encore le site France services [https://www.france-services.gouv.fr/demarches-et-services](https://www.france-services.gouv.fr/demarches-et-services) afin de vous aider dans l'accomplissement de vos démarches en ligne.&#x20;
 {% endhint %}
 
-## 01 - Ain&#x20;
+## Formulaire national de demande de carte professionnelle de conducteur de voiture de transport avec chauffeur (VTC) par examen, cliquez[ ici](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-examen)
 
-* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas de réussite à l'examen](https://www.demarches-simplifiees.fr/commencer/carte-pro-vtc-ain-examen)
+## Formulaire national de demande de carte professionnelle de conducteur de voiture de transport avec chauffeur (VTC) par équivalence, cliquez [ici](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-equivalence)
+
+## Formulaire national de renouvellement de carte professionnelle de conducteur de voiture de transport avec chauffeur (VTC), cliquez [ici ](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-renouvellement)
 
 ## 35 - Ille-et-Vilaine
 
@@ -64,11 +66,6 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 * [Procédure d'enregistrement de transfert des autorisations de stationnement des professionnels de taxis dans le registre (article L. 3121-4 du Code des transports) ](https://www.demarches-simplifiees.fr/commencer/bttp-ads-transfert)
 
 ### VTC
-
-#### Première demande
-
-* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas de réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-examen)
-* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas d’équivalence professionnelle](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-vtc-equivalence)&#x20;
 
 **Attestations**&#x20;
 
