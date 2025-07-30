@@ -200,15 +200,15 @@ Cette attestation comporte des informations telles que le nom, prénom de l'usag
 
 <figure><img src="../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
 
-{% file src="../.gitbook/assets/attestation-de-depot-4.pdf" %}
-Exemple d'attestation de dépôôt
+{% file src="../.gitbook/assets/attestation-depot_dossier-24239466.pdf" %}
+Exemple d'attestation de dépôt
 {% endfile %}
 
 ## 3. Accéder au suivi de mon dossier
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
+En se connectant avec son adresse e-mail et son mot de passe ou via France connect, l'usager a accès à plusieurs onglets :  « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
 
 <figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
@@ -245,7 +245,7 @@ Cet onglet reprend les dossiers traités, pour lesquels une décision finale a �
 
 En cas de refus ou de classement sans suite, l'administration doit motivée cette décision.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.15.13.png" alt=""><figcaption><p>Onglet des dossiers traités</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
 Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.&#x20;
 
@@ -263,23 +263,49 @@ L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dos
 
 **Dossiers invités**
 
-Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier. L'invité peut modifier le dossier mais ne peut le déposer à la place de l'usager qui a initié le dossier:&#x20;
+Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier. **L'invité peut modifier le dossier mais ne peut le déposer à la place de l'usager qui a initié le dossier:**&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.40.28.png" alt=""><figcaption><p>Onglet des dossiers invités</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
-**Dossiers supprimés**
+**Dossiers expirants**&#x20;
 
-Si vous avez supprimé des dossiers récemment, vous avez la possibilité de les restaurer en cliquant sur le bouton "restaurer".&#x20;
+**Vous retrouverez dans cet onglet les dossiers arrivant à expiration et n’ayant pas encore été supprimés.**
 
-Dans l'onglet "supprimés définitivement", vous retrouverez les dossiers qui ont été supprimés mais que vous ne pouvez restaurer.&#x20;
+\
+En effet, afin d’être conforme au **RGPD** et à nos **Conditions Générales d’Utilisation**, les dossiers n’ont pas vocation à être conservés indéfiniment sur la plateforme. Vous recevrez un e-mail de notification 14 jours avant la suppression de votre dossier, comme illustré ci-dessous :
 
-Pour être conformes aux principes du RGPD, nous ne pouvons garder les données personnelles des usagers au delà d'un certain nombre de semaines, c'est pour cette raison que vos dossiers sont supprimés. Vous recevez plusieurs alertes avant la suppression de vos dossiers. Le délai de conservation est déterminé par l'administration qui a mis en place la démarche.&#x20;
 
-**Demande de transfert**
 
-Il s'agit des dossiers qui sont transférés d'un usager à l'autre. L'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorque la demande de transfert est accepté, le dossier est définitivement supprimé du compte initial.&#x20;
+<figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-26 à 11.47.20.png" alt=""><figcaption><p>Demande de transfert d'un dossier</p></figcaption></figure>
+**Pour les dossiers traités  arrivant à expiration**, vous avez la possibilité de les télécharger au format PDF avant leur suppression, afin d’en conserver une trace :&#x20;
+
+<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Pour les dossiers en brouillon**, vous avez la possibilité de les **conserver** selon la **durée de conservation** configurée par le service en charge de la démarche, comme illustré ci-dessous :
+
+
+
+<figure><img src="../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### Corbeille&#x20;
+
+Vous retrouverez dans cet onglet les dossiers qui n'ont pas été supprimés définitivement et que vous pouvez encore restaurer.
+
+<figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+
+**Historique des dossiers supprimés :**&#x20;
+
+Vous retrouverez dans cet onglet la liste des dossiers supprimés définitivement, soit parce que vous en êtes à l’initiative, soit en raison de l’expiration du délai maximal de conservation des dossiers.
+
+\
+En effet, afin de respecter les principes du RGPD et nos conditions générales d’utilisation, nous ne pouvons conserver les données personnelles des usagers au-delà de la durée de conservation définie par le service en charge de la démarche. Vous êtes toutefois averti 14 jours avant la suppression définitive des dossiers.
+
+<figure><img src="../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 ### B. Les différents statuts d'un dossier
 
@@ -347,7 +373,10 @@ En l'absence de réponse ou si vous souhaitez contacter directement l'administra
 
 En cliquant sur le bouton "Actions", vous pouvez :&#x20;
 
-* Transférer le dossier à un tiers en renseignant son adresse email&#x20;
+* Transférer le dossier à un tiers en renseignant son adresse email : L'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorque la demande de transfert est accepté, le dossier est définitivement supprimé du compte initial comme ci-dessous :&#x20;
+
+
+
 * Commencer un nouveau dossier de la même démarche: vous serez redirigé vers le lien de la démarche. Si la démarche a été clotûrée, vous devrez obtenir le nouveau lien de la démarche pour déposer un dossier.&#x20;
 * Dupliquer le dossier (en copiant l'ensemble des champs de pièces jointes)
 * Supprimer le dossier&#x20;
