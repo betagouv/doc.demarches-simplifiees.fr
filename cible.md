@@ -18,10 +18,10 @@ Les démarches dématérialisées peuvent concerner des particuliers, des entrep
 
 Il peut s'agir d'appels à projets, de procédures de création d'entreprise, de démarches d'enregistrement, d'inscription, de demande d'autorisation ou bien d'agrément…
 
-demarches-simplifiees.fr est adaptée lorsque :
+demarches-simplifiees.fr est adapté lorsque :
 
-* L'usager doit transmettre des pièces jointes lourdes (jusqu'à 200 Mo par pièce jointe) ;
-* Une trace juridique de la demande doit être conservée (horodatage et stockage) ;
+* L'usager doit transmettre des pièces jointes (jusqu'à 200 Mo par pièce jointe) ;
+* Une trace juridique de la demande doit être conservée (horodatage et stockage des dossiers) ;
 * L’organisme n'effectue aucune vérification (procédure déclarative) ;
 * L'organisme vérifie seulement la complétude de la demande (arrêt possible à ce stade) ;
 * La demande est instruite par plusieurs services d’un même organisme public ;
@@ -32,7 +32,7 @@ demarches-simplifiees.fr est adaptée lorsque :
 
 En revanche, l'application n'est pas l'outil le plus adapté dans les cas suivants :
 
-* Enquête (obligation de se créer un compte, ce qui crée des frictions) ;
+* Enquête anonyme (obligation de se créer un compte, ce qui crée des frictions) ;
 * Procédure nécessitant un paiement (pas d’interconnexion avec des services de paiement).
 
 ## Bénéfices
