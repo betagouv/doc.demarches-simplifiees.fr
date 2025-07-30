@@ -224,38 +224,27 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 
 ### 94- Val-de-Marne&#x20;
 
-Créteil
+* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant ALGÉRIEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-algerien-creteil)\
 
-* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant ALGÉRIEN ](https://www.demarches-simplifiees.fr/commencer/1eredemande-algerien-creteil)
-* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-creteil)
-* [Demande de rendez-vous pour le RENOUVELLEMENT du TITRE DE SÉJOUR](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-renouvellement-creteil)
-* [Demande de rendez-vous pour un CHANGEMENT DE STATUT](https://www.demarches-simplifiees.fr/commencer/changementdestatut-creteil)
-* ◦ [Demande d’autorisation provisoire de séjour (APS) fin d’études\
-  Pour les ressortissants de pays ayant signé une convention bilatérale avec la France : Bénin,\
-  Burkina Faso, Cap Vert, Congo (Brazzaville), Gabon, Ile Maurice , Inde, Tunisie](demarches-relatives-aux-titres-de-sejour-pour-les-etrangers.md#demarches-relatives-a-la-demande-dautorisation-provisoire-de-travail)
-* [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte](https://www.demarches-simplifiees.fr/commencer/rece1235)
-* Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention chercheur ou chercheur - programme mobilité : [https://www.demarches-simplifiees.fr/commencer/rece1235](https://www.demarches-simplifiees.fr/commencer/rece1235)
-* Demande de titre de séjour Recherche d’emploi et création d’entreprise (RECE) suite à une carte de séjour étudiant et l’obtention d’un diplôme de niveau master : [https://www.demarches-simplifiees.fr/commencer/rece1236](https://www.demarches-simplifiees.fr/commencer/rece1236)
-* [Demande de rendez-vous en vue du dépôt d'une première demande de titre de séjour ACCOMPAGNANT D'UN ÉTRANGER MINEUR MALADE](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-premiere-demande-accompagnant-mineur-malade)
+* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-creteil)\
 
-### Sous-Préfecture de L'Haÿ-les-Roses :&#x20;
+* [Demande de rendez-vous pour le RENOUVELLEMENT du TITRE DE SÉJOUR](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-renouvellement-creteil)\
 
-* Première demande titre de séjour « Vie privée et familiale » résidant en France depuis l’age de 13 ans\
-  ou 10 ans pour les Tunisiens
-* Première demande certificat de résidence algérien « Vie privée et familiale » résidant en France\
-  depuis l’âge de 10 ans
-* Première demande titre de séjour « Salarié » ou « Entrepreneur-profession libérale »
-* Première demande « visa concours (art. L.422.2) », « visa D mineur scolarisé »
-* Première demande et renouvellement « stagiaire », « jeune au pair »
+* [Demande de rendez-vous pour un changement de statut](https://www.demarches-simplifiees.fr/commencer/changementdestatut-creteil)\
 
-**Pour les démarches ci-dessus, voici le lien URL :**&#x20;
+* [Demande d'autorisation provisoire de séjour (APS) fin d'études et recherche d'emploi](https://www.demarches-simplifiees.fr/commencer/apsfinetudes)
+* [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention étudiant ou étudiant - programme de mobilité](https://www.demarches-simplifiees.fr/commencer/rece1235)
+* [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention chercheur ou chercheur - programme mobilité](https://www.demarches-simplifiees.fr/commencer/rece1236)
+* [Demande de rendez-vous en vue du dépôt d'une première demande de titre de séjour ACCOMPAGNANT D'UN ÉTRANGER MINEUR MALADE](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-premiere-demande-accompagnant-mineur-malade)\
+  \
+  \
+  \---------------
+* [Première demande de titre de séjour - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi)
+* [Demande d'autorisation provisoire de séjour (APS) fin d'études - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
+* [Demande de titre de séjour recherche d'emploi et création d'entreprise (RECE) - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
+* [Demande de renouvellement ou changement de statut - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-renouvellement-ou-changement-de-statut)\
+  \
+  \----------------
+* [Séjour des étrangers - saisine lors de blocages ANEF - Sous-préfecture de Nogent-sur-Marne](https://www.demarches-simplifiees.fr/commencer/sp-nogent-sur-marne-blocages-anef)\
 
-{% embed url="https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi" %}
-
-* [Demande d’autorisation provisoire de séjour (APS) fin d’études](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
-* [Demande de titre de séjour Recherche d’emploi et création d’entreprise (RECE)](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
-
-## Sous préfecture de Nogent-sur-Marne
-
-#### [Séjour des étrangers (SP de Nogent-sur-Marne) - Saisine lors de blocages ANEF](https://www.demarches-simplifiees.fr/commencer/sp-nogent-sur-marne-blocages-anef)
 
