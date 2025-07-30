@@ -49,21 +49,21 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 * Une entreprise ou organisme possédant un numéro SIRET
 * Une personne physique
 
-**Pour l'entreprise ou l'organisme possédant un numéro SIRET :**
+**En tant qu'entreprise ou organisme possédant un numéro SIRET :**
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.&#x20;
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (223).png" alt=""><figcaption><p>Accéder au formulaire en tant qu'entreprise ou organisme possédant un numéro SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture 23.PNG" alt=""><figcaption></figcaption></figure>
 
-Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées s'affiche comme suit :&#x20;
+Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées auprès de l'INSEE et d'Infogreffe s'affiche comme suit :&#x20;
 
-<figure><img src="../.gitbook/assets/image (228).png" alt=""><figcaption><p>Récapitulatif des informations relatives au SIRET</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
-Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire.
+Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire afin de commencer à compléter votre dossier.&#x20;
 
-**Une personne physique :**
+**En tant que personne physique :**
 
 **Vous déposez un dossier pour vous-même:**&#x20;
 
@@ -82,8 +82,6 @@ Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.43.08.png" alt=""><figcaption><p>Notifier le bénéficiaire</p></figcaption></figure>
 
 Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
-
-<figure><img src="../.gitbook/assets/image (201).png" alt=""><figcaption><p>Identification usager</p></figcaption></figure>
 
 ### **B. Remplir le formulaire**
 
@@ -119,19 +117,25 @@ Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier
 
 En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».&#x20;
 
+<figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+
 Vous pouvez inviter plusieurs personnes à co-construire votre dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (183).png" alt=""><figcaption><p>Inviter une personne à modifier un dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
 La personne invitée reçoit alors un e-mail l’invitant à se connecter sur demarches-simplifiees.fr afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
 
-Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine de la création du dossier dispose des droits pour déposer celui-ci.
+**Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine de la création du dossier dispose des droits pour déposer celui-ci.**
+
+Vous avez également la possibilité de modifier votre identité en cas d’erreur, avant le dépôt du dossier, en cliquant sur le bouton « Votre identité » situé en haut à droite de l’écran.
+
+<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
 
 ### **C. Enregistrement automatique du brouillon**&#x20;
 
 Lorsque vous remplissez un formulaire sur demarches-simplifiees.fr, les informations que vous remplissez sont **enregistrées automatiquement**.
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
 Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.&#x20;
 
@@ -142,6 +146,37 @@ Un message apparaît pour vous confirmer la sauvegarde de votre brouillon. Si le
 Si besoin, l'usager a la possibilité de télécharger le dossier vide en PDF (en bas de page)
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.15.35.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Le cas du dossier inéligible**&#x20;
+
+Dans certains cas, l'administration peut paramétrer un critère d'inéligibilité. Si un usager renseigne un dossier avec des champs qui correspondent aux critères d'inéligibilité, celui ci ne pourra déposer le dossier. Un message explicatif s'affiche alors :&#x20;
+
+<figure><img src="../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Accompagnement et information de contact :**&#x20;
+
+En tant qu’usager, vous pouvez contacter le service en charge de la démarche pour toute question préalable au dépôt de votre dossier, en utilisant les informations de contact situées en bas du formulaire.
+
+Vous avez également la possibilité d’être accompagné dans votre démarche en contactant une Maison France Services ou en vous rendant dans un lieu d’inclusion numérique.\
+Les coordonnées de ces structures sont également disponibles en bas du formulaire.
+
+<figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Cadre juridique et statistiques :**&#x20;
+
+En tant qu’usager, vous pouvez prendre connaissance du **cadre juridique relatif à la démarche en ligne** que vous déposez.\
+Vous y trouverez les informations concernant la rétention et l’archivage des données, ainsi que le texte encadrant la demande d’informations.
+
+Des **statistiques** sont également mises à votre disposition : temps de traitement usuel de la démarche, état d’avancement des dossiers, taux d’acceptation, et répartition hebdomadaire des dépôts.\
+Pour y accéder, cliquez sur le lien **« Voir les statistiques de la démarche »**, situé en bas du formulaire.
+
+<figure><img src="../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
 
 ### **D. Déposer le dossier**
 
@@ -157,19 +192,13 @@ Le statut « en construction » indique que le dossier est visible par l’admin
 
 L'usager a également la possibilité de **télécharger son dossier en PDF** au moment du dépôt du dossier.&#x20;
 
-**Le cas du dossier inéligible**&#x20;
-
-Dans certains cas, l'administration peut paramétrer un critère d'inéligibilité. Si un usager renseigne un dossier avec des champs qui correspondent aux critères d'inégilibilité, celui ci ne pourra déposer le dossier. Un message explicatif s'affiche alors:&#x20;
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 14.31.38.png" alt=""><figcaption><p>Critère d'inéligibilité</p></figcaption></figure>
-
 ### **E. Consultez l'attestation de dépôt de votre dossier**
 
-Une fois le dossier déposé, une attestation de dépôt de dossier est automatiquement générée. Elle est disponible dans l'onglet "résumé" du dossier.&#x20;
+Une fois le dossier déposé, une attestation de dépôt de dossier est automatiquement générée. Elle est disponible dans l'onglet "suivi de votre dossier".&#x20;
 
 Cette attestation comporte des informations telles que le nom, prénom de l'usager, la date de dépôt du dossier ainsi que son numéro, les coordonnées du service traitant, etc.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.46.11.png" alt=""><figcaption><p>Attestation de dépôt du dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/attestation-de-depot-4.pdf" %}
 Exemple d'attestation de dépôôt
@@ -179,21 +208,24 @@ Exemple d'attestation de dépôôt
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », « supprimés récemment », « supprimés définitivement » et "demande de transfert".&#x20;
+En se connectant avec son adresse e-mail et son mot de passe, l'usager a accès à plusieurs onglets « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
 
-Vous avez la possibilité de rechercher un dossier en renseignant le numéro de dossier dans la barre de recherche et également de rechercher un dossier en fonction du nom de la démarche.&#x20;
+<figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.08.20.png" alt=""><figcaption><p>Tableau de bord d'un usager</p></figcaption></figure>
+**Recherche des dossiers et affichage des filtres :**&#x20;
 
-**Affichage des filtres**&#x20;
+**Vous avez la possibilité de rechercher un dossier en saisissant le numéro de dossier, le nom/prénom ou encore des mots-clés relatifs aux dossiers dans la barre de recherche.**\
+Vous pouvez également afficher les dossiers par démarche.
 
-Vous avez la possibilité de filtrer l'affichage de vos dossiers en fonction de plusieurs critères:&#x20;
+Par ailleurs, pour personnaliser votre tableau de bord et faciliter la recherche, vous pouvez **filtrer l’affichage** de vos dossiers selon plusieurs critères :&#x20;
 
 * Le statut du dossier
 * La date de création du dossier
 * La date de dépôt du dossier&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 11.11.50.png" alt=""><figcaption><p>Sélection des filtres</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
+
+
 
 **En cours**
 
