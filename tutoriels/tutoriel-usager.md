@@ -157,7 +157,7 @@ Dans certains cas, l'administration peut paramétrer un critère d'inéligibilit
 
 
 
-**Accompagnement et information de contact :**&#x20;
+**Accompagnement et informations de contact :**&#x20;
 
 En tant qu’usager, vous pouvez contacter le service en charge de la démarche pour toute question préalable au dépôt de votre dossier, en utilisant les informations de contact situées en bas du formulaire.
 
