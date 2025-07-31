@@ -379,17 +379,27 @@ En l’absence de réponse ou si la messagerie est désactivée après le traite
 
 ### F. Les différentes actions à effectuer sur un dossier
 
-En cliquant sur le bouton "**Actions"**, vous pouvez :&#x20;
+En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :&#x20;
 
-* Transférer le dossier à un tiers en renseignant son adresse email : L'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorque la demande de transfert est accepté, le dossier est définitivement supprimé du compte initial comme ci-dessous :&#x20;
-* Commencer un nouveau dossier de la même démarche: vous serez redirigé vers le lien de la démarche. Si la démarche a été clotûrée, vous devrez obtenir le nouveau lien de la démarche pour déposer un dossier.&#x20;
-* Dupliquer le dossier (en copiant l'ensemble des champs de pièces jointes)
-* Supprimer le dossier&#x20;
+* **Transférer votre dossier** à un tiers en renseignant son adresse email : l'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorsque la demande de transfert est acceptée, le dossier est définitivement supprimé du compte initial de l’usager ayant transféré le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.30.56.png" alt=""><figcaption><p>Les différentes actions sur un dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+* Dupliquer le dossier : cette action permet à l’usager de commencer un nouveau dossier prérempli avec l’ensemble des informations et des pièces jointes renseignées dans le dossier d’origine. C’est un véritable gain de temps pour les usagers. **Cette action n’est possible que pour les dossiers déposés dans le cadre d’une même démarche, et uniquement si celle-ci est toujours active.**
+* **Mettre à la corbeille** : cette action permet à l’usager de supprimer son dossier. Toute suppression entraîne l’annulation de la demande. Cette action **n’est pas disponible pour les dossiers "en instruction"**. Une fois supprimé, le dossier apparaîtra dans l’onglet **"Corbeille"** de votre interface
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+* **Commencer un nouveau dossier pour la même démarche** : vous serez redirigé vers un formulaire en ligne vierge. Cette action **n’est pas disponible si la démarche est close**. Dans ce cas, vous devrez obtenir le **nouveau lien de la démarche**, transmis par le service en charge, afin de pouvoir déposer un nouveau dossier.
 
 ### G. Téléchargement du dossier&#x20;
 
-Une fois le dossier déposé, l'usager a la possibilité de le télécharger en PDF depuis l'onglet "résumé". Il peut aussi, depuis le même espace, télécharger l'attestation délivrée en cas d'acceptation du dossier si l'administration a prévu l'envoi de ce document.&#x20;
+**Une fois le dossier déposé**, l’usager a la possibilité de le télécharger au format PDF en accédant au dossier et en cliquant sur le bouton **"Télécharger mon dossier (PDF)"**.\
+Les échanges effectués via la messagerie du dossier figurent également dans ce document.\
+L’usager peut également, depuis le même espace, **télécharger l’attestation délivrée en cas d’acceptation du dossier**, si l’administration a prévu l’envoi de ce document.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.27.08.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
