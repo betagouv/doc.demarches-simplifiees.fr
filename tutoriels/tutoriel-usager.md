@@ -311,23 +311,25 @@ En effet, afin de respecter les principes du RGPD et nos conditions générales 
 
 #### En brouillon
 
-Une fois la démarche débutée par l'usager et le dossier enregistré, celui-ci est au statut de brouillon tant que l'usager ne l'a pas déposé.&#x20;
+Une fois la démarche débutée par l'usager et le dossier enregistré, celui-ci est au statut de brouillon tant que l'usager ne l'a pas déposé. **Les brouillons sont automatiquement enregistrés et conservés pendant 3 mois après la dernière modification du dossier**. Au-delà de ce délai, tout dossier en brouillon non déposé est supprimé.
 
 #### En construction
 
-Une fois le dossier déposé par l'usager, son statut est « en construction ». L'usager peut encore le modifier tant qu'il n'est pas passé en "instruction".&#x20;
+Une fois le dossier déposé par l'usager, son statut est « en construction ». L'usager peut encore le modifier tant qu'il n'est pas passé en "instruction". La durée d'expiration des dossiers déposés est fixée par le service en charge de la démarche et est affichée dans votre interface usager, sous le numéro de dossier
 
 #### En instruction
 
-Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable.
+Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instructions n'expirent pas.&#x20;
 
 #### Accepté / Classé sans suite / Refusé
 
 Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. A savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.&#x20;
 
+Le dossier expirera à l’issue de la durée de conservation fixée par le service en charge de la démarche.
+
 **Dossier à corriger**&#x20;
 
-Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc).&#x20;
+Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc). En tant qu’usager, vous recevrez un mail vous demandant de corriger votre dossier.
 
 La mention "à corriger" s'affiche alors sur le dossier. Une fois le dossier corrigé, l'instructeur sera informé de cette mise à jour.&#x20;
 
@@ -335,48 +337,51 @@ La mention "à corriger" s'affiche alors sur le dossier. Une fois le dossier cor
 
 ### C. Consultation d'un dossier
 
-Afin d'accéder au détail d'un dossier, cliquez sur celui-ci. Cliquez ensuite sur l'onglet "demande" pour consulter l'intégralité du dossier soumis.&#x20;
+Afin d'accéder au détail d’un dossier, cliquez sur celui-ci. Vous retrouverez plusieurs onglets associés à votre dossier :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.50.30.png" alt=""><figcaption><p>Contenu du dossier vue usager </p></figcaption></figure>
+* **L’onglet de suivi de votre dossier**, dans lequel vous pouvez télécharger l’attestation de dépôt, consulter le dernier message envoyé, et télécharger l’ensemble de votre dossier au format PDF.
+* **L’onglet “Votre dossier”**, qui vous permet de consulter l’intégralité du dossier soumis.
+* **La messagerie administration**, pour échanger avec l’instructeur en charge de votre dossier.
+
+<figure><img src="../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
 
 ### D. Modifier un dossier
 
-Un dossier peut être modifié s'il est en brouillon ou en construction. Pour cela cliquer sur le bouton « Modifier mon dossier » en haut à droite :
+Un dossier peut être modifié s'il est en brouillon ou en construction. Pour cela cliquer sur le bouton « Modifier le dossier » en haut à droite :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.53.02.png" alt=""><figcaption><p>Modification d'un dossier en construction</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
-Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton « Enregistrer les modifications du dossier », situé en bas de page :
+Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton « déposer les modifications», situé en bas de page :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.56.15.png" alt=""><figcaption><p>Modification d'un dossier</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+
+Vous retrouverez l'historique des modifications depuis l'onglet "votre dossier" .&#x20;
+
+<figure><img src="../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
-Un onglet « Messagerie » est intégré au dossier : celui-ci reprend les e-mails automatiques qui sont envoyés à l'usager à chaque changement de statut de son dossier et lui permet ainsi de communiquer directement avec le service instructeur. Il peut également contacter l'administration même après l'instruction du dossier.
+Un onglet « Messagerie administration » est intégré au dossier : celui-ci reprend les e-mails automatiques qui sont envoyés à l'usager à chaque changement de statut de son dossier et lui permet ainsi de communiquer directement avec le service instructeur en cliquant sur le bouton "nouveau message". Il peut également contacter l'administration même après l'instruction du dossier.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.55.00.png" alt=""><figcaption><p>Messagerie de l'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 Après avoir saisi votre message, vous pouvez cliquer sur le bouton "envoyer le message".&#x20;
 
-Vous avez également la possibilité de joindre un fichier au message (max 20 Mo) en cliquant sur « Parcourir ».
+Vous avez également la possibilité de joindre un fichier au message (max 20 Mo) en cliquant sur «select. fichiers ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 16.58.26 (1).png" alt=""><figcaption><p>Joindre un fichier sur la messagerie, en tant qu'usager</p></figcaption></figure>
-
-
-
-En l'absence de réponse ou si vous souhaitez contacter directement l'administration, les informations de contact sont disponibles en bas de page de la démarche concernée, sous la rubrique « Poser une question sur votre dossier ».&#x20;
+<figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 17.04.51.png" alt=""><figcaption><p>Contact de l'administration</p></figcaption></figure>
+En l’absence de réponse ou si la messagerie est désactivée après le traitement de votre dossier, vous avez la possibilité de contacter directement l’administration via les informations de contact affichées en bas de la page de la démarche concernée, sous la rubrique « Une question sur votre dossier ? ».&#x20;
+
+<figure><img src="../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
 ### F. Les différentes actions à effectuer sur un dossier
 
-En cliquant sur le bouton "Actions", vous pouvez :&#x20;
+En cliquant sur le bouton "**Actions"**, vous pouvez :&#x20;
 
 * Transférer le dossier à un tiers en renseignant son adresse email : L'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorque la demande de transfert est accepté, le dossier est définitivement supprimé du compte initial comme ci-dessous :&#x20;
-
-
-
 * Commencer un nouveau dossier de la même démarche: vous serez redirigé vers le lien de la démarche. Si la démarche a été clotûrée, vous devrez obtenir le nouveau lien de la démarche pour déposer un dossier.&#x20;
 * Dupliquer le dossier (en copiant l'ensemble des champs de pièces jointes)
 * Supprimer le dossier&#x20;
