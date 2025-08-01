@@ -28,6 +28,8 @@ demarches-simplifiees.fr héberge quatre types de démarches relatives au permis
 
 Demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
 
+**Nous vous invitons à consulter le site de la préfecture de votre département afin de prendre connaissance des procédures qui ne figurent pas dans notre documentation. Il s’agit en effet d’une liste non exhaustive.**
+
 
 
 {% hint style="warning" %}
@@ -52,31 +54,29 @@ La confirmation de vos coordonnées postales vous sera demandée à la fin de l'
 
 #### Demander une place d'examen pratique au permis de conduire
 
-* [**46 - Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-place-candidat-libre)
-* [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
-* [**69 - Rhône**](https://beta.interieur.gouv.fr/candilib/qu-est-ce-que-candilib)
+* [**46 - Lo**](https://www.demarches-simplifiees.fr/commencer/46-demande-place-candidat-libre)**t**
 * [**77 - Seine-et-Marne**](https://candidat.permisdeconduire.gouv.fr)
-* [**82 - Tarn-et-Garonne** ](#user-content-fn-1)[^1]
+* [82 - Tarn et Garonne ](https://www.demarches-simplifiees.fr/commencer/82-demande-place-examen-candidat-libre)
 
 #### [Réactivation ou communication du n° NEPH (Numéro d'Enregistrement Préfectoral Harmonisé) - rectification des données inscrites sur le Fichier National des Permis de Conduire (FNPC) ](https://www.demarches-simplifiees.fr/commencer/https-www-demarches-simplifiees-fr-communication-r)
 
-Depuis 2025, la démarche de réactivation ou communication du NEPH est sur un formulaire national [disponible ici](https://www.demarches-simplifiees.fr/commencer/https-www-demarches-simplifiees-fr-communication-r)
+### Depuis 2025, la démarche de réactivation ou communication du NEPH est sur un formulaire national [disponible ici](https://www.demarches-simplifiees.fr/commencer/https-www-demarches-simplifiees-fr-communication-r)
 
 **Demande d'adhésion au label « Qualité des formations au sein des écoles de conduite »**
 
 * [**34 - Hérault** ](https://www.demarches-simplifiees.fr/commencer/34-dde-d-adhesion-au-label-qualite-des-formations-apres-26-mars-2021)
-* [**38 - Isère** ](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-38-au-label-qualite-des-formations-)
+* [**38 - Isère** ](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**42 - La Loire**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-4)
-* [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/demande-label-qualite-ae)
+* [**44 - Loire-Atlantique**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**45 - Loiret**](https://www.demarches-simplifiees.fr/commencer/prefecture-45-demande-d-adhesion-au-label-qualite-)
-* [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/demande-adhesion-label-qualite-formations49)
+* [**49 - Maine-et-Loire**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**51 - Marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations)
 * [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
 * [**56 - Morbihan**](https://www.demarches-simplifiees.fr/commencer/labellisation_auto-ecole_prefecture56)
-* [**60 - Manche**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber50)
+* [**60 - Manche**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**63 - Puy-de-dome et Allier**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-63-03)
-* [**74 - Haute-Savoie**](https://www.demarches-simplifiees.fr/commencer/label-qualite-eeca-ddt74)
-* [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-paris-75)
+* [**74 - Haute-Savoie**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
+* [**75 - Paris**](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**77 - Seine-et-marne**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-3)
 * [**78 - Yvelines** ](https://www.demarches-simplifiees.fr/commencer/78-demande-d-adhesion-au-label-qualite-des-formations)
 * [**79 - Deux-Sèvres**](https://www.demarches-simplifiees.fr/commencer/79-adhesion-initiale-au-label-qualite-v2021)
@@ -84,6 +84,12 @@ Depuis 2025, la démarche de réactivation ou communication du NEPH est sur un f
 * [**92 - Hauts-de-Seine**](https://www.demarches-simplifiees.fr/commencer/adhesion-au-label-qualite-des-formations-ber92)
 * [**94 - Val-de-Marne**](https://www.demarches-simplifiees.fr/commencer/label-qualite-des-formations-94)
 * [**95 - Val d'Oise**](https://www.demarches-simplifiees.fr/commencer/demande-d-adhesion-au-label-qualite)
+
+La procédure nationale ci-dessous permet également de déposer vos dossiers pour les demandes de première labellisation, de renouvellement et d’audit :&#x20;
+
+[https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
+
+
 
 ## Annulation de permis
 
@@ -93,12 +99,12 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 ## Autres démarches
 
-
-
 ### 27 - Eure&#x20;
 
 * [**27 - Demande initiale ou de renouvellement d'agrément d'un Etablissement d’Enseignement de la Conduite et de la Sécurité Routière (ECSR)** ](https://www.demarches-simplifiees.fr/commencer/demande-agrement-ecsr-eure)
 * [**27 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-autorisation-enseigner-eure)
+* [Bilan annuel d’activité des Centres de Sensibilisation à la Sécurité Routière (CSSR) dans l'Eure](https://www.demarches-simplifiees.fr/commencer/bilan-annuel-activite-cssr)
+* [Inscription à l'Epreuve Théorique Générale pour les sessions organisées par l'Etat dans l'Eure ](https://www.demarches-simplifiees.fr/commencer/inscription-a-l-etg-nf-dys-pour-le-dpt-eure)
 
 ### 30 - Gard&#x20;
 
@@ -244,6 +250,3 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 
 
 
-
-
-[^1]: 
