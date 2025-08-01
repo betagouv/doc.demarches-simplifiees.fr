@@ -52,3 +52,11 @@ Transport de personnes
 * [Demande d'attestation de capacité professionnelle par examen professionnel (transport routier léger)](https://www.demarches-simplifiees.fr/commencer/acvl-occitanie-v2)
 * [Demande d'attestation de capacité professionnelle par équivalence directe de diplômes pour les personnes résidentes en région OCCITANIE](https://www.demarches-simplifiees.fr/commencer/demande-ac-diplome-occitanie)
 
+
+
+### Eure&#x20;
+
+
+
+* [Demande de dérogation à l'interdiction de circulation des véhicules de transport de marchandises de plus de 7,5 tonnes de P.T.A.C. à certaines périodes pour le département de l'Eure (DDTM 27)](https://www.demarches-simplifiees.fr/commencer/demande-derogation-pl-eure)
+
