@@ -30,8 +30,7 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 
 ## 69 - Rhône
 
-* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas de réussite à l'examen](https://www.demarches-simplifiees.fr/commencer/carte-pro-vtc-rhone-examen)&#x20;
-* [Demande de carte professionnelle de chauffeur de voiture de tourisme (VTC) en cas d'équivalence professionnelle](https://www.demarches-simplifiees.fr/commencer/carte-pro-vtc-rhone-equivalence)&#x20;
+* [Démarche relative aux obligations de visite médicale ou de formation continue (TAXI, VTC, VMDTR) dans le Rhône](https://www.demarches-simplifiees.fr/commencer/obligations-visite-medicale-ou-formation-continue-rhone)
 
 ## 75 - Paris
 
@@ -76,14 +75,13 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 * [Changement de coordonnées des professionnels des voitures de transport avec chauffeur (VTC)  ](https://www.demarches-simplifiees.fr/commencer/prefecture-de-police-changement-de-coordonnees)
 * [Formulaire de demande de mobilité pour la carte professionnelle de conducteur de taxi](https://www.demarches-simplifiees.fr/commencer/demande-de-carte-pro-de-taxi-mobilite)
 
-#### Demande de renouvellement
 
-* [Renouvellement de la carte professionnelle de conducteur de voiture de transport avec chauffeur (VTC) ](https://www.demarches-simplifiees.fr/commencer/prefecture-75-renouvellement-de-carte-professionne)
 
 ## 85 - Vendée&#x20;
 
-* [Demande ou renouvellement de carte pofessionnelle de véhicule de tourisme avec chauffeur (VTC) en cas de réussite à l'examen](https://www.demarches-simplifiees.fr/commencer/demande-carte-pro-vtc-examen-renouvellement)
-* [Demande de carte professionnelle de véhicule de tourisme avec chauffeur (VTC) en cas d’équivalence ](https://www.demarches-simplifiees.fr/commencer/demande-carte-pofessionnelle-vtc-equivalence)
+* [Demande d'attestation préfectorale à la suite d'une visite médicale pour l'aptitude à la conduite / Attention cette démarche n'est accessible que pour les personnes résidents dans le département de Vendée](https://www.demarches-simplifiees.fr/commencer/demande-d-attestation-prefectorale-a-la-suite-d-un)
+
+
 
 ## 89 - Yonne&#x20;
 
