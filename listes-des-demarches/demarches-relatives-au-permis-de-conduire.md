@@ -131,10 +131,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
   &#x20;**conducteurs routiers**](https://www.demarches-simplifiees.fr/commencer/34-reservations-titres-professionnels)
 * [**34 - Demande de**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)[ **Certificat d'Examen du Permis de Conduire (CEPC) version papier dans le cas d'un retour au permis**](https://www.demarches-simplifiees.fr/commencer/34-demande-de-cepc-version-papier)
 
-### 44 - Loire-Atlantique
-
-* [**44 -  Demande de duplicata d'attestation d'inscription au permis de conduire**](https://www.demarches-simplifiees.fr/commencer/prefecture_ddtm44_duplicata-aipc)
-
 ### 46 - Lot
 
 * [**46 - Demande de place candidat libre**](https://www.demarches-simplifiees.fr/commencer/46-demande-place-candidat-libre)&#x20;
@@ -143,16 +139,13 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [**46 - Demande agrément auto-école (EECSR) dans Lot (1ère demande, renouvellement, reprise/transfert/déménagement, ou extension)**](https://www.demarches-simplifiees.fr/commencer/46-demande-agrement-auto-ecole-eecsr-dans-lot)
 * [**46 - Demande d'une autorisation d'enseigner pour résidents du Lot**](https://www.demarches-simplifiees.fr/commencer/46-demande-d-une-autorisation-d-enseigner)
 
-### 47 - Lot-et-Garonne
 
-* [**47 - Dépôt de demande d'agrément préfectoral pour l'exploitation d'une école de conduite**](https://www.demarches-simplifiees.fr/commencer/47-agrement-initial-eeca)
 
 ### 51 - Marne&#x20;
 
 * [**51 - Demande d'agrément pour exploiter un établissement d'enseignement de la conduite automobile**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement)
 * [**51 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://www.demarches-simplifiees.fr/commencer/demande-d-autorisation-d-enseigner-la-conduite-des)
 * **51-** [**Demande d'agrément pour exploiter un établissement chargé d'organiser des stages de sensibilisation à la Sécurité Routière**](https://www.demarches-simplifiees.fr/commencer/demande-d-agrement-pour-exploiter-un-etablissement-charge-d-organiser-des-stages-de-sensibilisation-a-la-securite-routiere)
-* **51-**[**Demande de réactualisation du NEPH**](https://www.demarches-simplifiees.fr/commencer/demande-de-reactualisation-du-neph)
 
 ### **55 - Meuse**
 
@@ -173,11 +166,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 55 - Signalement de la suspension ou du retrait d'une certification ou d'un label ayant permis la reconnaissance de l'équivalence au label "qualité des formations au sein des écoles de conduite" - Département de la Meuse\
 [https://www.demarches-simplifiees.fr/commencer/suspension-retrait-equivalence-label-ae-55](https://www.demarches-simplifiees.fr/commencer/suspension-retrait-equivalence-label-ae-55)\
 \
-55 - Demande d'enregistrement de l'équivalence au label « Qualité des formations au sein des écoles de conduite » - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/equivalence-label-ae-55](https://www.demarches-simplifiees.fr/commencer/equivalence-label-ae-55)\
-\
-55 - Demande d'adhésion au label "qualité des formations au sein des écoles de conduite" délivré par l'Etat - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/adhesion-label-ae-55](https://www.demarches-simplifiees.fr/commencer/adhesion-label-ae-55)\
 \
 **Centres de Sensibilisation à la Sécurité Routière**\
 \
@@ -238,10 +226,6 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [88 - Demande de renouvellement d'agrément d'un établissement d’enseignement de la conduite et de la sécurité routière](https://www.demarches-simplifiees.fr/commencer/renouvellement-agrement-ae88)
 * [88 - Demande de retrait d'agrément pour une ou plusieurs catégories d'enseignement de la conduite des véhicules à moteur](https://www.demarches-simplifiees.fr/commencer/retrait-agrement)
 * [88 - Demande de convention dans le cadre du dispositif "Permis à un euro par jour" entre l'Etat et un établissement d'enseignement de la conduite et de la sécurité routière](https://www.demarches-simplifiees.fr/commencer/demande-permis1euro_88)
-
-### 94 - Val-de-marne
-
-### [**Audits de surveillance de label qualité des auto-écoles** ](https://www.demarches-simplifiees.fr/commencer/auditdesurveillancelabelqualitedesecolesdeconduitedu94)
 
 ### 95 - Val d'Oise&#x20;
 
