@@ -383,14 +383,14 @@ En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :&#x20;
 
 * **Transférer votre dossier** à un tiers en renseignant son adresse email : l'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorsque la demande de transfert est acceptée, le dossier est définitivement supprimé du compte initial de l’usager ayant transféré le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 * Dupliquer le dossier : cette action permet à l’usager de commencer un nouveau dossier prérempli avec l’ensemble des informations et des pièces jointes renseignées dans le dossier d’origine. C’est un véritable gain de temps pour les usagers. **Cette action n’est possible que pour les dossiers déposés dans le cadre d’une même démarche, et uniquement si celle-ci est toujours active.**
 * **Mettre à la corbeille** : cette action permet à l’usager de supprimer son dossier. Toute suppression entraîne l’annulation de la demande. Cette action **n’est pas disponible pour les dossiers "en instruction"**. Une fois supprimé, le dossier apparaîtra dans l’onglet **"Corbeille"** de votre interface
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
