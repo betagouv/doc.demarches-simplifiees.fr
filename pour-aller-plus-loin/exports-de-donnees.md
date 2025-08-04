@@ -2,11 +2,20 @@
 
 ## Export manuel
 
-Il est possible d'exporter manuellement un tableau contenant la _majeure partie_ des informations relatives aux dossiers déposés sur une procédure donnée.
+Il est possible d'exporter manuellement l'intégralité des dossiers déposés sur une procédure donnée.&#x20;
 
-Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur le bouton « Télécharger tous les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods).
+Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaités  bouton «Télécharger les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods,zip.).
 
-![](<../.gitbook/assets/Capture d’écran 2019-02-11 à 14.23.09.png>)
+
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :&#x20;
+
+* standard
+* A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici. ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/export-personnalise)
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Il n'est pas possible d'effectuer cette opération dans l'interface administrateur, mais les administrateurs peuvent le faire en se nommant instructeur sur la procédure.
 
@@ -16,7 +25,7 @@ Le tableau exporté est composé d'une ligne par dossier, chaque ligne comportan
 * données saisies par le demandeur : identité du demandeur et  champs du formulaire
 * données d'instruction : emails des usagers suivant le dossier et annotations privées
 
-En revanche, les informations suivantes ne figurent pas dans le tableau :
+En revanche, selon le type d’export demandé, certaines informations peuvent ne pas figurer, notamment :
 
 * liens vers les pièces jointes
 * avis
@@ -24,9 +33,7 @@ En revanche, les informations suivantes ne figurent pas dans le tableau :
 
 #### Export sous la forme d'un ZIP
 
-![Une nouvelle option permet d'exporter l'ensemble des dossiers sous forme d'un zip](<../.gitbook/assets/Capture d’écran 2021-05-03 à 16.36.06.png>)
-
-Une nouvelle option a été mis en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
+Une option a été mis en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
 
 **Tout est alors prêt pour faire de l'archivage !**
 

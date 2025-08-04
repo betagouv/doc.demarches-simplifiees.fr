@@ -131,7 +131,7 @@ Dans l'exemple suivant, vous pouvez afficher grâce au filtre "personnaliser le 
 
 En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "date de dépôt" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
 
@@ -143,13 +143,13 @@ Un dossier à suivre a le statut « en construction ». Il est consultable et mo
 
 Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
 En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille rouge sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Plusieurs instructeurs peuvent suivre le même dossier. Pour cela, les instructeurs peuvent rechercher le dossier depuis l'onglet " au total" ou se transférer le dossier depuis l'onglet "personnes impliquées" du dossier.&#x20;
 
@@ -163,7 +163,7 @@ L’instructeur a accès à un ensemble de fonctionnalités :
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
 
 #### &#x20;- Annotations privées :
 
