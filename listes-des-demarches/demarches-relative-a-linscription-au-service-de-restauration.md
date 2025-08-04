@@ -8,9 +8,9 @@ description: >-
 
 **Académie de Versailles**
 
-* [Lycée Jean Pierre Vernant](https://www.demarches-simplifiees.fr/commencer/reinscriptionresto2021-2022)
-* [Lycée Louis Bascan](https://www.demarches-simplifiees.fr/commencer/lyceelouisbascan-inscriptionrestauration)
-* [Lycée Marie Curie](https://www.demarches-simplifiees.fr/commencer/lycee-marie-curie-inscription-service-restauration-2021-2022)
+Vous retrouverez les liens vers les démarches en ligne en cliquant [ici ](https://www.ac-versailles.fr/l-instruction-en-famille-126320)
+
+
 
 
 
