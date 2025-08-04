@@ -91,34 +91,3 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 
 * [Demande d'attestation d'aptitude physique pour les conducteurs de de voiture de transport avec chauffeur (VTC)](https://www.demarches-simplifiees.fr/commencer/prefecture91-visitemedicale)
 
-## 93 - Seine-Saint-Denis
-
-#### Première demande
-
-* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) pour les gérants d'entreprise ou exploitants indépendants](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-de-carte-vtc-gerant-exploit)
-* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) après réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-de-carte-vtc-reussite-examen)&#x20;
-* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) par équivalence](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-de-carte-vtc-par-equivalence)
-
-#### Demande de duplicata
-
-* [Réédition (duplicata) de la carte professionnelle de chauffeur de voiture de transport (VTC) suite à perte, vol ou détérioration](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-reedition-de-carte-vtc)
-
-#### Demande de renouvellement
-
-* [Renouvellement de la carte professionnelle de chauffeur de voiture de transport (VTC)](https://www.demarches-simplifiees.fr/commencer/prefecture-93-demande-renouvellement-de-carte-vtc)
-
-## 95 - Val d'Oise
-
-#### Première demande
-
-* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) après réussite à l’examen](https://www.demarches-simplifiees.fr/commencer/pref95-vtc-examen)
-* [Demande de carte professionnelle de chauffeur de voiture de transport (VTC) par équivalence](https://www.demarches-simplifiees.fr/commencer/pref95-vtc-experience-pro)
-
-#### Demande de renouvellement
-
-* [Renouvellement de la carte professionnelle de chauffeur de voiture de transport (VTC)](https://www.demarches-simplifiees.fr/commencer/pref95-vtc-renouvellement)
-
-**Enregistrement**&#x20;
-
-* [Demande d'enregistrement de véhicule - validation de certificat d'immatriculation](https://www.demarches-simplifiees.fr/commencer/taxi-demande-de-validation-de-carte-grise)
-
