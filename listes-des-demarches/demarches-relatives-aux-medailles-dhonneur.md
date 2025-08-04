@@ -8,7 +8,7 @@ description: >-
 
 ### 1. Médaille d'honneur du travail  :&#x20;
 
-Vous pouvez déposer une demande en cliquant sur ce lien : [https://www.demarches-simplifiees.fr/commencer/mhtravail](https://www.demarches-simplifiees.fr/commencer/mhtravail)
+### **Formulaire nationale : vous pouvez déposer une demande en cliquant sur ce lien :** [https://www.demarches-simplifiees.fr/commencer/mhtravail](https://www.demarches-simplifiees.fr/commencer/mhtravail)
 
 ### 2. Médaille d'honneur régionale, départementale ou communale - Collectivités
 
