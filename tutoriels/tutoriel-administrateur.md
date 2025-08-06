@@ -41,9 +41,9 @@ Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,
 
 [Rendez-vous sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
 
-<figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+Vous avez également la possibilité de vous connecter via "Proconnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "France connect". &#x20;
 
-<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 10.37.57.png" alt=""><figcaption></figcaption></figure>
 
 ## 3. Découvrir son tableau de bord des démarches créées
 
