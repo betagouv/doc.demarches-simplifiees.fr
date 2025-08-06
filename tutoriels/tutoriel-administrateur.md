@@ -351,11 +351,13 @@ Ce champ permet uniquement de collecter les numéros Iban valides français.
 
 #### b) Le numéro Siret&#x20;
 
-Ce champ permet de collecter le numéro Siret ainsi que les informations administratives reliées à ce numéro grâce à l'API Entreprise.&#x20;
+Ce champ permet de collecter le numéro Siret ainsi que les informations administratives reliées à ce numéro grâce à l'API Entreprise. Vous trouverez également la liste des informations remontées automatiquement.
 
 Le numéro SIRET doit comporter exactement 14 chiffres.&#x20;
 
-<figure><img src="../.gitbook/assets/image (178).png" alt=""><figcaption><p>Champ "Siret", en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 15.58.46.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 15.58.39.png" alt=""><figcaption></figcaption></figure>
 
 #### 5) Les champs standards&#x20;
 
