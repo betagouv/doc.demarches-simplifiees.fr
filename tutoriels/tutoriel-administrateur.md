@@ -76,21 +76,21 @@ Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégor
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>création nouvelle démarche </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.09.09.png" alt=""><figcaption></figcaption></figure>
 
-La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
+Vous pouvez aussi avoir un accès direct à vos démarches en cliquant sur le numéro de votre démarche que vous recherchez.&#x20;
 
-&#x20;
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.09.32.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>Les options de création d'une démarche</p></figcaption></figure>
+&#x20;La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01.png" alt=""><figcaption></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
 
 La liste des démarches associées à l'intitulé recherché s'affichera et vous pourrez alors cliquer sur le bouton « Cloner ».&#x20;
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.&#x20;
-
-<figure><img src="../.gitbook/assets/image (35).png" alt=""><figcaption><p>cloner une démarche</p></figcaption></figure>
 
 **Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)&#x20;
 
