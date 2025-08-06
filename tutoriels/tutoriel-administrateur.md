@@ -150,7 +150,7 @@ Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller 
 
 **d) Conservation des données**&#x20;
 
-Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez désormais indiquer le temps de conservation des données.&#x20;
+Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez indiquer le temps de conservation des données. Le délai maximal que vous pouvez paramétrer est de 12 mois. Si vous souhaitez conserver les dossiers au delà de 12 mois, il faudra passer par notre équipe support en justifiant le besoin. Nous pouvons étendre la durée de conservation à maximum 5 ans.&#x20;
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
@@ -163,7 +163,7 @@ Cependant tant l'instructeur que l'usager peuvent étendre la durée de conserva
 * L'usager peut étendre la durée d'autant de mois que la démarche.
 * L'instructeur peut étendre la durée d'un mois, autant de fois que nécessaire.
 
-Enfin, un dossier en cours d'instruction ne peut être expiré pour des raisons juridique.
+Enfin, un dossier en cours d'instruction ne peut être supprimé pour des raisons juridiques.
 
 **e) Cadre juridique**&#x20;
 
@@ -180,6 +180,10 @@ Afin d'être conforme au RGPD, les informations permettant de contacter le DPO d
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
+
+
+
+
 
 <figure><img src="../.gitbook/assets/cadre juridique .png" alt=""><figcaption><p>Cadre juridique retranscrit en bas du formulaire </p></figcaption></figure>
 
