@@ -84,7 +84,7 @@ Vous pouvez aussi avoir un accès direct à vos démarches en cliquant sur le nu
 
 &#x20;La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01 (1).png" alt=""><figcaption></figcaption></figure>
 
 Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
 
@@ -181,11 +181,7 @@ Afin d'être conforme au RGPD, les informations permettant de contacter le DPO d
 
 Les usagers pourront consulter l'ensemble des informations relatives au cadre juridique en cliquant en bas du formulaire dans la partie dédiée.&#x20;
 
-
-
-
-
-<figure><img src="../.gitbook/assets/cadre juridique .png" alt=""><figcaption><p>Cadre juridique retranscrit en bas du formulaire </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.54.55 (1).png" alt=""><figcaption></figcaption></figure>
 
 **g) L'open data**&#x20;
 
