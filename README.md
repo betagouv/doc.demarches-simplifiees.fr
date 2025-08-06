@@ -16,10 +16,6 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 
 ### **Retrouvez ci-après les différents bilans des usages de** Démarches simplifiées ainsi que notre support de présentation :&#x20;
 
-**Bilan 2022**
-
-{% file src=".gitbook/assets/Bilan 2022 Démarches simplifiées.pdf" %}
-
 ### Bilan 2023
 
 {% file src=".gitbook/assets/DS bilan 2023V3.pdf" %}
@@ -28,9 +24,7 @@ Bilan 2023 de DS
 
 ### Support de présentation :&#x20;
 
-
-
-{% file src=".gitbook/assets/Webinaire Démarches simplifiées mai 2025 (1) (1).pdf" %}
+{% file src=".gitbook/assets/Webinaire Démarches simplifiées aout 2025 (1).pdf" %}
 
 ### Objectif
 
