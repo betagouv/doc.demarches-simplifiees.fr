@@ -471,17 +471,13 @@ Le fichier ne doit pas contenir plus de 5000 lignes et doit peser maximum 1 Mo
 
 
 
-
-
 **c) Choix multiple**&#x20;
 
 Le principe est le même que le champ précédent à la différence que l'usager pourra sélectionner plusieurs valeurs simultanément.
 
 À noter : lorsque plus de six champs sont ajoutés, le champ choix multiple est affiché sous forme de liste déroulante.&#x20;
 
-<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'administrateur </p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Champ "choix multiple" en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 16.20.43.png" alt=""><figcaption></figcaption></figure>
 
 **d) Deux menus déroulants liés**&#x20;
 
