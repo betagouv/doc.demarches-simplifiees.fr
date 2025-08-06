@@ -257,15 +257,13 @@ Pour créer un champ vous devez :&#x20;
 
 **A. Renseigner le type de champ**&#x20;
 
-Le type de champ formate la manière dont l'usager vous donnera l'information demandée. Plusieurs types de champ existent, ils sont désormais **regroupés par catégories dans la liste déroulante**  :
+Le type de champ formate la manière dont l'usager vous donnera l'information demandée. Plusieurs types de champ existent, ils sont désormais **regroupés par catégories dans la liste déroulante**  : &#x20;
 
-<figure><img src="../.gitbook/assets/liste déroulante .png" alt=""><figcaption><p>Catégories des types de champs de la liste déroulante </p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 15.31.02.png" alt=""><figcaption></figcaption></figure>
 
 **La durée de remplissage estimée évolue en fonction des types de champs ajoutés.**&#x20;
 
-#### **1) Les champs structurels :**&#x20;
+#### **1) Les champs structurels "Structure des champs" :**&#x20;
 
 **a) Titre de section**&#x20;
 
