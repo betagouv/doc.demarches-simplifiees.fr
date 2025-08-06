@@ -271,15 +271,11 @@ Le titre de section permet de segmenter et de structurer votre formulaire.  En e
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 15.46.49.png" alt=""><figcaption><p>Champ "titre de section" en tant qu'administrateur</p></figcaption></figure>
 
+#### **b) Bloc répétable**
 
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). &#x20;
 
-#### **b) Explication**&#x20;
-
-&#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique, de guider l'usager ou bien d'introduire des sous-titres de section.
-
-Il est possible d'afficher un texte complémentaire affichable au clic.&#x20;
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 16.48.38.png" alt=""><figcaption><p>Le champ explication en tant qu'administrateur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
 
 #### **c) Lien vers un autre dossier**&#x20;
 
@@ -293,11 +289,13 @@ Pour accéder au premier dossier déposé par l'usager, l'instructeur de la seco
 
 <figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption><p>Champ "lien vers un autre dossier", en tant qu'instructeur </p></figcaption></figure>
 
-#### **d) Bloc répétable**
+#### **d) Explication**&#x20;
 
-Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables). &#x20;
+&#x20;Ce type de champ présente un texte sans possibilité de réponse qui vous permet de détailler un point spécifique, de guider l'usager ou bien d'introduire des sous-titres de section.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager </p></figcaption></figure>
+Il est possible d'afficher un texte complémentaire affichable au clic ainsi qu'une pièce jointe.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 15.45.38.png" alt=""><figcaption></figcaption></figure>
 
 #### 2) Les  champs relatifs à l'état civil&#x20;
 
