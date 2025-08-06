@@ -237,9 +237,11 @@ Le corps de votre démarche est constitué par votre formulaire. Celui-ci va per
 
 Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez créer un champ « adresse », un champ « téléphone » et un champ « e-mail ».
 
+La civilité, le prénom et le nom sont des informations déja demandées en préambule de la démarche à destination des personnes physiques. Il convient de ne pas les redemander dans le formulaire.&#x20;
+
 A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
 
-<figure><img src="../.gitbook/assets/prévisualisation formulaire (1).png" alt=""><figcaption><p>Prévisualiser le formulaire, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 09.55.35.png" alt=""><figcaption></figcaption></figure>
 
 Pour commencer votre formulaire, vous cliquerez sur l’onglet « Ajouter un champ » dans le menu situé en bas à gauche de l’écran. Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
 
