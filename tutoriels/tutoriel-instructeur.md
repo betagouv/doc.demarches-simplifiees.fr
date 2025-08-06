@@ -46,9 +46,19 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 ## 2. Le tableau de suivi des procédures
 
-### A. Personnaliser l'ordre des démarches et accès direct à une démarche&#x20;
+### &#x20;A. Présentation de l'interface instructeur et accès direct à une démarche&#x20;
 
-Le tableau de suivi des démarches permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé. Le nom de la démarche, son numéro et des compteurs de dossiers y figurent.&#x20;
+Une fois connecté à l'interface instructeur, vous retrouverez le tableau de suivi des démarches qui permet à l’instructeur d’avoir une vue d’ensemble des procédures pour lesquelles il a été nommé. Le nom de la démarche, son numéro et des compteurs de dossiers y figurent.&#x20;
+
+Vous retrouverez également l’onglet "**Nouveautés"**, qui vous permet de rester informé de l’actualité et des dernières fonctionnalités développées par notre équipe !
+
+<figure><img src="../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez ensuite accéder aux tableau de suivi en cliquant sur le bouton "démarches".&#x20;
 
 Les démarches sont classées dans plusieurs onglets : les démarches publiées, en test et closes.&#x20;
 
