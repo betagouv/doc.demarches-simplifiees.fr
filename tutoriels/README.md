@@ -14,13 +14,19 @@ Les tutoriels décrivent de manière précise les manipulations nécessaires à 
 
 Il est possible qu’un compte soit lié à différents profils. Par exemple, un administrateur peut aussi être usager ou instructeur sur des procédures différentes.
 
-Dans ce cas, l’utilisateur peut changer de profil en cliquant sur le bouton en haut à droite de l’interface.
+Dans ce cas, &#x6C;**’utilisateur peut changer de profil en cliquant sur le bouton situé en haut à droite de l’interface, où son adresse e-mail est affichée.**
 
-![Changer de profil, en tant qu'usager](../.gitbook/assets/tutos-role.png)
+Interface usager :&#x20;
 
-![Changer de profil, en tant qu'administrateur ](../.gitbook/assets/tuto-role-admin.png)
+<figure><img src="../.gitbook/assets/image (295).png" alt="interface usager "><figcaption></figcaption></figure>
 
-![Changer de profil, en tant qu'instructeur](../.gitbook/assets/tuto-role-ins.png)
+Interface administrateur :&#x20;
+
+<figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+
+Interface instructeur :&#x20;
+
+<figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 Pour utiliser l'outil dans les meilleures conditions, vous devez utiliser un navigateur dont la version  est supérieure ou égale à :
 
