@@ -18,7 +18,7 @@ Attention : nous apportons continuellement des améliorations à demarches-simpl
 
 **Webinaire :**&#x20;
 
-Participez à nos webinaires dédiés aux instructeurs, organisés chaque troisième mardi du mois, pour vous former et poser toutes vos questions.
+**Participez à nos webinaires dédiés aux instructeurs, organisés chaque troisième mardi du mois, pour vous former et poser toutes vos questions. L'invitation se trouve dans l'onglet "nouveautés" de votre interface instructeur.**&#x20;
 
 ## Qu'est-ce qu'un instructeur ?
 
