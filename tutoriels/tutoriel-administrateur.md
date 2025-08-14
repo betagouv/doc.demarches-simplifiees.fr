@@ -811,15 +811,15 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 1\) L'expert est notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 * 2\) L'expert est notifié que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 

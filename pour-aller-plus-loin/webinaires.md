@@ -22,7 +22,7 @@ Vous pourrez également retrouver le **lien d’invitation** ainsi que le **repl
 
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -141,7 +141,7 @@ Dans l'exemple suivant, vous pouvez afficher grâce au filtre "personnaliser le 
 
 En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "date de dépôt" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
 
@@ -153,13 +153,13 @@ Un dossier à suivre a le statut « en construction ». Il est consultable et mo
 
 Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
 En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille rouge sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Plusieurs instructeurs peuvent suivre le même dossier. Pour cela, les instructeurs peuvent rechercher le dossier depuis l'onglet " au total" ou se transférer le dossier depuis l'onglet "personnes impliquées" du dossier.&#x20;
 
@@ -173,7 +173,7 @@ L’instructeur a accès à un ensemble de fonctionnalités :
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
 
 #### &#x20;- Annotations privées :
 
@@ -183,11 +183,11 @@ Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par l
 
 Les annotations sont automatiquement enregistrées.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas**. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Cas de figure "aucune annotation privée", en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Cas de figure "aucune annotation privée", en tant qu'instructeur </p></figcaption></figure>
 
 #### _- Avis externes :_&#x20;
 
@@ -195,7 +195,7 @@ Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit « expe
 
 L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Il est également possible de poser une question à un expert qui devra répondre par "oui" ou "non". Ce champ est pratique puisqu'une fois que l'expert a formulé un avis et répondu à cette question, vous pourrez faire apparaître ce champ dans le tableau de bord et donc instruire les dossiers plus rapidement.&#x20;
 
@@ -213,7 +213,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Ainsi, les instructeurs de la démarche devront **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
@@ -221,7 +221,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Dès lors, les instructeurs de la démarche **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de la liste.** &#x20;
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * L'instructeur de la démarche devra alors **cliquer une à une sur les adresses e-mail des experts** sollicités à émettre un avis parmi la liste prédéfinie par l'administrateur.
 
@@ -233,7 +233,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit:&#x20;
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton «** **Demander un avis** **»** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
 
@@ -243,7 +243,7 @@ INFORMATION : le nombre d'avis que l'instructeur peut demander est illimité.
 
 L'instructeur a la possibilité de relancer l'expert ou de révoquer la demande d'avis.&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
 
 #### _- Messagerie :_&#x20;
 
@@ -261,7 +261,7 @@ La capacité maximale d’envoi de pièce jointe est de 20 Mo par pièce envoyé
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Messagerie du dossier en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Messagerie du dossier en tant qu'instructeur </p></figcaption></figure>
 
 #### _- Personnes impliquées :_
 
@@ -274,7 +274,7 @@ Cet onglet contient également:&#x20;
 * Les personnes invitées par l'usager à co-construire ou modifier le dossier
 * Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.&#x20;
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur </p></figcaption></figure>
 
 * Dans le cadre d'une démarche avec du routage, l'onglet "Réaffectations" vous permet de suivre si le dossier a été réaffecté et de le transférer à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
 
@@ -286,7 +286,7 @@ Cet onglet contient également:&#x20;
 
 Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à gauche de votre écran :&#x20;
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie ou depuis le bouton "demande une correction" afin que mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.&#x20;
 
@@ -294,7 +294,7 @@ Un dossier « en construction » reste modifiable par l'usager. Ce stade permet 
 
 Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usage&#x72;_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».&#x20;
 
@@ -312,7 +312,7 @@ Il est possible pour l’instructeur de repasser le dossier en construction (apr
 
 Cliquez sur le bouton « Repasser en construction » en haut à droite de l’écran. L’instructeur est alors invité à confirmer son choix de repassage en construction en cliquant sur le bouton bleu « Valider et repasser en construction ».
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**- Demande de correction d'un dossier :**_&#x20;
 
@@ -322,11 +322,11 @@ Pour cela, lorsque vous êtes dans l'onglet "demande" qui permet de consulter le
 
 Demander une correction basculera automatiquement le dossier "en construction".&#x20;
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Demande de correction à l'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Demande de correction à l'usager </p></figcaption></figure>
 
 Une fois que la demande de correction a été demandée sur le dossier, la mention "en attente" s'affiche sur le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>Dossier en attente de correction </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Dossier en attente de correction </p></figcaption></figure>
 
 Cette mention s'affiche également dans le tableau de bord ce qui permet de distinguer plus facilement les dossiers complets des dossiers en attente de modification :&#x20;
 
@@ -400,13 +400,13 @@ Cliquez sur le bouton relatif au statut du dossier (Accepté, Classé sans suite
 
 Cette fonctionnalité permet à l’instructeur d’avoir une vision plus claire du suivi des dossiers. Le fait d'archiver un dossier désactive la messagerie de celui-ci. Vous ne recevrez également plus de notifications le concernant. Les dossiers restent toutefois consultables par l'instructeur.
 
-Dans l’onglet « traité », cliquez sur le bouton « Archiver le dossier ». Le dossier est automatiquement transféré dans l’onglet « archivé ».
+Dans l’onglet « traité », cliquez sur le bouton « déplacer à archiver le dossier ». Le dossier est automatiquement transféré dans l’onglet « à archiver ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.55.43.png" alt=""><figcaption><p>Archiver un dossier depuis la vue instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton "Désarchiver le dossier ». Le dossier est alors automatiquement transféré dans l’onglet « traité ».
+Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " remplacer dans traité". Le dossier est alors automatiquement transféré dans l’onglet « traité ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.57.45 (1).png" alt=""><figcaption><p>Désarchiver un dossier depuis le tableau de bord instructeur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Instruction en masse des dossiers
 
@@ -436,7 +436,17 @@ Sur le même principe que l'action de suivi des dossiers, il vous suffit de coch
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.46.43.png" alt=""><figcaption><p>Passage des dossiers en instruction</p></figcaption></figure>
 
-c. Prise de la décision des dossiers en masse:&#x20;
+**c. Demande l'avis d'un expert en masse :**&#x20;
+
+Il est également la possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Vous devrez alors compléter la demande d'avis.&#x20;
+
+**d. Prise de la décision des dossiers en masse:**&#x20;
 
 Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), le processus est le même.&#x20;
 
@@ -464,7 +474,7 @@ Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.06.13.png" alt=""><figcaption><p>Action de masse terminée dans l'onglet des dossiers suivis </p></figcaption></figure>
 
-d. Archivage des dossiers en masse
+**e. Archivage des dossiers en masse**
 
 Sur le même principe expliqué précedemment, il est possible d'archiver les dossiers en masse depuis l'onglet des dossiers "traités". Il suffit de cocher la case en haut à gauche pour sélectionner tous les dossiers ou bien cocher chacun des dossiers à archiver. Seuls les dossiers qui ont été traités peuvent être archivés.&#x20;
 
@@ -489,9 +499,11 @@ Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à dr
 **ATTENTION** : Veillez à désactiver les extensions de blocage de publicités qui peuvent empêcher le téléchargement du fichier d'export.&#x20;
 {% endhint %}
 
-Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction :
+Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.39.55.png" alt=""><figcaption><p>Télécharger tous les dossiers, en tant qu'instructeur</p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:&#x20;
 
@@ -501,11 +513,11 @@ Lorsque le libellé du bouton change (il passe de "Demander un export" à "Tél�
 
 Un message s'affiche afin d'informer que le fichier est en cours de préparation.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.55.41.png" alt=""><figcaption><p>Téléchargement des dossiers en cours </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.56.48.png" alt=""><figcaption><p>Téléchargement des dossiers prêt</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.&#x20;
 
@@ -517,16 +529,13 @@ Vous ne pouvez pas télécharger uniquement les pièces jointes associées aux d
 
 Vous pouvez faire un export massif de l'ensemble des dossiers ou bien exporter dossier par dossier. Pour éviter une attente longue, nous vous conseillons d'exporter vos dossiers au fur et à mesure des dépôts.&#x20;
 
-L'API vous permet également de télécharger les dossiers et les pièces jointes.&#x20;
+L'API vous permet également de télécharger les dossiers et les pièces jointes. Vous pouvez consulter [notre documentation API pour plus d'informations. ](https://doc.demarches-simplifiees.fr/api-graphql)
 
 ### C. Personnaliser les exports
 
 Vous avez la possibilité en tant qu’instructeur de personnaliser vos exports:&#x20;
 
 Cela vous permet de générer une extraction des dossiers avec seulement les colonnes qui vous intéressent. Pour ce faire, il faut cliquer sur “Modèles d’export” sur l’onglet “téléchargements” de votre interface d’instruction.&#x20;
-
-\
-
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Onglet "Téléchargements"</p></figcaption></figure>
 
@@ -663,61 +672,107 @@ Ces informations apparaîtront dans les mails automatiques, en pied de page lors
 
 
 
-### D. Statistiques
+### D. Gestion de la démarche
 
-Sur chaque procédure, l'instructeur a accès à des statistiques :
+En cliquant sur le bouton **« Gestion de la démarche »**, l'instructeur a la possibilité d’accéder à plusieurs fonctionnalités, telles que :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-11 à 10.49.17.png" alt=""><figcaption><p>Statistiques de la démarche</p></figcaption></figure>
+* **Historique des modifications du formulaire** : permet de prendre connaissance des changements apportés au formulaire, afin d’instruire au mieux les dossiers et, si besoin, de guider les usagers.
+* **Administrateurs de la démarche** : permet de contacter les personnes en charge de la démarche pour leur transmettre vos demandes ou les retours des usagers.
+* **Gestion des instructeurs**
+* **Gestion des notifications par e-mail**
+* **Statistiques de la démarche**
+* **Historique des dossiers supprimés**
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+### La gestion des notifications par email :&#x20;
+
+L’instructeur peut choisir d’être notifié par email de l’activité sur chacune des démarches sur lesquelles il a été nommé. L’email signale le dépôt de nouveaux dossiers ainsi que les modifications effectuées par les usagers sur les dossiers suivis. Seul l’instructeur peut paramétrer l’envoi des notifications, **démarche par démarche**.
+
+**Toutefois, si la démarche est déclarative, cet e-mail n’est pas envoyé.**
+
+Pour paramétrer ses préférences de notification, l’instructeur peut accéder au bouton **« Gestion des notifications par e-mail »** depuis le tableau de bord de la démarche.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Cinq types de notifications sont proposés, vous pouvez sélectionner "oui" ou "non" en fonction de votre besoin :&#x20;
+
+**1. Notification à chaque dossier déposé**
+
+Cet e-mail vous signale le dépôt de chaque nouveau dossier. Si vous choisissez cette notification, un e-mail sera automatiquement envoyé pour vous informer qu'un usager a déposé un dossier.&#x20;
+
+#### 2. Notification à chaque message déposé
+
+Cet e-mail vous signale le dépôt d'un nouveau message **sur vos dossiers suivis**. Il est envoyé à chaque fois qu'un usager dépose un message via la messagerie du dossier.
+
+#### 3. Notification quotidienne
+
+En plus de la notification hebdomadaire, l'instructeur peut faire le choix d'une notification quotidienne afin de recevoir un récapitulatif des dossiers à instruire.&#x20;
+
+Cet notification est envoyée du lundi au samedi vers 10h du matin.
+
+#### 4. Notification hebdomadaire
+
+Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédures suivies.&#x20;
+
+Cette notification permet d'informer _a minima_ l'instructeur du dépôt de dossiers sur la procédure si celui-ci ne se connecte qu'occasionnellement.
+
+**5. Notification d'un avis rendu par un expert**&#x20;
+
+Un e-mail est envoyé à l'instructeur lorsqu'un expert a rendu un avis sur un dossier.
+
+**Une fois les notifications paramétrées, vous devez cliquer sur le bouton "enregistrer" en bas de page.**&#x20;
+
+### Statistiques de la démarche :&#x20;
+
+Sur chaque procédure, l'instructeur a accès à des statistiques . Pour cela, il suffit à l'instructeur de cliquer sur le bouton "gestion de la démarche" puis "statistiques de la démarche"&#x20;
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Ces statistiques sont calculées à partir du temps effectif de traitement des dossiers. Elles permettent aux instructeurs d'avoir une vue d'ensemble sur la démarche et un suivi de l'instruction.&#x20;
 
 Dans cet onglet "statistiques", vous trouverez les informations suivantes:&#x20;
 
 * Le temps de traitement usuel de la démarche&#x20;
-* 4 graphiques qui représentent respectivement: le temps de traitement des dossiers, l'avancée des dossiers, le taux d'acceptation et la répartition par semaine.&#x20;
+* L'avancée des dossiers
+* Le taux d'acceptation&#x20;
+* La répartition par semaine.&#x20;
 
-Ces données ne peuvent être exportées. En revanche, elles sont publiques et peuvent donc être consultées à tout moment.&#x20;
+Ces données ne peuvent être exportées. En revanche, elles sont publiques et peuvent donc être consultées à tout moment par les usagers.&#x20;
 
-### E. Récapitulatif de l'activité
+### E. Accompagnement des usagers &#x20;
 
-L'instructeur est notifié par e-mail de l'activité sur chacune des procédures sur lesquelles il a été nommé. L'e-mail signale le dépôt de nouveaux dossiers et les changements effectués par les usagers sur les dossiers suivis.&#x20;
+Afin d’accompagner au mieux vos usagers en cas de demande, nous mettons à votre disposition plusieurs fonctionnalités.
 
-Toutefois, si la démarche est déclarative, cet e-mail n'est pas envoyé.&#x20;
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
-Afin de paramétrer son choix de notification, l'instructeur a accès au bouton « gestion des notifications » depuis le tableau de bord de la démarche :
+En cliquant sur le bouton "accompagnement des usagers" , vous pouvez :&#x20;
+
+### 1. Contacter les usagers avec un dossier "brouillon"
+
+Cette fonctionnalité vous permet d’envoyer un message à l’ensemble des usagers ayant un dossier en "brouillon", afin, par exemple, de les avertir de la date limite de dépôt ou de leur proposer un accompagnement pour finaliser leur dossier.
+
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 10.30.34.png" alt=""><figcaption><p>Onglet gestion des notifications </p></figcaption></figure>
+### **2. Prise de rendez-vous avec les usagers**&#x20;
 
-Cinq types de notifications sont proposés, dont vous trouverez le détail ci-après : vous pouvez sélectionner"oui" ou par "non" en fonction de votre besoin :&#x20;
+Il est désormais possible de faciliter les échanges avec les usagers en leur proposant un rendez-vous grâce à la solution **RDV Service Public**, interconnectée à **Démarches Simplifiées** !
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 11.24.52.png" alt=""><figcaption><p>Gestion des notifications instructeur</p></figcaption></figure>
+Pour tester cette fonctionnalité, n’hésitez pas à nous contacter à l’adresse suivante : **contact@demarches-simplifiees.fr**.\
+Nous pourrons ainsi vous présenter la solution et vous accompagner dans la configuration de vos agendas en ligne !&#x20;
 
-Une fois les notifications paramétrées, vous devez cliquer sur le bouton "enregistrer" en bas de page :
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-16 à 11.31.29.png" alt=""><figcaption><p>Enregistrer les notifications</p></figcaption></figure>
+### 3. Prévisualisation et lien usager vers le formulaire&#x20;
 
-#### a. Notification à chaque dossier déposé
+Afin de mieux comprendre les informations demandées aux usagers, vous avez la possibilité de prévisualiser le formulaire en cliquant sur le bouton **« Accompagnement des usagers »**, puis **«Prévisualiser le formulaire »**.
 
-Cet e-mail vous signale le dépôt de chaque nouveau dossier. Si vous choisissez cette notification, un e-mail sera automatiquement envoyé pour vous informer qu'un usager a déposé un dossier.&#x20;
+Vous pouvez également transmettre le lien URL vers la démarche en ligne en cliquant sur le bouton **«Copier le lien usager de la démarche »**.
 
-#### b. Notification à chaque message déposé
-
-Cet e-mail vous signale le dépôt d'un nouveau message sur vos dossiers suivis. Il est envoyé à chaque fois qu'un usager dépose un message via la messagerie du dossier.
-
-#### c. Notification quotidienne
-
-En plus de la notification hebdomadaire, l'instructeur peut faire le choix d'une notification quotidienne afin de recevoir un récapitulatif des dossiers à instruire.&#x20;
-
-Cet notification est envoyée du lundi au samedi vers 10h du matin.
-
-#### d. Notification hebdomadaire
-
-Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédures suivies.&#x20;
-
-Cette notification permet d'informer _a minima_ l'instructeur du dépôt de dossiers sur la procédure si celui-ci ne se connecte qu'occasionnellement.
-
-**e. Notification d'un avis rendu par un expert**&#x20;
-
-Un e-mail est envoyé à l'instructeur lorsqu'un expert a rendu un avis sur un dossier.&#x20;
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
