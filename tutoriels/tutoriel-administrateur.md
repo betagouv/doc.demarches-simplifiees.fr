@@ -857,7 +857,21 @@ Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches. Vou
 
 <div><figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.21.13.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.27.40.png" alt=""><figcaption></figcaption></figure></div>
 
-### A) L'activation de la prise de RDV&#x20;
+### A) La connexion à RDV service public&#x20;
+
+Vous devez vous authentifier sur RDV Service Public avec ProConnect.
+
+Si vous avez déjà un compte ✔︎ : Votre authentification vous dirigera vers l’écran de validation !
+
+Si vous n'avez pas de compte ✘ : Votre authentification vous dirigera vers un parcours de création de compte ! Vous pourrez renseigner les informations et créer votre compte.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.34.39.png" alt=""><figcaption></figcaption></figure>
+
+Validation de la connexion: nous vous demanderons de confirmer la permission de connecter les deux solutions.
+
+### B) Configuration dans RDV service public
+
+Une fois connecté à la plateforme RDV service public, vous allez pouvoir paramétrer vos plages de disponibilités,&#x20;
 
 ## 17. Publier sa démarche
 
