@@ -24,9 +24,11 @@ Pour que le conditionnel fonctionne, il faut que le champ précédant la questio
 * Nombre entier
 * Choix simple
 * Choix multiple
+* Adresse
 * Départements
-
-
+* Communes
+* Régions
+* EPCI
 
 Le conditionnel ne fonctionne pas sur tous les types de champs.
 
