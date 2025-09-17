@@ -851,7 +851,15 @@ Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail q
 \
 Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et dans le cas échéant à quelle date.
 
-## 16. Publier sa démarche
+## 16. La prise de RDV&#x20;
+
+Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches. Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.&#x20;
+
+<div><figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.21.13.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.27.40.png" alt=""><figcaption></figcaption></figure></div>
+
+### A) L'activation de la prise de RDV&#x20;
+
+## 17. Publier sa démarche
 
 {% hint style="info" %}
 **ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépô du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
@@ -881,7 +889,7 @@ Vous pouvez modifier le lien URL de votre démarche, même après sa publication
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-02-24 à 11.29.52.png" alt=""><figcaption><p>Modification du lien de la démarche </p></figcaption></figure>
 
-## 17. Clore une démarche&#x20;
+## 18. Clore une démarche&#x20;
 
 Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Clore ».
 
@@ -901,7 +909,7 @@ Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que l
 * pour les instructeurs, aucun changement. Ces derniers peuvent poursuivre l'instruction des dossiers déposés.&#x20;
 * pour les experts, aucun changement. Les instructeurs peuvent toujours solliciter les experts à donner leurs avis pour un dossier déjà déposé.&#x20;
 
-## 18. Transférer sa démarche
+## 19. Transférer sa démarche
 
 Une démarche d'un collègue peut ne pas être présente dans le catalogue des démarches car il faut 30 dossiers pour qu'elle y soit incluse. Cependant, vous pouvez tout de même partager votre démarche avec votre collègue. À cette fin, rendez-vous sur votre profil administrateur.
 
@@ -922,7 +930,7 @@ Vous avez également la possibilité de télécharger le formulaire en format pd
 
 <figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Télécharger le formulaire en format pdf, en tant qu'administrateur </p></figcaption></figure>
 
-## 19. Télécharger une archive globale des dossiers
+## 20. Télécharger une archive globale des dossiers
 
 Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés (faisant l'objet d'une décision finale) sous différents formats. Pour cela, il vous suffit de cliquer sur le bouton « Télécharger ».
 
@@ -932,7 +940,7 @@ Vous pourrez alors accéder aux archives mensuelles :&#x20;
 
 <figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption><p>Archives des dossiers,en tant qu'administrateur </p></figcaption></figure>
 
-## 20. Supprimer une démarche
+## 21. Supprimer une démarche
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
