@@ -871,7 +871,46 @@ Validation de la connexion: nous vous demanderons de confirmer la permission de 
 
 ### B) Configuration dans RDV service public
 
-Une fois connecté à la plateforme RDV service public, vous allez pouvoir paramétrer vos plages de disponibilités,&#x20;
+Vous pouvez, depuis un compte administrateur, lancer la configuration de votre compte RDV Service Public.
+
+Une mention “vérifier ma configuration” apparaitra dans les options de configuration de prise de rendez-vous depuis une démarche.
+
+Vous serez redirigé vers les options de configuration RDV Service Public. Vous allez ainsi pouvoir inviter vos agents instructeurs et configurer vos options de rendez-vous.
+
+#### 1) Configuration des agents&#x20;
+
+Depuis la carte "agents", vous pouvez voir, modifier et ajouter des agents.
+
+Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte Démarches Simplifiées.
+
+Ils recevront alors une invitation par email à valider 💡
+
+Ils pourront ainsi connecter leur compte DS à leur compte RDV·SP pour planifier des rendez-vous.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.06.30.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez choisir le niveau de permission accordé à l'agent. Il peut être basique, administrateur ou intervenant.&#x20;
+
+Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer sur "enregistrer".&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.26.47.png" alt=""><figcaption></figcaption></figure>
+
+#### 2) Configuration les lieux&#x20;
+
+Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).&#x20;
+
+Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro de téléphone.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.29.30 (1).png" alt=""><figcaption></figcaption></figure>
+
+#### 3) Configurer les motifs de RDV
+
+Vous pouvez ensuite configurer **plusieurs motifs** de RDV pour vos démarches. Vous pouvez également paramétrer le type de RDV:&#x20;
+
+* Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
+* Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.
+* À domicile : l’agent se rend à l'adresse indiquée sur la fiche de l'usager.
+* Par visioconférence : l'agent et l'usager se retrouvent sur un lien de visioconférence unique pour chaque RDV. L'agent se connecte au [service de webconférence de l'État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/) avec ProConnect pour démarrer la visioconférence.
 
 ## 17. Publier sa démarche
 
