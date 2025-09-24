@@ -905,12 +905,25 @@ Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro 
 
 #### 3) Configurer les motifs de RDV
 
-Vous pouvez ensuite configurer **plusieurs motifs** de RDV pour vos démarches. Vous pouvez également paramétrer le type de RDV:&#x20;
+Dans un premier temps, vous devrez procéder à la configuration générale en renseignant:&#x20;
+
+* Le nom du motif du RDV&#x20;
+* Le service associé&#x20;
+* La durée du RDV&#x20;
+* La couleur du RDV dans l'agenda&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 11.07.32.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez ensuite paramétrer le **type de RDV**:&#x20;
 
 * Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
 * Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.
 * À domicile : l’agent se rend à l'adresse indiquée sur la fiche de l'usager.
-* Par visioconférence : l'agent et l'usager se retrouvent sur un lien de visioconférence unique pour chaque RDV. L'agent se connecte au [service de webconférence de l'État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/) avec ProConnect pour démarrer la visioconférence.
+* Par visioconférence : l'agent et l'usager se retrouvent sur un lien de visioconférence unique pour chaque RDV. L'agent se connecte au [service de webconférence de l'État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/) avec ProConnect pour démarrer la visioconférence.&#x20;
+
+Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" afin de valider les modifications apportées.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 11.10.52.png" alt=""><figcaption></figcaption></figure>
 
 ## 17. Publier sa démarche
 
