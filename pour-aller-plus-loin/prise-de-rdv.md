@@ -6,7 +6,9 @@ description: >-
 
 # Prise de RDV
 
-Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches. Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.
+Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches et ce directement depuis votre interface administrateur.&#x20;
+
+Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.
 
 En vous connectant sur votre compte Démarches simplifiées sur l'interface administrateur, vous pouvez paramétrer la tuile "Prise de Rendez-vous" puis cliquez sur modifier pour l'activer.&#x20;
 
@@ -26,6 +28,8 @@ Si vous n'avez pas de compte ✘ : Votre authentification vous dirigera vers un 
 
 Validation de la connexion: nous vous demanderons de confirmer la permission de connecter les deux solutions.
 
+<figure><img src="../.gitbook/assets/Connexion RDV.avif" alt=""><figcaption></figcaption></figure>
+
 #### B) Configuration dans RDV service public <a href="#b-configuration-dans-rdv-service-public" id="b-configuration-dans-rdv-service-public"></a>
 
 Vous pouvez, depuis un compte administrateur, lancer la configuration de votre compte RDV Service Public.
@@ -34,7 +38,7 @@ Une mention “vérifier ma configuration” apparaitra dans les options de conf
 
 Vous serez redirigé vers les options de configuration RDV Service Public. Vous allez ainsi pouvoir inviter vos agents instructeurs et configurer vos options de rendez-vous.
 
-**1) Configuration des agents**
+#### **1) Configuration des agents**
 
 Depuis la carte "agents", vous pouvez voir, modifier et ajouter des agents.
 
@@ -48,15 +52,29 @@ Vous pouvez choisir le niveau de permission accordé à l'agent. Il peut être b
 
 Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer sur "enregistrer".
 
-**2) Configuration les lieux**
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 16.47.42.png" alt=""><figcaption></figcaption></figure>
+
+#### **2) Configuration les lieux**
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
 Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro de téléphone.
 
-**3) Configurer les motifs de RDV**
+Il sera nécessaire d’ajouter un lieu, l’adresse postale de votre administration.
 
-Dans un premier temps, vous devrez procéder à la configuration générale en renseignant:
+C’est avec cette adresse que les agents instructeurs pourront planifier des rendez-vous.
+
+C’est également cette adresse qui sera associée aux notifications SMS et email reçues par vos usager💡
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 16.49.35.png" alt=""><figcaption></figcaption></figure>
+
+#### **3) Configurer les motifs de RDV**
+
+C’est ici que vous pouvez gérer votre offre de rendez-vous : des rendez-vous sur place, par téléphone, par visioconférence ... d’une durée de 10 minutes, 30 minutes ou 60 minutes.
+
+Vos agents instructeurs pourront utiliser les motifs configurés ici&#x20;
+
+Vous devrez procéder à la configuration générale en renseignant:
 
 * Le nom du motif du RDV
 * Le service associé
@@ -73,3 +91,13 @@ Vous pouvez ensuite paramétrer le **type de RDV**:
 * Par visioconférence : l'agent et l'usager se retrouvent sur un lien de visioconférence unique pour chaque RDV. L'agent se connecte au [service de webconférence de l'État](https://www.numerique.gouv.fr/outils-agents/webconference-etat/) avec ProConnect pour démarrer la visioconférence.
 
 Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" afin de valider les modifications apportées.
+
+#### 4) La prise de RDV dans Démarches simplifiées en tant qu'instructeur
+
+Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vous serez automatiquement redirigé vers votre agenda le site de RDV service public. Vous devriez avoir au prélable renseigné vos indisponibilités.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 17.01.10.png" alt=""><figcaption></figcaption></figure>
+
+Une fois sur votre agenda, vous pourrez sélectionner le créneau horaire du rendez-vous que vous donnez à l'usager. Ce rendez-vous s'affichera ensuite directement sur l'interface instructeur Démarches simplifiées.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 17.01.47.png" alt=""><figcaption></figcaption></figure>
