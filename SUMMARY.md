@@ -81,6 +81,6 @@
   * [Le conditionnel](pour-aller-plus-loin/le-conditionnel.md)
   * [Eligibilité des dossiers](pour-aller-plus-loin/eligibilite-des-dossiers.md)
   * [Export personnalisé](pour-aller-plus-loin/export-personnalise.md)
-  * [RDV Service Public](pour-aller-plus-loin/rdv-service-public.md)
+  * [Prise de RDV](pour-aller-plus-loin/prise-de-rdv.md)
 * [Communiqués de presse](communiques-de-presse.md)
 * [Expiration et suppression des dossiers](expiration-et-suppression-des-dossiers.md)
