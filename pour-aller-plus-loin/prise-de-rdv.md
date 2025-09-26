@@ -100,10 +100,12 @@ Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vou
 
 Une fois sur votre agenda, vous pourrez sélectionner le créneau horaire du rendez-vous que vous donnez à l'usager en passant par plusieurs étapes de confirmations.&#x20;
 
-Vous pourrez choisir le motif, la durée du RDV.&#x20;
+Vous pourrez ensuite choisir le motif du RDV, la durée, etc.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 17.01.47.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 18.27.24.png" alt=""><figcaption></figcaption></figure>
 
 Ce rendez-vous s'affichera ensuite directement sur l'interface instructeur Démarches simplifiées.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-09-26 à 12.37.12.png" alt=""><figcaption></figcaption></figure>
