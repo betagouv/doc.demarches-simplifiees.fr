@@ -1,7 +1,8 @@
 ---
 description: >-
   Dans ce tutoriel, nous allons vous montrer pas à pas comment paramétrer la
-  prise de RDV sur Démarches simplifiées avec l'outil RDV service public.
+  prise de rendez-vous sur Démarches simplifiées avec l'outil RDV service
+  public.
 ---
 
 # Prise de RDV
@@ -10,7 +11,7 @@ Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches et c
 
 Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.
 
-En vous connectant sur votre compte Démarches simplifiées sur l'interface administrateur, vous pouvez paramétrer la tuile "Prise de Rendez-vous" puis cliquez sur modifier pour l'activer.&#x20;
+En vous connectant sur votre compte Démarches simplifiées sur l'interface administrateur, vous pouvez paramétrer la tuile "Prise de rendez-vous" puis cliquez sur modifier pour l'activer.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 15.18.32.png" alt=""><figcaption></figcaption></figure>
 
@@ -54,7 +55,7 @@ Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer su
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 16.47.42.png" alt=""><figcaption></figcaption></figure>
 
-#### **2) Configuration les lieux**
+#### **2) Configuration des lieux**
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
@@ -68,7 +69,7 @@ C’est également cette adresse qui sera associée aux notifications SMS et ema
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 16.49.35.png" alt=""><figcaption></figcaption></figure>
 
-#### **3) Configurer les motifs de RDV**
+#### **3) Configurer les motifs de rendez-vous**
 
 C’est ici que vous pouvez gérer votre offre de rendez-vous : des rendez-vous sur place, par téléphone, par visioconférence ... d’une durée de 10 minutes, 30 minutes ou 60 minutes.
 
@@ -83,7 +84,7 @@ Vous devrez procéder à la configuration générale en renseignant:
 
 
 
-Vous pouvez ensuite paramétrer le **type de RDV**:
+Vous pouvez ensuite paramétrer le **type de rendez-vous**:
 
 * Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
 * Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.
