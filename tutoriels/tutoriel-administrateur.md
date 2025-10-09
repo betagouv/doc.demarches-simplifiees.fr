@@ -851,7 +851,22 @@ Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail q
 \
 Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et dans le cas échéant à quelle date.
 
-## 16. La prise de RDV&#x20;
+## 16. Les labels&#x20;
+
+
+
+En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit détiquette que les insctruetrus peuvent associer aux dossiers pour mieux les indeitifer ou les organiser.&#x20;
+
+<figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+
+**Les labels peuvent être standards ou personnalisables.**\
+Vous avez la possibilité de modifier, supprimer ou ajouter un nouveau label. Seul l’administrateur de la démarche peut configurer les labels.
+
+Les couleurs disponibles permettent aux instructeurs de s’y retrouver plus facilement dans la liste des dossiers. Ils peuvent ainsi associer des labels aux dossiers et les filtrer en fonction de ces labels.&#x20;
+
+<figure><img src="../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+
+## 17. La prise de RDV&#x20;
 
 Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches. Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.&#x20;
 
