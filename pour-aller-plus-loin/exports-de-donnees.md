@@ -8,14 +8,14 @@ Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée pu
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :&#x20;
 
 * standard
 * A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici. ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/export-personnalise)
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Il n'est pas possible d'effectuer cette opération dans l'interface administrateur, mais les administrateurs peuvent le faire en se nommant instructeur sur la procédure.
 

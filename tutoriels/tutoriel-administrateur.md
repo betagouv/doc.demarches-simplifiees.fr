@@ -531,7 +531,7 @@ Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager
 
 ### Qu’est-ce qu’un champ référentiel à configurer (avancé ) ?
 
-Nous vous renvoyons a la [documentation](champ-referentiel-avance-a-configurer.md) spécifique à ce type de champ.&#x20;
+Nous vous renvoyons à la [documentation](champ-referentiel-avance-a-configurer.md) spécifique à ce type de champ.&#x20;
 
 ### **C. Renseigner une description**&#x20;
 
@@ -539,19 +539,25 @@ Vous pouvez ajouter une description afin de mieux renseigner l’usager sur l’
 
 Exemple : si vous demandez le numéro de téléphone vous pouvez préciser : renseigner un numéro sur lequel nous pouvons vous joindre entre 14h et 18h.
 
-### D. Modifier l’ordre des champs
+### D. Ajouter des logiques conditionnelles&#x20;
+
+En tant qu'administrateur, vous pouvez conditionner vos champs en fonction des réponses des champs précédents afin de simplifier vos formulaires.&#x20;
+
+Pour activer le conditionnel, nous vous renvoyons à [la documentation dédiée à cette fonctionnalité ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel)
+
+### E. Modifier l’ordre des champs
 
 Il est possible de modifier l’ordre des champs en les faisant monter ou descendre dans le formulaire. Pour ce faire, cliquez sur les flèches situées à gauche du champ comme suit :&#x20;
 
 <figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p>Modification de l'ordre des champs en tant qu'administrateur </p></figcaption></figure>
 
-### E. Supprimer un champ
+### F. Supprimer un champ
 
 Pour supprimer un champ, cliquez sur la corbeille située en haut à droite du champ :&#x20;
 
 <figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption><p>Suppression d'un champ, en tant qu'administrateur  </p></figcaption></figure>
 
-### F. Rendre un champ obligatoire&#x20;
+### G. Rendre un champ obligatoire&#x20;
 
 Il est possible de rendre un champ obligatoire. Il suffit alors de remplir un champ et de cocher la case « Obligatoire ». Si vous choisissez de rendre un champ obligatoire, l’usager ne pourra pas déposer son dossier tant que ce champ ne sera pas rempli.
 
@@ -559,7 +565,7 @@ Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'i
 
 <figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption><p>Rendre un champ obligatoire, en tant qu'usager </p></figcaption></figure>
 
-### G. Estimation de la durée de remplissage
+### H. Estimation de la durée de remplissage
 
 Une estimation de la durée nécessaire pour remplir le formulaire est affichée en bas de l’écran. Cette durée est calculée en fonction du nombre et du type des champs :
 
@@ -577,7 +583,7 @@ Pour réduire la durée de remplissage de votre démarche, réellement simplifie
 
 _Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](les-bonnes-pratiques-lors-de-la-creation-dune-demarche.md)_._
 
-### H. Prévisualiser le formulaire&#x20;
+### I. Prévisualiser le formulaire&#x20;
 
 Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bouton « Prévisualiser le formulaire » situé en haut de la page. Toutefois, des champs tels que les blocs répétables ne sont pas fonctionnels dans la partie prévisualisation. Il est donc recommandé de déposer un dossier en test pour avoir un véritable aperçu du point de vue de l'usager.
 
@@ -656,19 +662,25 @@ Les attestations sont des documents au format .pdf qui sont délivrés en pièce
 
 <figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Configuration de l'attestation, en tant qu'administrateur </p></figcaption></figure>
 
-A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en bas à gauche de votre écran.&#x20;
+A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en haut de votre écran.&#x20;
 
-<figure><img src="../.gitbook/assets/image (66).png" alt=""><figcaption><p>Activation de l'attestation en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Pour créer une attestation, rendez-vous sur l’onglet « Attestation ». Vous pouvez alors :
+En activant l'attestation, vous pouvez alors :
 
-* **Entrer un titre** dans le champ « Titre »&#x20;
+* Ajouter **le logo avec Marianne**&#x20;
+* **Indiquer l'intitulé de votre institution** ( obligatoire)
 
-<figure><img src="../.gitbook/assets/image (151).png" alt=""><figcaption><p>Titre de l'attestation , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-* **Rédiger le contenu de l’attestation** dans le champ « Corps du document ». Il est possible de remonter des éléments du dossier de l'usager grâce à l'utilisation de balises de champs. Pour cela, faites un **copier-coller** de l'une des balises disponibles en dessous du corps de l'attestation et insérez la dans votre texte. Il faut veiller à ce que la balise du texte  soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas.
+* Choisir **un logo additionnel** ( optionnel )&#x20;
+* Renseigner **l'intitulé de la direction** (optionnel )&#x20;
 
-<figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption><p>Contenu de l'attestation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* **Rédiger le contenu de l’attestation**. Il est possible de remonter des éléments du dossier de l'usager et des annotations privées grâce à l'utilisation des balises de champs. Pour cela, tapez le caractère @ suivi du nom de la balise, ou cliquez sur les boutons dédiés aux balises et insérez les dans votre texte. Il faut veiller à ce que la balise du texte  soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas.  **Les champs conditionnés ne sont pas disponibles en tant que balises.**&#x20;
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * **Choisir un logo** qui sera présenté en haut de page
 
@@ -680,11 +692,15 @@ Pour créer une attestation, rendez-vous sur l’onglet « Attestation ». Vou
 
 * **Rentrer un texte de bas de page** dans le champ « Pied de page ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-* **Enregistrer l’attestation** en cliquant sur le bouton « Enregistrer » situé en bas à droite de l’écran. Un aperçu est mis à jour après chaque sauvegarde. Vous pourrez y accéder en rafraîchissant la page, un nouvel onglet s'ouvre avec une prévisualisation de l'attestation.&#x20;
+L’attestation est automatiquement enregistrée à chaque modificatio&#x6E;**.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>Enregistrement de l'attestation, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+Enfin, vous avez la possibilité de vérifier les éléments ajoutés dans votre attestation grâce à l’aperçu, ainsi que de la prévisualiser en taille réelle.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## 11. Nommer des instructeurs&#x20;
 
@@ -811,15 +827,15 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 * 1\) L'expert est notifié que le dossier a été accepté.&#x20;
 
-![](<../.gitbook/assets/image (4) (1) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1) (1).png>)
 
 * 2\) L'expert est notifié que le dossier a été refusé.&#x20;
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png>)
 
 * 3\)  L'expert est notifié que le dossier a été classé sans suite.&#x20;
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png>)
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 

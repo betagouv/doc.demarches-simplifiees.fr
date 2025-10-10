@@ -141,7 +141,7 @@ Dans l'exemple suivant, vous pouvez afficher grâce au filtre "personnaliser le 
 
 En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "date de dépôt" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
 
@@ -153,13 +153,13 @@ Un dossier à suivre a le statut « en construction ». Il est consultable et mo
 
 Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
 En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille rouge sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Plusieurs instructeurs peuvent suivre le même dossier. Pour cela, les instructeurs peuvent rechercher le dossier depuis l'onglet " au total" ou se transférer le dossier depuis l'onglet "personnes impliquées" du dossier.&#x20;
 
@@ -173,7 +173,7 @@ L’instructeur a accès à un ensemble de fonctionnalités :
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
 
 #### &#x20;- Annotations privées :
 
@@ -183,11 +183,11 @@ Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par l
 
 Les annotations sont automatiquement enregistrées.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas**. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Cas de figure "aucune annotation privée", en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Cas de figure "aucune annotation privée", en tant qu'instructeur </p></figcaption></figure>
 
 #### _- Avis externes :_&#x20;
 
@@ -195,7 +195,7 @@ Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit « expe
 
 L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question.
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Il est également possible de poser une question à un expert qui devra répondre par "oui" ou "non". Ce champ est pratique puisqu'une fois que l'expert a formulé un avis et répondu à cette question, vous pourrez faire apparaître ce champ dans le tableau de bord et donc instruire les dossiers plus rapidement.&#x20;
 
@@ -213,7 +213,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Ainsi, les instructeurs de la démarche devront **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
@@ -221,7 +221,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Dès lors, les instructeurs de la démarche **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de la liste.** &#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * L'instructeur de la démarche devra alors **cliquer une à une sur les adresses e-mail des experts** sollicités à émettre un avis parmi la liste prédéfinie par l'administrateur.
 
@@ -402,11 +402,11 @@ Cette fonctionnalité permet à l’instructeur d’avoir une vision plus claire
 
 Dans l’onglet « traité », cliquez sur le bouton « déplacer à archiver le dossier ». Le dossier est automatiquement transféré dans l’onglet « à archiver ».
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " remplacer dans traité". Le dossier est alors automatiquement transféré dans l’onglet « traité ».
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Instruction en masse des dossiers
 
@@ -440,9 +440,9 @@ Sur le même principe que l'action de suivi des dossiers, il vous suffit de coch
 
 Il est également la possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous devrez alors compléter la demande d'avis.&#x20;
 
@@ -503,7 +503,7 @@ Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extr
 
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:&#x20;
 
@@ -513,11 +513,11 @@ Lorsque le libellé du bouton change (il passe de "Demander un export" à "Tél�
 
 Un message s'affiche afin d'informer que le fichier est en cours de préparation.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.&#x20;
 
