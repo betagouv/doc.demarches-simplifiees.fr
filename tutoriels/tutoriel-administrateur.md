@@ -82,10 +82,6 @@ Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Déma
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.09.09.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez aussi avoir un accès direct à vos démarches en cliquant sur le numéro de votre démarche que vous recherchez.&#x20;
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.09.32.png" alt=""><figcaption></figcaption></figure>
-
 &#x20;La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01 (1).png" alt=""><figcaption></figcaption></figure>
