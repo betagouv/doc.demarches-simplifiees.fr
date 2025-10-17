@@ -656,23 +656,24 @@ Les balises sont notamment utiles pour remonter les annotations privées car ell
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption><p>Exemple de balises possibles, en tant qu'administrateur </p></figcaption></figure>
 
-### Attestation
+### Attestations
 
-Les attestations sont des documents au format .pdf qui sont délivrés en pièce jointe des e-mails d’acceptation. Celles-ci sont également disponibles en téléchargement sur l’espace personnel de l’usager. Comme pour les e-mails, l’attestation est entièrement personnalisable, notamment avec une signature et différentes balises envisageables.
+Vous pouvez paramétrer une attestation délivrée en cas **d'acceptation ou de refus du dossier**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption><p>Configuration de l'attestation, en tant qu'administrateur </p></figcaption></figure>
+Les attestations sont des documents au format .pdf qui sont délivrés en pièce jointe des e-mails d’acceptation ou de refus. Celles-ci sont également disponibles en téléchargement sur l’espace personnel de l’usager. Comme pour les e-mails, l’attestation est entièrement personnalisable, notamment avec une signature et différentes balises envisageables.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.29.09.png" alt=""><figcaption></figcaption></figure>
 
 A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en haut de votre écran.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+Désactiver cette option arrête immédiatement l’émission de nouvelles attestations.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.33.37.png" alt=""><figcaption></figcaption></figure>
 
 En activant l'attestation, vous pouvez alors :
 
-* Ajouter **le logo avec Marianne**&#x20;
+* &#x20;Choisir d'afficher ou non le logo de la Marianne
 * **Indiquer l'intitulé de votre institution** ( obligatoire)
-
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
 * Choisir **un logo additionnel** ( optionnel )&#x20;
 * Renseigner **l'intitulé de la direction** (optionnel )&#x20;
 
@@ -682,17 +683,11 @@ En activant l'attestation, vous pouvez alors :
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-* **Choisir un logo** qui sera présenté en haut de page
 
-<figure><img src="../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
-* **Choisir un tampon ou une signature** scanné qui sera présenté en fin de document. Cette fonctionnalité vous offre aussi la possibilité d'insérer un code QR dans votre attestation.
+* **Choisir un tampon ou une signature** scanné qui sera présenté en fin de document. Cette fonctionnalité vous offre aussi la possibilité d'insérer un code QR dans votre attestation. Vous avez également la possibilité d'insérer un contenu en pied de page.&#x20;
 
-<figure><img src="../.gitbook/assets/image (121).png" alt=""><figcaption></figcaption></figure>
-
-* **Rentrer un texte de bas de page** dans le champ « Pied de page ».&#x20;
-
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.42.50.png" alt=""><figcaption></figcaption></figure>
 
 L’attestation est automatiquement enregistrée à chaque modificatio&#x6E;**.**&#x20;
 
