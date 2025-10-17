@@ -120,7 +120,7 @@ Tous les champs marqués d'un astérisque sont obligatoires.
 
 **a) Titre et description de la démarche**&#x20;
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.51.26 (1).png" alt=""><figcaption></figcaption></figure>
 
 En premier lieu, il faut indiquer le titre de votre démarche. Vous devez ensuite la décrire dans la partie "quel est l'objet de la démarche". Cette étape est importante car elle permet à l’usager de savoir s’il est bien sur la bonne démarche ce qui réduira d'autant le nombre de dossiers mal orientés.&#x20;
 
