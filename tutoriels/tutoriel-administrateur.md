@@ -707,7 +707,10 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.47.56.png" alt=""><figcaption></figcaption></figure>
 
-* Pour gagner du temps, vous pouvez également affecter des instructeurs en téléversant une liste CSV avec l'email des instructeurs.&#x20;
+* Pour gagner du temps, vous pouvez également affecter des instructeurs en important une liste CSV avec l'email des instructeurs. Un modèle du fichier à importer est à votre disposition.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.08.58.png" alt=""><figcaption></figcaption></figure>
+
 * Vous avez la possibilité de retirer ou rajouter des instructeurs à tout moment de l'instruction de la démarche.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.55.15.png" alt=""><figcaption></figcaption></figure>
@@ -734,41 +737,29 @@ Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne
 
 &#x20;Si vous souhaitez opérer une gestion des experts invités d'une démarche qui seront sollicités par les instructeurs, rendez-vous dans l'onglet « avis externes ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (184).png" alt=""><figcaption><p>Paramétrage des avis externes , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.11.28.png" alt=""><figcaption></figcaption></figure>
 
 * L'écran qui s'affiche est alors celui ci-dessous.&#x20;
 
-<figure><img src="../.gitbook/assets/image (116).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.13.12.png" alt=""><figcaption></figcaption></figure>
 
-* Trois possibilités s'offrent à vous afin de gérer comme vous le souhaitez les experts invités qui seront sollicités par les instructeurs de la démarche.      &#x20;
+* Plusieurs possibilités s'offrent à vous afin de gérer comme vous le souhaitez les experts invités qui seront sollicités par les instructeurs de la démarche.      &#x20;
 
 #### &#x20;**Les différentes fonctionnalités de gestion des experts invités**
 
-En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarche comme vous le souhaitez. Pour ce faire, vous disposez de trois fonctionnalités (au choix) : \
+En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarche comme vous le souhaitez. Pour ce faire, vous disposez de trois fonctionnalités (qui peuvent se cumuler selon le besoin) : \
 \
-\- accorder de manière générale des droits aux instructeurs de solliciter des experts invités.\
-\- laisser aux instructeurs la liberté de choisir des experts invités qui seront sollicités lors d'un dossier. \
-\- prédéfinir une liste d'experts invités qui seront uniquement sollicités par les instructeurs lors d'un dossier et décider ainsi que les experts invités soient notifiés de la décision finale.&#x20;
+\- Vous pouvez autoriser ou non les instructeurs à solliciter des experts sur la démarche.\
+\- Vous pouvez autoriser ou non les experts à accéder à la messagerie du dossier et donc éventuellement interagir avec l'usager.  \
+\- Prédéfinir une liste d'experts invités qui pourront être sollicités par les instructeurs lors de l'instruction d'un dossier. Dans ce cas, les instructeurs ne pourront inviter que les experts qui figurent sur la liste.&#x20;
 
-### **A. Accorder aux instructeurs le droit de solliciter des experts invités**&#x20;
+Vous pouvez à tout moment désactiver ces fonctionnalités en décochant les cases.&#x20;
 
-* En tant qu'administrateur de la démarche, vous avez la possibilité d'accorder le droit aux instructeurs de solliciter l'avis d'experts invités dans un dossier. Par défaut, la fonctionnalité " autoriser les instructeurs à solliciter des experts invités" est ainsi activée.
+A chaque modification, un bandeau vert de confirmation s'affiche.&#x20;
 
-<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption><p>Activer les avis externes, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.21.48.png" alt=""><figcaption></figcaption></figure>
 
-* Pour retirer la possibilité pour les instructeurs de solliciter un expert invité,  il vous suffit de désactiver la fonctionnalité "autoriser les instructeurs à solliciter des experts invités". Ainsi, les instructeurs de la démarche ne pourront plus solliciter d'experts invités dans un dossier.&#x20;
-
-<figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption><p>Désactiver les avis externes, en tant qu'administrateur </p></figcaption></figure>
-
-* Les avis externes sont alors désactivés.&#x20;
-
-### **B. Laisser aux instructeurs la liberté de solliciter des experts invités**&#x20;
-
-* Une deuxième possibilité est à votre disposition, vous pouvez choisir d'utiliser par défaut la fonctionnalité « autoriser les instructeurs à solliciter des experts invités ».\
-
-* Les instructeurs de votre démarche sont alors libres de solliciter des experts invités afin que ces derniers, après notification, émettent un avis sur un dossier.&#x20;
-
-<figure><img src="../.gitbook/assets/image (198).png" alt=""><figcaption></figcaption></figure>
+###
 
 * **Du coté instructeurs** :&#x20;
 * Ils doivent désormais,  **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.&#x20;
