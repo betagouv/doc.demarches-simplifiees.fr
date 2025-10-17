@@ -712,13 +712,9 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.55.15.png" alt=""><figcaption></figcaption></figure>
 
-*
+Une fois l'instructeur affecté, un bandeau de confirmation s'affiche. L'instructeur est notifié par email de son affectation à la démarche.&#x20;
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
-
-* &#x20;Pour retirer un instructeur : cliquer sur le bouton « Retirer » situé en bas à droite de l’écran.
-
-<figure><img src="../.gitbook/assets/image (110).png" alt=""><figcaption><p>Retirer un instructeur, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.05.00.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **ATTENTION** : Lorsque vous clonez une démarche, il faut recommencer le processus d'affectation des instructeurs à la démarche clonée.
