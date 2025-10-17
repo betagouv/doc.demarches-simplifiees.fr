@@ -705,11 +705,14 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 * Si vous souhaitez que l'ensemble des instructeurs aient accès à l'ensemble des dossiers, rendez-vous sur l’onglet « Instructeur ». Il vous suffit ensuite de renseignez l’adresse e-mail de l’instructeur dans le champ « E-mail » et cliquer sur le bouton « Affecter ».
 
-<figure><img src="../.gitbook/assets/image (182).png" alt=""><figcaption><p>Nommer des instructeurs, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.47.56.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+* Pour gagner du temps, vous pouvez également affecter des instructeurs en téléversant une liste CSV avec l'email des instructeurs.&#x20;
+* Vous avez la possibilité de retirer ou rajouter des instructeurs à tout moment de l'instruction de la démarche.&#x20;
 
-* Un message apparaît pour confirmer l’affectation des instructeurs. Vous retrouverez la liste des instructeurs affectés à la démarche en bas de la page.&#x20;
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.55.15.png" alt=""><figcaption></figcaption></figure>
+
+*
 
 <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
 
