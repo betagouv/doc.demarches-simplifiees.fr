@@ -118,7 +118,7 @@ Lorsque vous clonez une démarche, le procédé ci-dessous est identique&#x20;
 
 Tous les champs marqués d'un astérisque sont obligatoires.
 
-**a) Titre et description de la démarche**&#x20;
+#### **a) Titre et description de la démarche**&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.51.26 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -132,7 +132,7 @@ Une fois la description terminée, descendez en bas de la page et cliquez sur le
 
 Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus tard. En revanche, comme les informations remplies ne s’enregistrent pas automatiquement, nous vous conseillons de le faire par vous-même régulièrement.
 
-**b) Listes des pièces jointes demandées**&#x20;
+#### **b) Listes des pièces jointes demandées**&#x20;
 
 Vous pouvez renseigner la liste des pièces jointes à fournir. Cela permettra à l'usager de prendre connaissance des pièces jointes avant d'accéder au formulaire.&#x20;
 
@@ -140,7 +140,7 @@ Si votre formulaire contient des pièces jointes et que vous ne complétiez pas 
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
-**c) Logo de la démarche**&#x20;
+#### **c) Logo de la démarche**&#x20;
 
 Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du titre de votre démarche lorsque l’usager y déposera un dossier.&#x20;
 
@@ -148,7 +148,7 @@ Vous pouvez ensuite télécharger un logo. Celui-ci apparaîtra au-dessus du tit
 
 Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller l'ensemble de vos logos sur un fichier texte (doc) puis de faire une capture d’écran de tous vos logos.
 
-**d) Conservation des données**&#x20;
+#### **d) Conservation des données**&#x20;
 
 Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez indiquer le temps de conservation des données. Le délai maximal que vous pouvez paramétrer est de 12 mois. Si vous souhaitez conserver les dossiers au delà de 12 mois, il faudra passer par notre équipe support en justifiant le besoin. Nous pouvons étendre la durée de conservation à maximum 5 ans.&#x20;
 
@@ -165,7 +165,7 @@ Cependant tant l'instructeur que l'usager peuvent étendre la durée de conserva
 
 Enfin, un dossier en cours d'instruction ne peut être supprimé pour des raisons juridiques.
 
-**e) Cadre juridique**&#x20;
+#### **e) Cadre juridique**&#x20;
 
 De même, le cadre juridique doit être obligatoirement renseigné. En effet, dans l’intérêt de l’usager et de la protection de ses données, il est important de savoir ce qui vous autorise à lui demander des informations.&#x20;
 
@@ -173,7 +173,7 @@ Néanmoins, le cadre juridique comprend un vaste ensemble de textes. Vous pouvez
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-**f) Contact du Délégué à la Protection des Données (DPO)**&#x20;
+#### **f) Contact du Délégué à la Protection des Données (DPO)**&#x20;
 
 Afin d'être conforme au RGPD, les informations permettant de contacter le DPO doivent être mentionnées.  &#x20;
 
@@ -183,7 +183,7 @@ Les usagers pourront consulter l'ensemble des informations relatives au cadre ju
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.54.55 (1).png" alt=""><figcaption></figcaption></figure>
 
-**g) L'open data**&#x20;
+#### **g) L'open data**&#x20;
 
 Afin de favoriser la transparence des données, vous avez la possibilité d'autoriser la publication  des descriptifs des démarches sur https://data.gouv.fr.&#x20;
 
@@ -191,7 +191,7 @@ Cette donnée est modifiable pour chaque démarche depuis la partie « présenta
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.19.29.png" alt=""><figcaption></figcaption></figure>
 
-**g) Notice explicative de la démarche**
+#### **h) Notice explicative de la démarche**
 
 Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Une notice explicative est un document destiné à guider l’usager dans sa démarche. C’est un document que vous aurez préalablement élaboré. Celui-ci peut prendre la forme d’un fichier .doc, .pdf ou bien de diapositives. Le bouton pour télécharger cette notice apparaît en haut du formulaire pour l’usager.&#x20;
 
@@ -199,7 +199,7 @@ Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Un
 
 Les premiers éléments que vous venez de renseigner sont les premières informations vues par l’usager lorsqu'il aura cliqué sur le lien de votre démarche. Ils constituent ainsi la page d’accueil de votre démarche.
 
-**h) Choix du public de votre démarche : personnes morales ou particuliers ?**
+#### **i) Choix du public de votre démarche : personnes morales ou particuliers ?**
 
 Votre démarche s’adresse-t-elle à des personnes morales ou à des particuliers ? Ce choix détermine la seconde page de votre démarche sur laquelle l’usager sera renvoyé après s’être connecté.&#x20;
 
@@ -208,28 +208,34 @@ Votre démarche s’adresse-t-elle à des personnes morales ou à des particulie
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.21.47.png" alt=""><figcaption></figcaption></figure>
 
-**i) Options avancées**
+#### **j) Thématiques de la démarche**&#x20;
+
+Vous pouvez associer des thématiques à votre démarche afin de les retrouver plus facilement dans l'onglet "toutes les démarches"
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.29.42.png" alt=""><figcaption></figcaption></figure>
+
+#### **k) Les options avancées**
 
 Enfin, il existe deux options avancées optionnelles. La première est le choix de la date limite de dépôt des dossiers et la seconde est la possibilité de rendre une démarche déclarative.
 
 * **Date limite de dépôt des dossiers** : cette option permet de clôturer automatiquement votre démarche. Cela permet de clore automatiquement le dépôt des dossiers à la date de votre choix. Grâce à cette fonctionnalité, lorsque la démarche est close, tous les dossiers passent en instruction. Les dossiers restés à l'état de brouillon ne pourront plus être soumis. Cet outil est particulièrement utile pour les appels à projet.&#x20;
 
-<figure><img src="../.gitbook/assets/image (241).png" alt=""><figcaption><p>Choix de la date limite de dépôt de dossier, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.52.24.png" alt=""><figcaption></figcaption></figure>
 
 * **Démarche déclarative** : cette option permet de rendre votre démarche déclarative. Une fois le dossier déposé, celui-ci ne pourra plus être modifié. Deux issues sont alors possibles ; soit il passe directement « en instruction » pour être traité, soit il est immédiatement « accepté ».\
   Pour ces deux issues, l'usager ne pourra pas modifier son dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (84).png" alt=""><figcaption><p>Rendre sa démarche déclarative, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.54.44.png" alt=""><figcaption></figcaption></figure>
 
-* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificativ » .&#x20;
 
-<figure><img src="../.gitbook/assets/Capture multiupload.PNG" alt=""><figcaption><p>Permettre aux usagers d'envoyer plusieurs fichier par champ PJ, en tant d'administrateur </p></figcaption></figure>
+
+* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificative » .&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.56.34.png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou « enregistrer » , situé en bas à droite de l’écran.
 
-<figure><img src="../.gitbook/assets/Capture publier démarche.PNG" alt=""><figcaption><p>création de la démarche , en tant qu'administrateur </p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.59.26.png" alt=""><figcaption></figcaption></figure>
 
 ## 7. Créer son formulaire
 
