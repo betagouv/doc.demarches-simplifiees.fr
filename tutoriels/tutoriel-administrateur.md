@@ -495,7 +495,7 @@ Pour l'utiliser, remplissez l'encadré « Liste déroulante » en suivant le mod
 
 Les titres des menus déroulant liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels.
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés", en tant qu'administrateur</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.56.47 (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption><p>Champ "Deux menus déroulants liés" en tant qu'usager </p></figcaption></figure>
 
