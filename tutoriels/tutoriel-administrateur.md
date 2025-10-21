@@ -551,15 +551,15 @@ Pour activer le conditionnel, nous vous renvoyons à [la documentation dédiée 
 
 ### E. Modifier l’ordre des champs
 
-Il est possible de modifier l’ordre des champs en les faisant monter ou descendre dans le formulaire. Pour ce faire, cliquez sur les flèches situées à gauche du champ comme suit :&#x20;
+Il est possible de modifier l’ordre des champs en les faisant monter ou descendre dans le formulaire. Pour ce faire, cliquez sur les flèches situées à gauche du champ ou en utilisant la liste déroulante "déplacer le champ" comme suit :&#x20;
 
-<figure><img src="../.gitbook/assets/image (90).png" alt=""><figcaption><p>Modification de l'ordre des champs en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.37.13.png" alt=""><figcaption></figcaption></figure>
 
 ### F. Supprimer un champ
 
-Pour supprimer un champ, cliquez sur la corbeille située en haut à droite du champ :&#x20;
+Pour supprimer un champ, cliquez sur la corbeille située en bas à droite du champ :&#x20;
 
-<figure><img src="../.gitbook/assets/image (235).png" alt=""><figcaption><p>Suppression d'un champ, en tant qu'administrateur  </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.39.40.png" alt=""><figcaption></figcaption></figure>
 
 ### G. Rendre un champ obligatoire&#x20;
 
@@ -567,7 +567,7 @@ Il est possible de rendre un champ obligatoire. Il suffit alors de remplir un ch
 
 Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'information demandée. Dans le cas contraire, l'usager ne pourra pas effectuer la démarche.&#x20;
 
-<figure><img src="../.gitbook/assets/image (214).png" alt=""><figcaption><p>Rendre un champ obligatoire, en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.41.34.png" alt=""><figcaption></figcaption></figure>
 
 ### H. Estimation de la durée de remplissage
 
@@ -591,11 +591,9 @@ _Voir aussi : les_ [_bonnes pratiques pour la création d’une démarche_](les-
 
 Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bouton « Prévisualiser le formulaire » situé en haut de la page. Toutefois, des champs tels que les blocs répétables ne sont pas fonctionnels dans la partie prévisualisation. Il est donc recommandé de déposer un dossier en test pour avoir un véritable aperçu du point de vue de l'usager.
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption><p>Prévisualisation du formulaire en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.43.10.png" alt=""><figcaption></figcaption></figure>
 
-Les modifications apportés aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en cliquant sur le bouton « Continuer », situé en haut à droite de la page.
-
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption><p>Poursuivre la création de la démarche, en tant qu'administrateur </p></figcaption></figure>
+Les modifications apportés aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en retournant sur le tableau de bord de l'interface administrateur.&#x20;
 
 A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.&#x20;
