@@ -598,7 +598,7 @@ Les modifications apportés aux champs s'enregistrent automatiquement. Une fois 
 A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.&#x20;
 
-<figure><img src="../.gitbook/assets/image (208).png" alt=""><figcaption><p>Tester la démarche en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.13.17.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **ATTENTION** : les dossiers remplis pendant la phase de test seront automatiquement supprimés lors de la modification ou bien de la publication de votre démarche.
@@ -624,11 +624,11 @@ A titre d’exemple, pour une démarche de demande provisoire de titre de travai
 
 Pour créer des annotations privées, rendez-vous dans l’onglet « Annotation privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de « formulaire instructeur ».
 
-<figure><img src="../.gitbook/assets/image (82).png" alt=""><figcaption><p>Configuration des annotations privées, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.15.39.png" alt=""><figcaption></figcaption></figure>
 
 &#x20;La création des annotations privées est identique à la création du formulaire usager. Il s'agit d'une succession de champs. Les champs sont automatiquement enregistrés. &#x20;
 
-<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption><p>Création des annotations privées , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.20.44.png" alt=""><figcaption></figcaption></figure>
 
 Une fois le formulaire annotations privées créé, vous pouvez alors cliquer sur « Continuer ».&#x20;
 
@@ -646,7 +646,7 @@ Il convient désormais de penser d’un point de vue usager à la vie de la dém
 
 Ces e-mails sont entièrement personnalisables. Vous pouvez décider de l’objet et du corps de l’e-mail. Pour cela, cliquez sur l'onglet « E-mails » dans la barre latérale de gauche. Vous avez alors une première barre pour l’objet puis une zone de texte où vous pouvez rédiger le corps de votre e-mail.&#x20;
 
-<figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption><p>Configuration des emails, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.22.06.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p>Personnaliser les email, en tant qu'administrateur </p></figcaption></figure>
 
