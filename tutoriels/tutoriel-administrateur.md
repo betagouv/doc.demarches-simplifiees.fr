@@ -443,7 +443,7 @@ Ce champ permet à l’usager de joindre une carte d'identité (uniquement le re
 
 De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale).&#x20;
 
-<figure><img src="../.gitbook/assets/image (193).png" alt=""><figcaption><p>Champ "titre d'identité" , en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.49.31.png" alt=""><figcaption></figcaption></figure>
 
 **7) Les champs relatifs aux choix**&#x20;
 
@@ -481,7 +481,7 @@ Le principe est le même que le champ précédent à la différence que l'usager
 
 À noter : lorsque plus de six champs sont ajoutés, le champ choix multiple est affiché sous forme de liste déroulante.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 16.20.43.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.51.05.png" alt=""><figcaption></figcaption></figure>
 
 **d) Deux menus déroulants liés**&#x20;
 
