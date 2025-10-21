@@ -189,13 +189,13 @@ Afin de favoriser la transparence des données, vous avez la possibilité d'auto
 
 Cette donnée est modifiable pour chaque démarche depuis la partie « présentation » de votre interface administrateur .&#x20;
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption><p>Autorisation de l'open data des démarches, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.19.29.png" alt=""><figcaption></figcaption></figure>
 
 **g) Notice explicative de la démarche**
 
 Vous pouvez ensuite télécharger une notice explicative qui est optionnelle. Une notice explicative est un document destiné à guider l’usager dans sa démarche. C’est un document que vous aurez préalablement élaboré. Celui-ci peut prendre la forme d’un fichier .doc, .pdf ou bien de diapositives. Le bouton pour télécharger cette notice apparaît en haut du formulaire pour l’usager.&#x20;
 
-<figure><img src="../.gitbook/assets/image (192).png" alt=""><figcaption><p>Sélection d'une note explicative de la démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.20.32.png" alt=""><figcaption></figcaption></figure>
 
 Les premiers éléments que vous venez de renseigner sont les premières informations vues par l’usager lorsqu'il aura cliqué sur le lien de votre démarche. Ils constituent ainsi la page d’accueil de votre démarche.
 
@@ -206,7 +206,7 @@ Votre démarche s’adresse-t-elle à des personnes morales ou à des particulie
 * **Personnes morales** : l’usager est tenu de renseigner son numéro SIRET. Celui-ci nous permet d'interroger directement les bases de l’INSEE, d’Infogreffe et du Répertoire National des Associations (RNA) afin de recueillir automatiquement des informations sur les entreprises (raison sociale, adresse, code NAF).
 * **Particuliers** : l'usager renseigne simplement son nom et son prénom. Si celui-ci ne les indique pas, il ne pourra pas se rendre sur la troisième page qui correspond au corps du formulaire. Si vous choisissez cette option, nul besoin de lui demander son nom et prénom dans votre formulaire.
 
-<figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption><p>Choix du public de la démarche en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.21.47.png" alt=""><figcaption></figcaption></figure>
 
 **i) Options avancées**
 
