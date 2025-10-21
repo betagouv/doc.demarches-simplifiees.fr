@@ -247,13 +247,11 @@ La civilité, le prénom et le nom sont des informations déja demandées en pr�
 
 A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 09.55.35.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.09.26.png" alt=""><figcaption></figcaption></figure>
 
-Pour commencer votre formulaire, vous cliquerez sur l’onglet « Ajouter un champ » dans le menu situé en bas à gauche de l’écran. Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
+Pour commencer votre formulaire, vous cliquerez sur l’onglet « Ajouter un champ ». Une fois sur la page champ, vous pourrez ajouter autant de champs que vous le désirez.
 
-<figure><img src="../.gitbook/assets/ajout d&#x27;un champ .png" alt=""><figcaption><p>Ajout d'un champ , en tant qu'administrateur </p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (187).png" alt=""><figcaption><p>configuration des champs en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.13.34.png" alt=""><figcaption></figcaption></figure>
 
 Pour créer un champ vous devez :&#x20;
 
@@ -273,7 +271,7 @@ Le type de champ formate la manière dont l'usager vous donnera l'information de
 
 **a) Titre de section**&#x20;
 
-Le titre de section permet de segmenter et de structurer votre formulaire.  En effet, la construction de ce dernier étant linéaire par empilement de champs, il convient de le structurer afin de le rendre plus facilement lisible par l’usager. Il existe plusieurs niveaux de titre de section (avec des tailles de police différentes). Cela permet également d'avoir un menu de navigation.&#x20;
+Le titre de section permet de segmenter et de structurer votre formulaire.  En effet, la construction de ce dernier étant linéaire par empilement de champs, il convient de le structurer afin de le rendre plus facilement lisible par l’usager. Il existe plusieurs niveaux de titre de section (avec des tailles de police différentes). Cela permet également d'avoir un menu de navigation qui vous permet d'aller facilement d'une section à l'autre.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 15.46.49.png" alt=""><figcaption><p>Champ "titre de section" en tant qu'administrateur</p></figcaption></figure>
 
