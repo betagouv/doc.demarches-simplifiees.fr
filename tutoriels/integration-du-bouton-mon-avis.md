@@ -6,7 +6,7 @@
 
 Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec les instructions à suivre.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.33.52.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.23.46.png" alt=""><figcaption></figcaption></figure>
 
 2\.    Vous serez ensuite redirigé vers le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr) pour effectuer les paramétrages
 
@@ -34,34 +34,16 @@ Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.54.41 (1).png" alt=""><figcaption></figcaption></figure>
 
-**4.     Se déclarer « porteur d’une démarche » :**
+**Vous devrez ensuite paramétrer l'emplacement de votre demande d'avis**&#x20;
 
-\-      Sur la page de la démarche, cliquez sur le bouton « Je suis porteur de cette démarche » ; deux onglets sont désormais accessibles « code à intégrer » et « tous les avis ».&#x20;
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.20.21.png" alt=""><figcaption></figcaption></figure>
 
-**NB** : lorsque vous référencez une démarche (étape 2b), vous devenez automatiquement « porteur de la démarche ».
+Une fois l'emplacement créé et les paramètres renseignés, un code sera généré. Il faudra copier et coller ce code dans la tuile "Bouton mon avis" de Démarches simplifiées. Vous pourrez également déterminer si vous souhaitez que le bouton "Je donne mon avis" soit blanc ou bleu.&#x20;
 
-**5.     Obtenir le code du bouton :**
-
-\-      Toujours sur la page de la démarche, accédez à l’onglet « code à intégrer »
-
-\-      Cliquez sur le bouton « générer le code »
-
-\-      Choisissez entre le bouton bleu et le bouton blanc en fonction de l’ergonomie de votre site&#x20;
-
-\-      Copiez le code du bouton URL
-
-\-      Retournez sur votre page de publication&#x20;
-
-\-   Allez à l'onglet "mon avis" et intégrez le code dans la partie qui lui est réservée
-
-\-   Enregistrez !&#x20;
-
-**6.     Résultat :**
-
-L’usager, une fois son dossier déposé sur DS, aura un bouton qui lui permettra d’aller directement donner son avis.
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.54.41.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.25.30.png" alt=""><figcaption></figcaption></figure>
 
 #### 7.      Suivez en direct la satisfaction des usagers :
 
 Grace à l'observatoire, vous aurez la possibilité de suivre, en temps réel, le niveau de satisfaction de votre démarche.
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.27.59.png" alt=""><figcaption></figcaption></figure>
