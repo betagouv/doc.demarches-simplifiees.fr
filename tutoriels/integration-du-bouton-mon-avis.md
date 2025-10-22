@@ -1,14 +1,20 @@
-# Intégration du bouton « Mon avis »
+# Intégration du bouton « Mon avis »
 
-**L’outil « MonAvis-Vox Usager » est conçu pour rendre très simple l’intégration du bouton de vote à la fin des démarches administratives. Voici le mode opératoire qui est proposé pour intégrer le lien « MonAvis » dans une démarche sur demarches-simplifiees.fr.**
+**L’outil « Jedonnemonavis» est conçu pour rendre très simple l’intégration du bouton de vote à la fin des démarches administratives. Voici le mode opératoire qui est proposé pour intégrer le lien « Jedonnemonavis » dans une démarche sur demarches-simplifiees.fr.**
 
 1\.    Pour utiliser le bouton « mon avis », il faut avoir publié votre démarche sur demarches-simplifiees.fr, puis effectuer les actions suivantes. C'est très rapide !&#x20;
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-09 à 09.29.48.png>)
+Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec les instructions à suivre.&#x20;
 
-2\.    **Si vous n’avez pas de compte** sur MonAvis, **Créez-en un**
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.33.52.png" alt=""><figcaption></figcaption></figure>
 
-\-      Accédez à [observatoire.numerique.gouv.fr](https://observatoire.numerique.gouv.fr/) et cliquez sur le bouton « Accès Administration » situé en bas de la page ; vous arrivez sur une page de connexion
+2\.    Vous serez ensuite redirigé vers le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr) pour effectuer les paramétrages
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.33.34.png" alt=""><figcaption></figcaption></figure>
+
+**Si vous n’avez pas de compte** sur le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr), **Créez-en un. Vous pouvez également vous authentifier avec Proconnect.**&#x20;
+
+\-      Accédez à [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr) et cliquez sur le bouton « Prêt à recueillir les avis des usagers ?, Bouton Commencer » situé en bas de la page ; vous arriverez sur une page de connexion
 
 \-      Cliquez sur le lien « inscription »
 
@@ -18,17 +24,15 @@
 
 **NB** : si votre adresse ne se finit pas par «@(…).gouv.fr », une validation de votre compte par un administrateur est nécessaire.
 
-**3a.     Accédez à la page de votre démarche via le moteur de recherche**
+**3a.     Une fois connecté, vous allez commencer en rajoutant les informations qui concernent votre service en cliquant sur "Ajouter un service"**&#x20;
 
-**3.b.    Si elle est absente du référentiel, ajouter votre démarche (étape optionnelle) :**
 
-\-      Cliquez sur le bouton « Ajoutez-là ! »
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-09 à 09.04.07.png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.52.50.png" alt=""><figcaption></figcaption></figure>
 
-\-      Remplissez le formulaire de référencement d’une démarche
+\-      Paramétrez ensuite le formulaire de demande d'avis en cliquant sur "créer un formulaire"
 
-![](<../.gitbook/assets/Capture d’écran 2020-06-09 à 09.05.32.png>)
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.54.41 (1).png" alt=""><figcaption></figcaption></figure>
 
 **4.     Se déclarer « porteur d’une démarche » :**
 
@@ -56,12 +60,8 @@
 
 L’usager, une fois son dossier déposé sur DS, aura un bouton qui lui permettra d’aller directement donner son avis.
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.54.41.png" alt=""><figcaption></figcaption></figure>
+
 #### 7.      Suivez en direct la satisfaction des usagers :
 
 Grace à l'observatoire, vous aurez la possibilité de suivre, en temps réel, le niveau de satisfaction de votre démarche.
-
-![Présentation générale d'une démarche](<../.gitbook/assets/Capture d’écran 2020-06-09 à 08.50.20.png>)
-
-![Pour chaque démarche, la liste des avis donnés](<../.gitbook/assets/Capture d’écran 2020-06-09 à 08.50.43.png>)
-
-![Tableau de bord de la satisfaction.](<../.gitbook/assets/Capture d’écran 2020-06-09 à 08.50.53.png>)
