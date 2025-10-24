@@ -10,7 +10,7 @@ Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec 
 
 2\.    Vous serez ensuite redirigé vers le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr) pour effectuer les paramétrages
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 15.33.34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-24 à 11.29.06.png" alt=""><figcaption></figcaption></figure>
 
 **Si vous n’avez pas de compte** sur le site [https://jedonnemonavis.numerique.gouv.fr](https://jedonnemonavis.numerique.gouv.fr), **Créez-en un. Vous pouvez également vous authentifier avec Proconnect.**&#x20;
 
