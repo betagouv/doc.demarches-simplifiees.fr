@@ -10,7 +10,7 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 
 {% file src=".gitbook/assets/Guide des bonnes pratiques démarches-simplifiees.pdf" %}
 
-### **Découvrez notre e-capsule de formation disponible sur Mentor depuis le lien suivant :** [**https://mentor.gouv.fr/course/view.php?id=4364\&section=1**](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
+### **Découvrez notre e-capsule de formation disponible sur Mentor en cliquant** [**ici** ](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
 
 <figure><img src=".gitbook/assets/tempsnip mentor .png" alt=""><figcaption><p>Parcours "numérique et relation aux usagers"</p></figcaption></figure>
 
@@ -24,7 +24,7 @@ Bilan 2023 de DS
 
 ### Support de présentation :&#x20;
 
-{% file src=".gitbook/assets/Webinaire Démarches simplifiées aout 2025 (1).pdf" %}
+{% file src=".gitbook/assets/support Webinaire Démarches simplifiées octobre 2025.pdf" %}
 
 ### Objectif
 
