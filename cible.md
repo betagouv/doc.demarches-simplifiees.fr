@@ -14,9 +14,9 @@ Une liste plus complète des cas d'usage actuels est disponible dans la rubrique
 
 ## Cas d'usage
 
-Les démarches dématérialisées peuvent concerner des particuliers, des entreprises, des associations ou des collectivités publiques.
+Les démarches dématérialisées peuvent concerner des particuliers, des entreprises, des associations ou des collectivités territoriales.
 
-Il peut s'agir d'appels à projets, de procédures de création d'entreprise, de démarches d'enregistrement, d'inscription, de demande d'autorisation ou bien d'agrément…
+Il peut s'agir d'appels à projets, de procédures de création d'entreprise, de démarches d'enregistrement, d'inscription, de demande d'autorisation ou bien d'agrément ou des démarches internes à destination des agents publics…
 
 demarches-simplifiees.fr est adapté lorsque :
 
