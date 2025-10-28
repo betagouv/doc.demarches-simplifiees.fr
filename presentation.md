@@ -18,7 +18,7 @@ L'objectif est d'assurer la dématérialisation dans les meilleures conditions e
 
 ## Un outil visant à accélérer la dématérialisation
 
-Les usagers du service public devraient aujourd'hui pouvoir effectuer toutes leurs démarches en ligne. Ils ne devraient plus avoir à transmettre des informations dont l’administration dispose déjà ou à faire eux-mêmes le lien entre une multitude d’interlocuteurs publics.
+Les usagers du service public devraient aujourd'hui pouvoir effectuer toutes leurs démarches en ligne. Ils ne devraient plus avoir à transmettre des informations dont l’administration dispose déjà ou à faire eux-même le lien entre une multitude d’interlocuteurs publics.
 
 La dématérialisation, quant à elle, ne devrait pas être un investissement humain et financier pour les gestionnaires et les agents publics mais un gain de temps et un facteur d’économie.
 
@@ -30,7 +30,7 @@ Si chaque administration fait le choix de développer ses propres outils informa
 
 ## Un produit issu du programme « Dites-le nous une fois »
 
-Le programme « Dites-le-nous une fois » était un élément clé du choc de simplification lancé en 2013 pour faciliter la vie des entreprises afin que celles-ci ne perdent plus de temps sur de les formalités administratives mais se concentrent sur leur cœur de métier : créer et innover.
+Le programme « Dites-le-nous une fois » était un élément clé du choc de simplification lancé en 2013 pour faciliter la vie des entreprises afin que celles-ci ne perdent plus de temps sur les formalités administratives mais se concentrent sur leur cœur de métier : créer et innover.
 
 Concrètement, le programme reposait sur quatre leviers de simplification :
 
@@ -45,10 +45,10 @@ D'après une étude conduite en 2013 par le Secrétariat Général pour la Moder
 
 Dès juin 2013, l’État a pu expérimenter au sein de la Direction interministérielle du Numérique (DINUM)  une nouvelle manière de construire des services publics numériques, en réussissant tout d’abord la refonte de [**data.gouv.fr**](https://data.gouv.fr)**.**
 
-L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles explicites ou implicites qui fondent le service tel qu’il existe aujourd'hui. Pour autant, elle n’a pas besoin de capital privé. Une Startup d’État est donc simplement une équipe de 2 à 4 personnes financée par une administration et totalement autonome.
+L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles explicites ou implicites qui fondent le service tel qu’il existe aujourd'hui. Pour autant, elle n’a pas besoin de capital privé. Une Startup d’État est donc simplement une équipe de 2 à 15 personnes financée par une administration et totalement autonome.
 
 L'ensemble des Startups d’État sont présentées sur [**beta.gouv.fr**](https://beta.gouv.fr)**.**
 
 **Vous trouverez ci-dessous notre support de présentation :**&#x20;
 
-{% file src=".gitbook/assets/Présentation- webinaire demarches-simplifiees.fr- octobre  2023 (2) (1).pdf" %}
+{% file src=".gitbook/assets/Webinaire Démarches simplifiées aout 2025.pdf" %}
