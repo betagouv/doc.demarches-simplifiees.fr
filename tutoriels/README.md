@@ -19,15 +19,15 @@ Dans ce cas, &#x6C;**’utilisateur peut changer de profil en cliquant sur le bo
 
 
 
-**Interface usager :**&#x20;
+**Interface l'usager :**&#x20;
 
 <figure><img src="../.gitbook/assets/image (295).png" alt="interface usager "><figcaption></figcaption></figure>
 
-**Interface administrateur :**&#x20;
+**Interface de l'administrateur :**&#x20;
 
 <figure><img src="../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
-**Interface instructeur :**&#x20;
+**Interface de l'instructeur :**&#x20;
 
 <figure><img src="../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
