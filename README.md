@@ -32,11 +32,12 @@ L'objectif principal de cette documentation est de permettre aux organismes publ
 
 L'ensemble des utilisateurs y trouvera des informations visant à faciliter la prise en main de l'application.
 
-La plateforme demarches-simplifiees.fr comporte trois rôles :
+La plateforme demarches-simplifiees.fr comporte quatre rôles :
 
 * Administrateurs : création et publication des démarches
 * Usagers : dépôt et suivi des dossiers
-* Instructeurs : traitement de ces demandes.
+* Instructeurs : traitement de ces demandes
+* Experts: émission d'un ou plusieurs avis sur un dossier&#x20;
 
 Aucune connaissance spécifique en informatique n'est requise pour comprendre cette documentation.
 
