@@ -404,6 +404,6 @@ L’usager peut également, depuis le même espace, **télécharger l’attestat
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous avez également l**a possibilité de traduire la plateforme en anglais** en cliquant sur le bouton dédiée situé en haut à droite de votre interface usager comme ci-dessous :&#x20;
+Vous avez également **la possibilité de traduire la plateforme en anglais** en cliquant sur le bouton dédié situé en haut à droite de votre interface usager, comme ci-dessous :&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
