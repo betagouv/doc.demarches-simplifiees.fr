@@ -676,7 +676,7 @@ Les balises sont notamment utiles pour remonter les annotations privées car ell
 
 <figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption><p>Exemple de balises possibles, en tant qu'administrateur </p></figcaption></figure>
 
-### Attestations
+### Les attestations
 
 Vous pouvez paramétrer une attestation délivrée en cas **d'acceptation ou de refus du dossier**.&#x20;
 
@@ -784,35 +784,36 @@ A chaque modification, un bandeau vert de confirmation s'affiche.&#x20;
 * **Du coté instructeurs** :&#x20;
 * Ils doivent désormais,  **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.&#x20;
 
-<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>Demande d'avis externes, en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 14.59.34.png" alt=""><figcaption></figcaption></figure>
 
-* Une fois les adresses e-mails des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton « demander un avis » situé en bas de l'écran.
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-* **Du coté experts :**&#x20;
+* Une fois les adresses e-mails des experts ajoutées, les instructeurs de votre démarche doivent cliquer sur le bouton « envoyer la demande d'avis » situé en bas de l'écran.
+
+L'instructeur peut également poser une question à laquelle l'expert répondra par oui ou non. Ce champ pourra être affiché directement dans le tableau de bord instructeur.&#x20;
+
+L'instructeur peut également choisir si la demande d'avis est confidentielle ou si elle peut être partagée par l'expert à d'autres experts.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.03.33.png" alt=""><figcaption></figcaption></figure>
+
+* **Du coté des experts :**&#x20;
 * Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet « avis » s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.&#x20;
 
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption><p>Interface expert invité </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.07.15.png" alt=""><figcaption></figcaption></figure>
 
 * Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émis lors de la démarche en bas de page.&#x20;
 
-<figure><img src="../.gitbook/assets/image (161).png" alt=""><figcaption><p>Liste des experts et nombre d'avis , en tant qu'amdinistrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.21.13.png" alt=""><figcaption></figcaption></figure>
 
 ### **C**. P**rédéfinir une liste d'experts invités**&#x20;
 
 * Vous avez également la possibilité de gérer les experts invités de la démarche en définissant, désormais, à l'avance une liste d'experts invités. Pour ce faire, il vous suffit d'activer le bouton « Gérer les experts invités de la démarche ».
 
-<figure><img src="../.gitbook/assets/image (169).png" alt=""><figcaption><p>Gestion des experts invités, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.24.32.png" alt=""><figcaption></figcaption></figure>
 
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.&#x20;
-* Il vous suffit **d'ajouter une à une les adresses e-mails des experts** et de **cliquer ensuite sur l'adresse e-mail venant d'être indiquée** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche.
-
-<figure><img src="../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
-
+* Il vous suffit **d'ajouter une à une les adresses e-mails des experts** et de **cliquer ensuite sur "ajouter à la liste"** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche. Vous pouvez à tout moment retirer un expert de cette liste. Vous pouvez également choisir ou non de notifier les experts sur les décisions rendues sur les dossiers. &#x20;
 * **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton « Retirer » situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
-
-<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 
 
