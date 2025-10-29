@@ -993,17 +993,23 @@ Vous pouvez modifier le lien URL de votre démarche, même après sa publication
 
 ## 18. Clore une démarche&#x20;
 
-Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Supprimer ».&#x20;
+La démarche peut se clôturer automatiquement si vous avez paramétré une date limite de dépôt de dossier dans la case "présentation" de l'interface administrateur.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.34.04.png" alt=""><figcaption></figcaption></figure>
+Si vous n'avez pas paramétré de date limite de dépôt de dossier, vous pouvez manuellement clore votre démarche depuis l'interface administrateur en cliquant sur le bouton "clore".&#x20;
 
-Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparaît avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.40.34.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+Un message s'affiche vous permettant qu'indiquer la raison de la cloture. Vous pouvez également indiquer si votre démarche est remplacée par une existante afin de rediriger les usagers vers la nouvelle démarche.&#x20;
 
-Enfin, un message d’avertissement apparaît. Il suffit de confirmer afin que la démarche soit automatiquement transférée dans les démarches closes.&#x20;
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.43.46.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+Si vous renseignez dans "Raison de la clôture", "Autre", vous aurez un encart pour renseigner la raison. Cette information s'affichera lorsque l'usager cliquera sur le lien de la démarche.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.48.30.png" alt=""><figcaption></figcaption></figure>
+
+Vous avez la possibilité d'envoyer un email aux usagers ayant débuté un dossier en brouillon pour l'informer de la clôture de la démarche.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.50.40.png" alt=""><figcaption></figcaption></figure>
 
 **La clôture de la démarche induit :**&#x20;
 
