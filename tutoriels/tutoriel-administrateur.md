@@ -1054,13 +1054,13 @@ Vous pouvez soit télécharger tous les dossiers, soit générer un export du mo
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
-<figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption><p>Suppression de la démarche , en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.13.45.png" alt=""><figcaption></figcaption></figure>
 
 Ensuite, un message d'avertissement apparaît. Il suffit de confirmer afin que la démarche soit supprimée et apparaisse dans les démarches supprimées :&#x20;
 
-<figure><img src="../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.15.19.png" alt=""><figcaption></figcaption></figure>
 
 Une fois la démarche supprimée, vous pourrez tout de même la restaurer en cas d'erreur :&#x20;
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>Restaurer une démarche supprimée, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.17.28.png" alt=""><figcaption></figcaption></figure>
 
