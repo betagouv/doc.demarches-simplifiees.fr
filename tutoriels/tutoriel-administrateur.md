@@ -1019,34 +1019,34 @@ Vous avez la possibilité d'envoyer un email aux usagers ayant débuté un dossi
 
 ## 19. Transférer sa démarche
 
-Une démarche d'un collègue peut ne pas être présente dans le catalogue des démarches car il faut 30 dossiers pour qu'elle y soit incluse. Cependant, vous pouvez tout de même partager votre démarche avec votre collègue. À cette fin, rendez-vous sur votre profil administrateur.
+Vous pouvez partager votre démarche avec votre collègue. À cette fin, rendez-vous sur votre profil administrateur puis cliquez sur l'onglet « Envoyer une copie ». Il faut que votre collègue ait un compte administrateur. Une fois la démarche envoyée, elle sera dans l'onglet des démarches en "test" de votre collègue.&#x20;
 
-* Cliquez sur l'onglet « Envoyer une copie »
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.55.32.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (245).png" alt=""><figcaption></figcaption></figure>
-
-La fenêtre suivante apparaît, cliquer à nouveau sur « Envoyer une copie »
+La fenêtre suivante apparaît,&#x20;
 
 * Renseignez l'adresse e-mail de votre collègue
 * Enfin, cliquez sur le bouton « Envoyer à l'administrateur »
 
-<figure><img src="../.gitbook/assets/image (243).png" alt=""><figcaption><p>Transfert d'une démarche à un autre administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.58.13.png" alt=""><figcaption></figcaption></figure>
 
 Une copie de votre démarche apparaît dans ses démarches « En test ».
 
 Vous avez également la possibilité de télécharger le formulaire en format pdf grâce au bouton dédié :&#x20;
 
-<figure><img src="../.gitbook/assets/image (158).png" alt=""><figcaption><p>Télécharger le formulaire en format pdf, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.59.45.png" alt=""><figcaption></figcaption></figure>
 
 ## 20. Télécharger une archive globale des dossiers
 
 Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés (faisant l'objet d'une décision finale) sous différents formats. Pour cela, il vous suffit de cliquer sur le bouton « Télécharger ».
 
-<figure><img src="../.gitbook/assets/image (206).png" alt=""><figcaption><p>Générer une archive des dossiers, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.01.31.png" alt=""><figcaption></figcaption></figure>
 
 Vous pourrez alors accéder aux archives mensuelles :&#x20;
 
-<figure><img src="../.gitbook/assets/image (154).png" alt=""><figcaption><p>Archives des dossiers,en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.02.31.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez soit télécharger tous les dossiers, soit générer un export du mois souhaité en cliquant sur "demander la création".&#x20;
 
 ## 21. Supprimer une démarche
 
