@@ -993,9 +993,9 @@ Vous pouvez modifier le lien URL de votre démarche, même après sa publication
 
 ## 18. Clore une démarche&#x20;
 
-Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Clore ».
+Dans le cas d’un appel à projet, il peut être souhaitable de choisir une date à partir de laquelle tout dépôt de dossiers sera bloqué. C’est pourquoi il est possible de clore une démarche ce qui entraîne la fermeture du dépôt des dossiers et la désactivation du lien URL. Pour ce faire, cliquez sur une démarche active, sur l’onglet « Actions » et cliquez sur le bouton « Supprimer ».&#x20;
 
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>Clore une démarche, en tant qu'administrateur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.34.04.png" alt=""><figcaption></figcaption></figure>
 
 Un message vous permettant qu'indiquer si cette démarche est remplacée par une existante apparaît avant la clôture de votre démarche afin de rediriger les usagers vers la démarche active :&#x20;
 
