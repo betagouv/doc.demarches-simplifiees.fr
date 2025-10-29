@@ -1046,7 +1046,9 @@ Vous pourrez alors accéder aux archives mensuelles :&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.02.31.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez soit télécharger tous les dossiers, soit générer un export du mois souhaité en cliquant sur "demander la création".&#x20;
+Vous pouvez soit télécharger tous les dossiers, soit générer un export du mois souhaité en cliquant sur "demander la création". Vous pourrez télécharger l'archive directement depuis ce tableau. Selon la taille de l'archive, le temps de téléchargement varie de quelques minutes à plusieurs heures.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.09.08.png" alt=""><figcaption></figcaption></figure>
 
 ## 21. Supprimer une démarche
 
