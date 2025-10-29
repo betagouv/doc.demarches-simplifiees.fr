@@ -8,7 +8,7 @@ Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée pu
 
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :&#x20;
 

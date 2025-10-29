@@ -153,7 +153,7 @@ Un dossier à suivre a le statut « en construction ». Il est consultable et mo
 
 Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
 
@@ -406,7 +406,7 @@ Dans l’onglet « traité », cliquez sur le bouton « déplacer à archiver le
 
 Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " remplacer dans traité". Le dossier est alors automatiquement transféré dans l’onglet « traité ».
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Instruction en masse des dossiers
 
