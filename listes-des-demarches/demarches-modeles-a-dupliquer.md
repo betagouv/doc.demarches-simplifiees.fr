@@ -21,7 +21,7 @@ Une fois le dossier accepté, nous vous créerons le compte administrateur et vo
 
 Après vous être connecté, vous aurez accès à l’interface administrateur. Vous devrez vous rendre sur l’onglet: « toutes les démarches » situé en haut de votre écran :&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Etape 3: Découverte du moteur de recherche
 
