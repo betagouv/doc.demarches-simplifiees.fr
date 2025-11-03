@@ -105,30 +105,38 @@ Enfin, vous avez également la possibilité d’accéder directement aux différ
 
 ### B. Le suivi des dossiers&#x20;
 
-Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Par défaut la procédure s’ouvre sur les dossiers « à suivre ». Vous pouvez continuer d'instruire une démarche même si elle est close. Seul le dépôt de nouveau dossier ne sera plus possible sur cette démarche close.&#x20;
+Cliquer sur le nom d'une des procédures permet d'accéder au détail de celle-ci. Vous accédez par défaut au tableau de suivi des dossiers, et plus particulièrement à l’onglet des dossiers « à suivre ».&#x20;
 
-Les dossiers sont classés selon leur stade de traitement : à suivre, suivi par moi, traités, au total, expirants, à archiver et supprimés.
+{% hint style="warning" %}
+Vous pouvez continuer à instruire une démarche même si elle est close. Seul le dépôt d’un nouveau dossier ne sera plus possible pour les démarches closes.
+{% endhint %}
+
+Les dossiers sont classés selon leur stade de traitement : « à suivre », « suivis par moi », « traités », « au total », « expirants », « à archiver » et « supprimés ».
 
 <figure><img src="../.gitbook/assets/image (257).png" alt=""><figcaption><p>tableau de suivi des dossiers</p></figcaption></figure>
 
 Ces différents stades de traitement correspondent à :
 
 * **à suivre** : onglet contenant l'ensemble des dossiers qui ne sont suivis par aucun instructeur. Pour s'assigner le dossier, il suffit de cliquer sur "suivre le dossier".
-* **Suivi par moi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier.
+* **Suivis par moi** : onglet listant seulement les dossiers suivis par l'instructeur connecté. Lorsque vous suivez un dossier, le dossier n'apparaît plus dans les dossiers à suivre pour les autres instructeurs assignés à la démarche. Il faudra qu'ils aillent dans l'onglet "au total" pour retrouver ce dossier.
 * **Traités** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.&#x20;
 * **Au total :** contient l'ensemble des dossiers déposés sur cette démarche, quel que soit leur statut (« à suivre », « suivis par moi », « traités »). Si les dossiers sont routés dans des groupes instructeurs, vous ne trouverez dans cet onglet que les dossiers du (des) groupe(s) dont vous faites partie.
 * **Expirants :** contient les dossiers dont le délai de conservation va bientôt expirer (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).
 * **A archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans demarches-simplifiees.fr sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
 * **Corbeille :** cet onglet contient :\
   \- les dossiers dont le délai de conservation a expiré (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).\
-  \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.\
-  À partir de la date à laquelle les dossiers ont été mis dans la corbeille, vous disposez d’un délai de 7 jours pour les télécharger / restaurer / étendre leur durée de conservation d’un mois. Passé ce délai, ces dossiers seront supprimés définitivement.
+  \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.
+
+\
+À partir de la date à laquelle les dossiers ont été placés dans la corbeille, vous disposez d’un délai de 7 jours pour les télécharger, les restaurer ou prolonger leur durée de conservation d’un mois. Passé ce délai, ces dossiers seront supprimés définitivement.
+
+Pour connaître les règles d'expiration et de suppression des dossiers, vous pouvez consulter la documentation dédiée en cliquant [ici](https://doc.demarches-simplifiees.fr/expiration-et-suppression-des-dossiers) .&#x20;
 
 ### **C. Personnaliser le tableau de suivi des dossiers**&#x20;
 
-Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure. La personnalisation du tableau de bord vous permet de prendre connaissance des informations avant d'accéder au dossier.&#x20;
+Le tableau de suivi des dossiers est paramétrable afin de modifier ou d’ajouter des colonnes faisant figurer des champs relatifs à la procédure. La personnalisation du tableau de bord vous permet de prendre connaissance des informations avant d'accéder au dossier. C'est un véritable gain de temps !
 
-Pour cela, cliquez sur le bouton «  Personnaliser » situé en haut à droite,  puis cliquez sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquez sur le bouton « Enregistrer » comme suit :&#x20;
+Pour cela, cliquez sur le bouton «  **Personnaliser** **le tableau** » situé en haut à droite,  puis cliquez sur le champ de recherche et sélectionner le champ souhaité ; enfin cliquez sur le bouton « Enregistrer » comme suit :&#x20;
 
 
 
@@ -142,17 +150,17 @@ Un champ peut être retiré du tableau de suivi : cliquez de nouveau sur « Pers
 
 Si vous retirez toutes les colonnes depuis le bouton « Personnaliser », seuls les numéros des dossiers seront affichés en plus du statut de ceux-ci.&#x20;
 
-Vous pouvez sélectionner tout type de champ pour la personnalisation de votre tableau de bord notamment des annotations privées et le champ oui/non de l'avis expert. Cela peut vous être utile dans l'instruction de vos dossiers.&#x20;
+Vous pouvez sélectionner tout type de champ pour la personnalisation de votre tableau de bord, notamment des annotations privées, le champ oui/non de l'avis expert ou encore l'option "labels". Cela peut vous être utile dans l'instruction de vos dossiers.&#x20;
 
 ### D. Filtrer les dossiers
 
 Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que ceux qui vous intéressent.
 
-Pour cela, il faut cliquer sur le bouton « sélectionner un filtre », situé en haut à gauche,  sélectionner la colonne souhaitée, puis une valeur associée à ce champ et cliquer sur le bouton « Ajouter le filtre ». Vous aurez alors accès à l'ensemble des champs du formulaire pour filtrer les dossiers:&#x20;
+Pour cela, il faut cliquer sur le bouton « **sélectionner un filtre** », situé en haut à gauche,  sélectionner la colonne souhaitée, puis une valeur associée à ce champ et cliquer sur le bouton « **Ajouter le filtre** ». Vous aurez alors accès à l'ensemble des champs du formulaire et des annotations privées  pour filtrer les dossiers :&#x20;
 
 <figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption><p>Filtrer l'affichage du tableau de bord </p></figcaption></figure>
 
-&#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « Ajouter le filtre » comme suit :
+&#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « **Ajouter le filtre** » comme suit :
 
 <figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
 
@@ -160,9 +168,9 @@ Pour cela, il faut cliquer sur le bouton « sélectionner un filtre », situé e
 
 ### **E. Trier les dossiers**&#x20;
 
-Il possible de trier les dossiers par ordre alphabétique et/ou numérique en cliquant sur la colonne souhaitée, en plus des options de filtre et de personnalisation sus-mentionnés.
+Il est possible de **trier les dossiers par ordre alphabétique et/ou numérique en cliquant sur l’en-tête de la colonne souhaitée**, en complément des options de filtrage et de personnalisation mentionnées précédemment.
 
-Dans l'exemple suivant, vous pouvez afficher grâce au filtre "personnaliser le tableau" le "nom" du demandeur, son "prénom" et la date de dépôt du dossier. Si vous cliquez sur une des colonnes, vous ferez apparaître les dossiers par ordre (soit alphabétique si vous cliquez sur "nom", soit chronologique si vous cliquez sur "déposé le", etc)
+Dans l’exemple suivant, vous pouvez, grâce au filtre **« Personnaliser le tableau »**, afficher le **nom** du demandeur, son **prénom** ainsi que la **date de dépôt** du dossier. En cliquant sur l’une des colonnes, les dossiers s’affichent selon l’ordre correspondant : alphabétique si vous cliquez sur **« Nom »**, ou chronologique si vous cliquez sur **« Déposé le »**, par exemple.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-08 à 09.41.25.png" alt=""><figcaption><p>Affichage avec tri par défaut</p></figcaption></figure>
 
@@ -170,25 +178,27 @@ En cliquant sur la colonne "Nom", "Prénom" ou "Déposé le", l'affichage est mo
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-En cliquant de nouveau sur la même colonne, le tri est effectué en sens inverse.
+En cliquant de nouveau sur la même colonne, **le tri est effectué en sens inverse.**
 
 ### **F. Suivre un dossier**
 
-Les dossiers déposés sont regroupés par défaut sous le statut « suivis par moi ».
+Les dossiers déposés sont regroupés par défaut sous le statut « **suivis par moi** ».
 
-Un dossier à suivre a le statut « en construction ». Il est consultable et modifiable par l’usager.
+Un dossier à suivre a le statut « **en construction** », il est  alors **consultable et modifiable par l’usager**.
 
-Pour suivre un dossier, cliquez sur le bouton « Suivre ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
+Toutefois, les dossiers figurant dans la colonne **« à suivre »** peuvent également avoir le statut **« en instruction »**, lorsqu’il s’agit d’une démarche paramétrée avec un passage automatique à ce statut. Dans ce cas, le dossier n’est pas modifiable par l’usager.
+
+Pour suivre un dossier, cliquez sur le bouton « **Suivre** ». Le dossier est alors automatiquement transféré dans les dossiers avec le statut « suivi ».
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.&#x20;
+**Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers à suivre.**&#x20;
 
-En suivant un dossier, l'instructeur sera alors notifié _via_ une pastille rouge sur le dossier, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. Il est donc important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier.&#x20;
+En suivant un dossier, **l'instructeur sera alors notifié&#x20;**_**via**_**&#x20;une pastille rouge sur le dossier**, si ce dernier a été modifié par l'usager, si l'usager a écrit un nouveau message ou encore si un avis a été rendu. **L’instructeur pourra également être notifié par mail** lorsque l’usager lui aura envoyé un message via la messagerie du dossier. Il est donc **important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier**.&#x20;
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Plusieurs instructeurs peuvent suivre le même dossier. Pour cela, les instructeurs peuvent rechercher le dossier depuis l'onglet " au total" ou se transférer le dossier depuis l'onglet "personnes impliquées" du dossier.&#x20;
+**Plusieurs instructeurs peuvent suivre le même dossier.** Pour cela, les instructeurs peuvent **rechercher le dossier depuis l'onglet " au total"** ou **se transférer le dossier** depuis l'onglet "personnes impliquées" du dossier.&#x20;
 
 ## 3. Instruire un dossier
 
@@ -200,45 +210,63 @@ L’instructeur a accès à un ensemble de fonctionnalités :
 
 Cet onglet est un récapitulatif du dossier qui permet notamment d'identifier le demandeur et affiche les champs du formulaire tels que remplis par l’usager.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Onglet "demande" récapitulatif du dossier, en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-#### &#x20;- Annotations privées :
 
-Équivalent au cadre réservé à l’administration sur les formulaires papiers, il permet à l’instructeur de saisir les informations demandées par l’administration pour le suivi du traitement des dossiers.
+
+En tant qu’instructeur, vous pouvez accéder directement à une section du formulaire **grâce au sommaire situé à gauche de la demande**, afin de gagner du temps et de retrouver l’information souhaitée. Il vous suffit de cliquer sur le titre de section du sommaire.&#x20;
+
+Dans l'onglet demande, vous retrouvez également la date de modification des champs après le dépôt du dossier par l'usager.&#x20;
+
+#### - Pièces justificatives&#x20;
+
+Vous pouvez directement prendre connaissance de l’ensemble des pièces justificatives et les prévisualiser sans les télécharger depuis l’onglet **« Pièces justificatives »**. Il s’agit d’une galerie permettant de centraliser toutes les pièces jointes au dossier, y compris celles envoyées via la messagerie du dossier et celles transmises lors de la demande d’avis à un expert.
+
+<figure><img src="../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+
+Pour chaque pièce jointe, vous trouverez sa date d’ajout, sa provenance ainsi que la possibilité de la visualiser ou de la télécharger.
+
+#### - Annotations privées :
+
+Équivalent au cadre réservé à l’administration sur les formulaires papiers, **il permet à l’instructeur de renseigner les informations demandées par l’administration afin de faciliter le suivi du traitement des dossiers.**
 
 Ce cadre est strictement réservé aux instructeurs. Il n’est visible ni par les usagers ni par les personnes invitées à consulter le dossier.
 
 Les annotations sont automatiquement enregistrées.&#x20;
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
-**Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas**. C'est à l'administrateur de la démarche de paramétrer les annotations privées.&#x20;
+**Il est possible qu’il ne figure aucune annotation privée à remplir si la procédure n'en prévoit pas**. **C'est à l'administrateur de la démarche de paramétrer les annotations privées.**&#x20;
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Cas de figure "aucune annotation privée", en tant qu'instructeur </p></figcaption></figure>
 
 #### _- Avis externes :_&#x20;
 
-Cette fonctionnalité permet à l’instructeur d’inviter un tiers dit « expert » à rendre un avis sur le dossier.
+Cette fonctionnalité permet à l’instructeur d’**inviter un tiers, appelé « expert », à rendre un avis sur le dossier afin de l’aider dans son instruction**.&#x20;
 
-L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question.
+{% hint style="danger" %}
+**Il se peut que cette fonctionnalité ne soit pas activée pour votre démarche : seul l’administrateur de la démarche peut la configurer.**
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+L'instructeur à l'origine de l'invitation doit renseigner au moins une adresse e-mail. Chaque adresse correspond à un expert invité par e-mail à formuler un avis sur le dossier en question. L’expert invité accédera alors à l’intégralité du dossier et à ses pièces jointes. L’administrateur de la démarche peut également choisir de lui accorder l’accès à la messagerie du dossier. En revanche, **l’expert invité intervient uniquement pour émettre un avis sur le dossier et ne dispose pas des droits d’instruction**.
 
-Il est également possible de poser une question à un expert qui devra répondre par "oui" ou "non". Ce champ est pratique puisqu'une fois que l'expert a formulé un avis et répondu à cette question, vous pourrez faire apparaître ce champ dans le tableau de bord et donc instruire les dossiers plus rapidement.&#x20;
+<figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+
+Il est également possible de **poser une question à un expert qui devra répondre par "oui" ou "non".** Ce champ est pratique puisqu'une fois que l'expert a formulé un avis et répondu à cette question, **vous pourrez faire apparaître ce champ dans le tableau de bord et donc instruire les dossiers plus rapidement.**&#x20;
 
 Vous pouvez aussi joindre une pièce jointe à la demande d'avis à l'expert et faire le choix de partager l'avis avec les autres experts ou le rendre confidentiel.&#x20;
 
 ### L'ajout d'experts à une démarche&#x20;
 
-Seul l'administrateur de la démarche peut gérer les experts d'une démarche. Pour ce faire, il dispose de trois fonctionnalités. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la gestion des experts invités par l'administrateur d'une démarche en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). &#x20;
+**Seul l'administrateur de la démarche peut gérer les experts d'une démarche.** Pour ce faire, il dispose de trois fonctionnalités. **Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la gestion des experts invités par l'administrateur d'une démarche en cliquant** [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche)**.** &#x20;
 
 Ainsi, selon le choix de gestion des experts par l'administrateur de la démarche, plusieurs cas d'usage sont envisageables pour les instructeurs :&#x20;
 
 &#x20;    **1. La liberté de solliciter des experts invités**&#x20;
 
-* Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités de leur choix afin qu'après notification, ils émettent un avis sur un dossier. \
+* Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités de leur choix. Après notification, ces experts seront alors en mesure d’émettre un avis sur le dossier.\
 
-* Ainsi, les instructeurs de la démarche devront **entrer une à une les adresses email des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses email** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci- dessous :&#x20;
+* Ainsi, les instructeurs de la démarche **devront saisir, une par une, les adresses e-mail des experts invités** sollicités à émettre un avis. Ils devront ensuite **cliquer sur ces adresses afin que le choix des experts soit bien pris en compte dans la démarche**, comme l’illustre la capture d’écran ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -246,15 +274,16 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 * Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en définissant, désormais, à l'avance une liste d'experts invités. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). \
 
-* Dès lors, les instructeurs de la démarche **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de la liste.** &#x20;
+* Dès lors, les instructeurs de la démarche **ne pourront inviter et solliciter l’avis que des experts prédéfinis figurant dans la liste :**&#x20;
 
-<figure><img src="../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 * L'instructeur de la démarche devra alors **cliquer une à une sur les adresses e-mail des experts** sollicités à émettre un avis parmi la liste prédéfinie par l'administrateur.
 
 ### Message et option de visibilité de l'avis renseigné :&#x20;
 
-* Une fois l'adresse e-mail des experts de la liste ajoutée, la fonctionnalité « avis externe » permet également à l'instructeur de personnaliser le message adressé à l'expert. En ce sens, **l'instructeur a la possibilité de partager une pièce justificative à l'expert** afin de l'aider à rendre son avis . \
+* Une fois l’adresse e-mail des experts de la liste ajoutée, la fonctionnalité **« avis externe »** permet à l’instructeur de **personnaliser le message adressé à l’expert et de lui poser une question à laquelle il devra répondre par oui ou non.**\
+  Dans ce cadre, l’instructeur peut également **partager une pièce justificative** afin d’aider l’expert à rendre son avis.\
 
 * De plus, l**es avis externes ne sont pas visibles par l'usager**.\
 
@@ -262,23 +291,29 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
-* Une fois l'adresse e-mail, le message et l'option de visibilité de l'avis renseigné, **cliquer sur le bouton «** **Demander un avis** **»** situé en bas de l'écran afin d'envoyer une invitation par e-mail à l'expert.&#x20;
+* Une fois l’adresse e-mail, le message et l’option de visibilité de l’avis renseignés, cliquez sur le bouton **« Demander un avis »** situé en bas de l’écran pour envoyer l’invitation par e-mail à l’expert.
 
 {% hint style="info" %}
 INFORMATION : le nombre d'avis que l'instructeur peut demander est illimité.
 {% endhint %}
 
-L'instructeur a la possibilité de relancer l'expert ou de révoquer la demande d'avis.&#x20;
+L'instructeur a la possibilité de **relancer l'expert ou de révoquer la demande d'avis**.&#x20;
 
 <figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
 
+
+
+3. **La demande d'avis en masse**
+
+En tant qu'instructeur,  vous avez désormais la **possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois**. Cette fonctionnalité est disponible en sélectionnant les dossiers concernés depuis l’onglet « **suivis par moi** » en cliquant sur le bouton « **Autres actions multiples** ». Pour en savoir plus, vous pouvez consulter la documentation dédiée [en cliquant ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers).&#x20;
+
+<figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
+
 #### _- Messagerie :_&#x20;
 
-La messagerie permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée.
+La messagerie **permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction**. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée. La présentation du fil de messagerie prend  toute la hauteur de la page et est organisé dans un ordre antéchronologique (**le message le plus récent en haut du fil**) afin de retrouver plus facilement les derniers échanges.
 
-Pour envoyer un message à l’usager : taper le contenu du message puis cliquer sur le bouton «Envoyer».
-
-Pour envoyer une pièce jointe à l’usager : cliquer sur le bouton « Parcourir », sélectionner un fichier puis cliquer sur le bouton « Envoyer le message ».&#x20;
+Pour envoyer un message à l’usager : cliquez sur "nouveau message", vous avez la possibilité d'envoyer  une pièce jointe à l’usager en cliquant sur le bouton « Parcourir », sélectionner un fichier puis cliquer sur le bouton « Envoyer le message ».&#x20;
 
 Une pièce jointe ne peut pas être envoyée seule, il est nécessaire de taper un texte dans le corps du message.
 
@@ -288,7 +323,9 @@ La capacité maximale d’envoi de pièce jointe est de 20 Mo par pièce envoyé
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Messagerie du dossier en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+
+**ll est possible d’envoyer des messages à plusieurs usagers à la fois**. Cette fonctionnalité est disponible depuis les onglets « à suivre », « suivis par moi », « traités » et « au total ». Pour en savoir plus, vous pouvez cliquer [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers) **.**&#x20;
 
 #### _- Personnes impliquées :_
 
