@@ -736,9 +736,12 @@ Une pastille rouge est alors affichée sur l’écran de suivi des dossier au ni
 
 **b. Les badges de notifications**
 
-Des badges de notifications sont affichés automatiquement pour signaler des événements sur les dossiers :&#x20;
+Des badges de notifications sont affichés  pour signaler des événements sur les dossiers :&#x20;
 
 <figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption><p>Table des notifications</p></figcaption></figure>
+
+En tant qu’instructeur, vous pouvez personnaliser les **badges de notification** affichés sur les dossiers de votre démarche.\
+Cette configuration se fait depuis l’onglet **« Gestion de la démarche »**, puis **« Gestion des notifications»**, où vous pouvez choisir les événements à signaler pour faciliter le suivi des dossiers comme précisé dans [le tutoriel dédié](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#la-gestion-des-badges-de-notification-sur-les-dossiers).&#x20;
 
 Les notifications de type **“Avertissement”** sont communes à tous les instructeurs du dossier considéré, qu’ils suivent ou non celui-ci.
 
