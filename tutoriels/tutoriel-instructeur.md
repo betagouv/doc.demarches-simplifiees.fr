@@ -831,7 +831,7 @@ En cliquant sur le bouton **« Gestion de la démarche »**, l'instructeur a la 
 * **Historique des modifications du formulaire** : permet de prendre connaissance des changements apportés au formulaire, afin d’instruire au mieux les dossiers et, si besoin, de guider les usagers.
 * **Administrateurs de la démarche** : permet de contacter les personnes en charge de la démarche pour leur transmettre vos demandes ou les retours des usagers.
 * **Gestion des instructeurs**
-* **Gestion des notifications par e-mail**
+* **Gestion des notifications par e-mail et des badges de notification des dossiers;**
 * **Statistiques de la démarche**
 * **Historique des dossiers supprimés**
 
@@ -845,9 +845,7 @@ L’instructeur peut choisir d’être notifié par email de l’activité sur c
 
 Pour paramétrer ses préférences de notification, l’instructeur peut accéder au bouton **« Gestion des notifications par e-mail »** depuis le tableau de bord de la démarche.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
 Cinq types de notifications sont proposés, vous pouvez sélectionner "oui" ou "non" en fonction de votre besoin :&#x20;
 
@@ -876,6 +874,15 @@ Cette notification permet d'informer _a minima_ l'instructeur du dépôt de doss
 Un e-mail est envoyé à l'instructeur lorsqu'un expert a rendu un avis sur un dossier.
 
 **Une fois les notifications paramétrées, vous devez cliquer sur le bouton "enregistrer" en bas de page.**&#x20;
+
+### **La gestion des badges de notification sur les dossiers**
+
+En tant qu’instructeur, vous pouvez **paramétrer les événements à signaler** sur les dossiers de votre démarche.\
+Cette configuration permet de **faciliter le suivi et l’instruction** des dossiers en mettant en avant les informations les plus pertinentes.
+
+Voici le différents badges de notification configurables :&#x20;
+
+<figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 ### Statistiques de la démarche :&#x20;
 
