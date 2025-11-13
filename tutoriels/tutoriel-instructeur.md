@@ -248,7 +248,7 @@ Les annotations sont automatiquement enregistrées.&#x20;
 
 Cette fonctionnalité permet à l’instructeur **d’inviter un tiers, appelé « expert », à rendre un avis sur le dossier afin de l’aider dans son instruction**.&#x20;
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 **Il se peut que cette fonctionnalité ne soit pas activée pour votre démarche : seul l’administrateur de la démarche peut la configurer.**
 {% endhint %}
 
@@ -319,7 +319,9 @@ En tant qu'instructeur,  vous avez désormais la **possibilité de demander l'av
 
 La messagerie **permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction**. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée. La présentation du fil de messagerie prend  toute la hauteur de la page et est organisé dans un ordre antéchronologique (**le message le plus récent en haut du fil**) afin de retrouver plus facilement les derniers échanges.
 
-Pour envoyer un message à l’usager : cliquez sur "**nouveau message**", vous avez la possibilité d'envoyer  une pièce jointe à l’usager en cliquant sur le bouton « **Parcourir** », sélectionner un fichier puis cliquer sur le bouton « **Envoyer le message** ».&#x20;
+Pour envoyer un message à l’usager : cliquez sur "**nouveau message**", vous avez la possibilité d'envoyer  une pièce jointe à l’usager en cliquant sur le bouton « **Parcourir** », sélectionner un fichier puis cliquer sur le bouton « **Envoyer le message** ». &#x20;
+
+<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
 
 Une pièce jointe ne peut pas être envoyée seule, il est nécessaire de taper un texte dans le corps du message.
 
@@ -329,11 +331,18 @@ Une pièce jointe ne peut pas être envoyée seule, il est nécessaire de taper 
 ATTENTION : si vous commencez à saisir un message, ne quittez pas la page en cours car le brouillon du message ne sera pas sauvegardé.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+Par ailleurs, lorsque vous envoyez un message via la **messagerie du dossier**, un indicateur vous confirme désormais la **bonne réception du message** par le destinataire.\
+De son côté, **l’usager peut également savoir si son message a été lu**.
+
+<figure><img src="../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
+
+
 
 **L'envoi d'un message en masse :**&#x20;
 
-**Il est possible d’envoyer des messages à plusieurs usagers à la fois**. Cette fonctionnalité est disponible depuis les onglets « à suivre », « suivis par moi », « traités » et « au total ». Pour en savoir plus, vous pouvez cliquer [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers) **.**&#x20;
+**Il est possible d’envoyer un message à plusieurs usagers à la fois**. Cette fonctionnalité est disponible depuis les onglets « à suivre », « suivis par moi », « traités » et « au total ». Pour en savoir plus, vous pouvez cliquer [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers) **.**&#x20;
 
 #### _- Personnes impliquées :_
 
@@ -366,25 +375,27 @@ Depuis cet onglet, vous pouvez **proposer un créneau** à l’usager, le modifi
 
 ### B. Premières étapes : construction et instruction du dossier
 
+#### Cas d'une démarche avec une instruction classique :
+
 #### - _Dossier en construction_
 
 Une fois un dossier déposé par un usager, ce dossier est au stade « En construction ». Le statut du dossier est notifié en haut à gauche de votre écran :&#x20;
 
-<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sans titre (2).png" alt=""><figcaption></figcaption></figure>
 
-Un dossier « en construction » reste modifiable par l'usager. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à la messagerie ou depuis le bouton "demande une correction" afin que mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.&#x20;
+**Un dossier « en construction »** **reste modifiable par l'usager**. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à **la messagerie ou depuis le bouton "demande une correction"** afin que mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.&#x20;
 
 #### _- Passer le dossier en instruction :_
 
-Une fois le dossier complet, il convient de passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usage&#x72;_._ Pour cela, cliquez sur le bouton « En construction » en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».&#x20;
+Une fois le dossier complet, il convient de **passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usager**_._ Pour cela, cliquez sur le bouton « **En construction» en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».**&#x20;
 
 <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».&#x20;
 
-Un dossier en instruction n’est plus modifiable par l’usager. Si l'usager doit apporter des modifications sur un dossier en instruction, il faudra que l'instructeur repasse le dossier en construction.&#x20;
+**Un dossier en instruction n’est plus modifiable par l’usager.** Si l'usager doit apporter des modifications sur un dossier en instruction, il faudra que l'instructeur repasse le dossier en construction en demandant la correction via la messagerie du dossier ou depuis le bouton "demander une correction". &#x20;
 
-Un message automatique est envoyé à l’usager au moment du passage en instruction afin de l’avertir qu’il ne peut plus modifier son dossier.
+**Un message automatique est envoyé à l’usager au moment du passage en instruction** afin de l’avertir qu’il ne peut plus modifier son dossier. Vous retrouverez l**es mails automatiques depuis l'onglet "messagerie" du dossier.**&#x20;
 
 Toutefois, les échanges de messages et de documents entre l’instructeur et l’usager restent possibles à travers la messagerie.
 
@@ -402,23 +413,25 @@ _**- Demande de correction d'un dossier :**_&#x20;
 
 L'instructeur a la possibilité de demander à l'usager d'apporter des corrections à son dossier.&#x20;
 
-Pour cela, lorsque vous êtes dans l'onglet "demande" qui permet de consulter le dossier, il faut cliquer sur "Repasser en construction" puis renseigner l'encart "Demander une correction" en expliquant clairement à l'usager les modifications attendues sur le dossier.&#x20;
+Pour cela, lorsque vous êtes dans l'onglet "demande" qui permet de consulter le dossier, il faut cliquer sur "**Repasser en construction" puis renseigner l'encart "Demander une correction" en expliquant clairement à l'usager les modifications attendues sur le dossier.**&#x20;
 
 Demander une correction basculera automatiquement le dossier "en construction".&#x20;
 
 <figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Demande de correction à l'usager </p></figcaption></figure>
 
-Une fois que la demande de correction a été demandée sur le dossier, la mention "en attente" s'affiche sur le dossier.&#x20;
+Une fois que la demande de correction a été demandée sur le dossier, **la mention "en attente" s'affiche sur le dossier.**&#x20;
 
 <figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption><p>Dossier en attente de correction </p></figcaption></figure>
 
-Cette mention s'affiche également dans le tableau de bord ce qui permet de distinguer plus facilement les dossiers complets des dossiers en attente de modification :&#x20;
+Cette mention **s'affiche également dans le tableau de bord** ce qui permet de distinguer plus facilement les dossiers complets des dossiers en attente de modification :&#x20;
 
 <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>Dossier en attente de correction depuis le tableau de suivi des dossiers en tant qu'instructeur </p></figcaption></figure>
 
+Vous pouvez également utiliser une **action de masse** pour faire passer plusieurs dossiers à l’état **« En instruction »** en une seule opération. Cette fonctionnalité permet de gagner du temps lorsque vous traitez un grand nombre de dossiers.
+
 ### C. Prendre une décision sur le dossier
 
-Lors du traitement des dossiers, l'instructeur peut choisir d'instruire les dossiers un à un ou bien d'instruire les dossiers **en masse (voir point 4)**.&#x20;
+Lors du traitement des dossiers, l'instructeur peut choisir d'instruire les dossiers un à un ou bien [**d'instruire les dossiers en masse.** ](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers)
 
 L’instruction du dossier peut aboutir à trois décisions :&#x20;
 
@@ -426,29 +439,29 @@ L’instruction du dossier peut aboutir à trois décisions :&#x20;
 * Classer sans suite
 * Refuser
 
-Dans les trois cas, la décision peut être motivée par le biais d'un encart spécial : ce motif est optionnel en cas d'acceptation, mais est obligatoire dans les deux autres cas. Celui-ci peut par ailleurs apparaître ou non dans les e-mails reçus par l'usager ou sur l'attestation en fonction des paramètres retenus par l'administrateur de la procédure.&#x20;
+Dans les trois cas, **la décision peut être motivée** par le biais d'un encart spécial : ce motif est optionnel en cas d'acceptation, **mais est obligatoire dans les deux autres cas.** Celui-ci peut par ailleurs apparaître ou non dans les e-mails reçus par l'usager ou sur l'attestation en fonction des paramètres retenus par l'administrateur de la procédure.&#x20;
 
-Par ailleurs il est également possible de joindre un justificatif à la décision lequel sera reçu par l'usager sur la boite e-mail associée à son compte.&#x20;
+Par ailleurs, il est **également possible de joindre un justificatif à la décision** lequel sera reçu par l'usager sur la boite e-mail associée à son compte.&#x20;
 
 #### a. Accepter le dossier
 
-Cliquez sur le bouton « instruire le dossier » en haut à droite de l’écran puis cliquer sur le bouton « Accepter ». L’instructeur peut alors rédiger une motivation dans l'encart dédié qui sera consultable par l’usager dans son dossier après acceptation. Dans le cas d'une acceptation, cette motivation reste optionnelle.&#x20;
+Cliquez sur le bouton « **instruire le dossier** » en haut à droite de l’écran puis cliquer sur le bouton « **Accepter** ». L’instructeur peut alors rédiger une motivation dans l'encart dédié qui sera consultable par l’usager dans son dossier après acceptation. Dans le cas d'une acceptation, cette motivation reste optionnelle.&#x20;
 
-L'instructeur a également la possibilité de transmettre une pièce jointe au moment de l'acceptation du dossier et de prévisualiser l'attestation automatique d'acceptation, (uniquement si celle-ci a été paramétrée par l'administrateur de la démarche).&#x20;
+L'instructeur a également la **possibilité de transmettre une pièce jointe** au moment de l'acceptation du dossier et de **prévisualiser l'attestation automatique d'acceptation**, (**uniquement si celle-ci a été paramétrée par l'administrateur de la démarche).**&#x20;
 
 <figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
-Cliquez ensuite sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK » comme suit :
+Cliquez ensuite sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK** » comme suit :
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-Un message automatique est envoyé à l’usager afin de le notifier de l’acceptation de son dossier. La motivation est consultable par l'usager sur son dossier. Elle peut aussi être envoyée dans le corps du message automatique si le message a été paramétré ainsi par l'administrateur.
+**Un message automatique est envoyé à l’usager** afin de le notifier de l’acceptation de son dossier. La motivation est consultable par l'usager sur son dossier. Elle peut aussi être envoyée dans le corps du message automatique si le message a été paramétré ainsi par l'administrateur.
 
 Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
 #### b. Classer sans suite le dossier
 
-Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Classer sans suite ». L’instructeur doit alors remplir une motivation qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK» .
+Cliquez sur le bouton « **En instruction** » en haut à droite de l’écran puis cliquer sur le bouton « **Classer sans suite ». L’instructeur doit alors remplir une motivation** qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK**» .
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.18.24.png" alt=""><figcaption><p>Classement sans suite d'un dossier</p></figcaption></figure>
 
@@ -458,7 +471,7 @@ Un message de notification est envoyé à l’usager. Le dossier passe automatiq
 
 #### c. Refuser le dossier
 
-Cliquez sur le bouton « En instruction » en haut à droite de l’écran puis cliquer sur le bouton « Refuser ». L’instructeur doit alors rédiger une motivation qui sera consultable par l’usager dans son dossier après acceptation. Cliquez sur le bouton « Valider la décision ». Confirmez le choix de validation en cliquant sur le bouton « OK ».
+Cliquez sur le bouton « **En instruction** » en haut à droite de l’écran puis cliquer sur le bouton « **Refuser** ». L’instructeur doit alors **rédiger une motivation** qui sera consultable par l’usager dans son dossier après acceptation. Cliquez sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK** ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.47.35.png" alt=""><figcaption><p>Refuser un dossier en tant qu'instructeur</p></figcaption></figure>
 
@@ -472,23 +485,26 @@ Quelle que soit la décision du dossier, l'instructeur a la possibilité de join
 
 #### d. Repasser un dossier en instruction&#x20;
 
-Une fois la décision prise, si celle-ci a été prise par erreur ou si l'instructeur souhaite revenir sur sa décision, il est possible de repasser le dossier en instruction.
+Une fois la décision prise, **si celle-ci a été prise par erreur ou si l'instructeur souhaite revenir sur sa décision, il est possible de repasser le dossier en instruction**.
 
-Cliquez sur le bouton relatif au statut du dossier (Accepté, Classé sans suite ou Refusé) en haut à droite de l’écran puis cliquez sur le bouton « Repasser en instruction».
+Cliquez sur le bouton relatif au statut du dossier (Accepté, Classé sans suite ou Refusé) en haut à droite de l’écran puis cliquez sur le bouton « **Repasser en instruction**». &#x20;
 
-{% hint style="info" %}
+Un **mail automatique** sera alors envoyé à l’usager afin de l’informer du **réexamen de son dossier**.\
+Les **administrateurs de la démarche** ont la possibilité de **paramétrer le contenu de ce mail** selon leurs besoins.
+
+{% hint style="warning" %}
 **ATTENTION** : l'acceptation d'un dossier est une action créatrice de droits. Revenir sur cette décision dans un **délai supérieur à 4 mois** après l'avoir prise peut vous exposer à des risques de poursuites de la part de l'usager.&#x20;
 {% endhint %}
 
 #### e. Archiver un dossier
 
-Cette fonctionnalité permet à l’instructeur d’avoir une vision plus claire du suivi des dossiers. Le fait d'archiver un dossier désactive la messagerie de celui-ci. Vous ne recevrez également plus de notifications le concernant. Les dossiers restent toutefois consultables par l'instructeur.
+Cette fonctionnalité permet à l’instructeur d’avoir une vision plus claire du suivi des dossiers. **Le fait d'archiver un dossier désactive la messagerie de celui-ci. Vous ne recevrez également plus de notifications le concernant. Les dossiers restent toutefois consultables par l'instructeur**.
 
-Dans l’onglet « traité », cliquez sur le bouton « déplacer à archiver le dossier ». Le dossier est automatiquement transféré dans l’onglet « à archiver ».
+Dans l’onglet « **traités** », cliquez sur le bouton « **déplacer à archiver le dossier** ». Le dossier est automatiquement transféré dans l’onglet « à archiver ».
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " remplacer dans traité". Le dossier est alors automatiquement transféré dans l’onglet « traité ».
+**Il est possible de repasser le dossier dans l’onglet « traité »**.  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " replacer dans traités". Le dossier est alors automatiquement transféré dans l’onglet « traités ».
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -496,13 +512,13 @@ Il est possible de repasser le dossier dans l’onglet « traité ».  Il suffit
 
 **a. Suivre les dossiers "en masse" :**&#x20;
 
-Pour pouvoir instruire les dossiers en masse, vous devez d'abord suivre ces dossiers. Pour cela, vous devez cocher les cases correspondants aux dossiers que vous souhaitez instruire. Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit:&#x20;
+Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondants aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit**:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.18.02.png" alt=""><figcaption><p>Suivi en masse des dossiers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
 Une fois que vous aurez coché sur les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.23.04.png" alt=""><figcaption><p>Suivi des dossiers en masse</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
 Un message s'affichera pour confirmer l'action de masse réalisée. Cliquez sur "ok" pour valider l'action. Les dossiers seront automatiquement transférés vers l'onglet des dossiers "suivis".&#x20;
 
@@ -510,7 +526,7 @@ Un message s'affichera pour confirmer l'action de masse réalisée. Cliquez sur 
 
 Dans l'onglet des dossiers suivis, un message vous informe lorsque "L'action de masse est terminée" :
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.35.15.png" alt=""><figcaption><p>L'action de masse est terminée</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
 
 Vous pouvez dès lors procéder au passage en instruction en masse des dossiers.&#x20;
 
@@ -518,7 +534,7 @@ Vous pouvez dès lors procéder au passage en instruction en masse des dossiers.
 
 Sur le même principe que l'action de suivi des dossiers, il vous suffit de cocher les cases des dossiers que vous souhaitez passer en instruction puis cliquer sur le bouton "Passer en instruction". Un message de confirmation s'affichera pour valider l'action.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.46.43.png" alt=""><figcaption><p>Passage des dossiers en instruction</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
 **c. Demande l'avis d'un expert en masse :**&#x20;
 
@@ -530,9 +546,20 @@ Il est également la possibilité de demander l'avis d'expert pour plusieurs dos
 
 Vous devrez alors compléter la demande d'avis.&#x20;
 
-**d. Prise de la décision des dossiers en masse:**&#x20;
+**d. Envoyer un message en masse :**&#x20;
 
-Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), le processus est le même.&#x20;
+Vous pouvez envoyer un **message collectif** à plusieurs usagers en même temps.\
+Cette fonctionnalité s’applique aussi bien aux **dossiers suivis** qu’aux **dossiers non suivis** par un instructeur.
+
+Pour les dossiers suivis, il vous suffit de **sélectionner les dossiers concernés**, puis de cliquer sur **« Autres actions multiples »**, et enfin sur **« Envoyer un message aux usagers »**.
+
+<figure><img src="../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
+
+**e. Prise de la décision des dossiers en masse:**&#x20;
+
+Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), **le processus est le même.**&#x20;
 
 Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondants aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".&#x20;
 
@@ -544,27 +571,49 @@ A savoir que le motif de la décision pour les dossiers acceptés est optionnel,
 
 Un justification optionnel peut aussi être envoyé en masse à tous les dossiers sélectionnés.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 15.18.46.png" alt=""><figcaption><p>Motif de la décision des dossiers </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
 Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 17.59.47.png" alt=""><figcaption><p>Instruction en masse des dossiers</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 A noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.&#x20;
 {% endhint %}
 
 Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités": un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.06.13.png" alt=""><figcaption><p>Action de masse terminée dans l'onglet des dossiers suivis </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
-**e. Archivage des dossiers en masse**
 
-Sur le même principe expliqué précedemment, il est possible d'archiver les dossiers en masse depuis l'onglet des dossiers "traités". Il suffit de cocher la case en haut à gauche pour sélectionner tous les dossiers ou bien cocher chacun des dossiers à archiver. Seuls les dossiers qui ont été traités peuvent être archivés.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.17.03.png" alt=""><figcaption><p>Archivage des dossiers en masse</p></figcaption></figure>
+**f. Archivage des dossiers en masse**
 
-Une fois les dossiers archivés, vous les retrouverez dans l'onglet des dossiers "archivés". La messagerie sera automatiquement désactivée pour ces dossiers. Vous pouvez désarchiver les dossiers, pour cela, il suffit de cliquer sur "désarchiver le dossier".&#x20;
+Sur le même principe que celui expliqué précédemment, il est possible **d’archiver plusieurs dossiers en masse** depuis l’onglet **« Dossiers traités »**.\
+Il suffit de **cocher la case située en haut à gauche** pour sélectionner tous les dossiers, ou bien de **sélectionner individuellement** ceux que vous souhaitez archiver.
+
+{% hint style="warning" %}
+&#x20;Seuls les **dossiers déjà traités** peuvent être archivés.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+
+Une fois les dossiers archivés, vous pouvez les retrouver dans l’onglet **« Dossiers archivés »**.\
+La **messagerie** est alors automatiquement **désactivée** pour ces dossiers.
+
+Vous avez toutefois la possibilité de **désarchiver un dossier** à tout moment : pour cela, cliquez simplement sur **« Désarchiver le dossier »**.
+
+**g. Supprimer des dossiers en masse**&#x20;
+
+Une fois les dossiers **traités et/ou archivés**, vous avez la possibilité de les **supprimer en masse**.\
+Comme pour les autres actions de masse, il vous suffit de **sélectionner les dossiers concernés**, puis de cliquer sur le bouton **« Mettre les dossiers à la corbeille »**.
+
+<figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+
+Les dossiers seront alors **déplacés dans la colonne « Corbeille »**.\
+En cas d’erreur, vous avez la possibilité de **restaurer en masse les dossiers placés dans cet onglet**, à condition qu’ils **n’aient pas expiré**.
+
+<figure><img src="../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Récapitulatif de l'activité - extraire les dossiers
 
@@ -579,7 +628,7 @@ Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à dr
 * demander un export au format .ods : une feuille de calcul au format OpenDocument générée par OpenOffice.&#x20;
 * demander un export au format .zip : il contient un fichier en pdf du dossier ainsi que toutes les pièces jointes associées au dossier. Il contient également l'attestation si le dossier a été paramétré avec une attestation.&#x20;
 
-{% hint style="info" %}
+{% hint style="warning" %}
 **ATTENTION** : Veillez à désactiver les extensions de blocage de publicités qui peuvent empêcher le téléchargement du fichier d'export.&#x20;
 {% endhint %}
 
@@ -617,15 +666,23 @@ L'API vous permet également de télécharger les dossiers et les pièces jointe
 
 ### C. Personnaliser les exports
 
-Vous avez la possibilité en tant qu’instructeur de personnaliser vos exports:&#x20;
+En tant qu’instructeur, vous avez la possibilité de **personnaliser vos exports**.\
+Cette fonctionnalité vous permet de **générer une extraction des dossiers** contenant uniquement les **colonnes qui vous intéressent**.
 
-Cela vous permet de générer une extraction des dossiers avec seulement les colonnes qui vous intéressent. Pour ce faire, il faut cliquer sur “Modèles d’export” sur l’onglet “téléchargements” de votre interface d’instruction.&#x20;
+Pour cela, cliquez sur **« Modèles d’export »** depuis l’onglet **« Téléchargements »** de votre interface d’instruction.\
+Vous avez la possibilité de créer :
+
+* Le **modèle d’export au format ZIP** vous permet de **télécharger toutes les pièces jointes** des dossiers sélectionnés.\
+  Vous pouvez également **les renommer automatiquement**, ce qui facilite l’**harmonisation et l’organisation des documents**.
+* ou un **modèle d’export au format tabulaire**, pour extraire les **données sous forme de tableau**.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Onglet "Téléchargements"</p></figcaption></figure>
 
 A noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs .&#x20;
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaP1pADWfziAvrXnIXD8A8U3YXcZpiuQ9xT7MFiUdyQoZTjHjNy3uXvPm0F15xYArIt3bilG3sApS-wmEQNF8QaN58Iq2_eEelXDuxMhz9LJjNtwjjQEtwU2JZkJV2KPhHr-R9?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page "Modèles d'export"</p></figcaption></figure>
+
+Cas d'un modèle d'export tabulaire :&#x20;
 
 Il vous suffit de remplir les champs et de sélectionner les colonnes souhaitées.&#x20;
 
@@ -645,7 +702,18 @@ Il vous suffit de remplir les champs et de sélectionner les colonnes souhaitée
 <figure><img src="../.gitbook/assets/Modèle d&#x27;export 3.png" alt=""><figcaption></figcaption></figure>
 
 \
-Une fois l’ensemble des champs sélectionnés, l’export est créé et figure sur ma liste:&#x20;
+Cas d'un modèle d'export zip :&#x20;
+
+<figure><img src="../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+
+Pour le **modèle d’export au format ZIP**, vous pouvez **exporter le dossier au format PDF**. Vous ne pouvez donc pas sélectionner les champs spécifiques à inclure dans l’export à la différence du modèle d'export tabulaire. \
+En revanche, vous pouvez **sélectionner les fichiers joints au dossier** que vous souhaitez exporter et avez même la possibilité de **les renommer**.
+
+<figure><img src="../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Une fois l’ensemble des champs sélectionnés, **l’export est créé** et apparaît dans votre **liste des exports**.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXegE73ofuAamYFVD_nQP5FiTDaZaQ6qfOKDBet73otOXmFRapuLH7hPN3ENeRGWTMSgKNQ5Te0BSFsuwbBEOS9_rX-xH9zEMPAx9-Qp017MLUiczp2575AvsFnDnhD5RMOrTFza4g?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page des modèles d'export</p></figcaption></figure>
 
