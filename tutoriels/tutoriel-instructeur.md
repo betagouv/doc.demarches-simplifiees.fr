@@ -128,7 +128,7 @@ Ces différents stades de traitement correspondent à :
   \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.
 
 \
-À partir de la date à laquelle les dossiers ont été placés dans la corbeille, vous disposez d’un délai de 7 jours pour les télécharger, les restaurer ou prolonger leur durée de conservation d’un mois. Passé ce délai, ces dossiers seront supprimés définitivement.
+À partir de la date à laquelle les dossiers ont été placés dans la corbeille, vous disposez d’un délai de 14 jours pour les télécharger, les restaurer ou prolonger leur durée de conservation d’un mois. Passé ce délai, ces dossiers seront supprimés définitivement.
 
 Pour connaître les règles d'expiration et de suppression des dossiers, vous pouvez consulter la documentation dédiée en cliquant [ici](https://doc.demarches-simplifiees.fr/expiration-et-suppression-des-dossiers) .&#x20;
 
