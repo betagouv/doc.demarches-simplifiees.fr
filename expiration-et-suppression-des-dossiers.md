@@ -17,7 +17,7 @@ Temporairement, il existe deux exceptions afin de permettre aux usagers et aux a
 Les outils d'export sont disponibles sur votre interface et la suppression des dossiers est activée sur toutes les démarches.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/cycle vie dossier.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cycle vie dossier.png" alt="Cyle de vie d&#x27;un dossier"><figcaption></figcaption></figure>
 
 ### Suppression automatique des comptes usagers
 
