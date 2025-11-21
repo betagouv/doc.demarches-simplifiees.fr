@@ -154,7 +154,7 @@ Vous pouvez sélectionner tout type de champ pour la personnalisation de votre t
 
 ### D. Filtrer les dossiers
 
-Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que ceux qui vous intéressent.
+Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que ceux qui vous intéressent. Vous pouvez aussi cliquer sur "personnaliser" pour personnaliser et enregistrer vos filtres les plus fréquents.&#x20;
 
 Pour cela, il y a un bandeau avec des filtres que vous pouvez sélectionner.&#x20;
 
@@ -173,7 +173,7 @@ Les filtres sont les suivants:&#x20;
 
 
 
-Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « **Ajouter le filtre** » comme suit :
+
 
 <figure><img src="../.gitbook/assets/instructeur (4).png" alt=""><figcaption><p>Affichage du tableau de bord avec un filtre de date de création du dossier </p></figcaption></figure>
 
