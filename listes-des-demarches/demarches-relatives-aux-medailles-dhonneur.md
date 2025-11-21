@@ -37,8 +37,7 @@ Vous pouvez déposer une demande en cliquant sur ce lien : [https://www.demarche
 {% hint style="info" %}
 Pour le **département de la Côte d'Or (21)**, les demandes de médailles sont **à envoyer par courrier ou par mail** à l'adresse : [ddets-medaille-du-travail@cote-dor.gouv.fr](mailto:ddets-medaille-du-travail@cote-dor.gouv.fr) .&#x20;
 
-\
-
+<br>
 {% endhint %}
 
 {% hint style="info" %}

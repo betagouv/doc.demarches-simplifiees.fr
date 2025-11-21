@@ -224,14 +224,10 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 
 ### 94- Val-de-Marne&#x20;
 
-* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant ALGÉRIEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-algerien-creteil)\
-
-* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-creteil)\
-
-* [Demande de rendez-vous pour le RENOUVELLEMENT du TITRE DE SÉJOUR](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-renouvellement-creteil)\
-
-* [Demande de rendez-vous pour un changement de statut](https://www.demarches-simplifiees.fr/commencer/changementdestatut-creteil)\
-
+* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant ALGÉRIEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-algerien-creteil)<br>
+* [Demande de rendez-vous en vue du dépôt d’une PREMIÈRE DEMANDE de carte séjour pour un ressortissant NON ALGÉRIEN et NON EUROPÉEEN](https://www.demarches-simplifiees.fr/commencer/1eredemande-creteil)<br>
+* [Demande de rendez-vous pour le RENOUVELLEMENT du TITRE DE SÉJOUR](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-renouvellement-creteil)<br>
+* [Demande de rendez-vous pour un changement de statut](https://www.demarches-simplifiees.fr/commencer/changementdestatut-creteil)<br>
 * [Demande d'autorisation provisoire de séjour (APS) fin d'études et recherche d'emploi](https://www.demarches-simplifiees.fr/commencer/apsfinetudes)
 * [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention étudiant ou étudiant - programme de mobilité](https://www.demarches-simplifiees.fr/commencer/rece1235)
 * [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention chercheur ou chercheur - programme mobilité](https://www.demarches-simplifiees.fr/commencer/rece1236)
@@ -245,6 +241,5 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 * [Demande de renouvellement ou changement de statut - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-renouvellement-ou-changement-de-statut)\
   \
   \----------------
-* [Séjour des étrangers - saisine lors de blocages ANEF - Sous-préfecture de Nogent-sur-Marne](https://www.demarches-simplifiees.fr/commencer/sp-nogent-sur-marne-blocages-anef)\
-
+* [Séjour des étrangers - saisine lors de blocages ANEF - Sous-préfecture de Nogent-sur-Marne](https://www.demarches-simplifiees.fr/commencer/sp-nogent-sur-marne-blocages-anef)<br>
 

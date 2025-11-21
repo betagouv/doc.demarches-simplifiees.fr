@@ -25,7 +25,7 @@ Vos données à caractère personnel traitées par la DINUM sont :
 
 Le traitement est nécessaire à l’exécution d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement (article 6-e du RGPD).
 
-La mission d’intérêt public constitue la mise à disposition et le développement d’outils collaboratifs par la DINUM en vue de leur intégration dans les ministères [(article 6 du décret ](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#\_blank)[n°2019-1088 du 25 octobre 2019 relatif au système d’information et de communication de l’Etat et à la direction interministérielle du numérique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#\_blank)).
+La mission d’intérêt public constitue la mise à disposition et le développement d’outils collaboratifs par la DINUM en vue de leur intégration dans les ministères [(article 6 du décret ](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)[n°2019-1088 du 25 octobre 2019 relatif au système d’information et de communication de l’Etat et à la direction interministérielle du numérique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)).
 
 #### 2.2. Sécurisation de la plateforme
 
@@ -105,4 +105,4 @@ Cookies exemptés de consentement strictement nécessaires au fonctionnement du 
 À tout moment, vous pouvez refuser l’utilisation de ces cookies et désactiver le dépôt sur votre ordinateur en utilisant la fonction dédiée de votre navigateur.
 
 \
-\
+<br>

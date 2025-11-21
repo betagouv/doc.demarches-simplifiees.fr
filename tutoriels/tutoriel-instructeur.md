@@ -156,13 +156,24 @@ Vous pouvez sélectionner tout type de champ pour la personnalisation de votre t
 
 Il est possible de filtrer les dossiers à l'aide des champs présents dans la procédure pour n'afficher que ceux qui vous intéressent.
 
-Pour cela, il faut cliquer sur le bouton « **sélectionner un filtre** », situé en haut à gauche,  sélectionner la colonne souhaitée, puis une valeur associée à ce champ et cliquer sur le bouton « **Ajouter le filtre** ». Vous aurez alors accès à l'ensemble des champs du formulaire et des annotations privées  pour filtrer les dossiers :&#x20;
+Pour cela, il y a un bandeau avec des filtres que vous pouvez sélectionner.&#x20;
 
-<figure><img src="../.gitbook/assets/image (258).png" alt=""><figcaption><p>Filtrer l'affichage du tableau de bord </p></figcaption></figure>
+Les filtres sont les suivants:&#x20;
 
-&#x20;Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « **Ajouter le filtre** » comme suit :
+* L'état du dossier (En construction, en instruction, accepté, refusé, classé sans suite)&#x20;
+* Le numéro du dossier
+* La notification sur le dossier (S'il y a un message sur le dossier, si le dossier est déposé depuis longtemps etc)
+* La date de dépôt&#x20;
 
-<figure><img src="../.gitbook/assets/image (259).png" alt=""><figcaption><p>Exemple de filtre en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.07.13.png" alt=""><figcaption></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.12.30 (1).png" alt=""><figcaption></figcaption></figure>
+
+
+
+Sélectionnez la colonne voulue, puis saisissez une valeur et cliquez sur le bouton « **Ajouter le filtre** » comme suit :
 
 <figure><img src="../.gitbook/assets/instructeur (4).png" alt=""><figcaption><p>Affichage du tableau de bord avec un filtre de date de création du dossier </p></figcaption></figure>
 
@@ -270,16 +281,14 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 &#x20;    **1. La liberté de solliciter des experts invités**&#x20;
 
-* Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités de leur choix. Après notification, ces experts seront alors en mesure d’émettre un avis sur le dossier.\
-
+* Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités de leur choix. Après notification, ces experts seront alors en mesure d’émettre un avis sur le dossier.<br>
 * Ainsi, les instructeurs de la démarche **devront saisir, une par une, les adresses e-mail des experts invités** sollicités à émettre un avis. Ils devront ensuite **cliquer sur ces adresses afin que le choix des experts soit bien pris en compte dans la démarche**, comme l’illustre la capture d’écran ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
-* Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en **définissant, désormais, à l'avance une liste d'experts invités**. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). \
-
+* Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en **définissant, désormais, à l'avance une liste d'experts invités**. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche). <br>
 * Dès lors, les instructeurs de la démarche **ne pourront inviter et solliciter l’avis que des experts prédéfinis figurant dans la liste :**&#x20;
 
 <figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
@@ -289,10 +298,8 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 ### Message et option de visibilité de l'avis renseigné :&#x20;
 
 * Une fois l’adresse e-mail des experts de la liste ajoutée, la fonctionnalité **« avis externe »** permet à l’instructeur de **personnaliser le message adressé à l’expert et de lui poser une question à laquelle il devra répondre par oui ou non.**\
-  Dans ce cadre, l’instructeur peut également **partager une pièce justificative** afin d’aider l’expert à rendre son avis.\
-
-* De plus, l**es avis externes ne sont pas visibles par l'usager**.\
-
+  Dans ce cadre, l’instructeur peut également **partager une pièce justificative** afin d’aider l’expert à rendre son avis.<br>
+* De plus, l**es avis externes ne sont pas visibles par l'usager**.<br>
 * En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit:&#x20;
 
 <figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
@@ -692,8 +699,7 @@ Il vous suffit de remplir les champs et de sélectionner les colonnes souhaitée
 
 <figure><img src="../.gitbook/assets/Modèle d&#x27;export 1.png" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/Modèle d&#x27;export 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -717,8 +723,7 @@ Une fois l’ensemble des champs sélectionnés, **l’export est créé** et ap
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXegE73ofuAamYFVD_nQP5FiTDaZaQ6qfOKDBet73otOXmFRapuLH7hPN3ENeRGWTMSgKNQ5Te0BSFsuwbBEOS9_rX-xH9zEMPAx9-Qp017MLUiczp2575AvsFnDnhD5RMOrTFza4g?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page des modèles d'export</p></figcaption></figure>
 
-Pour télécharger l’export, revenez à votre écran de gestion, cliquez sur “télécharger les dossiers” et sélectionnez “à partir d’un modèle”\
-
+Pour télécharger l’export, revenez à votre écran de gestion, cliquez sur “télécharger les dossiers” et sélectionnez “à partir d’un modèle”<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXewbBeFTbPkyNuWC1DWFuDJf0Qxt6vP4vCH2A7j48yfY7UN4Tf28fl5qkmj8c95Ilp8utaAIcxiuax4Cj2AWWopCfgSfC06gcVc_0Pie4WSFSs1LFffsYwtV2BCY_MGyRhtkwhf?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Téléchargement à partir d'un modèle</p></figcaption></figure>
 

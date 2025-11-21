@@ -168,6 +168,5 @@ A la création du SGC, notre directrice Madame Dufour a donné les moyens au Bur
 
 En ma qualité d’adjointe du BISIC chargée de faire découvrir les outils et pratiques numériques locales, j’accompagne individuellement les agents par des actions d’accueil numérique des nouveaux arrivants, d’accompagnement à la mise en œuvre de projets de dématérialisation (DS, Osmose, LimeSurvey, etc …). Je participe également à la valorisation du travail des agents avec des articles dans l’intranet, des vidéos de présentation, des ateliers « Rencontres du numérique » où les missions du BISIC sont présentées aux agents de manière interactive. Je me déplace sur tous les sites, je vais vers les utilisateurs, une chose très appréciée.
 
-Grace à toutes ces actions, notre catalogue de service est maintenant connu en interne. Les agents sont de plus en plus autonomes avec les équipements et ressources numériques, satisfaits de l’offre proposée et force de proposition pour aller plus loin encore.\
-
+Grace à toutes ces actions, notre catalogue de service est maintenant connu en interne. Les agents sont de plus en plus autonomes avec les équipements et ressources numériques, satisfaits de l’offre proposée et force de proposition pour aller plus loin encore.<br>
 

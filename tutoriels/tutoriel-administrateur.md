@@ -829,8 +829,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 
 
-* Du coté experts : une fois la fonctionnalité activée, les experts recevront une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure : \
-
+* Du coté experts : une fois la fonctionnalité activée, les experts recevront une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure : <br>
 * 1\) L'expert est notifié que le dossier a été accepté.&#x20;
 
 ![](<../.gitbook/assets/image (4) (1) (1) (1) (1).png>)
