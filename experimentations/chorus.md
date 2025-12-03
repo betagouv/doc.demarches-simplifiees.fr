@@ -5,7 +5,7 @@ description: >-
   d'extractes Chorus et d'export DS.
 ---
 
-# Expérimentation Chorus
+# Chorus
 
 Vous êtes concerné par cette expérimentation si :&#x20;
 
@@ -38,4 +38,4 @@ Vous pouvez aussi ajouter une annotation privée de type EJ de sorte a ce que le
 
 ### Arrivera Bientôt&#x20;
 
-Pour les démarches avec cette fonctionnalité d'activer nous allons mettre en avant sur la page de leurs dossier que quand l'engagement juridique sera saisi par un instructeur, celui ci apparaitra dans l'interface et garantira l'engagement financier.
+Pour les démarches avec cette fonctionnalité activée, nous allons mettre en avant, sur la page de leur dossier, que lorsque l’engagement juridique sera saisi par un instructeur, celui-ci apparaîtra dans l’interface et garantira l’engagement financier.&#x20;
