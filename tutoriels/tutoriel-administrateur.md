@@ -876,7 +876,7 @@ Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissan
 
 
 
-En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit détiquette que les insctruetrus peuvent associer aux dossiers pour mieux les indeitifer ou les organiser.&#x20;
+En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit d'étiquette que les instructeurs peuvent associer aux dossiers pour mieux les identifier ou les organiser.&#x20;
 
 <figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
