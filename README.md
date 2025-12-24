@@ -14,17 +14,13 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 
 <figure><img src=".gitbook/assets/tempsnip mentor .png" alt=""><figcaption><p>Parcours "numérique et relation aux usagers"</p></figcaption></figure>
 
-### **Retrouvez ci-après les différents bilans des usages de** Démarches simplifiées ainsi que notre support de présentation :&#x20;
+### Consultez notre démonstration en ligne pour découvrir notre outil en cliquant [**ici** ](https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8cf3381d925efe286faf2c37242cf916d6cf7e6a-1764853161456)
 
-### Bilan 2023
-
-{% file src=".gitbook/assets/DS bilan 2023V3.pdf" %}
-Bilan 2023 de DS
-{% endfile %}
+Nous organisons, chaque premier jeudi du mois, des webinaires de présentation pour vous permettre de découvrir la plateforme, ses nouveautés et de poser toutes vos questions afin d’en optimiser l’utilisation.
 
 ### Support de présentation :&#x20;
 
-{% file src=".gitbook/assets/support Webinaire Démarches simplifiées octobre 2025.pdf" %}
+{% file src=".gitbook/assets/Présentation  Démarche numérique décembre 2025(2.pdf" %}
 
 ### Objectif
 
