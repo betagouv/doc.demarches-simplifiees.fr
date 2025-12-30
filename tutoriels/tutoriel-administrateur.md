@@ -1036,7 +1036,46 @@ Vous avez également la possibilité de télécharger le formulaire en format pd
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.59.45.png" alt=""><figcaption></figcaption></figure>
 
-## 20. Télécharger une archive globale des dossiers
+## 20. Réactiver une démarche close&#x20;
+
+Vous avez la possibilité de réactiver une démarche close à tout moment afin qu’elle soit de nouveau accessible au public. <br>
+
+Pour cela, cliquez sur le bouton **« Terminées »** afin de rechercher la démarche à réactiver, comme illustré ci-dessous.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+Cliquez ensuite sur le bouton " modifier " afin d'accéder au tableau de bord de la démarche :
+
+<figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_mfo2on.png" alt=""><figcaption></figcaption></figure>
+
+Avant de réactiver votre démarche, vérifiez si une date limite de fin de dépôt de dossier est paramétrée dans les options avancées de l’onglet “Présentation”. Si c’est le cas, vous devez modifier cette date afin de réactiver votre démarche. Un message d’alerte sera affiché pour vous en informer :
+
+<figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_1bxdd0r.png" alt=""><figcaption></figcaption></figure>
+
+\
+Une fois ces vérifications effectuées, assurez-vous que votre démarche est bien à jour, puis cliquez sur le bouton « Réactiver » :&#x20;
+
+<figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_1d5ep2.png" alt=""><figcaption></figcaption></figure>
+
+\
+Pour finaliser la réactivation, vous pouvez ensuite compléter et/ou modifier les éléments suivants :
+
+* définir le lien de la démarche à diffuser aux usagers ;
+* indiquer la page sur laquelle les usagers pourront accéder à la démarche ;
+* activer ou désactiver le référencement de votre démarche par les moteurs de recherche ;
+* préciser si votre démarche remplace une démarche précédemment close.
+
+<figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_1ae7kfx.png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez enfin cliquez sur le bouton "publier" pour réactiver la démarche.&#x20;
+
+<figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_t3oltj.png" alt=""><figcaption></figcaption></figure>
+
+<br>
+
+<br>
+
+## 21. Télécharger une archive globale des dossiers
 
 Vous avez la possibilité en tant qu'administrateur de la démarche de télécharger une archive globale de l'ensemble des dossiers terminés (faisant l'objet d'une décision finale) sous différents formats. Pour cela, il vous suffit de cliquer sur le bouton « Télécharger ».
 
@@ -1050,7 +1089,7 @@ Vous pouvez soit télécharger tous les dossiers, soit générer un export du mo
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.09.08.png" alt=""><figcaption></figcaption></figure>
 
-## 21. Supprimer une démarche
+## 22. Supprimer une démarche
 
 La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 

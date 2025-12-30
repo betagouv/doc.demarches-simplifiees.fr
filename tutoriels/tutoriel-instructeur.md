@@ -53,7 +53,7 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 En tant qu'instructeurs, vous êtes tenus informés de l’**actualité** et des **dernières fonctionnalités développées** par notre équipe grâce à l’onglet **« Nouveautés »**, situé en haut de votre interface. C’est également depuis cet onglet que vous pouvez retrouver les **invitations** et les **liens de replay** de nos **webinaires**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -95,7 +95,7 @@ Pour accéder directement, il est désormais possible de sélectionner la démar
 
 Vous avez également la possibilité de **rechercher directement un dossier** par son **numéro** ou un **mot-clé**, grâce à la **barre de recherche située en haut à droite** de votre interface.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -218,7 +218,7 @@ Toutefois, les dossiers figurant dans la colonne **« à suivre »** peuvent ég
 
 Pour suivre un dossier, cliquez sur le bouton « **Suivre** ». Le dossier est alors automatiquement transféré dans la colonne **" suivis par moi"** avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers "à suivre".**&#x20;
 
@@ -532,7 +532,7 @@ Dans l’onglet « **traités** », cliquez sur le bouton « **déplacer à arch
 
 **Il est possible de repasser le dossier dans l’onglet « traité »**.  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " replacer dans traités". Le dossier est alors automatiquement transféré dans l’onglet « traités ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Instruction en masse des dossiers
 
