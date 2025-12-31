@@ -233,9 +233,10 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 * [Demande de carte de séjour recherche d'emploi ou création d'entreprise pour les titulaires d'une carte de séjour portant la mention chercheur ou chercheur - programme mobilité](https://www.demarches-simplifiees.fr/commencer/rece1236)
 * [Demande de rendez-vous en vue du dépôt d'une première demande de titre de séjour ACCOMPAGNANT D'UN ÉTRANGER MINEUR MALADE](https://www.demarches-simplifiees.fr/commencer/demande-rendez-vous-premiere-demande-accompagnant-mineur-malade)<br>
 
-\--------------\
--[ Renouvellement des titres de séjour « Article 50 TUE/Article 18(1) Accord de retrait du Royaume-Uni de l’UE » (Brexit) - Arrondissement de Créteil ](https://demarche.numerique.gouv.fr/commencer/renouvellement-des-titres-de-sejour-article-50-tue-21)\
-\---------------
+\
+-[ Renouvellement des titres de séjour « Article 50 TUE/Article 18(1) Accord de retrait du Royaume-Uni de l’UE » (Brexit) - Arrondissement de Créteil ](https://demarche.numerique.gouv.fr/commencer/renouvellement-des-titres-de-sejour-article-50-tue-21)<br>
+
+
 
 * [Première demande de titre de séjour - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi)
 * [Demande d'autorisation provisoire de séjour (APS) fin d'études - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
