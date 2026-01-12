@@ -10,6 +10,10 @@ description: "Cette page présente l'objectif de demarches-simplifiees.fr\_: la 
 
 {% file src=".gitbook/assets/Guide des bonnes pratiques démarches-simplifiees.pdf" %}
 
+### Retrouvez le bilan d'utilisation de la plateforme de l'année 2025 !
+
+{% file src=".gitbook/assets/BilAN 2025 VOFF.pdf" %}
+
 ### **Découvrez notre e-capsule de formation disponible sur Mentor en cliquant** [**ici** ](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
 
 <figure><img src=".gitbook/assets/tempsnip mentor .png" alt=""><figcaption><p>Parcours "numérique et relation aux usagers"</p></figcaption></figure>
