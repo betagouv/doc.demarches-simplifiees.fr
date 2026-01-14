@@ -79,7 +79,7 @@ query getInstructeursForGroupeInstructeur($groupeInstructeurNumber: Int!) {
 #### Queries <a href="#mutations-queries" id="mutations-queries"></a>
 
 {% hint style="warning" %}
-Si une **attestation d’acceptation ou de refus** est configurée sur la démarche, elle n’est pas immédiatement générée au moment où vous acceptez ou modifiez le dossier.
+Si une **attestation d’acceptation ou de refus** est configurée sur la démarche, elle n’est pas immédiatement générée au moment où vous acceptez ou refusez le dossier.
 
 Vous pouvez obtenir une url vers cette attestation en retrouvant le dossier un peu plus tard (elle sera disponible la plupart du temps dans les secondes qui suivent.)
 {% endhint %}
