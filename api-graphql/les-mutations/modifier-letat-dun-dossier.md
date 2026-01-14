@@ -10,7 +10,7 @@ Certaines opérations sur dossier sont accessibles via l’API :
 * Ajouter des annotations privées sur un dossier
 * Créer ou modifier les « groupes instructeurs »
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Les identifiants utilisés dans les variables `input` des mutations sont les identifiants « techniques » que vous devez récupérer dans les réponses des requêtes précédentes. En particulier, l’identifiant du dossier est différent du « numéro de dossier »
 {% endhint %}
 
@@ -77,6 +77,12 @@ query getInstructeursForGroupeInstructeur($groupeInstructeurNumber: Int!) {
 ```
 
 #### Queries <a href="#mutations-queries" id="mutations-queries"></a>
+
+{% hint style="warning" %}
+Si une **attestation d’acceptation ou de refus** est configurée sur la démarche, elle n’est pas immédiatement générée au moment où vous acceptez ou modifiez le dossier.
+
+Vous pouvez obtenir une url vers cette attestation en retrouvant le dossier un peu plus tard (elle sera disponible la plupart du temps dans les secondes qui suivent.)
+{% endhint %}
 
 ```graphql
 mutation dossierArchiver($input: DossierArchiverInput!) {
