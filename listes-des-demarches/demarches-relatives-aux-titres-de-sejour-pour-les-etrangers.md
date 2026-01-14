@@ -241,7 +241,6 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 * [Première demande de titre de séjour - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi)
 * [Demande d'autorisation provisoire de séjour (APS) fin d'études - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
 * [Demande de titre de séjour recherche d'emploi et création d'entreprise (RECE) - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
-* [Demande de renouvellement ou changement de statut - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-renouvellement-ou-changement-de-statut)
 *   > > > Demande de rendez-vous pour un changement de statut étudiant/recherche d'emploi ou création d'entreprise/APS Post Master vers salarié/travailleur temporaire (Sous-préfecture de L’Haÿ-les-Roses)\
     > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-3](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-3)\
     > > > \
