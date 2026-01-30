@@ -247,11 +247,12 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
     > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "salarié" ou "travailleur temporaire" (Sous-préfecture de L’Haÿ-les-Roses)\
     > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-4](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-4)\
     > > > \
-    > > > Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens). (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3)\
+    > > > Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens). (Sous-préfecture de L’Haÿ-les-Roses) : [https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2)
+    > > >
     > > > \
-    > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens. (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2)\
+    > > > \
+    > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens. (Sous-préfecture de L’Haÿ-les-Roses) : [https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3)
+    > > >
     > > > \
     > > > Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "vie privée et familiale, liens personnels et familiaux" sur le fondement de l'article L 423-23 du CESEDA, ou d'un certificat de résidence algérien portant la mention "vie privée et familiale" au titre des liens personnels et familiaux (Sous-préfecture de L’Haÿ-les-Roses)\
     > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu)\
