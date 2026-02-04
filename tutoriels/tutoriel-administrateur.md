@@ -431,7 +431,8 @@ Vous pouvez désormais choisir la nature de la pièce à joindre entre:&#x20;
 * **Relevé d'identité bancaire (RIB)** : Le contenu du fichier joint par l’usager sera analysé automatiquement afin de récupérer et retranscrire à l’instructeur les informations suivantes : **Nom du titulaire, Adresse du titulaire** (si présente sur le fichier), **IBAN, Code BIC, Nom de la banque**.
 *   **Titre d'identité :** ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20 Mo
 
-    De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale).&#x20;
+    De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale). \
+    À noter : le titre d’identité ne sera ni disponible dans les zip de dossiers, ni téléchargeable par API.
 * **Non spécifié:** Tout autre document&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 16.05.04.png" alt=""><figcaption></figcaption></figure>
@@ -444,7 +445,7 @@ Vous avez la possibilité de joindre un modèle de pièce justificative que les 
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption><p>Champ "pièce justificative" avec modèle en tant qu'usager </p></figcaption></figure>
 
-
+&#x20;
 
 **7) Les champs relatifs aux choix**&#x20;
 
