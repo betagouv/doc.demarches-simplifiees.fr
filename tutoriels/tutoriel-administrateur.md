@@ -423,11 +423,16 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.&#
 
 #### 6) Les champs relatifs aux pièces jointes&#x20;
 
-#### a) Pièce justificative&#x20;
+#### a) Pièce à joindre
 
-Ce champ permet à l'usager d'ajouter à son dossier un document, quel que soit son format. La taille de chaque fichier doit être inférieure à 200 Mo. Il n'y a pas de limite globale de taille.&#x20;
+Ce champ permet à l'usager d'ajouter au dossier un document. La taille de chaque pièce justificative doit être inférieure à 200 Mo. \
+Vous pouvez désormais choisir la nature de la pièce à joindre entre:&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 16.53.34.png" alt=""><figcaption><p>Champ pièce justificative en tant qu'administrateur</p></figcaption></figure>
+* Relevé d'identité bancaire (RIB)
+* Titre d'identité&#x20;
+* Non spécifié&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 16.05.04.png" alt=""><figcaption></figcaption></figure>
 
 
 
