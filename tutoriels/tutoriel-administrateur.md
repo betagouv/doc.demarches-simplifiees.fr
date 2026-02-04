@@ -428,27 +428,23 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.&#
 Ce champ permet à l'usager d'ajouter au dossier un document. La taille de chaque pièce justificative doit être inférieure à 200 Mo. \
 Vous pouvez désormais choisir la nature de la pièce à joindre entre:&#x20;
 
-* Relevé d'identité bancaire (RIB)
-* Titre d'identité&#x20;
-* Non spécifié&#x20;
+* **Relevé d'identité bancaire (RIB)** : Le contenu du fichier joint par l’usager sera analysé automatiquement afin de récupérer et retranscrire à l’instructeur les informations suivantes : **Nom du titulaire, Adresse du titulaire** (si présente sur le fichier), **IBAN, Code BIC, Nom de la banque**.
+*   **Titre d'identité :** ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20 Mo
+
+    De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale).&#x20;
+* **Non spécifié:** Tout autre document&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 16.05.04.png" alt=""><figcaption></figcaption></figure>
 
+Il est également possible de limiter la pièce à joindre à certains formats de fichier (visible au survol) et de paramétrer la suppression automatique de la pièce une fois le dossier instruit.&#x20;
 
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 16.40.42.png" alt=""><figcaption></figcaption></figure>
 
-Vous avez également la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableurs.
+Vous avez la possibilité de joindre un modèle de pièce justificative que les usagers peuvent télécharger et remplir pour joindre à leur dossier. Cela est particulièrement utile dans les démarches impliquant par exemple l'utilisation de fichiers tableurs.
 
 <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption><p>Champ "pièce justificative" avec modèle en tant qu'usager </p></figcaption></figure>
 
 
-
-#### b) Titre d'identité&#x20;
-
-Ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20 Mo
-
-De plus, pour des raisons relatives au RGPD, le titre d'identité sera filigrané et automatiquement supprimé une fois le dossier terminé (faisant l'objet d'une décision finale).&#x20;
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.49.31.png" alt=""><figcaption></figcaption></figure>
 
 **7) Les champs relatifs aux choix**&#x20;
 
