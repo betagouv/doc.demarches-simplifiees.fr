@@ -97,19 +97,28 @@ Les premières informations demandées sont la civilité, le nom et le prénom d
 
 Le dépôt du dossier peut nécessiter l’ajout de pièces jointes afin de fournir des documents justificatifs.
 
-Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée.
+Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée. \
+Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf etc). Le format de pj peut être restreint.&#x20;
 
-Pour certaines démarches, il se peut que plusieurs pièces jointes soient demandées pour un seul champ.&#x20;
+Pour certaines démarches, plusieurs pièces jointes peuvent être demandées pour un seul champ.&#x20;
 
 <figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
 
-Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquez sur le lien en bleu, téléchargez le fichier, remplissez le document puis l’ajouter en pièce jointe dans le dossier demarches-simplifiees.fr.
+Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquez sur le lien en bleu, téléchargez le fichier, remplissez le document puis l'ajouter en pièce jointe dans le dossier.
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
 La capacité maximale d’ajout de pièce jointe est de 200 Mo au total par champ. Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.&#x20;
 
-Formats de pièces jointes acceptées : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png
+Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur): .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
+\
+En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité.
+
+Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.**
+
+Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
+
+À noter : le titre d’identité ne sera ni disponible dans les zip de dossiers, ni téléchargeable par API.
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
