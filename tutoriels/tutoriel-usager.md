@@ -362,7 +362,13 @@ Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton �
 
 <figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Si l'instructeur vous a invité à corriger le dossier,&#x20;
+&#x20;Si l'instructeur vous a invité à corriger le dossier, une mention s'affichera sur le dossier vous informant que le dossier "attend vos corrections". Vous pourrez ensuite consulter la messagerie du dossier pour prendre connaissance des corrections attendues par l'instructeur, puis vous pourrez modifier votre dossier.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 17.48.11.png" alt=""><figcaption></figcaption></figure>
+
+Une fois le dossier modifié, vous devrez cocher la case qui certifie que vous avez bien apporté les corrections attendues par l'instructeur de la démarche.&#x20;
+
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 17.48.52.png" alt=""><figcaption></figcaption></figure>
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
