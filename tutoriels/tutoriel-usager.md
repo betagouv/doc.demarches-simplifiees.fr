@@ -354,7 +354,7 @@ Afin d'accéder au détail d’un dossier, cliquez sur celui-ci. Vous retrouvere
 
 ### D. Modifier un dossier
 
-Un dossier peut être modifié s'il est en brouillon ou en construction. Pour cela cliquer sur le bouton « Modifier le dossier » en haut à droite :
+Un dossier peut être modifié à tout moment s'il est au statut "en brouillon" ou "en construction". Pour cela cliquer sur le bouton « Modifier le dossier » en haut à droite :
 
 <figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
@@ -362,9 +362,7 @@ Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton �
 
 <figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 
-Vous retrouverez l'historique des modifications depuis l'onglet "votre dossier" .&#x20;
-
-<figure><img src="../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+&#x20;Si l'instructeur vous a invité à corriger le dossier,&#x20;
 
 ### E. Utiliser la messagerie pour contacter le service instructeur
 
