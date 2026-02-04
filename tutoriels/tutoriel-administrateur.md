@@ -421,7 +421,7 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.&#
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.05.51.png" alt=""><figcaption></figcaption></figure>
 
-#### 6) Les champs relatifs aux pièces jointes&#x20;
+#### 6) Le champ "pièce à joindre" &#x20;
 
 #### a) Pièce à joindre
 
