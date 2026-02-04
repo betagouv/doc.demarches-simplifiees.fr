@@ -51,4 +51,4 @@ L'ensemble des Startups d’État sont présentées sur [**beta.gouv.fr**](https
 
 ### **Vous trouverez ci-dessous notre support de présentation :**&#x20;
 
-{% file src=".gitbook/assets/Présentation  Démarche numérique décembre 2025 2.pdf" %}
+{% file src=".gitbook/assets/Présentation  Démarche numérique JANVIER 2026.pdf" %}
