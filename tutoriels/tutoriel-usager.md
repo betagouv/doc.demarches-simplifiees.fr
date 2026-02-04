@@ -118,8 +118,6 @@ Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**
 
 Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
 
-À noter : le titre d’identité ne sera ni disponible dans les zip de dossiers, ni téléchargeable par API.
-
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
 Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier un dossier.&#x20;
