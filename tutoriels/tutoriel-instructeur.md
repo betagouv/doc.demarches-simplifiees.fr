@@ -53,11 +53,11 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 En tant qu'instructeurs, vous êtes tenus informés de l’**actualité** et des **dernières fonctionnalités développées** par notre équipe grâce à l’onglet **« Nouveautés »**, situé en haut de votre interface. C’est également depuis cet onglet que vous pouvez retrouver les **invitations** et les **liens de replay** de nos **webinaires**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -67,7 +67,7 @@ Vous pouvez **accéder à la liste des démarches** en cliquant sur le bouton **
 Cette interface vous permet d’avoir une **vue d’ensemble des procédures** pour lesquelles vous avez été **nommé.  Le nom de la démarche, son numéro, les compteurs de dossiers ainsi que le détail des notifications y figurent.** Cela vous permet de **prendre connaissance des dernières informations de suivi** avant d’accéder individuellement aux dossiers.\
 Il s’agit des **mêmes badges de notifications** qui peuvent également être affichés dans le tableau de suivi des dossiers.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Les démarches sont classées dans plusieurs onglets :&#x20;
 
@@ -77,7 +77,7 @@ L’onglet **« en test »** regroupe les démarches qui ne sont pas encore publ
 
 L’onglet **« terminée »** regroupe les démarches closes n'ayant plus de dossiers à traiter.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches . Pour cela, il suffit de cliquer sur le bouton "**personnaliser l'ordre**" :&#x20;
 
@@ -95,13 +95,13 @@ Pour accéder directement, il est désormais possible de sélectionner la démar
 
 Vous avez également la possibilité de **rechercher directement un dossier** par son **numéro** ou un **mot-clé**, grâce à la **barre de recherche située en haut à droite** de votre interface.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Enfin, vous avez également la possibilité d’accéder directement aux différents onglets et fonctionnalités de la démarche, telles que **«Suivi des dossiers »**, **« Gestion de la démarche »**, **« Accompagnement des usagers »** et **« Téléchargements »**, grâce au **bouton « Menu »** situé à gauche de l’intitulé de la démarche, comme ci-dessous :
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### B. Le suivi des dossiers&#x20;
 
@@ -204,7 +204,7 @@ Dans l’exemple suivant, vous pouvez, grâce au filtre **« Personnaliser le ta
 
 En cliquant sur la colonne "Nom", "Prénom" ou "Date de dépôt ", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "**date de dépôt" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant de nouveau sur la même colonne, **le tri est effectué en sens inverse.**
 
@@ -218,7 +218,7 @@ Toutefois, les dossiers figurant dans la colonne **« à suivre »** peuvent ég
 
 Pour suivre un dossier, cliquez sur le bouton « **Suivre** ». Le dossier est alors automatiquement transféré dans la colonne **" suivis par moi"** avec le statut « suivi ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Suivre un dossier signifie s’attribuer le traitement de celui-ci et permet de le sortir de la liste de tous les dossiers "à suivre".**&#x20;
 
@@ -226,7 +226,7 @@ En suivant un dossier, **l'instructeur sera alors notifié&#x20;**_**via**_**&#x
 
 **L’instructeur pourra également être notifié par mail** lorsque l’usager lui aura envoyé un message via la messagerie du dossier. Il est donc **important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Plusieurs instructeurs peuvent suivre le même dossier.** Pour cela, les instructeurs peuvent **rechercher le dossier depuis l'onglet " au total"** en utilisant **le filtre "instructeur"** ou **se transférer le dossier** depuis l'onglet "**personnes impliquées"** du dossier.&#x20;
 
@@ -272,7 +272,7 @@ Les annotations sont automatiquement enregistrées.&#x20;
 &#x20;**C'est à l'administrateur de la démarche de paramétrer les annotations privées.**&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p><strong>Cas de figure "aucune annotation privée", en tant qu'instructeur</strong> </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p><strong>Cas de figure "aucune annotation privée", en tant qu'instructeur</strong> </p></figcaption></figure>
 
 #### _- Avis externes :_&#x20;
 
@@ -303,7 +303,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 * Premier cas d'usage : lorsque l'administrateur de la démarche a accordé le droit aux instructeurs de solliciter l'avis d'experts invités, ce dernier peut également faire le choix de laisser aux instructeurs la liberté de solliciter des experts invités de leur choix. Après notification, ces experts seront alors en mesure d’émettre un avis sur le dossier.<br>
 * Ainsi, les instructeurs de la démarche **devront saisir, une par une, les adresses e-mail des experts invités** sollicités à émettre un avis. Ils devront ensuite **cliquer sur ces adresses afin que le choix des experts soit bien pris en compte dans la démarche**, comme l’illustre la capture d’écran ci-dessous :
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;       **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**&#x20;
 
@@ -321,7 +321,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 * De plus, l**es avis externes ne sont pas visibles par l'usager**.<br>
 * En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit:&#x20;
 
-<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Une fois l’adresse e-mail, le message et l’option de visibilité de l’avis renseignés, cliquez sur le bouton **« Demander un avis »** situé en bas de l’écran pour envoyer l’invitation par e-mail à l’expert.
 
@@ -331,7 +331,7 @@ INFORMATION : le nombre d'avis que l'instructeur peut demander est illimité.
 
 L'instructeur a la possibilité de **relancer l'expert ou de révoquer la demande d'avis**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption><p>Relancer l'expert ou révoquer la demande d'avis </p></figcaption></figure>
 
 
 
@@ -381,7 +381,7 @@ Cet onglet contient également:&#x20;
 * **Les personnes invitées par l'usager à co-construire ou modifier le dossier**
 * **Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur </p></figcaption></figure>
 
 * Dans le cadre d'une démarche avec du routage, **l'onglet "Réaffectations"** vous permet de suivre si le dossier a été réaffecté et de le transférer à un autre groupe instructeur. Cela peut être pratique lorsque l'usager dépose son dossier sur le mauvais groupe instructeur pour le re-router vers le bon groupe.&#x20;
 
@@ -415,7 +415,7 @@ Une fois un dossier déposé par un usager, ce dossier est au stade « En constr
 
 Une fois le dossier complet, il convient de **passer ce dossier au statut « En instruction » afin d'empêcher toute nouvelle modification par l'usager**_._ Pour cela, cliquez sur le bouton « **En construction» en haut à droite de l’écran puis cliquez sur le bouton « Passer en instruction ».**&#x20;
 
-<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».&#x20;
 
@@ -433,7 +433,7 @@ Il est possible pour l’instructeur de repasser le dossier en construction (apr
 
 Cliquez sur le bouton « Repasser en construction » en haut à droite de l’écran. L’instructeur est alors invité à confirmer son choix de repassage en construction en cliquant sur le bouton bleu « Valider et repasser en construction ».
 
-<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _**- Demande de correction d'un dossier :**_&#x20;
 
@@ -443,7 +443,7 @@ Pour cela, lorsque vous êtes dans l'onglet "demande" qui permet de consulter le
 
 Demander une correction basculera automatiquement le dossier "en construction".&#x20;
 
-<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Demande de correction à l'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption><p>Demande de correction à l'usager </p></figcaption></figure>
 
 Une fois que la demande de correction a été demandée sur le dossier, **la mention "en attente" s'affiche sur le dossier.**&#x20;
 
@@ -528,11 +528,11 @@ Cette fonctionnalité permet à l’instructeur d’avoir une vision plus claire
 
 Dans l’onglet « **traités** », cliquez sur le bouton « **déplacer à archiver le dossier** ». Le dossier est automatiquement transféré dans l’onglet « à archiver ».
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Il est possible de repasser le dossier dans l’onglet « traité »**.  Il suffit de cliquer sur l'onglet « archivé » puis sur le bouton " replacer dans traités". Le dossier est alors automatiquement transféré dans l’onglet « traités ».
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## 4. Instruction en masse des dossiers
 
@@ -566,9 +566,9 @@ Sur le même principe que l'action de suivi des dossiers, il vous suffit de coch
 
 Il est également la possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous devrez alors compléter la demande d'avis.&#x20;
 
@@ -662,7 +662,7 @@ Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extr
 
 
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:&#x20;
 
@@ -672,11 +672,11 @@ Lorsque le libellé du bouton change (il passe de "Demander un export" à "Tél�
 
 Un message s'affiche afin d'informer que le fichier est en cours de préparation.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.&#x20;
 
-<figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.&#x20;
 
@@ -862,7 +862,7 @@ En cliquant sur le bouton **« Gestion de la démarche »**, l'instructeur a la 
 * **Statistiques de la démarche**
 * **Historique des dossiers supprimés**
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### La gestion des notifications par email :&#x20;
 
@@ -915,7 +915,7 @@ Voici le différents badges de notification configurables :&#x20;
 
 Sur chaque procédure, l'instructeur a accès à des statistiques . Pour cela, il suffit à l'instructeur de cliquer sur le bouton "gestion de la démarche" puis "statistiques de la démarche"&#x20;
 
-<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -934,7 +934,7 @@ Ces données ne peuvent être exportées. En revanche, elles sont publiques et p
 
 Afin d’accompagner au mieux vos usagers en cas de demande, nous mettons à votre disposition plusieurs fonctionnalités.
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant sur le bouton "accompagnement des usagers" , vous pouvez :&#x20;
 
@@ -942,7 +942,7 @@ En cliquant sur le bouton "accompagnement des usagers" , vous pouvez :&#x20;
 
 Cette fonctionnalité vous permet d’envoyer un message à l’ensemble des usagers ayant un dossier en "brouillon", afin, par exemple, de les avertir de la date limite de dépôt ou de leur proposer un accompagnement pour finaliser leur dossier.
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -953,7 +953,7 @@ Il est désormais possible de faciliter les échanges avec les usagers en leur p
 Pour tester cette fonctionnalité, n’hésitez pas à nous contacter à l’adresse suivante : **contact@demarches-simplifiees.fr**.\
 Nous pourrons ainsi vous présenter la solution et vous accompagner dans la configuration de vos agendas en ligne !&#x20;
 
-<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Prévisualisation et lien usager vers le formulaire&#x20;
 
@@ -961,4 +961,4 @@ Afin de mieux comprendre les informations demandées aux usagers, vous avez la p
 
 Vous pouvez également transmettre le lien URL vers la démarche en ligne en cliquant sur le bouton **«Copier le lien usager de la démarche »**.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>

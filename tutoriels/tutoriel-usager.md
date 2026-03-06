@@ -394,7 +394,7 @@ En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :&#x20;
 
 * **Transférer votre dossier** à un tiers en renseignant son adresse email : l'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorsque la demande de transfert est acceptée, le dossier est définitivement supprimé du compte initial de l’usager ayant transféré le dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -404,7 +404,7 @@ En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :&#x20;
 
 * **Mettre à la corbeille** : cette action permet à l’usager de supprimer son dossier. Toute suppression entraîne l’annulation de la demande. Cette action **n’est pas disponible pour les dossiers "en instruction"**. Une fois supprimé, le dossier apparaîtra dans l’onglet **"Corbeille"** de votre interface
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -416,8 +416,8 @@ En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :&#x20;
 Les échanges effectués via la messagerie du dossier figurent également dans ce document.\
 L’usager peut également, depuis le même espace, **télécharger l’attestation délivrée en cas d’acceptation du dossier**, si l’administration a prévu l’envoi de ce document.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous avez également **la possibilité de traduire la plateforme en anglais** en cliquant sur le bouton dédié situé en haut à droite de votre interface usager, comme ci-dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
