@@ -1,30 +1,34 @@
 ---
-description: "Ce tutoriel présente les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarches simplifiées\_»."
+description: "Ce tutoriel présente les différentes fonctionnalités proposées aux usagers pour effectuer une démarche avec «\_Démarche numérique\""
 ---
 
 # Tutoriel usager
 
 Ce tutoriel détaille les étapes de dépôt d'un dossier sur demarches-simplifiees.fr par un usager.
 
+Au regard des nouvelles fonctionnalités, il est conseillé de prioriser la lecture de ce tutoriel à la vidéo de présentation ci-dessous.
+
 ## Présentation en vidéo
 
 {% embed url="https://vimeo.com/386048198" %}
 
-## 1. Accéder à la procédure pour le dépôt d’un dossier sur demarches-simplifiees.fr
+### Pour rappel : La plateforme demarches-simplifiees.fr a changé de nom et s’appelle désormais demarche.numerique.gouv.fr.
+
+## 1. Accéder à la procédure pour le dépôt d’un dossier sur démarche numérique&#x20;
 
 ### **A. Accéder au lien vers la procédure**&#x20;
 
 La page d'accueil de demarches-simplifiees.fr permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.11.06.png" alt=""><figcaption><p>Page de connexion </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
 Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.&#x20;
 
-Ce lien renvoie vers une page de connexion demarches-simplifiees.fr similaire à l'exemple ci-dessous :&#x20;
+Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'exemple ci-dessous :&#x20;
+
+<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
 
-
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.20.36.png" alt=""><figcaption><p>Exemple de page d'accueil Démarches-simplifiées</p></figcaption></figure>
 
 ### **B. Se connecter à demarches-simplifiees.fr**&#x20;
 
@@ -67,7 +71,7 @@ Une fois les informations relatives à l'établissement vérifiées, cliquez sur
 
 **Vous déposez un dossier pour vous-même:**&#x20;
 
-Vous devez sélectionner l'option "pour vous" puis renseigner votre civilité, nom et prénom.&#x20;
+Vous devez sélectionner l'option "pour vous" puis renseigner la civilité ( pour certaine démarche) et votre nom et prénom.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.32.24.png" alt=""><figcaption></figcaption></figure>
 
@@ -81,7 +85,7 @@ Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.43.08.png" alt=""><figcaption><p>Notifier le bénéficiaire</p></figcaption></figure>
 
-Les premières informations demandées sont la civilité, le nom et le prénom de l'usager. Une fois que vous avez cliqué sur « Continuer », vous êtes automatiquement redirigé vers le formulaire.
+Après avoir complété ces informations, vous devez cliquer sur « Continuer » afin d’être automatiquement redirigé vers le formulaire.
 
 ### **B. Remplir le formulaire**
 
@@ -108,15 +112,11 @@ Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au f
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce jointe est de 200 Mo au total par champ. Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.&#x20;
+La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.&#x20;
 
 Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur): .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
 \
-En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité.
-
-Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.**
-
-Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
+En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.** Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
@@ -130,17 +130,17 @@ Vous pouvez inviter plusieurs personnes à co-construire votre dossier.&#x20;
 
 <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-La personne invitée reçoit alors un e-mail l’invitant à se connecter sur demarches-simplifiees.fr afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
+La personne invitée reçoit alors un e-mail l’invitant à se connecter sur démarche numérique afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
 
 **Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine de la création du dossier dispose des droits pour déposer celui-ci.**
 
 Vous avez également la possibilité de modifier votre identité en cas d’erreur, avant le dépôt du dossier, en cliquant sur le bouton « Votre identité » situé en haut à droite de l’écran.
 
-<figure><img src="../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 ### **C. Enregistrement automatique du brouillon**&#x20;
 
-Lorsque vous remplissez un formulaire sur demarches-simplifiees.fr, les informations que vous remplissez sont **enregistrées automatiquement**.
+Lorsque vous remplissez un formulaire sur la plateforme, les informations que vous remplissez sont **enregistrées automatiquement**.
 
 <figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
@@ -158,7 +158,7 @@ Si besoin, l'usager a la possibilité de télécharger le dossier vide en PDF (e
 
 **Le cas du dossier inéligible**&#x20;
 
-Dans certains cas, l'administration peut paramétrer un critère d'inéligibilité. Si un usager renseigne un dossier avec des champs qui correspondent aux critères d'inéligibilité, celui ci ne pourra déposer le dossier. Un message explicatif s'affiche alors :&#x20;
+Dans certains cas, l’administration peut paramétrer un critère d’inéligibilité. Si un usager renseigne un dossier avec des champs correspondant à ces critères d’inéligibilité, il ne pourra pas déposer son dossier. Un message explicatif s’affiche alors :
 
 <figure><img src="../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
@@ -166,10 +166,9 @@ Dans certains cas, l'administration peut paramétrer un critère d'inéligibilit
 
 **Accompagnement et informations de contact :**&#x20;
 
-En tant qu’usager, vous pouvez contacter le service en charge de la démarche pour toute question préalable au dépôt de votre dossier, en utilisant les informations de contact situées en bas du formulaire.
+En tant qu’usager, vous pouvez contacter le service en charge de la démarche pour toute question concernant le dépôt de votre dossier, en utilisant les informations de contact situées en bas du formulaire. Une messagerie intégrée au dossier est également disponible après le dépôt de celui-ci.
 
-Vous avez également la possibilité d’être accompagné dans votre démarche en contactant une Maison France Services ou en vous rendant dans un lieu d’inclusion numérique.\
-Les coordonnées de ces structures sont également disponibles en bas du formulaire.
+Vous avez également la possibilité d’être accompagné dans votre démarche en contactant une Maison France Services ou en vous rendant dans un lieu d’inclusion numérique. Les coordonnées de ces structures sont également disponibles en bas du formulaire.
 
 <figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
@@ -187,15 +186,15 @@ Pour y accéder, cliquez sur le lien **« Voir les statistiques de la démarche 
 
 ### **D. Déposer le dossier**
 
-Une fois le dossier complété, cliquez sur le bouton « Déposer le dossier » afin de le transmettre au service instructeur.
+Une fois le dossier complété, cliquez sur le bouton « **Déposer le dossier** » afin de le transmettre au service instructeur.
 
 <figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.16.03.png" alt=""><figcaption><p>Message confirmant le dépôt du dossier en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
-Le dossier passe alors du statut « brouillon » au statut « en construction ».&#x20;
+Le dossier passe alors du statut « brouillon » au statut « déposé » ( qui remplace le statut "en construction").&#x20;
 
-Le statut « en construction » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.&#x20;
+Le statut « déposé » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.&#x20;
 
 L'usager a également la possibilité de **télécharger son dossier en PDF** au moment du dépôt du dossier.&#x20;
 
@@ -205,7 +204,7 @@ Une fois le dossier déposé, une attestation de dépôt de dossier est automati
 
 Cette attestation comporte des informations telles que le nom, prénom de l'usager, la date de dépôt du dossier ainsi que son numéro, les coordonnées du service traitant, etc.&#x20;
 
-<figure><img src="../.gitbook/assets/image (277).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
 {% file src="../.gitbook/assets/attestation-depot_dossier-24239466.pdf" %}
 Exemple d'attestation de dépôt
@@ -240,7 +239,7 @@ Cet onglet reprend toutes les démarches en cours effectuées par l'usager (brou
 
 Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 10.20.52 (1).png" alt=""><figcaption><p>Vue des dossiers en cours</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
 #### Traités
 
@@ -320,9 +319,13 @@ En effet, afin de respecter les principes du RGPD et nos conditions générales 
 
 Une fois la démarche débutée par l'usager et le dossier enregistré, celui-ci est au statut de brouillon tant que l'usager ne l'a pas déposé. **Les brouillons sont automatiquement enregistrés et conservés pendant 3 mois après la dernière modification du dossier**. Au-delà de ce délai, tout dossier en brouillon non déposé est supprimé.
 
-#### En construction
+#### Déposé
 
-Une fois le dossier déposé par l'usager, son statut est « en construction ». L'usager peut encore le modifier tant qu'il n'est pas passé en "instruction". La durée d'expiration des dossiers déposés est fixée par le service en charge de la démarche et est affichée dans votre interface usager, sous le numéro de dossier
+{% hint style="info" %}
+#### **Le statut « en construction » a été renommé en « déposé »**.
+{% endhint %}
+
+Une fois le dossier déposé par l'usager, son statut est « déposé ». L'usager peut encore le modifier tant qu'il n'est pas passé en "instruction". La durée d'expiration des dossiers déposés est fixée par le service en charge de la démarche et est affichée dans votre interface usager, sous le numéro de dossier
 
 #### En instruction
 
@@ -350,21 +353,21 @@ Afin d'accéder au détail d’un dossier, cliquez sur celui-ci. Vous retrouvere
 * **L’onglet “Votre dossier”**, qui vous permet de consulter l’intégralité du dossier soumis.
 * **La messagerie administration**, pour échanger avec l’instructeur en charge de votre dossier.
 
-<figure><img src="../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
 
 ### D. Modifier un dossier
 
 Un dossier peut être modifié à tout moment s'il est au statut "en brouillon" ou "en construction". Pour cela cliquer sur le bouton « Modifier le dossier » en haut à droite :
 
-<figure><img src="../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (351).png" alt=""><figcaption></figcaption></figure>
 
 Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton « déposer les modifications», situé en bas de page :
 
-<figure><img src="../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Si l'instructeur vous a invité à corriger le dossier, une mention s'affichera sur le dossier vous informant que le dossier "attend vos corrections". Vous pourrez ensuite consulter la messagerie du dossier pour prendre connaissance des corrections attendues par l'instructeur, puis vous pourrez modifier votre dossier.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 17.48.11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
 Une fois le dossier modifié, vous devrez cocher la case qui certifie que vous avez bien apporté les corrections attendues par l'instructeur de la démarche.&#x20;
 
