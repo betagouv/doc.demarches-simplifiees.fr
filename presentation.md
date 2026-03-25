@@ -1,5 +1,5 @@
 ---
-description: "Cette page présente les grands principes de «\_Démarches simplifiées\_». Une vidéo les résume."
+description: "Cette page présente les grands principes de «\_Démarche numérique\_». Une vidéo les résume."
 ---
 
 # Présentation
@@ -10,7 +10,7 @@ _**Vidéo Vimeo (**&#x6C;es informations contenues dans cette vidéo sont explic
 5 minutes pour comprendre demarches-simplifiees.fr
 {% endembed %}
 
-**demarches-simplifiees.fr** est une application en ligne qui permet à tous les organismes exerçant des missions de service public de créer des démarches en ligne en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
+**demarche.numerique.gouv.fr** est une application en ligne qui permet à tous les organismes exerçant des missions de service public de créer des démarches en ligne en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
 
 L'objectif est d'assurer la dématérialisation dans les meilleures conditions en simplifiant la vie des usagers, l'instruction des demandes et en faisant économiser de l’argent à l’État et au contribuable.
 

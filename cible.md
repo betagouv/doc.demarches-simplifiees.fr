@@ -1,10 +1,10 @@
 ---
-description: "Cette page indique quels sont les trois publics concernés par l'utilisation de «\_Démarches simplifiées\_»\_: les usagers, les administrateurs (qui créent les formulaires) et les instructeurs."
+description: "Cette page indique quels sont les trois publics concernés par l'utilisation de «\_Démarche numérique\_»\_: les usagers, les administrateurs (qui créent les formulaires) et les instructeurs."
 ---
 
 # Cible
 
-demarches-simplifiees.fr est une application générique qui peut être utilisée par tout organisme exerçant des missions de service public pour une grande variété de démarches administratives.
+**demarche.numerique.gouv.fr** est une application générique qui peut être utilisée par tout organisme exerçant des missions de service public pour une grande variété de démarches administratives.
 
 ## Utilisateurs
 
@@ -37,7 +37,7 @@ En revanche, l'application n'est pas l'outil le plus adapté dans les cas suivan
 
 ## Bénéfices
 
-demarches-simplifiees.fr a l'avantage d'être un outil :
+**demarche.numerique.gouv.fr** a l'avantage d'être un outil :
 
 * **Simple** : entièrement en ligne, sans installation ni paramétrage à effectuer, qui peut être utilisé directement par les services gestionnaires (modèle Typeform, Google Form).
 * **Intégré à l’écosystème numérique public** : récupération automatique d’informations sur les demandeurs via API Entreprise et France Connect et récupération d'informations géographiques via BAN et API Géo ;

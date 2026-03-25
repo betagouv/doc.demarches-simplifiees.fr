@@ -7,13 +7,13 @@ description: >-
 
 # Démarrage
 
-La prise en main de demarches-simplifiees.fr ne nécessite aucune compétence informatique. L'équipe accompagne les organismes qui le souhaitent dans la mise en place de démarches.
+La prise en main de **demarche.numerique.gouv.fr** ne nécessite aucune compétence informatique. L'équipe accompagne les organismes qui le souhaitent dans la mise en place de démarches.
 
 <figure><img src=".gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
 ### Une prise en main simple
 
-demarches-simplifiees.fr  peut être mise en œuvre directement par les directions métiers, sans qu'intervienne un service informatique. Une fois un cas d'usage identifié, le formulaire en ligne est édité et la démarche paramétrée en quelques minutes. Les organismes autonomes peuvent demander un compte administrateur et passer directement en production.
+**demarche.numerique.gouv.fr** peut être mise en œuvre directement par les directions métiers, sans qu'intervienne un service informatique. Une fois un cas d'usage identifié, le formulaire en ligne est édité et la démarche paramétrée en quelques minutes. Les organismes autonomes peuvent demander un compte administrateur et passer directement en production.
 
 ### Un accompagnement possible
 
@@ -28,7 +28,7 @@ L'équipe peut fournir un accompagnement à toutes les étapes de la mise en œu
 
 Pour obtenir un compte administrateur permettant de créer des formulaires en ligne, remplissez [**notre formulaire**](https://www.demarches-simplifiees.fr/demandes/new) de demande de compte.
 
-Pour être accompagné, contactez-nous ici : [**https://www.demarches-simplifiees.fr/contact-admin**](https://www.demarches-simplifiees.fr/contact-admin)
+Pour être accompagné, contactez-nous ici : **https://demarche.numerique.gouv.fr/contact-admin**
 
 Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous puissions vous rappeler.&#x20;
 
