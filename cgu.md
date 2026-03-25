@@ -6,87 +6,87 @@ description: Dernière mise à jour, le 16 septembre 2024 (Volet contribution fi
 
 ## 1.     Sommaire
 
-## [2.    Objet et champ d’application des conditions générales d’utilisation](cgu.md#\_toc108111727)
+## [2.    Objet et champ d’application des conditions générales d’utilisation](cgu.md#_toc108111727)
 
-## [3.    Définitions](cgu.md#\_toc108111728)
+## [3.    Définitions](cgu.md#_toc108111728)
 
-## [4.    Rôle et engagements de la DINUM](cgu.md#\_toc108111727)
+## [4.    Rôle et engagements de la DINUM](cgu.md#_toc108111727)
 
-### [a.    Présentation du Service](cgu.md#\_toc108111730)
+### [a.    Présentation du Service](cgu.md#_toc108111730)
 
-### [b.    Prestations garanties](cgu.md#\_toc108111731)
+### [b.    Prestations garanties](cgu.md#_toc108111731)
 
-### [c.    Niveau de service et disponibilité](cgu.md#\_toc108111731)
+### [c.    Niveau de service et disponibilité](cgu.md#_toc108111731)
 
-#### [i.     Disponibilité du Service](cgu.md#\_toc108111733)
+#### [i.     Disponibilité du Service](cgu.md#_toc108111733)
 
-#### [ii.    Sécurité du Service :](cgu.md#\_toc108111734)
+#### [ii.    Sécurité du Service :](cgu.md#_toc108111734)
 
-## [5.    Rôle et engagements de l’Administration](cgu.md#\_toc108111735)
+## [5.    Rôle et engagements de l’Administration](cgu.md#_toc108111735)
 
-### [a.    La création d’une démarche en ligne](cgu.md#\_toc108111736)
+### [a.    La création d’une démarche en ligne](cgu.md#_toc108111736)
 
-### [b.    Restrictions d’usage](cgu.md#\_toc108111737)
+### [b.    Restrictions d’usage](cgu.md#_toc108111737)
 
-### [c.    Les différents rôles de l’Administration :](cgu.md#\_toc108111738)
+### [c.    Les différents rôles de l’Administration :](cgu.md#_toc108111738)
 
-#### [i.     Administrateur](cgu.md#\_toc108111739)
+#### [i.     Administrateur](cgu.md#_toc108111739)
 
-#### [ii.    Instructeur](cgu.md#\_toc108111740)
+#### [ii.    Instructeur](cgu.md#_toc108111740)
 
-#### [iii.       Expert](cgu.md#\_toc108111741)
+#### [iii.       Expert](cgu.md#_toc108111741)
 
-### [d.    Signalement à la DINUM](cgu.md#\_toc108111742)
+### [d.    Signalement à la DINUM](cgu.md#_toc108111742)
 
-## [6.    Traitements des données à caractère personnel](cgu.md#\_toc108111743)
+## [6.    Traitements des données à caractère personnel](cgu.md#_toc108111743)
 
-### [a.    Traitements relevant de la responsabilité de la DINUM](cgu.md#\_toc108111744)
+### [a.    Traitements relevant de la responsabilité de la DINUM](cgu.md#_toc108111744)
 
-### [b.    Traitements relevant de la responsabilité de l’administration partenaire](cgu.md#\_toc108111745)
+### [b.    Traitements relevant de la responsabilité de l’administration partenaire](cgu.md#_toc108111745)
 
-#### [i.     Nature des traitements et catégories de données traitées par la DINUM sur instruction de l’administration partenaire](cgu.md#\_toc108111746)
+#### [i.     Nature des traitements et catégories de données traitées par la DINUM sur instruction de l’administration partenaire](cgu.md#_toc108111746)
 
-#### [ii.    Limitation de la finalité](cgu.md#\_toc108111747)
+#### [ii.    Limitation de la finalité](cgu.md#_toc108111747)
 
-#### [iii.       Sécurité du traitement](cgu.md#\_toc108111748)
+#### [iii.       Sécurité du traitement](cgu.md#_toc108111748)
 
-#### [iv.](cgu.md#\_toc108111749)  [Documentation et conformité](cgu.md#\_toc108111750)
+#### [iv.](cgu.md#_toc108111749)  [Documentation et conformité](cgu.md#_toc108111750)
 
-#### [v.       Liste des sous-traitants ultérieurs](cgu.md#\_toc108111751)
+#### [v.       Liste des sous-traitants ultérieurs](cgu.md#_toc108111751)
 
-#### [vi.      Transferts internationaux](cgu.md#\_toc108111752)
+#### [vi.      Transferts internationaux](cgu.md#_toc108111752)
 
-#### [vii.     Assistance](cgu.md#\_toc108111753)
+#### [vii.     Assistance](cgu.md#_toc108111753)
 
-#### viii[.       Notification de violation de données à caractère personnel](cgu.md#\_toc108111754)
+#### viii[.       Notification de violation de données à caractère personnel](cgu.md#_toc108111754)
 
-## [7.    Dispositions générales](cgu.md#\_toc108111755)
+## [7.    Dispositions générales](cgu.md#_toc108111755)
 
-### [a.    Gestion du support](cgu.md#\_toc108111756)
+### [a.    Gestion du support](cgu.md#_toc108111756)
 
-### [b.    Modalités financières](cgu.md#\_toc108111757)
+### [b.    Modalités financières](cgu.md#_toc108111757)
 
-### [c.    Evolutions du service et modifications des conditions d’utilisation](cgu.md#\_toc108111758)
+### [c.    Evolutions du service et modifications des conditions d’utilisation](cgu.md#_toc108111758)
 
-### [d.    Responsabilités](cgu.md#\_toc108111759)
+### [d.    Responsabilités](cgu.md#_toc108111759)
 
-### [e.    Durée du Service et conditions de résiliation](cgu.md#\_toc108111760)
+### [e.    Durée du Service et conditions de résiliation](cgu.md#_toc108111760)
 
-#### [i.     Résiliation par l’Administration partenaire](cgu.md#\_toc108111761)
+#### [i.     Résiliation par l’Administration partenaire](cgu.md#_toc108111761)
 
-#### [ii.         Suspension ou désactivation par la DINUM](cgu.md#\_toc108111762)
+#### [ii.         Suspension ou désactivation par la DINUM](cgu.md#_toc108111762)
 
 ## 2 . Objet et champ d’application des conditions générales d’utilisation <a href="#toc108111727" id="toc108111727"></a>
 
-Les présentes conditions générales d’utilisation ont pour objet de définir dans quelles conditions et selon quelles modalités une administration peut utiliser la plateforme démarches-simplifiées pour dématérialiser une démarche administrative dans le cadre de la mise en œuvre d’un téléservice ou d’une démarche interne de l’administration.
+Les présentes conditions générales d’utilisation ont pour objet de définir dans quelles conditions et selon quelles modalités une administration peut utiliser la plateforme **demarche.numerique.gouv.fr** pour dématérialiser une démarche administrative dans le cadre de la mise en œuvre d’un téléservice ou d’une démarche interne de l’administration.
 
-Elles déterminent les droits et les obligations respectifs de l’administration qui utilise la plateforme démarches-simplifiées et de la direction interministérielle du numérique (DINUM) qui la met à la disposition des administrations.
+Elles déterminent les droits et les obligations respectifs de l’administration qui utilise la plateforme **demarche.numerique.gouv.fr** et de la direction interministérielle du numérique (DINUM) qui la met à la disposition des administrations.
 
 ## 3 . Définitions <a href="#toc108111728" id="toc108111728"></a>
 
 Au sens des présentes conditions générales d’utilisation, il faut entendre par :
 
-**Service** : la plateforme « demarches-simplifiees.fr », qui permet à une administration de créer des démarches en ligne et d’instruire les dossiers déposés sur la plateforme.
+**Service** : la plateforme « **demarche.numerique.gouv.fr** », qui permet à une administration de créer des démarches en ligne et d’instruire les dossiers déposés sur la plateforme.
 
 **Administration :** l’administration partenaire qui utilise le Service pour créer une démarche administrative en ligne. L’administration partenaire peut être issue des administrations de l’Etat, des collectivités territoriales, de leurs établissements publics administratifs et des organismes et personnes de droit public et privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale.
 
@@ -115,7 +115,7 @@ Il permet à l’Administration :
 
 Il permet à l’Usager de réaliser une démarche en ligne, en partageant la construction du dossier avec les personnes de son choix, et de recevoir des notifications sur l’état d’avancement de son dossier.
 
-Le Service est développé sous licence AGPL et le code est disponible à l’adresse suivante : [https://github.com/betagouv/demarches-simplifiees.fr](https://github.com/betagouv/demarches-simplifiees.fr)
+Le Service est développé sous licence AGPL et le code est disponible à l’adresse suivante : [https://github.com/demarche-numerique/demarche.numerique.gouv.fr](https://github.com/demarche-numerique/demarche.numerique.gouv.fr)
 
 ### b . Prestations garanties <a href="#toc108111731" id="toc108111731"></a>
 
@@ -207,7 +207,7 @@ L’expert est invité par un instructeur pour formuler un avis sur un dossier. 
 
 ### d.  Signalement à la DINUM <a href="#toc108111742" id="toc108111742"></a>
 
-L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
 
 ## 6. Traitements des données à caractère personnel <a href="#toc108111743" id="toc108111743"></a>
 
@@ -268,7 +268,7 @@ La DINUM et l’Administration mettent à la disposition de l’autorité de con
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
-La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
 
 La DINUM informe l’Administration de tout projet de modification de cette liste par l’ajout ou le remplacement de sous-traitants ultérieurs.
 
@@ -325,11 +325,11 @@ La DINUM assure le support de premier niveau auprès des utilisateurs, exclusive
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée.
 
-Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
 
 ### b. Modalités financières <a href="#toc108111757" id="toc108111757"></a>
 
-L'utilisation du service en ligne "demarches-simplifiées" par les administrations et organismes publics est gratieux.
+L'utilisation du service en ligne **demarche.numerique.gouv.fr** par les administrations et organismes publics est gratieux.
 
 En tant que porteur d'un commun numérique à impact national, la DINUM acceuille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
 
