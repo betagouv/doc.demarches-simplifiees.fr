@@ -4,7 +4,7 @@ description: Comment télécharger les dossiers d'une démarche pour archivage
 
 # Archivage longue durée des démarches
 
-« Démarches simplifiées » conserve **par défaut** les dossiers pour une **durée maximale de 12 mois**. Cette durée est configurable par les administrateurs au moment de la création de la démarche. Aussi pour certaines démarches, il est possible d'étendre cette durée jusqu'à 5 ans. Pour cela merci de contacter notre support.
+**demarche.numerique.gouv.fr** conserve **par défaut** les dossiers pour une **durée maximale de 12 mois**. Cette durée est configurable par les administrateurs au moment de la création de la démarche. Aussi pour certaines démarches, il est possible d'étendre cette durée jusqu'à 5 ans. Pour cela merci de contacter notre support.
 
 Dans la très grande majorité des cas, cette durée peut être inférieure, **car le principe est la suppression des dossiers de la plateforme à l'issue de son traitement.**
 
@@ -12,7 +12,7 @@ Pour déterminer la durée de conservation globale d'un dossier, vous devez à l
 
 **L' administration est en effet responsable du traitement et de la conservation des dossiers**. Cela concerne principalement les dossiers terminés (acceptés, refusés ou sans suite). Vous recevez des notifications par e-mail un mois avant la suppression de dossiers afin de vous rappeler de les sauvegarder.
 
-La durée de conservation renseignée sur « Démarches simplifiées » sera appliqué à partir de la dernière action d'instruction (exemple: passage en instruction, acceptation, refus ou classement sans suite d'un dossier).&#x20;
+La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple: passage en instruction, acceptation, refus ou classement sans suite d'un dossier).&#x20;
 
 ## A quel moment est supprimé le dossier de l'usager?&#x20;
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Vous travaillez pour un organisme public et souhaitez découvrir les
-  fonctionnalités de demarches-simplifiees.fr ? Participez à nos formations en
+  fonctionnalités de demarche.numerique.gouv.fr ? Participez à nos formations en
   ligne et en direct.
 ---
 
@@ -18,7 +18,7 @@ T**ous les premiers jeudis du mois**, notre équipe vous propose un webinaire en
 **Une invitation est envoyée quelques jours avant** aux nouveaux administrateurs et instructeurs.\
 Vous pourrez également retrouver le **lien d’invitation** ainsi que le **replay des webinaires** depuis l’onglet **"Nouveautés"**.&#x20;
 
-**N’hésitez pas à nous contacter si vous avez un besoin spécifique d’accompagnement ou de formation : contact@demarches-simplifiees.fr**
+**N’hésitez pas à nous contacter si vous avez un besoin spécifique d’accompagnement ou de formation : contact@demarche.numerique.gouv.fr**
 
 
 
@@ -30,8 +30,7 @@ Voici le lien du replay de notre dernier webinaire ( 03/07/2025) : [https://webi
 
 
 
-[\
-](https://www.demarches-simplifiees.fr/commencer/inscription-aux-webinaires-demarches-simplifiees)
+[<br>](https://www.demarches-simplifiees.fr/commencer/inscription-aux-webinaires-demarches-simplifiees)
 
 
 

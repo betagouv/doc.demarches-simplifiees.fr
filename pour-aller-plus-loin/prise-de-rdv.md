@@ -1,7 +1,7 @@
 ---
 description: >-
   Dans ce tutoriel, nous allons vous montrer pas à pas comment paramétrer la
-  prise de rendez-vous sur Démarches simplifiées avec l'outil RDV service
+  prise de rendez-vous sur demarche.numerique.gouv.fr avec l'outil RDV service
   public.
 ---
 
@@ -11,7 +11,7 @@ Vous avez la possibilité de paramétrer la prise de RDV sur vos démarches et c
 
 Vous pouvez autoriser ou non les instructeurs à proposer des rendez-vous aux usagers qui déposeront des dossiers.
 
-En vous connectant sur votre compte Démarches simplifiées sur l'interface administrateur, vous pouvez paramétrer la tuile "Prise de rendez-vous" puis cliquez sur modifier pour l'activer.&#x20;
+En vous connectant sur votre compte **demarche.numerique.gouv.fr** sur l'interface administrateur, vous pouvez paramétrer la tuile "Prise de rendez-vous" puis cliquez sur modifier pour l'activer.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 15.18.32.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ Vous serez redirigé vers les options de configuration RDV Service Public. Vous 
 
 Depuis la carte "agents", vous pouvez voir, modifier et ajouter des agents.
 
-Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte Démarches Simplifiées.
+Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte **demarche.numerique.gouv.fr**.
 
 Ils recevront alors une invitation par email à valider 💡
 
@@ -93,7 +93,7 @@ Vous pouvez ensuite paramétrer le **type de rendez-vous**:
 
 Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" afin de valider les modifications apportées.
 
-#### 4) La prise de RDV dans Démarches simplifiées en tant qu'instructeur
+#### 4) La prise de RDV dans **demarche.numerique.gouv.fr** en tant qu'instructeur
 
 Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vous serez automatiquement redirigé vers votre agenda le site de RDV service public. Vous devriez avoir au prélable renseigné vos indisponibilités.&#x20;
 
@@ -107,6 +107,6 @@ Vous pourrez ensuite choisir le motif du RDV, la durée, etc.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 18.27.24.png" alt=""><figcaption></figcaption></figure>
 
-Ce rendez-vous s'affichera ensuite directement sur l'interface instructeur Démarches simplifiées.&#x20;
+Ce rendez-vous s'affichera ensuite directement sur l'interface instructeur **demarche.numerique.gouv.fr**&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-26 à 12.37.12.png" alt=""><figcaption></figcaption></figure>

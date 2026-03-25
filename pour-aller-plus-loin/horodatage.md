@@ -8,8 +8,8 @@ description: Présentation du fonctionnement de l'horodatage
 
 ### Fonctionnement vulgarisé
 
-Afin de prouver l'intégrité des dossiers, chaque jour, demarches-simplifiees.fr fait une photo de tous les dossiers modifiés. On envoie ensuite l'empreinte de cette photo a un tiers de confiance qualifié qui nous renvoie un jeton d'horodatage déclarant : \
-« Moi, Tiers de Confiance, je certifie que demarches-simplifiees.fr m'a envoyé cette empreinte à cette date ».
+Afin de prouver l'intégrité des dossiers, chaque jour, **demarche.numerique.gouv.fr** fait une photo de tous les dossiers modifiés. On envoie ensuite l'empreinte de cette photo a un tiers de confiance qualifié qui nous renvoie un jeton d'horodatage déclarant : \
+« Moi, Tiers de Confiance, je certifie que **demarche.numerique.gouv.fr** m'a envoyé cette empreinte à cette date ».
 
 ### En quoi cela prouve-t-il quoi que soit ?
 
@@ -22,7 +22,7 @@ Si on veut vérifier qu'un dossier n'a pas été altéré depuis son traitement 
 
 ### C'est quoi cette histoire d'empreinte ?
 
-Voir [https://fr.wikipedia.org/wiki/Fonction\_de\_hachage](https://fr.wikipedia.org/wiki/Fonction\_de\_hachage). En simplifié c'est une opération mathématique qui à partir d'un fichier fournit toujours le même grand nombre (empreinte) de sorte que :\
+Voir [https://fr.wikipedia.org/wiki/Fonction\_de\_hachage](https://fr.wikipedia.org/wiki/Fonction_de_hachage). En simplifié c'est une opération mathématique qui à partir d'un fichier fournit toujours le même grand nombre (empreinte) de sorte que :\
 \- pour 2 fichiers différents il y a toujours 2 empreintes différentes\
 \- il n'est pas possible de reconstruire le fichier à partir de son empreinte
 
@@ -30,7 +30,7 @@ Voir [https://fr.wikipedia.org/wiki/Fonction\_de\_hachage](https://fr.wikipedia.
 
 ### Les opérations
 
-À chaque changement d'état du dossier, demarches-simplifiees.fr crée un fichier contenant \
+À chaque changement d'état du dossier, **demarche.numerique.gouv.fr** crée un fichier contenant \
 \- le numéro de dossier\
 \- la date\
 \- l'action\
@@ -93,7 +93,7 @@ L'empreinte de ce fichier est `b193534bd4e8f2f32841e6010286ed98be6dc8e24f89dbd7f
 
 ### L'empreinte des opérations du jour
 
-Toute les nuits, demarches-simplifiees.fr crée un fichier avec toutes les empreintes des opérations de la journée. Il se présente sous le nom demarches-simplifiees-operations-date.json
+Toute les nuits, **demarche.numerique.gouv.fr** crée un fichier avec toutes les empreintes des opérations de la journée. Il se présente sous le nom demarches-simplifiees-operations-date.json
 
 {% code title="procedure-xxx/bills/horodatage/demarches-simplifiees-operations-date.json" overflow="wrap" %}
 ```
@@ -109,7 +109,7 @@ On retrouve ici l'empreinte de notre opération.
 
 ### L'horodatage de l'empreinte des opérations du jour
 
-demarches-simplifiees.fr fait horodater ce fichier par un service d'horodatage qualifié par l'ANSSI. Le jeton d'horodatage retourné est présent ici :\
+**demarche.numerique.gouv.fr** fait horodater ce fichier par un service d'horodatage qualifié par l'ANSSI. Le jeton d'horodatage retourné est présent ici :\
 `procedure-xxx/bills/horodatage/demarches-simplifiees-signature-date.der`
 
 ### Preuve de l'intégrité de vos dossiers

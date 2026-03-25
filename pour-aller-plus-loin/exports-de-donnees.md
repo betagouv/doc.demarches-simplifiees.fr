@@ -66,7 +66,7 @@ Voir la page [exports et macros](exports-et-macros.md)
 
 ## Export par API
 
-demarches-simplifiees.fr est fourni avec une API qui permet d'exporter de manière automatique la _totalité_ des informations relatives aux dossiers déposés sur une procédure donnée.
+**demarche.numerique.gouv.fr** est fourni avec une API qui permet d'exporter de manière automatique la _totalité_ des informations relatives aux dossiers déposés sur une procédure donnée.
 
 Cette API ne permet en revanche pas d'entrer des données dans l'application ou de commander des opérations.
 
