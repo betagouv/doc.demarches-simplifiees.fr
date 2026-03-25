@@ -1,7 +1,7 @@
 ---
 description: >-
   Retrouvez ici les démarches relatives à l'inscription au service de
-  restauration disponibles sur demarches-simplifiees.fr
+  restauration disponibles sur demarche.numerique.gouv.fr
 ---
 
 # Démarches relatives aux inscriptions scolaires (inscription, restauration, centres de loisirs)
