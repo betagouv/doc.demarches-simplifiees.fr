@@ -9,7 +9,7 @@ La gestion des erreurs est une partie essentielle de toute interaction avec une 
 Les erreurs au niveau racine sont renvoyées lorsque la requête GraphQL ne peut pas être traitée en raison d’une erreur. Les codes d’erreur courants incluent :
 
 * `not_found` : l’objet demandé n’a pas été trouvé.
-* `invalid_null` : un champ est nul alors qu’il est déclaré comme non-nul. Dans la très grande majorité des cas, c’est un bug dans démarches-simplifiées.fr.
+* `invalid_null` : un champ est nul alors qu’il est déclaré comme non-nul. Dans la très grande majorité des cas, c’est un bug dans **demarche.numerique.gouv.fr**
 * `unauthorized` : l’utilisateur n’est pas autorisé à exécuter l’action demandée.
 * `bad_request` : la requête était mal formée.
 * `graphql_parse_error` : la requête GraphQL n’a pas pu être analysée correctement.
