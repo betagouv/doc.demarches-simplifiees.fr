@@ -4,7 +4,7 @@
 8 minutes
 {% endembed %}
 
-Bonjour à tous ,<br>
+Bonjour à tous ,
 
 Le passage à la dématérialisation modifie la relation entre le service administratif et l’usager. Comme toute innovation, la dématérialisation bouscule les pratiques et peut être perçue par l’usager comme une éloignement. Or, au contraire, elle peut justement être un moyen de se rapprocher de l’usager en suivant simplement quelques bonnes pratiques. Voici les 4 points d’attention pour établir sur DS une bonne relation entre administration et usager :<br>
 
@@ -14,7 +14,7 @@ Chaque démarche publiée a un unique point d’accès pour l’usager : son lie
 
 Un deuxième moyen peut-être de faire une campagne d’e-mails dans lesquels vous communiquez ce lien aux personnes concernées par cette démarche.
 
-Enfin, avertissez le standard pour qu’il oriente bien vers votre page et votre lien et non pas directement vers démarches-simplifiees.fr
+Enfin, avertissez le standard pour qu’il oriente bien vers votre page et votre lien et non pas directement vers **demarche.numerique.gouv.fr**
 
 Dernière chose, testez qu’en cliquant dessus votre lien dirige bien vers votre démarche.<br>
 

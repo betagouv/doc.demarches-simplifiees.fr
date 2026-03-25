@@ -1,8 +1,8 @@
 # Intégration du bouton « Mon avis »
 
-**L’outil « Jedonnemonavis» est conçu pour rendre très simple l’intégration du bouton de vote à la fin des démarches administratives. Voici le mode opératoire qui est proposé pour intégrer le lien « Jedonnemonavis » dans une démarche sur demarches-simplifiees.fr.**
+**L’outil « Jedonnemonavis» est conçu pour rendre très simple l’intégration du bouton de vote à la fin des démarches administratives. Voici le mode opératoire qui est proposé pour intégrer le lien « Jedonnemonavis » dans une démarche sur demarche.numerique.gouv.fr.**
 
-1\.    Pour utiliser le bouton « mon avis », il faut avoir publié votre démarche sur demarches-simplifiees.fr, puis effectuer les actions suivantes. C'est très rapide !&#x20;
+1\.    Pour utiliser le bouton « mon avis », il faut avoir publié votre démarche sur **demarche.numerique.gouv.fr**, puis effectuer les actions suivantes. C'est très rapide !&#x20;
 
 Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec les instructions à suivre.&#x20;
 
@@ -38,7 +38,7 @@ Sur l'interface administrateur, vous retrouverez la tuile "Bouton MonAvis" avec 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.20.21.png" alt=""><figcaption></figcaption></figure>
 
-Une fois l'emplacement créé et les paramètres renseignés, un code sera généré. Il faudra copier et coller ce code dans la tuile "Bouton mon avis" de Démarches simplifiées. Vous pourrez également déterminer si vous souhaitez que le bouton "Je donne mon avis" soit blanc ou bleu.&#x20;
+Une fois l'emplacement créé et les paramètres renseignés, un code sera généré. Il faudra copier et coller ce code dans la tuile "Bouton mon avis" de **demarche.numerique.gouv.fr**. Vous pourrez également déterminer si vous souhaitez que le bouton "Je donne mon avis" soit blanc ou bleu.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-22 à 16.25.30.png" alt=""><figcaption></figcaption></figure>
 

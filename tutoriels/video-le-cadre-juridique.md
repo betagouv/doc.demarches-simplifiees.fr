@@ -4,13 +4,13 @@
 5 minutes
 {% endembed %}
 
-La dématérialisation bouscule le cadre juridique de la relation entre l’administration et l’usager. Mais ne vous inquiétez pas nous avons rassemblé pour vous les éléments juridiques qui vous permettront de mettre en place demarches-simplifiees.fr en toute légalité et donc l’esprit tranquille ! (PS : toutes les références sont rassemblées dans un fichier joint en dessous de la vidéo, pas besoin de tout noter frénétiquement)<br>
+La dématérialisation bouscule le cadre juridique de la relation entre l’administration et l’usager. Mais ne vous inquiétez pas nous avons rassemblé pour vous les éléments juridiques qui vous permettront de mettre en place **demarche.numerique.gouv.fr** en toute légalité et donc l’esprit tranquille ! (PS : toutes les références sont rassemblées dans un fichier joint en dessous de la vidéo, pas besoin de tout noter frénétiquement)<br>
 
 **Principe numéro 1 : la SVE ou saisine par voie électronique selon laquelle l’usager peut vous saisir à tout moment par voie électronique**.<br>
 
 Ce principe prévoit que pour toutes ses demandes, une personne peut saisir l’administration par voie électronique et que cette dernière est obligée d’y répondre par la même voie. La seule obligation pour l’usager consiste à s'identifier. Ainsi, un usager peut par exemple vous saisir par e-mail même si vous n’avez prévu qu’une voie papier.<br>
 
-Ce principe n’abandonne néanmoins pas l’administration à des demandes venant d’une multitude de canaux différents. Ainsi, il précise que si l’administration met un téléservice en place, elle peut l’imposer à l’usager comme seul mode de saisie possible. Par exemple, si vous utilisez demarches-simplifiees.fr, l’usager ne pourra pas vous saisir par e-mail si vous le refusez.<br>
+Ce principe n’abandonne néanmoins pas l’administration à des demandes venant d’une multitude de canaux différents. Ainsi, il précise que si l’administration met un téléservice en place, elle peut l’imposer à l’usager comme seul mode de saisie possible. Par exemple, si vous utilisez **demarche.numerique.gouv.fr**, l’usager ne pourra pas vous saisir par e-mail si vous le refusez.<br>
 
 **Principe numéro 2 : l’identification du demandeur**
 
@@ -41,7 +41,7 @@ En contrepartie, l’administration est tenue d’informer l’usager des inform
 
 **Principe numéro 5 : RGPD**
 
-Avec l’entrée en vigueur du RGPD en 2018, les administrations qui mettent en place des téléservices doivent identifier qui sont les responsables de traitement des données. Sur demarches-simplifiees.fr nous sommes co-responsables des données au même titre que l’administration qui met en ligne la démarche. C’est pourquoi nous prenons de grandes précautions  quant aux données qui sont récupérées. Des robots inspectent constamment et de manière automatique les informations demandées dans les démarches en ligne afin de nous assurer qu’aucune donnée sensible ne soit collectée.
+Avec l’entrée en vigueur du RGPD en 2018, les administrations qui mettent en place des téléservices doivent identifier qui sont les responsables de traitement des données. Sur **demarche.numerique.gouv.fr** nous sommes co-responsables des données au même titre que l’administration qui met en ligne la démarche. C’est pourquoi nous prenons de grandes précautions  quant aux données qui sont récupérées. Des robots inspectent constamment et de manière automatique les informations demandées dans les démarches en ligne afin de nous assurer qu’aucune donnée sensible ne soit collectée.
 
 Par ailleurs, afin d’être en conformité avec le RGPD vous devez déclarer toutes les démarches que vous créez dans DS dans votre registre de traitement.
 
