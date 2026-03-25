@@ -1,6 +1,6 @@
 # Politique de confidentialité
 
-La direction interministérielle du numérique (DINUM) est responsable des traitements de données à caractère personnel réalisés dans démarches-simplifiées pour :
+La direction interministérielle du numérique (DINUM) est responsable des traitements de données à caractère personnel réalisés dans **demarche.numerique.gouv.fr** pour :
 
 * La gestion des comptes utilisateurs,
 * L’exploitation et l’amélioration de la plateforme,
@@ -8,7 +8,7 @@ La direction interministérielle du numérique (DINUM) est responsable des trait
 
 Elle s’engage à assurer un niveau élevé de protection des données à caractère personnel et à se conformer à la réglementation générale sur la protection des données (RGPD) et à la loi informatique et Libertés.
 
-L’administration est responsable des traitements de données à caractère personnel réalisés pour l’instruction des dossiers sur démarches-simplifiées. L’administration détermine les données pertinentes et leur durée de conservation. La DINUM intervient en qualité de sous-traitant pour assurer l’hébergement, la tierce maintenance applicative et l’envoi des notifications. Pour exercer vos droits sur ces traitements, vous devez vous adresser à l’administration en charge de la démarche. La DINUM peut vous aider à vous mettre en relation avec elle.
+L’administration est responsable des traitements de données à caractère personnel réalisés pour l’instruction des dossiers sur **demarche.numerique.gouv.fr**. L’administration détermine les données pertinentes et leur durée de conservation. La DINUM intervient en qualité de sous-traitant pour assurer l’hébergement, la tierce maintenance applicative et l’envoi des notifications. Pour exercer vos droits sur ces traitements, vous devez vous adresser à l’administration en charge de la démarche. La DINUM peut vous aider à vous mettre en relation avec elle.
 
 ### 1. Quelles sont les données à caractères personnel traitées ?&#x20;
 
@@ -64,7 +64,7 @@ La DINUM s’assure de la mise en œuvre par ses sous-traitants de garanties ad�
 
 La DINUM est particulièrement vigilante à la sécurité de vos données. Elle met en place une politique stricte de sécurité pour protéger l’intégrité, la confidentialité et la disponibilité de vos données. Lorsqu’elle fait appel à un sous-traitant, la DINUM lui impose ses propres principes en matière de sécurité.
 
-Démarches simplifiées a fait l’objet d’une homologation de sécurité. Les mesures de sécurité mises en place sont notamment :
+**demarche.numerique.gouv.fr** a fait l’objet d’une homologation de sécurité. Les mesures de sécurité mises en place sont notamment :
 
 * Audits et tests de sécurité,
 * Anonymisation ou chiffrement des données,
@@ -76,7 +76,7 @@ Démarches simplifiées a fait l’objet d’une homologation de sécurité. Les
 
 Vous disposez d’un droit d’accès et de modification des données à caractère personnel qui vous concernent. Vous pouvez également vous opposer aux traitements réalisés par la DINUM.
 
-Ces droits s’exercent auprès de la DINUM à l’adresse [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+Ces droits s’exercent auprès de la DINUM à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 Pour exercer vos droits, vous pouvez également contacter le délégué à la protection des données (DPD) des services du Premier Ministre :
 

@@ -2,7 +2,7 @@
 description: 16/05/2024
 ---
 
-# Conditions générales d'utilisation :  usagers
+# Conditions générales d'utilisation : usagers
 
 ### 1. Description du Service&#x20;
 
@@ -24,7 +24,7 @@ L’utilisateur doit consulter régulièrement la dernière version des CGU disp
 
 ## 1. Description du Service&#x20;
 
-Démarches simplifiées est un outil de dématérialisation et de simplification des démarches administratives. Il propose également des fonctionnalités d’aide à l’instruction des dossiers déposés.
+**demarche.numerique.gouv.fr** est un outil de dématérialisation et de simplification des démarches administratives. Il propose également des fonctionnalités d’aide à l’instruction des dossiers déposés.
 
 Il permet à l’usager de réaliser une démarche en ligne, en partageant la construction du dossier avec les personnes de son choix, et de recevoir des notifications concernant l’état d’avancement de son dossier.
 
@@ -54,17 +54,17 @@ Sauf preuve contraire, toute connexion au Service ou transmission de données ef
 
 Si l’usager estime que son mot de passe est compromis, il ou elle doit le modifier sans délai.
 
-En cas de compromission de son compte, l’usager doit contacter l’équipe support  à l’adresse : **contact@demarches-simplifiees.fr**
+En cas de compromission de son compte, l’usager doit contacter l’équipe support  à l’adresse : **contact@demarche.numerique.gouv.fr**
 
 L’usager a la possibilité de modifier son dossier lorsque son dossier est « en construction ». Une fois le dossier « en instruction », l’usager doit contacter le service instructeur via la messagerie du dossier ou depuis les informations de contact situées en bas du formulaire afin de procéder aux modifications.
 
-L’équipe Démarches simplifiées n’est pas compétente pour les questions relatives au suivi du dossier.
+L’équipe de **demarche.numerique.gouv.fr** n’est pas compétente pour les questions relatives au suivi du dossier.
 
-Les dossiers déposés par l’usager sont soumis à une durée de conservation paramétrée par l’Administration en charge de la démarche. L’usager peut télécharger son dossier avant la fin de cette période.
+Les dossiers déposés par l’usager sont soumis à une durée de conservation configurée par l’Administration en charge de la démarche. L’usager peut télécharger son dossier avant la fin de cette période.
 
 L’usager peut supprimer les dossiers « en construction » et « traités » (acceptés, refusés, classés sans suite) depuis son interface usager.
 
-L’usager peut demander la suppression de son compte en adressant un mail à l’adresse : **contact@demarches-simplifiees.fr**
+L’usager peut demander la suppression de son compte en adressant un mail à l’adresse : **contact@demarche.numerique.gouv.fr**
 
 ## 3. Disponibilité du service&#x20;
 
@@ -84,7 +84,7 @@ La DINUM assure le support de premier niveau auprès des utilisateurs, exclusive
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée. Ainsi, pour contacter le service traitant les dossiers ou transmettre des pièces justificatives, l’usager a la possibilité de passer par la partie « messagerie » de son dossier. Si la messagerie est fermée, il peut consulter les informations de contact situées en bas du formulaire en ligne.
 
-Le support DINUM est disponible 5j/7 de 8h à 18h. Il est joignable par e-mail à l’adresse suivante : [contact@demarches-simplifiees.fr](mailto:contact@demarches-simplifiees.fr).
+Le support DINUM est disponible 5j/7 de 8h à 18h. Il est joignable par e-mail à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 ## 5. Responsabilité&#x20;
 
@@ -94,4 +94,4 @@ La DINUM s'engage à faire ses meilleurs efforts afin de mettre en œuvre des me
 
 ## 6. Contact&#x20;
 
-Pour toute question sur le Service, vous pouvez envoyer un e-mail à l’adresse : **contact@demarches-simplifiees.fr**
+Pour toute question sur le Service, vous pouvez envoyer un e-mail à l’adresse : **contact@demarche.numerique.gouv.fr**

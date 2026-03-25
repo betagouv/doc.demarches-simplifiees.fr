@@ -44,28 +44,28 @@ Ce jeton doit être fourni dans l’en-tête HTTP `Authorization` de la requête
 
 &#x20;`Authorization: Bearer token=valeur_du_jeton`.
 
-{% swagger baseUrl="https://www.demarches-simplifiees.fr" path="/api/v2/graphql" method="post" summary="GraphQL" %}
-{% swagger-description %}
+## GraphQL
+
+<mark style="color:green;">`POST`</mark> `https://demarche.numerique.gouv.fr/api/v2/graphql`
+
 Le point d’entrée de l’API GraphQL.
-{% endswagger-description %}
 
-{% swagger-parameter in="header" name="Content-Type" type="string" required="true" %}
-application/json
-{% endswagger-parameter %}
+#### Headers
 
-{% swagger-parameter in="header" name="Authorization" type="string" required="true" %}
-Le jeton de l’administrateur
-{% endswagger-parameter %}
+| Name                                            | Type   | Description                  |
+| ----------------------------------------------- | ------ | ---------------------------- |
+| Content-Type<mark style="color:red;">\*</mark>  | string | application/json             |
+| Authorization<mark style="color:red;">\*</mark> | string | Le jeton de l’administrateur |
 
-{% swagger-parameter in="body" name="query" type="string" required="true" %}
-La requête GraphQL
-{% endswagger-parameter %}
+#### Request Body
 
-{% swagger-parameter in="body" name="variables" type="object" required="true" %}
-Les variables de la requête
-{% endswagger-parameter %}
+| Name                                        | Type   | Description                 |
+| ------------------------------------------- | ------ | --------------------------- |
+| query<mark style="color:red;">\*</mark>     | string | La requête GraphQL          |
+| variables<mark style="color:red;">\*</mark> | object | Les variables de la requête |
 
-{% swagger-response status="200" description="Réponse GraphQL" %}
+{% tabs %}
+{% tab title="200 Réponse GraphQL" %}
 ```json
 {
     "data": {
@@ -103,8 +103,8 @@ Les variables de la requête
     }
 }
 ```
-{% endswagger-response %}
-{% endswagger %}
+{% endtab %}
+{% endtabs %}
 
 ### Exemple de requête
 
@@ -113,7 +113,7 @@ Les variables de la requête
 Pour tester l’API, le plus simple est d’effectuer une requête [curl](https://fr.wikipedia.org/wiki/CURL) telle que ci dessous. Le principe est le même avec un autre client HTTP : remplacez **votre\_token** et **votre\_numero\_de\_demarche** par les valeurs souhaitez, et n’oubliez pas de préciser le **content-type** qui est toujours `application/json` **:**
 
 ```shell
-curl 'https://www.demarches-simplifiees.fr/api/v2/graphql' \
+curl 'https://demarche.numerique.gouv.fr/api/v2/graphql' \
     --header 'Authorization: Bearer <votre_token>' \
     --header 'Content-Type: application/json' \
     --data '{ "query": "query getDemarche($demarcheNumber: Int!) { demarche(number: $demarcheNumber) { id dossiers { nodes { id demandeur { ... on PersonnePhysique { civilite nom prenom } ... on PersonneMorale { siret } } } } } }", "variables": { "demarcheNumber": <votre_numero_de_demarche> } }'
@@ -126,7 +126,7 @@ Exemple si mon jeton est `A9Knc34tP==` avec le numéro de démarche `12345`:&#x2
 {% endhint %}
 
 ```sh
-curl 'https://www.demarches-simplifiees.fr/api/v2/graphql' \
+curl 'https://demarche.numerique.gouv.fr/api/v2/graphql' \
     --header 'Authorization: Bearer A9Knc34tP==' \
     --header 'Content-Type: application/json' \
     --data '{ "query": "query getDemarche($demarcheNumber: Int!) { demarche(number: $demarcheNumber) { id dossiers { nodes { id demandeur { ... on PersonnePhysique { civilite nom prenom } ... on PersonneMorale { siret } } } } } }", "variables": { "demarcheNumber": 12345 } }'

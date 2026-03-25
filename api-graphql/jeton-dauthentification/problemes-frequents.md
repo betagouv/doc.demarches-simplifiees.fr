@@ -36,6 +36,6 @@ Vous devez vérifier que :&#x20;
 * le format demandé est de type `--header 'Content-Type: application/json'`
 * vérifiez les guillements, apostrophes, les espaces, majuscules et miniscules
 * le token a accès à la démarche (vous pouvez uniquement requêter les données des démarches de votre compte administrateur, et pour lesquelles le jeton a été autorisé)
-* si vous avez perdu votre jeton, vous pouvez le révoquer et en créer un nouveau depuis la page _Voir mon profil_ sur demarches-simplifiees.fr
+* si vous avez perdu votre jeton, vous pouvez le révoquer et en créer un nouveau depuis la page _Voir mon profil_ sur demarche.numerique.gouv.fr
 
 Consultez également [notre documentation sur les erreurs](../gestion-des-erreurs.md) si vous obtenez une autre erreur.

@@ -2,7 +2,7 @@
 
 Une fois votre accréditation acquise, vous pouvez vous connecter en tant qu’administrateur, créer une démarche de test (car un administrateur ne peut que requêter sur ses propres démarches).
 
-Une fois votre démarche créée, vous pouvez accéder à l’**éditeur de requêtes en ligne** (attention, ne confondez pas cette adresse avec celle de l’endpoint, qui y ressemble) : [https://www.demarches-simplifiees.fr/graphql](https://www.demarches-simplifiees.fr/graphql)
+Une fois votre démarche créée, vous pouvez accéder à l’**éditeur de requêtes en ligne** (attention, ne confondez pas cette adresse avec celle de l’endpoint, qui y ressemble) : [https://demarche.numerique.gouv.fr/graphql](https://demarche.numerique.gouv.fr/graphql)
 
 Cet éditeur de requêtes en ligne vous permet de requêter directement l'API graphql sur **vos démarches** sans que vous ayez encore à coder de client. C'est un bon outil pour essayer l'API et commencer à la prendre en main.
 
