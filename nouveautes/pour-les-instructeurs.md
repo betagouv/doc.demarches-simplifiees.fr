@@ -1,12 +1,12 @@
 ---
 description: >-
   Retrouvez ici toutes les nouveautés développées pour les instructeurs de
-  demarches-simplifiees.fr
+  demarche.numerique.gouv.fr
 ---
 
 # Pour les instructeurs
 
-### Retrouvez toutes les nouveautés et l'actualité Démarches simplifiées depuis l'onglet "nouveautés" de votre compte :&#x20;
+### Retrouvez toutes les nouveautés et l'actualité **demarche.numerique.gouv.fr** depuis l'onglet "nouveautés" de votre compte :
 
 <figure><img src="../.gitbook/assets/image (254).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,13 +54,13 @@ Pour plus d'informations concernant l'ajout d'instructeurs, nous vous invitons �
 
 ## Changement de couleurs&#x20;
 
-Afin de permettre aux citoyens de bénéficier d'une cohérence graphique et d'une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'état.\
+Afin de permettre aux citoyens de bénéficier d'une cohérence graphique et d'une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarche.numerique.gouv.fr** s'adapte progressivement au Système de Design de l'état.\
 \
-La première phase d'adaptation de « Démarches simplifiées » se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
+La première phase d'adaptation de **demarche.numerique.gouv.fr** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
 
-## Suppression de la possibilité de changer l'adresse e-mail associée à son compte demarches-simplifiees.fr
+## Suppression de la possibilité de changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**
 
-Pour des raisons de sécurité, toute personne disposant de droits instructeur ou administrateur ne peut plus changer l'adresse e-mail associée à son compte demarches-simplifiees.fr, comme elle pouvait le faire jusqu'ici. Il est dorénavant nécessaire de nous envoyer un mail à l'adresse contact@demarches-simplifiees.fr depuis votre ancienne adresse e-mail en indiquant bien la nouvelle adresse e-mail. La fonctionnalité reste disponible pour les personnes qui ne sont qu'usagers de demarches-simplifiees.fr.
+Pour des raisons de sécurité, toute personne disposant de droits instructeur ou administrateur ne peut plus changer l'adresse e-mail associée à son compte **demarche.numerique.gouv.fr**, comme elle pouvait le faire jusqu'ici. Il est dorénavant nécessaire de nous envoyer un mail à l'adresse contact@demarche.numerique.gouv.fr depuis votre ancienne adresse e-mail en indiquant bien la nouvelle adresse e-mail. La fonctionnalité reste disponible pour les personnes qui ne sont qu'usagers de **demarche.numerique.gouv.fr**.
 
 ## La fonction « Télécharger toutes les pièces jointes » inclut désormais les pièces jointes échangées dans la messagerie
 
@@ -108,11 +108,11 @@ Le libellé des colonnes est maintenant en français. L'export inclut les blocs 
 
 Dorénavant, vous pouvez télécharger toutes les pièces jointes contenues dans le dossier d'un seul clic ! Celles-ci sont téléchargées sous un format ZIP.
 
-## Changez l'adresse e-mail associée à votre compte demarches-simplifiees.fr&#x20;
+## Changez l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte demarches-simplifiees.fr. Plus d'informations ici :&#x20;
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**. Plus d'informations ici :&#x20;
 
 {% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
@@ -127,5 +127,5 @@ Un usager a transmis une mauvaise information ? Pas de panique : vous pouvez dé
 \
 Plus d'informations ici :&#x20;
 
-[https://www.demarches-simplifiees.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction](https://www.demarches-simplifiees.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction)
+[https://demarche.numerique.gouv.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction](https://demarche.numerique.gouv.fr/faq/instructeur/comment-repasser-un-dossier-en-instruction)
 

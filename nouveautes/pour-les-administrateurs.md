@@ -1,20 +1,20 @@
 ---
 description: >-
   Retrouvez ici toutes les nouveautés développées pour les administrateurs de
-  demarches-simplifiees.fr
+  demarche.numerique.gouv.fr
 ---
 
 # Pour les administrateurs
 
-### Retrouvez toutes les nouveautés et l'actualité Démarches simplifiées depuis l'onglet "nouveautés" de votre compte  :&#x20;
+### Retrouvez toutes les nouveautés et l'actualité de **demarche.numerique.gouv.fr** depuis l'onglet "nouveautés" de votre compte  :&#x20;
 
 <figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 ### Changement de couleurs
 
-Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'État.\
+Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarche.numerique.gouv.fr** s'adapte progressivement au Système de Design de l'État.\
 \
-La première phase d'adaptation de « Démarches simplifiées » se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
+La première phase d'adaptation de **demarche.numerique.gouv.fr** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
 
 ## Modification d'une démarche en ligne
 
@@ -66,11 +66,11 @@ Elle a été simplifiée et suit désormais la charte graphique du reste du site
 
 ![](<../.gitbook/assets/Screenshot 2019-11-13 at 14.53.27.png>)
 
-## Changez l'adresse email associée à votre compte démarches-simplifiées.fr&#x20;
+## Changez l'adresse email associée à votre compte **demarche.numerique.gouv.fr**&#x20;
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte démarches-simplifiées.fr. Plus d'informations ici :&#x20;
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**. Plus d'informations ici :&#x20;
 
 {% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
@@ -80,7 +80,7 @@ Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre c
 
 Il est désormais possible de proposer à l'usager d'évaluer votre démarche grâce à [https://monavis.numerique.gouv.fr/](https://monavis.numerique.gouv.fr/), et ce, même si celle-ci est déjà publiée !&#x20;
 
-Plus d'informations ici : [https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
+Plus d'informations ici : [https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis](https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis)
 
 ## Soyez plusieurs administrateurs sur une même démarche&#x20;
 

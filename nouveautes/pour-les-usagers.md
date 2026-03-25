@@ -4,13 +4,13 @@
 
 
 
-Le nouveau bloc mandataire est une nouvelle fonctionnalité sur la plateforme demarches-simplifiees.fr, conçue pour faciliter et optimiser la co-construction des dossiers. Cette introduction vise à offrir un aperçu détaillé de son fonctionnement et de ses avantages dans le processus de gestion des dossiers.
+Le nouveau bloc mandataire est une nouvelle fonctionnalité sur la plateforme **demarche.numerique.gouv.fr**, conçue pour faciliter et optimiser la co-construction des dossiers. Cette introduction vise à offrir un aperçu détaillé de son fonctionnement et de ses avantages dans le processus de gestion des dossiers.
 
 
 
 #### Objectif du Nouveau Bloc Mandataire
 
-Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : simplifier la collaboration entre différents acteurs dans le cadre de la préparation et du suivi des dossiers dans démarches-simplifiees. Il vise à rendre les échanges plus fluides et plus transparents, tout en assurant une gestion efficace des informations.
+Le bloc mandataire a été mis en place pour répondre à un besoin essentiel : simplifier la collaboration entre différents acteurs dans le cadre de la préparation et du suivi des dossiers dans **demarche.numerique.gouv.fr**. Il vise à rendre les échanges plus fluides et plus transparents, tout en assurant une gestion efficace des informations.
 
 \
 **1. Choisissez si le dossier est pour vous ou pour un bénéficiaire**
@@ -44,7 +44,7 @@ Dans cette partie du formulaire, après avoir rempli les informations d'identit�
 
 ## Nouvelle interface usager&#x20;
 
-Afin de garantir tant une meilleure gestion des dossiers qu'une meilleure ergonomie dans le processus de dépôt de dossiers sur « Démarches simplifiées », l'interface usager a été rafraichie.&#x20;
+Afin de garantir tant une meilleure gestion des dossiers qu'une meilleure ergonomie dans le processus de dépôt de dossiers sur **demarche.numerique.gouv.fr**, l'interface usager a été rafraichie.&#x20;
 
 En tant qu'usager, vous pouvez désormais suivre correctement l'avancée de vos dossiers grâce aux nouveaux onglets :&#x20;
 
@@ -70,7 +70,7 @@ Depuis l'onglet « traités » de vos dossiers, il vous suffit de cliquer sur  �
 
 
 
-## L'interface demarches-simplifie.fr affichée en anglais&#x20;
+## L'interface **demarche.numerique.gouv.fr** affichée en anglais&#x20;
 
 Afin de déposer votre dossier dans les meilleures conditions et en toute connaissance, vous pouvez désormais modifier l'interface en anglais en cliquant sur le logo situé en haut à droite de l'écran (encadré ci-dessous en rouge) :&#x20;
 
@@ -82,13 +82,13 @@ Afin de déposer votre dossier dans les meilleures conditions et en toute connai
 
 ## Changement de couleurs
 
-Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site demarches-simplifiees.fr s'adapte progressivement au Système de Design de l'État.\
+Afin de permettre aux citoyens d'avoir une cohérence graphique et une meilleure expérience à travers l'ensemble des sites de l'État, le site **demarche.numerique.gouv.fr** s'adapte progressivement au Système de Design de l'État.\
 \
-La première phase d'adaptation de « Démarches simplifiées » se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
+La première phase d'adaptation de **demarche.numerique.gouv.fr** se situe au niveau des couleurs et dans les prochains mois d'autres changements seront visibles au niveau des composants et icônes.
 
 ## Transférer son dossier à un autre usager
 
-Il est maintenant possible de transmettre un dossier à un autre usager de demarches-simplifiees.fr.
+Il est maintenant possible de transmettre un dossier à un autre usager de **demarche.numerique.gouv.fr**.
 
 Depuis la liste de vos dossiers, vous pouvez ouvrir le menu d'actions, et sélectionner « Transférer le dossier ».
 
@@ -116,11 +116,11 @@ Les boutons « enregistrer un brouillon » et « déposer le dossier », auparav
 
 ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-L7_aKvpAJdAIEfxHudA%2F-Lpbm0lYdGad0YkK5GOI%2F-LpbmZAFje9rbg0DtjhX%2FDemo%20floating%20bar.gif?alt=media\&token=5dc526f9-4d41-4131-9671-b16e1ad247c8)
 
-## Changez l'adresse e-mail associée à votre compte demarches-simplifiees.fr&#x20;
+## Changez l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**
 
 ![](../.gitbook/assets/screely-1568035441437.png)
 
-Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte demarches-simplifiees.fr. Plus d'informations ici :&#x20;
+Vous pouvez désormais facilement modifier l'adresse e-mail associée à votre compte **demarche.numerique.gouv.fr**. Plus d'informations ici :&#x20;
 
 {% embed url="https://www.demarches-simplifiees.fr/faq/usager/je-veux-changer-mon-adresse-email" %}
 
