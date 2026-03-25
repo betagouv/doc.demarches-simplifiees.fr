@@ -20,23 +20,23 @@ Pour connaître l'identifiant d'un instructeur, consultez la documentation [list
 
 La mutation `dossierModifierAnnotations` supporte les types de champs suivants :
 
-| Type de champ | Clé dans `value` | Type de valeur | Exemple |
-|---------------|------------------|----------------|---------|
-| Texte | `text` | `String` | `{ text: "Ma valeur" }` |
-| Zone de texte | `textarea` | `String` | `{ textarea: "Long texte..." }` |
-| Adresse électronique | `email` | `String` | `{ email: "user@example.com" }` |
-| Case à cocher | `checkbox` | `Boolean` | `{ checkbox: true }` |
-| Oui/Non | `yesNo` | `Boolean` | `{ yesNo: false }` |
-| Date | `date` | `ISO8601Date` | `{ date: "2024-01-15" }` |
-| Date et heure | `datetime` | `ISO8601DateTime` | `{ datetime: "2024-01-15T10:30:00Z" }` |
-| Nombre entier | `integerNumber` | `Int` | `{ integerNumber: 42 }` |
-| Nombre décimal | `decimalNumber` | `Float` | `{ decimalNumber: 3.14 }` |
-| Liste déroulante | `dropDownList` | `String` | `{ dropDownList: "Option A" }` |
-| Choix multiple | `multipleDropDownList` | `[String]` | `{ multipleDropDownList: ["Option A", "Option B"] }` |
-| Répétition | `repetition` | `Int` | `{ repetition: 3 }` (ajoute 3 lignes) |
+| Type de champ        | Clé dans `value`       | Type de valeur    | Exemple                                              |
+| -------------------- | ---------------------- | ----------------- | ---------------------------------------------------- |
+| Texte                | `text`                 | `String`          | `{ text: "Ma valeur" }`                              |
+| Zone de texte        | `textarea`             | `String`          | `{ textarea: "Long texte..." }`                      |
+| Adresse électronique | `email`                | `String`          | `{ email: "user@example.com" }`                      |
+| Case à cocher        | `checkbox`             | `Boolean`         | `{ checkbox: true }`                                 |
+| Oui/Non              | `yesNo`                | `Boolean`         | `{ yesNo: false }`                                   |
+| Date                 | `date`                 | `ISO8601Date`     | `{ date: "2024-01-15" }`                             |
+| Date et heure        | `datetime`             | `ISO8601DateTime` | `{ datetime: "2024-01-15T10:30:00Z" }`               |
+| Nombre entier        | `integerNumber`        | `Int`             | `{ integerNumber: 42 }`                              |
+| Nombre décimal       | `decimalNumber`        | `Float`           | `{ decimalNumber: 3.14 }`                            |
+| Liste déroulante     | `dropDownList`         | `String`          | `{ dropDownList: "Option A" }`                       |
+| Choix multiple       | `multipleDropDownList` | `[String]`        | `{ multipleDropDownList: ["Option A", "Option B"] }` |
+| Répétition           | `repetition`           | `Int`             | `{ repetition: 3 }` (ajoute 3 lignes)                |
 
 {% hint style="info" %}
-La valeur utilise un format "one_of" : vous devez fournir **exactement une** des clés correspondant au type de votre annotation.
+La valeur utilise un format "one\_of" : vous devez fournir **exactement une** des clés correspondant au type de votre annotation.
 {% endhint %}
 
 ## Exemple 1 : Modifier une annotation texte
@@ -53,7 +53,7 @@ Vous pouvez tester en executant le script suivant avec les variables d'environne
 require 'net/http'
 require 'uri'
 require 'json'
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 
 ### that's the GraphQL part.
 QUERY = <<~GRAPHQL_QUERY
@@ -196,5 +196,5 @@ Vous pouvez modifier plusieurs annotations en une seule mutation en ajoutant plu
 {% endhint %}
 
 {% hint style="info" %}
-Vous pouvez voir la documentation complète de cette mutation ici : [https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-DossierModifierAnnotationsPayload](https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-DossierModifierAnnotationsPayload)
+Vous pouvez voir la documentation complète de cette mutation ici : [https://demarche.numerique.gouv.fr/graphql/schema/mutations/dossierModifierAnnotations](https://demarche.numerique.gouv.fr/graphql/schema/mutations/dossierModifierAnnotations)
 {% endhint %}

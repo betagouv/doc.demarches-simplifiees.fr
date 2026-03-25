@@ -12,7 +12,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 QUERY_INSTRUCTEURS = "
 query getDemarche(
   $demarcheNumber: Int!

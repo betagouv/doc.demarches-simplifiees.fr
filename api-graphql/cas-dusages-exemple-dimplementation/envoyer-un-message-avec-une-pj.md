@@ -41,7 +41,7 @@ require 'uri'
 require 'json'
 require 'byebug'
 require 'digest'
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 
 QUERY_UPLOAD_REQUEST = "
 mutation createDirectUpload($input: CreateDirectUploadInput!) {
@@ -131,7 +131,7 @@ end
 {% endcode %}
 
 {% hint style="info" %}
-Vous pouvez voir la documentation des parametres de la mutation graphQL ici : [https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-CreateDirectUploadInput](https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-CreateDirectUploadInput)
+Vous pouvez voir la documentation des parametres de la mutation graphQL ici : [https://demarche.numerique.gouv.fr/graphql/schema/mutations/createDirectUpload](https://demarche.numerique.gouv.fr/graphql/schema/mutations/createDirectUpload)
 {% endhint %}
 
 La réponse HTTP de notre API sera de la forme suivante
@@ -152,10 +152,6 @@ La réponse HTTP de notre API sera de la forme suivante
 ```
 
 
-
-{% hint style="info" %}
-Vous pouvez voir la documentation de la réponse GraphQL ici : [https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-DirectUpload](https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-DirectUpload).&#x20;
-{% endhint %}
 
 Aussi notre script echo un exemple pour uploader le fichier via `curl`, il vous suffit de le copier/coller pour envoyer le même fichier sur notre object storage
 
@@ -182,7 +178,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 require 'byebug'
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 QUERY = "
 mutation dossierEnvoyerMessage($input: DossierEnvoyerMessageInput!) {
   dossierEnvoyerMessage(input: $input) {

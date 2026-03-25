@@ -21,7 +21,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 
 ### that's the GraphQL part.
 QUERY = <<~QUERY
@@ -110,7 +110,3 @@ puts "Debug: #{data.inspect}"
 
 ```
 {% endcode %}
-
-{% hint style="warning" %}
-
-{% endhint %}

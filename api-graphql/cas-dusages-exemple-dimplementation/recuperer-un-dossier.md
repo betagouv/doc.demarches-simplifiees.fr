@@ -14,7 +14,7 @@ require 'net/http'
 require 'uri'
 require 'json'
 
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 QUERY_DOSSIER = "
 query getDossier($dossierNumber: Int!) {
   dossier(number: $dossierNumber) {
@@ -101,5 +101,5 @@ Ce type d'appel à l'API permet une **intégration très légère de DS dans vot
 {% endhint %}
 
 {% hint style="info" %}
-Aussi vous pouvez renvoyer l'usager sur DS en reconstruisant le lien web vers son dossier en respectant le schema d'url suivant : https://www.demarches-simplifiees.fr/dossiers/${id\_du\_dossier}
+Aussi vous pouvez renvoyer l'usager sur DS en reconstruisant le lien web vers son dossier en respectant le schema d'url suivant : https://demarche.numerique.gouv.fr/dossiers/${id\_du\_dossier}
 {% endhint %}

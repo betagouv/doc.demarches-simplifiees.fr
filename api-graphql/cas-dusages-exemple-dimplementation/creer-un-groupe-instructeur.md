@@ -9,7 +9,7 @@ description: >-
 Lorsque vous gérez une démarche avec plusieurs services ou équipes, vous pouvez créer des groupes d'instructeurs pour organiser le traitement des dossiers. Cette mutation permet de créer un nouveau groupe et d'y affecter des instructeurs dès sa création.
 
 {% hint style="info" %}
-Le numéro de la démarche est celui visible dans l'URL de la démarche : `https://www.demarches-simplifiees.fr/administrateurs/procedures/{numero}`
+Le numéro de la démarche est celui visible dans l'URL de la démarche : `https://demarche.numerique.gouv.fr/administrateurs/procedures/{numero}`
 {% endhint %}
 
 Vous pouvez tester en executant le script suivant avec les variables d'environnement adaptées :
@@ -24,7 +24,7 @@ Vous pouvez tester en executant le script suivant avec les variables d'environne
 require 'net/http'
 require 'uri'
 require 'json'
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 
 ### that's the GraphQL part.
 QUERY = <<~GRAPHQL_QUERY
@@ -117,5 +117,5 @@ Vous pouvez ajouter plusieurs instructeurs dès la création en ajoutant des él
 {% endhint %}
 
 {% hint style="info" %}
-Vous pouvez voir la documentation complète de cette mutation ici : [https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-GroupeInstructeurCreerPayload](https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-GroupeInstructeurCreerPayload)
+Vous pouvez voir la documentation complète de cette mutation ici : [https://demarche.numerique.gouv.fr/graphql/schema/mutations/groupeInstructeurCreer](https://demarche.numerique.gouv.fr/graphql/schema/mutations/groupeInstructeurCreer)
 {% endhint %}

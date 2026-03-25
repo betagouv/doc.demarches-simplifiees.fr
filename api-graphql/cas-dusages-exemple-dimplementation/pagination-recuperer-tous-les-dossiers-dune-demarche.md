@@ -77,7 +77,7 @@ require 'uri'
 require 'json'
 
 
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 CURSOR_STORAGE = 'lastCursor'
 EMPTY_CURSOR = {}
 

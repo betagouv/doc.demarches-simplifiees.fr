@@ -24,7 +24,7 @@ Vous pouvez tester en executant le script suivant avec les variables d'environne
 require 'net/http'
 require 'uri'
 require 'json'
-ENDPOINT = URI('https://www.demarches-simplifiees.fr/api/v2/graphql')
+ENDPOINT = URI('https://demarche.numerique.gouv.fr/api/v2/graphql')
 
 ### that's the GraphQL part.
 QUERY = <<~GRAPHQL_QUERY
@@ -97,5 +97,5 @@ puts "Info: dossier reassigned to groupe instructeur: #{data}"
 {% endcode %}
 
 {% hint style="info" %}
-La mutation retourne le dossier avec son nouveau groupe instructeur. Vous pouvez voir la documentation complète de cette mutation ici : [https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-DossierChangerGroupeInstructeurPayload](https://www.demarches-simplifiees.fr/graphql/schema/index.html#definition-DossierChangerGroupeInstructeurPayload)
+La mutation retourne le dossier avec son nouveau groupe instructeur. Vous pouvez voir la documentation complète de cette mutation ici : [https://demarche.numerique.gouv.fr/graphql/schema/mutations/groupeInstructeurModifier](https://demarche.numerique.gouv.fr/graphql/schema/mutations/groupeInstructeurModifier)
 {% endhint %}
