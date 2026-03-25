@@ -1,21 +1,19 @@
 ---
-description: Comment créer sa démarche sur demarches-simplifiees.fr ?
+description: Comment créer sa démarche sur demarche.numerique.gouv.fr ?
 ---
 
 # Tutoriel administrateur
 
-Ce tutoriel présente les étapes de création d’une démarche sur demarches-simplifiees.fr par un administrateur.
+Ce tutoriel présente les étapes de création d’une démarche sur **demarche.numerique.gouv.fr** par un administrateur.
 
 Vous avez des questions ? Vous pouvez nous contacter à tout moment depuis votre interface administrateur grâce au Chat situé en bas à droite de la page :&#x20;
 
 <figure><img src="../.gitbook/assets/image (33).png" alt="" width="325"><figcaption></figcaption></figure>
 
-Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarches-simplifiees.fr**
-
-
+Vous avez également la possibilité de nous contacter à l'adresse : **contact@demarche.numerique.gouv.fr**
 
 {% hint style="info" %}
-**ATTENTION** : nous apportons continuellement des améliorations à demarches-simplifiees.fr.&#x20;
+**ATTENTION** : nous apportons continuellement des améliorations à **demarche.numerique.gouv.fr**&#x20;
 {% endhint %}
 
 \
@@ -25,11 +23,11 @@ Un administrateur est en charge de la construction du formulaire et de la gestio
 
 ## 1. Création d’un compte administrateur
 
-**Rendez-vous sur la page :** [**https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees**](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees)
+**Rendez-vous sur la page :** [**https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique**](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique)
 
 <figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>Formulaire d'ouverture de compte administrateur </p></figcaption></figure>
 
-Les comptes administrateurs sont les seuls comptes que l'équipe demarches-simplifiees.fr  instruit. En effet, ils sont uniquement réservés aux agents publics.&#x20;
+Les comptes administrateurs sont les seuls comptes que l'équipe **demarche.numerique.gouv.fr** instruit. En effet, ils sont uniquement réservés aux agents publics.&#x20;
 
 Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
 
@@ -37,9 +35,9 @@ Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à crée
 Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,  nous vous enverrons un mail vous demandant de vérifier votre compte. Il suffit alors de cliquer sur le lien contenu dans l'e-mail envoyé automatiquement par nos services.
 {% endhint %}
 
-## 2. Se connecter à demarches-simplifiees.fr
+## 2. Se connecter à **demarche.numerique.gouv.fr**&#x20;
 
-[Rendez-vous sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte demarches-simplifiees.fr et le mot de passe indiqué lors de la création de votre compte.
+[Rendez-vous sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte **demarche.numerique.gouv.fr** et le mot de passe indiqué lors de la création de votre compte.
 
 Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "France connect". &#x20;
 
@@ -64,13 +62,13 @@ Vous avez un accès direct à vos démarches en sélectionnant le numéro de la 
 
 Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié. Cela vous permet également de cloner une démarche existante.
 
-Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches simplifies pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut, service, département, type d'usager , date de publication ou encore par thématique.&#x20;
+Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut, service, département, type d'usager , date de publication ou encore par thématique.&#x20;
 
 <figure><img src="../.gitbook/assets/Sans titre 1.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Découvrir les nouveautés&#x20;
 
-Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de Démarches Simplifiées. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
+Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
 
 <figure><img src="../.gitbook/assets/Sans titre 2.png" alt=""><figcaption></figcaption></figure>
 
@@ -100,7 +98,7 @@ Le principe est le même, il vous suffit de rechercher la démarche que vous sou
 
 En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !&#x20;
 
-**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
+**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
 
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.&#x20;
@@ -155,7 +153,7 @@ Afin d’être en conformité avec le Règlement Général sur la Protection des
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**À savoir que les dossiers sur démarches-simplifiees.fr seront automatiquement supprimés de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
+**À savoir que les dossiers sur demarche.numerique.gouv.fr seront automatiquement supprimés de la plateforme une fois cette période dépassée. L'usager est prévenu 2 semaines à l'avance  par mail.**&#x20;
 {% endhint %}
 
 Cependant tant l'instructeur que l'usager peuvent étendre la durée de conservation.&#x20;
@@ -283,7 +281,7 @@ Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois
 
 #### **c) Lien vers un autre dossier**&#x20;
 
-Ce type de champ donne la possibilité de relier deux dossiers déposés sur demarches-simplifiees entre eux.&#x20;
+Ce type de champ donne la possibilité de relier deux dossiers déposés sur **demarche.numerique.gouv.fr** entre eux.&#x20;
 
 Exemple : je fais une demande de subvention en 2019 et en 2020, je dois en faire le bilan. En choisissant ce type de champ, l’usager indique seulement le numéro du dossier 2019 dans son dossier 2020, et l’instructeur peut alors accéder facilement à la demande grâce à un lien présent dans le bilan.&#x20;
 
@@ -630,7 +628,7 @@ Vous pouvez également transmettre **une copie de votre démarche** à vos coll�
 
 Vous venez de finir votre formulaire, il convient désormais d’en prévoir les modalités d’instruction. Il s’agit de déterminer le processus que suivra l’instructeur pour traiter les dossiers déposés par l’usager.&#x20;
 
-À cette fin, demarches-simplifiees.fr vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**&#x20;
+À cette fin, **demarche.numerique.gouv.fr** vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**&#x20;
 
 D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisés dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
 
@@ -656,7 +654,7 @@ Une fois le formulaire annotations privées créé, vous pouvez alors cliquer su
 
 ## 10. Informer l’usager sur l’état d’avancement de sa démarche
 
-Il convient désormais de penser d’un point de vue usager à la vie de la démarche suite à la transmission du dossier. Dès à présent, il faut envisager les modalités d’information de l’usager sur l’état d’avancement de son dossier. Pour cela, demarches-simplifiees envoie des e-mails dans lesquels vous pouvez communiquer les informations souhaitées.
+Il convient désormais de penser d’un point de vue usager à la vie de la démarche suite à la transmission du dossier. Dès à présent, il faut envisager les modalités d’information de l’usager sur l’état d’avancement de son dossier. Pour cela, **demarche.numerique.gouv.fr** envoie des e-mails dans lesquels vous pouvez communiquer les informations souhaitées.
 
 ### Les e-mails automatiques&#x20;
 
@@ -848,7 +846,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
-Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) demarches-simplifiees.fr permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
+Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) **demarche.numerique.gouv.fr** permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
 
 ![](<../.gitbook/assets/image (59).png>)
 
@@ -921,7 +919,7 @@ Vous serez redirigé vers les options de configuration RDV Service Public. Vous 
 
 Depuis la carte "agents", vous pouvez voir, modifier et ajouter des agents.
 
-Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte Démarches Simplifiées.
+Il sera nécessaire d’ajouter tous les agents instructeurs avec l’email utilisé pour leur compte **demarche.numerique.gouv.fr**.
 
 Ils recevront alors une invitation par email à valider 💡
 
@@ -971,7 +969,7 @@ Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" a
 **ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépô du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
 {% endhint %}
 
-La publication de la démarche génère un lien de la forme : "https://www.demarches-simplifiees.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
+La publication de la démarche génère un lien de la forme : "https://www.demarche.numerique.gouv.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
 
 <figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
@@ -979,7 +977,7 @@ La fenêtre suivante apparaît :&#x20;
 
 <figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
-Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarches-simplifiees.fr/commencer/" de l'URL n'est pas modifiable.
+Nous vous recommandons de personnaliser la partie de l'URL située après "/commencer/" avec des mots lisibles par l'usager. La partie "https://www.demarche.numerique.gouv.fr/commencer/" de l'URL n'est pas modifiable.
 
 Vous pouvez ensuite indiquer si la démarche à publier en remplace une ancienne afin d'orienter les  usagers vers la nouvelle démarche.&#x20;
 

@@ -1,12 +1,12 @@
 ---
-description: "Cette page présente les tutoriels, sous forme de vidéo, mais aussi de textes, décrivant comment utiliser «\_Démarches simplifiées\_»."
+description: "Cette page présente les tutoriels, sous forme de vidéo, mais aussi de textes, décrivant comment utiliser «\_Démarche numérique\_»."
 ---
 
 # Tutoriels et vidéos
 
-Cette rubrique contient les tutoriels permettant d'apprendre à utiliser demarches-simplifiees.fr en tant qu’administrateur, instructeur et usager.
+Cette rubrique contient les tutoriels permettant d'apprendre à utiliser **demarche.numerique.gouv.fr** en tant qu’administrateur, instructeur et usager.
 
-Les tutoriels décrivent de manière précise les manipulations nécessaires à l'utilisation de demarches-simplifiees.fr selon les profils suivants :
+Les tutoriels décrivent de manière précise les manipulations nécessaires à l'utilisation de **demarche.numerique.gouv.fr** selon les profils suivants :
 
 * **Usager** : dépôt et suivi de dossiers
 * **Administrateur** : création et publication de formulaires

@@ -1,10 +1,10 @@
 ---
-description: Comment instruire un dossier sur demarches-simplifiees.fr ?
+description: Comment instruire un dossier sur demarche.numerique.gouv.fr ?
 ---
 
 # Tutoriel instructeur
 
-Ce tutoriel détaille les étapes d’instruction d'un dossier sur demarches-simplifiees.fr par un instructeur.
+Ce tutoriel détaille les étapes d’instruction d'un dossier sur**demarche.numerique.gouv.fr** par un instructeur.
 
 **Télécharger la version papier du tutoriel**
 
@@ -18,7 +18,7 @@ Un instructeur est une personne nommée par un administrateur afin de prendre en
 
 L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a été nommé (champs renseignés, pièces justificatives, messagerie). Il dispose des droits pour statuer sur le dossier (acceptation, classement sans suite, refus) et peut inviter un tiers à consulter un dossier afin d'émettre un avis sur celui-ci si l'administrateur de la démarche le permet.&#x20;
 
-## 1. Se connecter à demarches-simplifiees.fr
+## 1. Se connecter à **demarche.numerique.gouv.fr**
 
 * **Réception du message d’invitation à devenir instructeur sur une procédure :**&#x20;
 
@@ -33,7 +33,7 @@ Ce lien renvoie à la page suivante :
 
 ![L'adresse e-mail affichée sera celle de l'instructeur](../.gitbook/assets/mdp.jpg)
 
-Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à demarches-simplifiees.fr.
+Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à **demarche.numerique.gouv.fr**.
 
 Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://faq.demarches-simplifiees.fr/article/63-je-dois-confirmer-mon-compte-a-chaque-connexion).
 
@@ -114,7 +114,7 @@ Ces différents stades de traitement correspondent à :
 * **Traités** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.&#x20;
 * **Au total :** contient l'ensemble des dossiers déposés sur cette démarche, quel que soit leur statut (« à suivre », « suivis par moi », « traités »). Si les dossiers sont routés dans des groupes instructeurs, vous ne trouverez dans cet onglet que les dossiers du (des) groupe(s) dont vous faites partie.
 * **Expirants :** contient les dossiers dont le délai de conservation va bientôt expirer (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).
-* **A archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans demarches-simplifiees.fr sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
+* **A archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans **demarche.numerique.gouv.fr** sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
 * **Corbeille :** cet onglet contient :\
   \- les dossiers dont le délai de conservation a expiré (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).\
   \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.
@@ -940,17 +940,17 @@ Cette fonctionnalité vous permet d’envoyer un message à l’ensemble des usa
 
 ### **2. Prise de rendez-vous avec les usagers**&#x20;
 
-Il est désormais possible de faciliter les échanges avec les usagers en leur proposant un rendez-vous grâce à la solution **RDV Service Public**, interconnectée à **Démarches Simplifiées** !
+Il est désormais possible de faciliter les échanges avec les usagers en leur proposant un rendez-vous grâce à la solution **RDV Service Public**, interconnectée à **Démarche numérique** !
 
-Pour tester cette fonctionnalité, n’hésitez pas à nous contacter à l’adresse suivante : **contact@demarches-simplifiees.fr**.\
+Pour tester cette fonctionnalité, n’hésitez pas à nous contacter à l’adresse suivante : **contact@demarche.numerique.gouv.fr**.\
 Nous pourrons ainsi vous présenter la solution et vous accompagner dans la configuration de vos agendas en ligne !&#x20;
 
 <figure><img src="../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Prévisualisation et lien usager vers le formulaire&#x20;
 
-Afin de mieux comprendre les informations demandées aux usagers, vous avez la possibilité de prévisualiser le formulaire en cliquant sur le bouton **« Accompagnement des usagers »**, puis **«Prévisualiser le formulaire »**.
+Afin de mieux comprendre les informations demandées aux usagers, vous avez la possibilité de prévisualiser le formulaire en cliquant sur le bouton **« Accompagnement des usagers »**, puis **« Prévisualiser le formulaire »**.
 
-Vous pouvez également transmettre le lien URL vers la démarche en ligne en cliquant sur le bouton **«Copier le lien usager de la démarche »**.
+Vous pouvez également transmettre le lien URL vers la démarche en ligne en cliquant sur le bouton **« Copier le lien usager de la démarche »**.
 
 <figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>

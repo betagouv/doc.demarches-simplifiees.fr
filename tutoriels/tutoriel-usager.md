@@ -4,17 +4,13 @@ description: "Ce tutoriel présente les différentes fonctionnalités proposées
 
 # Tutoriel usager
 
-Ce tutoriel détaille les étapes de dépôt d'un dossier sur demarches-simplifiees.fr par un usager.
-
-
-
-### Pour rappel : La plateforme demarches-simplifiees.fr a changé de nom et s’appelle désormais demarche.numerique.gouv.fr.
+Ce tutoriel détaille les étapes de dépôt d'un dossier sur **demarche.numerique.gouv.fr** par un usager.
 
 ## 1. Accéder à la procédure pour le dépôt d’un dossier sur démarche numérique&#x20;
 
 ### **A. Accéder au lien vers la procédure**&#x20;
 
-La page d'accueil de demarches-simplifiees.fr permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
+La page d'accueil de **demarche.numerique.gouv.fr** permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
 <figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,13 +22,13 @@ Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'e
 
 
 
-### **B. Se connecter à demarches-simplifiees.fr**&#x20;
+### **B. Se connecter à demarche.numerique.gouv.fr**&#x20;
 
-Il existe 3 cas de connexion pour accéder à la procédure sur demarches-simplifiees.fr :
+Il existe 3 cas de connexion pour accéder à la procédure sur **demarche.numerique.gouv.fr** :
 
-* **L’usager possède déjà un compte** sur demarches-simplifiees.fr : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
+* **L’usager possède déjà un compte** sur **demarche.numerique.gouv.fr** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
 * **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign_up)&#x20;
-* **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers demarches-simplifiees.fr est automatique.
+* **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
 

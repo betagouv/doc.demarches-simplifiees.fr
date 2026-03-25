@@ -1,10 +1,10 @@
 # Tutoriel « expert invité »
 
-Ce tutoriel détaille les étapes à suivre pour donner un avis sur un dossier dans demarches-simplifiees.fr
+Ce tutoriel détaille les étapes à suivre pour donner un avis sur un dossier dans **demarche.numerique.gouv.fr**
 
 ## 1. Réception de l'invitation
 
-Lorsque l'instruction d'un dossier sur demarches-simplifiees.fr **nécessite l'avis d'un tiers qui n'est ni administrateur ni instructeur d'une démarche, ce dernier peut inviter ce tiers à consulter le dossier et à émettre un avis sur celui-ci.  Ce tiers se nomme "l'expert".**&#x20;
+Lorsque l'instruction d'un dossier sur **demarche.numerique.gouv.fr nécessite l'avis d'un tiers qui n'est ni administrateur ni instructeur d'une démarche, ce dernier peut inviter ce tiers à consulter le dossier et à émettre un avis sur celui-ci.  Ce tiers se nomme "l'expert".**&#x20;
 
 Cette invitation prend la forme d'un e-mail que l'invité reçoit.&#x20;
 
@@ -18,7 +18,7 @@ Si vous disposez déjà d'un compte, il vous suffit de vous connecter. En revanc
 
 ![](<../.gitbook/assets/image (149).png>)
 
-**Il est inutile de répondre à l'e-mail**, la réponse étant dans ce cas adressée au support de demarches-simplifiees.fr et non à l'instructeur.  **Vous devez impérativement vous connecter afin de donner votre avis.**&#x20;
+**Il est inutile de répondre à l'e-mail**, la réponse étant dans ce cas adressée au support de **demarche.numerique.gouv.fr** et non à l'instructeur.  **Vous devez impérativement vous connecter afin de donner votre avis.**&#x20;
 
 ## 2. Présentation de l'interface
 
