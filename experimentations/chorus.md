@@ -12,7 +12,7 @@ Vous êtes concerné par cette expérimentation si :&#x20;
 * vous usagers vous sollicitent régulière pour savoir ou en est l'état de paiement de leurs subvention
 * votre service opérère des solution de data visualisation autour du budget&#x20;
 
-Si vous souhaitez prendre part a cette expérimentation, contactez nous par mail (contact@demarches-simplifiees).
+Si vous souhaitez prendre part a cette expérimentation, contactez nous par mail (contact@demarche.numerique.gouv.fr.
 
 Nous avons mis en place plusieurs solutions pour faciliter le rapprochement d'exports/API des données DS avec votre SI.
 

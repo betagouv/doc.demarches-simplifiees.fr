@@ -1,8 +1,8 @@
 ---
 description: >-
   Vous trouverez dans cette page un tutoriel qui explique comment dupliquer des
-  démarches modèles déja existantes sur Démarches-simplifiées en fonction d'une
-  thématique.
+  démarches modèles déja existantes sur demarche.numerique.gouv.fr en fonction
+  d'une thématique.
 ---
 
 # Démarches modèles à dupliquer
@@ -12,7 +12,7 @@ description: >-
 Sans compte administrateur, vous n'avez pas les droits pour créer des démarches en ligne.
 
 Pour obtenir un compte administrateur, je vous invite à remplir le formulaire suivant :\
-[https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees](https://www.demarches-simplifiees.fr/commencer/demande-d-inscription-a-demarches-simplifiees)
+[https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique)
 
 \
 Une fois le dossier accepté, nous vous créerons le compte administrateur et vous aurez les accès pour passer à l’étape 2.&#x20;

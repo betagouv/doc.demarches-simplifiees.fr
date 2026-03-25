@@ -7,7 +7,7 @@ description: >-
 
 # Démarches relatives au permis de conduire
 
-demarches-simplifiees.fr héberge quatre types de démarches relatives au permis de conduire :&#x20;
+**demarche.numerique.gouv.fr** héberge quatre types de démarches relatives au permis de conduire :&#x20;
 
 * Démarches relatives aux échanges de permis étrangers
 * Démarches concernant la demande de place à l’examen pratique du permis de conduire
@@ -26,7 +26,7 @@ demarches-simplifiees.fr héberge quatre types de démarches relatives au permis
 
 ## Démarches disponibles sur notre site
 
-Demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
+**demarche.numerique.gouv.fr** est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. S'agissant du permis de conduire, seuls certains départements ont fait le choix d'utiliser cette plateforme. C'est pourquoi toutes les démarches administratives ne sont pas répertoriées sur notre site.&#x20;
 
 **Nous vous invitons à consulter le site de la préfecture de votre département afin de prendre connaissance des procédures qui ne figurent pas dans notre documentation. Il s’agit en effet d’une liste non exhaustive.**
 
@@ -87,7 +87,7 @@ La confirmation de vos coordonnées postales vous sera demandée à la fin de l'
 
 La procédure nationale ci-dessous permet également de déposer vos dossiers pour les demandes de première labellisation, de renouvellement et d’audit :&#x20;
 
-[https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite](https://www.demarches-simplifiees.fr/commencer/label-qualite-ecoles-de-conduite)
+[https://demarche.numerique.gouv.fr/commencer/label-qualite-ecoles-de-conduite](https://demarche.numerique.gouv.fr/commencer/label-qualite-ecoles-de-conduite)
 
 
 
@@ -152,46 +152,46 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 \
 **Demande d'adhésion au label qualité de l'enseignement**\
 55 - Déclaration de formation post-permis - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/declaration-formation-post-permis\_55](https://www.demarches-simplifiees.fr/commencer/declaration-formation-post-permis_55)\
+[https://demarche.numerique.gouv.fr/commencer/declaration-formation-post-permis\_55](https://demarche.numerique.gouv.fr/commencer/declaration-formation-post-permis_55)\
 \
 55 - Demande de convention dans le cadre du dispositif « Permis à un euro par jour » entre l'État et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/demande-convention-permis-1-euro\_55](https://www.demarches-simplifiees.fr/commencer/demande-convention-permis-1-euro_55)\
+[https://demarche.numerique.gouv.fr/commencer/demande-convention-permis-1-euro\_55](https://demarche.numerique.gouv.fr/commencer/demande-convention-permis-1-euro_55)\
 \
 55 - Dénonciation de la convention "Permis à un euro par jour" entre l'Etat et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/denonciation-convention-permis-1-euro\_55](https://www.demarches-simplifiees.fr/commencer/denonciation-convention-permis-1-euro_55)\
+[https://demarche.numerique.gouv.fr/commencer/denonciation-convention-permis-1-euro\_55](https://demarche.numerique.gouv.fr/commencer/denonciation-convention-permis-1-euro_55)\
 \
 55 - Dépôt de l'attestation de garantie financière d'un établissement d'enseignement de la conduite des véhicules à moteur et de la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/garantie-financiere-ae-55](https://www.demarches-simplifiees.fr/commencer/garantie-financiere-ae-55)\
+[https://demarche.numerique.gouv.fr/commencer/garantie-financiere-ae-55](https://demarche.numerique.gouv.fr/commencer/garantie-financiere-ae-55)\
 \
 55 - Signalement de la suspension ou du retrait d'une certification ou d'un label ayant permis la reconnaissance de l'équivalence au label "qualité des formations au sein des écoles de conduite" - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/suspension-retrait-equivalence-label-ae-55](https://www.demarches-simplifiees.fr/commencer/suspension-retrait-equivalence-label-ae-55)\
+[https://demarche.numerique.gouv.fr/commencer/suspension-retrait-equivalence-label-ae-55](https://demarche.numerique.gouv.fr/commencer/suspension-retrait-equivalence-label-ae-55)\
 \
 \
 **Centres de Sensibilisation à la Sécurité Routière**\
 \
 55 - Demande d'agrément de centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/agrement-cssr\_55](https://www.demarches-simplifiees.fr/commencer/agrement-cssr_55)\
+[https://demarche.numerique.gouv.fr/commencer/agrement-cssr\_55](https://demarche.numerique.gouv.fr/commencer/agrement-cssr_55)\
 \
 55 - Demande de renouvellement d'agrément de centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/renouvellement-agrement-cssr\_55](https://www.demarches-simplifiees.fr/commencer/renouvellement-agrement-cssr_55)\
+[https://demarche.numerique.gouv.fr/commencer/renouvellement-agrement-cssr\_55](https://demarche.numerique.gouv.fr/commencer/renouvellement-agrement-cssr_55)\
 \
 55 - Ajout / Retrait / Changement de salle(s) de formation - Demande de modification d'agrément d'un centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/modification-salle-cssr\_55](https://www.demarches-simplifiees.fr/commencer/modification-salle-cssr_55)\
+[https://demarche.numerique.gouv.fr/commencer/modification-salle-cssr\_55](https://demarche.numerique.gouv.fr/commencer/modification-salle-cssr_55)\
 \
 55 - Ajout ou retrait de personnes désignées pour la gestion technique et administrative des stages organisés par un centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/modification-gta-cssr\_55](https://www.demarches-simplifiees.fr/commencer/modification-gta-cssr_55)\
+[https://demarche.numerique.gouv.fr/commencer/modification-gta-cssr\_55](https://demarche.numerique.gouv.fr/commencer/modification-gta-cssr_55)\
 \
 55 - Modification de la raison sociale d'un centre de sensibilisation à la sécurité routière - Demande de modification d'agrément d'un centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/modification-raison-sociale-cssr\_55](https://www.demarches-simplifiees.fr/commencer/modification-raison-sociale-cssr_55)\
+[https://demarche.numerique.gouv.fr/commencer/modification-raison-sociale-cssr\_55](https://demarche.numerique.gouv.fr/commencer/modification-raison-sociale-cssr_55)\
 \
 55 - Demande de maintien de l'agrément d'un centre de sensibilisation à la sécurité routière à la suite du décès ou de l'incapacité physique ou légale de l'exploitant à gérer ou diriger son établissement - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/maintien-agrement-incapacite\_55](https://www.demarches-simplifiees.fr/commencer/maintien-agrement-incapacite_55)\
+[https://demarche.numerique.gouv.fr/commencer/maintien-agrement-incapacite\_55](https://demarche.numerique.gouv.fr/commencer/maintien-agrement-incapacite_55)\
 \
 55 - Transmission annuelle du rapport d'activité et du calendrier prévisionnel des stages organisés par un centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/transmission\_rapport\_calendrier\_cssr\_55](https://www.demarches-simplifiees.fr/commencer/transmission_rapport_calendrier_cssr_55)\
+[https://demarche.numerique.gouv.fr/commencer/transmission\_rapport\_calendrier\_cssr\_55](https://demarche.numerique.gouv.fr/commencer/transmission_rapport_calendrier_cssr_55)\
 \
 55 - Déclaration d'annulation, d'ajout ou de modification de stages organisés par un centre de sensibilisation à la sécurité routière - Département de la Meuse\
-[https://www.demarches-simplifiees.fr/commencer/modification\_stage\_cssr\_55](https://www.demarches-simplifiees.fr/commencer/modification_stage_cssr_55)
+[https://demarche.numerique.gouv.fr/commencer/modification\_stage\_cssr\_55](https://demarche.numerique.gouv.fr/commencer/modification_stage_cssr_55)
 
 ### 76 - Seine-Maritime
 
@@ -206,19 +206,19 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 ## 84 - Vaucluse
 
 * Inscription à l'épreuve théorie générale (code de la route) - séances spécifiques (NF/DYS/sourds et malentendants) :\
-  [https://www.demarches-simplifiees.fr/commencer/inscription-etg-etat](https://www.demarches-simplifiees.fr/commencer/inscription-etg-etat)
+  [https://demarche.numerique.gouv.fr/commencer/inscription-etg-etat](https://demarche.numerique.gouv.fr/commencer/inscription-etg-etat)
 * Demande d'attestation de codification pour aménagement des véhicules pour tenir compte du handicap\
-  &#x20;[https://www.demarches-simplifiees.fr/commencer/codification-conduite-handicap](https://www.demarches-simplifiees.fr/commencer/codification-conduite-handicap)
+  &#x20;[https://demarche.numerique.gouv.fr/commencer/codification-conduite-handicap](https://demarche.numerique.gouv.fr/commencer/codification-conduite-handicap)
 * Demande d'agrément pour l'exploitation d'un établissement d'enseignement de la conduite des véhicules à moteur et de la sécurité routière :\
-  &#x20;[https://www.demarches-simplifiees.fr/commencer/agrementautoecole](https://www.demarches-simplifiees.fr/commencer/agrementautoecole)
+  &#x20;[https://demarche.numerique.gouv.fr/commencer/agrementautoecole](https://demarche.numerique.gouv.fr/commencer/agrementautoecole)
 * Demande d'autorisation d'enseigner, à titre onéreux, la conduite des véhicules à moteur et de la sécurité routière :\
-  &#x20;[https://www.demarches-simplifiees.fr/commencer/autorisationdenseigner](https://www.demarches-simplifiees.fr/commencer/autorisationdenseigner)
+  &#x20;[https://demarche.numerique.gouv.fr/commencer/autorisationdenseigner](https://demarche.numerique.gouv.fr/commencer/autorisationdenseigner)
 * Demande de modification d'adresse mail dans l'application RdVPermis :\
-  [https://www.demarches-simplifiees.fr/commencer/modificationmailcandidat](https://www.demarches-simplifiees.fr/commencer/modificationmailcandidat)
+  [https://demarche.numerique.gouv.fr/commencer/modificationmailcandidat](https://demarche.numerique.gouv.fr/commencer/modificationmailcandidat)
 * Demande de renouvellement de label qualité des formations au sein des écoles de conduite :\
-  [https://www.demarches-simplifiees.fr/commencer/renouvellementlabel84](https://www.demarches-simplifiees.fr/commencer/renouvellementlabel84)
+  [https://demarche.numerique.gouv.fr/commencer/renouvellementlabel84](https://demarche.numerique.gouv.fr/commencer/renouvellementlabel84)
 * Demande d'adhésion au label qualité des formations au sein des écoles de conduite :\
-  [https://www.demarches-simplifiees.fr/commencer/demandedadhesionaulabelqualite84](https://www.demarches-simplifiees.fr/commencer/demandedadhesionaulabelqualite84)
+  [https://demarche.numerique.gouv.fr/commencer/demandedadhesionaulabelqualite84](https://demarche.numerique.gouv.fr/commencer/demandedadhesionaulabelqualite84)
 
 ### 88 - Vosges
 

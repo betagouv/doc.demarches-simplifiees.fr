@@ -10,7 +10,7 @@ Dans le cadre de la validation d'un champ de formulaire elle sert à valider les
 
 
 
-Afin d'activer ce type de champ par démarche, veuillez vous rapprocher de notre équipe support (contact@demarches-simplifiees.fr) avec les numéros de démarches sur lesquelles vous voulez tester.\
+Afin d'activer ce type de champ par démarche, veuillez vous rapprocher de notre équipe support (contact@demarche.numerique.gouv.fr) avec les numéros de démarches sur lesquelles vous voulez tester.\
 \
 Une fois que la fonctionnalité est activée, vous pouvez vous rendre dans l'éditeur de champs et choisir un type de champ expression régulière :&#x20;
 
