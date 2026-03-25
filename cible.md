@@ -18,7 +18,7 @@ Les démarches dématérialisées peuvent concerner des particuliers, des entrep
 
 Il peut s'agir d'appels à projets, de procédures de création d'entreprise, de démarches d'enregistrement, d'inscription, de demande d'autorisation ou bien d'agrément ou des démarches internes à destination des agents publics…
 
-demarches-simplifiees.fr est adapté lorsque :
+**demarche.numerique.gouv.fr** est adapté lorsque :
 
 * L'usager doit transmettre des pièces jointes (jusqu'à 200 Mo par pièce jointe) ;
 * Une trace juridique de la demande doit être conservée (horodatage et stockage des dossiers) ;
@@ -27,7 +27,7 @@ demarches-simplifiees.fr est adapté lorsque :
 * La demande est instruite par plusieurs services d’un même organisme public ;
 * La demande est instruite avec des partenaires publics (collectivités, agences…) ;
 * L'instruction débouche sur la délivrance d’une attestation (éditeur d’attestation) ;
-* Il existe déjà une application interne pour traiter les demandes (API permettant de sortir les données de demarches-simplifiees.fr).
+* Il existe déjà une application interne pour traiter les demandes (API permettant de sortir les données de **demarche.numerique.gouv.fr**).
 * La demande implique une prise de rendez-vous ( interconnexion avec [l'outil RDV service public ](https://rdv.anct.gouv.fr/))
 
 En revanche, l'application n'est pas l'outil le plus adapté dans les cas suivants :

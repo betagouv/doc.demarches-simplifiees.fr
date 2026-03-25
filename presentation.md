@@ -7,7 +7,7 @@ description: "Cette page présente les grands principes de «\_Démarche numéri
 _**Vidéo Vimeo (**&#x6C;es informations contenues dans cette vidéo sont explicitées dans le texte en dessous)_
 
 {% embed url="https://vimeo.com/333750506" %}
-5 minutes pour comprendre demarches-simplifiees.fr
+5 minutes pour comprendre **demarche.numerique.gouv.fr**
 {% endembed %}
 
 **demarche.numerique.gouv.fr** est une application en ligne qui permet à tous les organismes exerçant des missions de service public de créer des démarches en ligne en quelques minutes et de gérer les demandes des usagers sur une plateforme dédiée.
@@ -26,7 +26,7 @@ C’est loin d’être le cas.
 
 Pour les seules démarches des entreprises sous la responsabilité de l’État, plus de 1000 procédures sont encore gérées uniquement au format papier. Au rythme d’environ 100 démarches dématérialisées par an, il faudra près de 10 ans pour achever la dématérialisation.
 
-Si chaque administration fait le choix de développer ses propres outils informatiques, au lieu d’utiliser un outil mutualisé comme demarches-simplifiees.fr, ce sont des dizaines de millions d’euros qui seront dépensées en pure perte…
+Si chaque administration fait le choix de développer ses propres outils informatiques, au lieu d’utiliser un outil mutualisé comme **demarche.numerique.gouv.fr**, ce sont des dizaines de millions d’euros qui seront dépensées en pure perte…
 
 ## Un produit issu du programme « Dites-le nous une fois »
 

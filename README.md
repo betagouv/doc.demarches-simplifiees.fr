@@ -8,7 +8,7 @@ description: "Cette page présente l'objectif de demarche.numerique.gouv.fr\_: l
 
 ### Retrouvez le guide pratique pour dématérialiser vos démarches avec « Démarche numérique »
 
-{% file src=".gitbook/assets/Guide des bonnes pratiques démarche numérique.pdf" %}
+{% file src=".gitbook/assets/Guide des bonnes pratiques démarches-simplifiees.pdf" %}
 
 ### Retrouvez le bilan d'utilisation de la plateforme de l'année 2025 !
 
