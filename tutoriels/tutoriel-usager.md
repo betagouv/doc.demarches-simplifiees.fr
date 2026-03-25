@@ -6,11 +6,7 @@ description: "Ce tutoriel présente les différentes fonctionnalités proposées
 
 Ce tutoriel détaille les étapes de dépôt d'un dossier sur demarches-simplifiees.fr par un usager.
 
-Au regard des nouvelles fonctionnalités, il est conseillé de prioriser la lecture de ce tutoriel à la vidéo de présentation ci-dessous.
 
-## Présentation en vidéo
-
-{% embed url="https://vimeo.com/386048198" %}
 
 ### Pour rappel : La plateforme demarches-simplifiees.fr a changé de nom et s’appelle désormais demarche.numerique.gouv.fr.
 

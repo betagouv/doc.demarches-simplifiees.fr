@@ -8,14 +8,6 @@ Ce tutoriel détaille les étapes d’instruction d'un dossier sur demarches-sim
 
 **Télécharger la version papier du tutoriel**
 
-
-
-## Version vidéo
-
-Attention : nous apportons continuellement des améliorations à demarches-simplifiees.fr. De ce fait, la vidéo ci-dessous n'est pas nécessairement à jour contrairement à la documentation écrite qui suit.
-
-{% embed url="https://player.vimeo.com/video/261479389?byline=0&portrait=0" %}
-
 ## **Webinaire :**&#x20;
 
 Participez à nos webinaires dédiés aux instructeurs, **organisés chaque troisième mardi du mois,** pour vous former et poser toutes vos questions. **L'invitation se trouve dans l'onglet "nouveautés" de votre interface instructeur.**&#x20;
