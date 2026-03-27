@@ -18,7 +18,19 @@ Afin d'accéder à une démarche, et subséquemment à la possibilité de créer
 
 Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'exemple ci-dessous :&#x20;
 
-<figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+<!--screenshot
+{
+  "url": "https://demarche.numerique.gouv.fr/commencer/demande-de-versement-solde-detr",
+  "view": ["app/views/layouts/procedure_context.html.haml", "app/views/commencer/show.html.haml"],
+  "date": "2026-03-27",
+  "viewport": "1440x900",
+  "authenticated_as": null,
+  "data_sensitivity": false,
+  "replaced": "image (345).png",
+  "gitbook_section": "### A. Accéder au lien vers la procédure"
+}
+-->
+<figure><img src="../.gitbook/assets/tuto-usager-commencer-demarche.png" alt="Page d'accueil d'une démarche avec les options de connexion"><figcaption></figcaption></figure>
 
 
 
