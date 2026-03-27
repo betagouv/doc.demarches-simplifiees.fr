@@ -73,7 +73,19 @@ Le formulaire peut viser deux types d'usagers :&#x20;
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.&#x20;
 
-<figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<!--screenshot
+{
+  "url": "https://demarche.numerique.gouv.fr/commencer/<slug>",
+  "view": ["app/views/layouts/procedure_context.html.haml", "app/views/users/commencer/show.html.haml"],
+  "date": "2026-03-27",
+  "viewport": "1440x900",
+  "authenticated_as": null,
+  "data_sensitivity": false,
+  "replaced": "image (266).png",
+  "gitbook_section": "### A. Page d accueil de la demarche"
+}
+-->
+<figure><img src="../.gitbook/assets/tuto-usager-accueil-demarche-siret.png" alt="Page d accueil d une demarche sur demarche.numerique.gouv.fr"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture 23.PNG" alt=""><figcaption></figcaption></figure>
 
