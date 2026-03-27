@@ -12,7 +12,24 @@ Ce tutoriel détaille les étapes de dépôt d'un dossier sur **demarche.numeriq
 
 La page d'accueil de **demarche.numerique.gouv.fr** permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
-<figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+<!--screenshot
+{
+  "url": "https://demarche.numerique.gouv.fr/users/sign_in?locale=fr",
+  "view": [
+    "app/views/layouts/login.html.haml",
+    "app/views/users/sessions/new.html.haml",
+    "app/views/shared/_france_connect_login.html.haml",
+    "app/components/dsfr/input_component.rb"
+  ],
+  "date": "2026-03-27",
+  "viewport": "1440x900",
+  "authenticated_as": null,
+  "data_sensitivity": false,
+  "replaced": "image (344).png",
+  "gitbook_section": "### A. Accéder au lien vers la procédure"
+}
+-->
+<figure><img src="../.gitbook/assets/tuto-usager-page-connexion.png" alt="Page de connexion demarche.numerique.gouv.fr"><figcaption></figcaption></figure>
 
 Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.&#x20;
 
