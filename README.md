@@ -26,7 +26,7 @@ Nous organisons, chaque premier jeudi du mois, des webinaires de présentation p
 
 ### Support de présentation :&#x20;
 
-{% file src=".gitbook/assets/Présentation  Démarche numérique décembre 2025(2.pdf" %}
+{% file src=".gitbook/assets/Webinaire Démarche numérique avril 2026 v2.pdf" %}
 
 ### Objectif
 
