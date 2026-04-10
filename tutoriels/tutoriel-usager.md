@@ -6,98 +6,72 @@ description: "Ce tutoriel présente les différentes fonctionnalités proposées
 
 Ce tutoriel détaille les étapes de dépôt d'un dossier sur **demarche.numerique.gouv.fr** par un usager.
 
-## 1. Accéder à la procédure pour le dépôt d’un dossier sur démarche numérique&#x20;
+## 1. Accéder à la procédure pour le dépôt d’un dossier sur démarche numérique
 
-### **A. Accéder au lien vers la procédure**&#x20;
+### **A. Accéder au lien vers la procédure**
 
 La page d'accueil de **demarche.numerique.gouv.fr** permet à l'usager de se connecter : elle ne permet pas de créer un compte, ni de rechercher une démarche.
 
-<!--screenshot
-{
-  "url": "https://demarche.numerique.gouv.fr/users/sign_in?locale=fr",
-  "view": [
-    "app/views/layouts/login.html.haml",
-    "app/views/users/sessions/new.html.haml",
-    "app/views/shared/_france_connect_login.html.haml",
-    "app/components/dsfr/input_component.rb"
-  ],
-  "date": "2026-03-27",
-  "viewport": "1440x900",
-  "authenticated_as": null,
-  "data_sensitivity": false,
-  "replaced": "image (344).png",
-  "gitbook_section": "### A. Accéder au lien vers la procédure"
-}
--->
 <figure><img src="../.gitbook/assets/tuto-usager-page-connexion.png" alt="Page de connexion demarche.numerique.gouv.fr"><figcaption></figcaption></figure>
 
-Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.&#x20;
+Afin d'accéder à une démarche, et subséquemment à la possibilité de créer un compte, **le service administratif compétent en charge de la démarche communique le lien vers celle-ci à ses administrés** : le lien peut être publié sur le site internet du service compétent, ou communiqué directement aux usagers par e-mail ou par le biais de flyers et autres moyens de communication. L'usager a besoin du lien de la démarche pour pouvoir déposer un dossier.
 
-Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'exemple ci-dessous :&#x20;
+Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'exemple ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 
-
-
-### **B. Se connecter à demarche.numerique.gouv.fr**&#x20;
+### **B. Se connecter à demarche.numerique.gouv.fr**
 
 Il existe 3 cas de connexion pour accéder à la procédure sur **demarche.numerique.gouv.fr** :
 
 * **L’usager possède déjà un compte** sur **demarche.numerique.gouv.fr** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign_up)&#x20;
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://www.demarches-simplifiees.fr/users/sign_up)
 * **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
 
-<!--screenshot
-{
-  "skip": true,
-  "reason": "Capture d écran du service FranceConnect (service externe, pas géré par nous)",
-  "date": "2026-03-27"
-}
--->
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
 
 S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
-Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la récéption de celui-ci.&#x20;
+Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la récéption de celui-ci.
 
 ## 2. Déposer un dossier
 
 ### A. Page d'accueil de la démarche
 
-Le formulaire peut viser deux types d'usagers :&#x20;
+Le formulaire peut viser deux types d'usagers :
 
 * Une entreprise ou organisme possédant un numéro SIRET
 * Une personne physique
 
 **En tant qu'entreprise ou organisme possédant un numéro SIRET :**
 
-La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.&#x20;
+La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.
 
 <figure><img src="../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture 23.PNG" alt=""><figcaption></figcaption></figure>
 
-Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées auprès de l'INSEE et d'Infogreffe s'affiche comme suit :&#x20;
+Après avoir indiqué le numéro SIRET et cliqué sur le bouton « Valider », un récapitulatif des informations récupérées auprès de l'INSEE et d'Infogreffe s'affiche comme suit :
 
 <figure><img src="../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
 
-Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ».  Vous êtes alors redirigé vers le formulaire afin de commencer à compléter votre dossier.&#x20;
+Une fois les informations relatives à l'établissement vérifiées, cliquez sur le bouton « Continuer avec ces informations ». Vous êtes alors redirigé vers le formulaire afin de commencer à compléter votre dossier.
 
 **En tant que personne physique :**
 
-**Vous déposez un dossier pour vous-même:**&#x20;
+**Vous déposez un dossier pour vous-même:**
 
-Vous devez sélectionner l'option "pour vous" puis renseigner la civilité ( pour certaine démarche) et votre nom et prénom.&#x20;
+Vous devez sélectionner l'option "pour vous" puis renseigner la civilité ( pour certaine démarche) et votre nom et prénom.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.32.24.png" alt=""><figcaption></figcaption></figure>
 
-**Vous déposez un dossier pour un tiers bénéficiaire:**&#x20;
+**Vous déposez un dossier pour un tiers bénéficiaire:**
 
-Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre identité et celle du bénéficiaire.&#x20;
+Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre identité et celle du bénéficiaire.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.39.43.png" alt=""><figcaption><p>Connexion pour un bénéficiaire</p></figcaption></figure>
 
-Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier:&#x20;
+Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier:
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.43.08.png" alt=""><figcaption><p>Notifier le bénéficiaire</p></figcaption></figure>
 
@@ -111,24 +85,24 @@ Après avoir complété ces informations, vous devez cliquer sur « Continuer »
 **ATTENTION** : les champs à côté desquels figure un astérisque sont obligatoires. Cela signifie que le dépôt du dossier ne peut se faire que si ces champs sont remplis.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 10.46.10.png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 10.46.10.png" alt=""><figcaption><p>Exemple de champs obligatoires en tant qu'usager</p></figcaption></figure>
 
-**Déposer un document en pièce jointe**&#x20;
+**Déposer un document en pièce jointe**
 
 Le dépôt du dossier peut nécessiter l’ajout de pièces jointes afin de fournir des documents justificatifs.
 
-Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée. \
-Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf etc). Le format de pj peut être restreint.&#x20;
+Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée.\
+Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf etc). Le format de pj peut être restreint.
 
-Pour certaines démarches, plusieurs pièces jointes peuvent être demandées pour un seul champ.&#x20;
+Pour certaines démarches, plusieurs pièces jointes peuvent être demandées pour un seul champ.
 
-<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (222).png" alt=""><figcaption><p>Enregistrement des pièces jointes en tant qu'usager</p></figcaption></figure>
 
 Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au formulaire. Le document vierge est disponible dans la section « Pièces jointes ». Cliquez sur le lien en bleu, téléchargez le fichier, remplissez le document puis l'ajouter en pièce jointe dans le dossier.
 
-<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger</p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.&#x20;
+La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
 
 Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur): .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
 \
@@ -136,17 +110,17 @@ En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
-Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier un dossier.&#x20;
+Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier un dossier.
 
-En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».&#x20;
+En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».
 
 <figure><img src="../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez inviter plusieurs personnes à co-construire votre dossier.&#x20;
+Vous pouvez inviter plusieurs personnes à co-construire votre dossier.
 
 <figure><img src="../.gitbook/assets/image (270).png" alt=""><figcaption></figcaption></figure>
 
-La personne invitée reçoit alors un e-mail l’invitant à se connecter sur démarche numérique afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.&#x20;
+La personne invitée reçoit alors un e-mail l’invitant à se connecter sur démarche numérique afin d'accéder au dossier. Une fois connecté, l’invité a accès à l’ensemble du dossier et est libre de le modifier ou le compléter.
 
 **Toutefois, l'invité ne peut pas déposer le dossier. Seul l'usager à l'origine de la création du dossier dispose des droits pour déposer celui-ci.**
 
@@ -154,33 +128,29 @@ Vous avez également la possibilité de modifier votre identité en cas d’erre
 
 <figure><img src="../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
-### **C. Enregistrement automatique du brouillon**&#x20;
+### **C. Enregistrement automatique du brouillon**
 
 Lorsque vous remplissez un formulaire sur la plateforme, les informations que vous remplissez sont **enregistrées automatiquement**.
 
 <figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
 
-Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.&#x20;
+Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.
 
 Le brouillon est accessible depuis votre espace personnel et peut être complété à tout moment, tant que la démarche n'a pas été clôturée.
 
-Un message apparaît pour vous confirmer la sauvegarde de votre brouillon. Si le message de sauvegarde n'apparaît pas, assurez-vous que votre connexion internet soit active et que la page de votre navigateur n'ait pas expiré.&#x20;
+Un message apparaît pour vous confirmer la sauvegarde de votre brouillon. Si le message de sauvegarde n'apparaît pas, assurez-vous que votre connexion internet soit active et que la page de votre navigateur n'ait pas expiré.
 
 Si besoin, l'usager a la possibilité de télécharger le dossier vide en PDF (en bas de page)
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-24 à 15.15.35.png" alt=""><figcaption></figcaption></figure>
 
-
-
-**Le cas du dossier inéligible**&#x20;
+**Le cas du dossier inéligible**
 
 Dans certains cas, l’administration peut paramétrer un critère d’inéligibilité. Si un usager renseigne un dossier avec des champs correspondant à ces critères d’inéligibilité, il ne pourra pas déposer son dossier. Un message explicatif s’affiche alors :
 
 <figure><img src="../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
-
-
-**Accompagnement et informations de contact :**&#x20;
+**Accompagnement et informations de contact :**
 
 En tant qu’usager, vous pouvez contacter le service en charge de la démarche pour toute question concernant le dépôt de votre dossier, en utilisant les informations de contact situées en bas du formulaire. Une messagerie intégrée au dossier est également disponible après le dépôt de celui-ci.
 
@@ -188,9 +158,7 @@ Vous avez également la possibilité d’être accompagné dans votre démarche 
 
 <figure><img src="../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
-
-
-**Cadre juridique et statistiques :**&#x20;
+**Cadre juridique et statistiques :**
 
 En tant qu’usager, vous pouvez prendre connaissance du **cadre juridique relatif à la démarche en ligne** que vous déposez.\
 Vous y trouverez les informations concernant la rétention et l’archivage des données, ainsi que le texte encadrant la demande d’informations.
@@ -204,21 +172,21 @@ Pour y accéder, cliquez sur le lien **« Voir les statistiques de la démarche 
 
 Une fois le dossier complété, cliquez sur le bouton « **Déposer le dossier** » afin de le transmettre au service instructeur.
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
-Le dossier passe alors du statut « brouillon » au statut « déposé » ( qui remplace le statut "en construction").&#x20;
+Le dossier passe alors du statut « brouillon » au statut « déposé » ( qui remplace le statut "en construction").
 
-Le statut « déposé » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.&#x20;
+Le statut « déposé » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.
 
-L'usager a également la possibilité de **télécharger son dossier en PDF** au moment du dépôt du dossier.&#x20;
+L'usager a également la possibilité de **télécharger son dossier en PDF** au moment du dépôt du dossier.
 
 ### **E. Consultez l'attestation de dépôt de votre dossier**
 
-Une fois le dossier déposé, une attestation de dépôt de dossier est automatiquement générée. Elle est disponible dans l'onglet "suivi de votre dossier".&#x20;
+Une fois le dossier déposé, une attestation de dépôt de dossier est automatiquement générée. Elle est disponible dans l'onglet "suivi de votre dossier".
 
-Cette attestation comporte des informations telles que le nom, prénom de l'usager, la date de dépôt du dossier ainsi que son numéro, les coordonnées du service traitant, etc.&#x20;
+Cette attestation comporte des informations telles que le nom, prénom de l'usager, la date de dépôt du dossier ainsi que son numéro, les coordonnées du service traitant, etc.
 
 <figure><img src="../.gitbook/assets/image (348).png" alt=""><figcaption></figcaption></figure>
 
@@ -230,97 +198,87 @@ Exemple d'attestation de dépôt
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe ou via France connect, l'usager a accès à plusieurs onglets :  « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
+En se connectant avec son adresse e-mail et son mot de passe ou via France connect, l'usager a accès à plusieurs onglets : « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
 
 <figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
-**Recherche des dossiers et affichage des filtres :**&#x20;
+**Recherche des dossiers et affichage des filtres :**
 
 **Vous avez la possibilité de rechercher un dossier en saisissant le numéro de dossier, le nom/prénom ou encore des mots-clés relatifs aux dossiers dans la barre de recherche.**\
 Vous pouvez également afficher les dossiers par démarche.
 
-Par ailleurs, pour personnaliser votre tableau de bord et faciliter la recherche, vous pouvez **filtrer l’affichage** de vos dossiers selon plusieurs critères :&#x20;
+Par ailleurs, pour personnaliser votre tableau de bord et faciliter la recherche, vous pouvez **filtrer l’affichage** de vos dossiers selon plusieurs critères :
 
 * Le statut du dossier
 * La date de création du dossier
-* La date de dépôt du dossier&#x20;
+* La date de dépôt du dossier
 
 <figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
 
-
-
 **En cours**
 
-Cet onglet reprend toutes les démarches en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.&#x20;
+Cet onglet reprend toutes les démarches en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.
 
-Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.&#x20;
+Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.
 
 <figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
 #### Traités
 
-Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue.  3 décisions sont possibles:&#x20;
+Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue. 3 décisions sont possibles:
 
 * acceptation
-* &#x20;refus&#x20;
+* refus
 * classement sans suite
 
-En cas de refus ou de classement sans suite, l'administration doit motivée cette décision.&#x20;
+En cas de refus ou de classement sans suite, l'administration doit motivée cette décision.
 
 <figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
-Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.&#x20;
+Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, par demandeur, statut et date de mise à jour. Figure aussi l'email de la personne invitée qui a participé à la construction du dossier.
 
 **Décision du dossier avec accusé de lecture**
 
-Pour certaines démarches, l'administration a paramétré un accusé de lecture de la décision du dossier.&#x20;
+Pour certaines démarches, l'administration a paramétré un accusé de lecture de la décision du dossier.
 
 L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.00.24.png" alt=""><figcaption><p>Notification par email de l'accusé de lecture</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.01.38.png" alt=""><figcaption><p>Onglet résumé dans lequel s'affiche la décision </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.01.38.png" alt=""><figcaption><p>Onglet résumé dans lequel s'affiche la décision</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.14.40.png" alt=""><figcaption><p>Affichage de la décision </p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.14.40.png" alt=""><figcaption><p>Affichage de la décision</p></figcaption></figure>
 
 **Dossiers invités**
 
-Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier. **L'invité peut modifier le dossier mais ne peut le déposer à la place de l'usager qui a initié le dossier:**&#x20;
+Cet onglet reprend les dossiers sur lesquels l'usager a été invité afin d'apporter des modifications ou de participer à la complétude du dossier. **L'invité peut modifier le dossier mais ne peut le déposer à la place de l'usager qui a initié le dossier:**
 
 <figure><img src="../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
-**Dossiers expirants**&#x20;
+**Dossiers expirants**
 
 **Vous retrouverez dans cet onglet les dossiers arrivant à expiration et n’ayant pas encore été supprimés.**
 
 \
 En effet, afin d’être conforme au **RGPD** et à nos **Conditions Générales d’Utilisation**, les dossiers n’ont pas vocation à être conservés indéfiniment sur la plateforme. Vous recevrez un e-mail de notification 14 jours avant la suppression de votre dossier, comme illustré ci-dessous :
 
-
-
 <figure><img src="../.gitbook/assets/image (281).png" alt=""><figcaption></figcaption></figure>
 
-**Pour les dossiers traités  arrivant à expiration**, vous avez la possibilité de les télécharger au format PDF avant leur suppression, afin d’en conserver une trace :&#x20;
+**Pour les dossiers traités arrivant à expiration**, vous avez la possibilité de les télécharger au format PDF avant leur suppression, afin d’en conserver une trace :
 
 <figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
 
-
-
 **Pour les dossiers en brouillon**, vous avez la possibilité de les **conserver** selon la **durée de conservation** configurée par le service en charge de la démarche, comme illustré ci-dessous :
-
-
 
 <figure><img src="../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
-
-
-### Corbeille&#x20;
+### Corbeille
 
 Vous retrouverez dans cet onglet les dossiers qui n'ont pas été supprimés définitivement et que vous pouvez encore restaurer.
 
 <figure><img src="../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
 
-**Historique des dossiers supprimés :**&#x20;
+**Historique des dossiers supprimés :**
 
 Vous retrouverez dans cet onglet la liste des dossiers supprimés définitivement, soit parce que vous en êtes à l’initiative, soit en raison de l’expiration du délai maximal de conservation des dossiers.
 
@@ -338,26 +296,26 @@ Une fois la démarche débutée par l'usager et le dossier enregistré, celui-ci
 #### Déposé
 
 {% hint style="info" %}
-#### **Le statut « en construction » a été renommé en « déposé »**.
+**Le statut « en construction » a été renommé en « déposé ».**
 {% endhint %}
 
 Une fois le dossier déposé par l'usager, son statut est « déposé ». L'usager peut encore le modifier tant qu'il n'est pas passé en "instruction". La durée d'expiration des dossiers déposés est fixée par le service en charge de la démarche et est affichée dans votre interface usager, sous le numéro de dossier
 
 #### En instruction
 
-Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instructions n'expirent pas.&#x20;
+Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instructions n'expirent pas.
 
 #### Accepté / Classé sans suite / Refusé
 
-Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. A savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.&#x20;
+Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. A savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.
 
 Le dossier expirera à l’issue de la durée de conservation fixée par le service en charge de la démarche.
 
-**Dossier à corriger**&#x20;
+**Dossier à corriger**
 
 Un dossier à corriger est un dossier qui a été consulté par l'instructeur et ce dernier demande à l'usager d'apporter des modifications afin de pouvoir instruire le dossier (par exemple modifier une pièce jointe, etc). En tant qu’usager, vous recevrez un mail vous demandant de corriger votre dossier.
 
-La mention "à corriger" s'affiche alors sur le dossier. Une fois le dossier corrigé, l'instructeur sera informé de cette mise à jour.&#x20;
+La mention "à corriger" s'affiche alors sur le dossier. Une fois le dossier corrigé, l'instructeur sera informé de cette mise à jour.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-07-25 à 11.03.08.png" alt=""><figcaption><p>Dossier à corriger par l'usager</p></figcaption></figure>
 
@@ -381,11 +339,11 @@ Une fois les modifications effectuées, n'oubliez pas de cliquer sur le bouton �
 
 <figure><img src="../.gitbook/assets/image (352).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Si l'instructeur vous a invité à corriger le dossier, une mention s'affichera sur le dossier vous informant que le dossier "attend vos corrections". Vous pourrez ensuite consulter la messagerie du dossier pour prendre connaissance des corrections attendues par l'instructeur, puis vous pourrez modifier votre dossier.&#x20;
+Si l'instructeur vous a invité à corriger le dossier, une mention s'affichera sur le dossier vous informant que le dossier "attend vos corrections". Vous pourrez ensuite consulter la messagerie du dossier pour prendre connaissance des corrections attendues par l'instructeur, puis vous pourrez modifier votre dossier.
 
 <figure><img src="../.gitbook/assets/image (353).png" alt=""><figcaption></figcaption></figure>
 
-Une fois le dossier modifié, vous devrez cocher la case qui certifie que vous avez bien apporté les corrections attendues par l'instructeur de la démarche.&#x20;
+Une fois le dossier modifié, vous devrez cocher la case qui certifie que vous avez bien apporté les corrections attendues par l'instructeur de la démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2026-02-04 à 17.48.52.png" alt=""><figcaption></figcaption></figure>
 
@@ -395,48 +353,39 @@ Un onglet « Messagerie administration » est intégré au dossier : celui-ci re
 
 <figure><img src="../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
-Après avoir saisi votre message, vous pouvez cliquer sur le bouton "envoyer le message".&#x20;
+Après avoir saisi votre message, vous pouvez cliquer sur le bouton "envoyer le message".
 
 Vous avez également la possibilité de joindre un fichier au message (max 20 Mo) en cliquant sur «select. fichiers ».
 
 <figure><img src="../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
-
-
-En l’absence de réponse ou si la messagerie est désactivée après le traitement de votre dossier, vous avez la possibilité de contacter directement l’administration via les informations de contact affichées en bas de la page de la démarche concernée, sous la rubrique « Une question sur votre dossier ? ».&#x20;
+En l’absence de réponse ou si la messagerie est désactivée après le traitement de votre dossier, vous avez la possibilité de contacter directement l’administration via les informations de contact affichées en bas de la page de la démarche concernée, sous la rubrique « Une question sur votre dossier ? ».
 
 <figure><img src="../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
 
 ### F. Les différentes actions à effectuer sur un dossier
 
-En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :&#x20;
+En cliquant sur le bouton "**Actions" associé au dossier** vous pouvez :
 
-* **Transférer votre dossier** à un tiers en renseignant son adresse email : l'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorsque la demande de transfert est acceptée, le dossier est définitivement supprimé du compte initial de l’usager ayant transféré le dossier.&#x20;
+* **Transférer votre dossier** à un tiers en renseignant son adresse email : l'usager qui reçoit la demande de transfert peut accepter ou rejeter cette demande. S'il accepte la demande de transfert, le dossier apparaîtra dans l'onglet des dossiers "en cours" ou "traités" selon le statut du dossier. S'il refuse la demande, le dossier restera dans l'interface de celui qui l'a envoyé. Lorsque la demande de transfert est acceptée, le dossier est définitivement supprimé du compte initial de l’usager ayant transféré le dossier.
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 * **Dupliquer le dossier** : cette action permet à l’usager de commencer un nouveau dossier prérempli avec l’ensemble des informations et des pièces jointes renseignées dans le dossier d’origine. C’est un véritable gain de temps pour les usagers. **Cette action n’est possible que pour les dossiers déposés dans le cadre d’une même démarche, et uniquement si celle-ci est toujours active.**
-
-
-
 * **Mettre à la corbeille** : cette action permet à l’usager de supprimer son dossier. Toute suppression entraîne l’annulation de la demande. Cette action **n’est pas disponible pour les dossiers "en instruction"**. Une fois supprimé, le dossier apparaîtra dans l’onglet **"Corbeille"** de votre interface
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
 * **Commencer un nouveau dossier pour la même démarche** : vous serez redirigé vers un formulaire en ligne vierge. Cette action **n’est pas disponible si la démarche est close**. Dans ce cas, vous devrez obtenir le **nouveau lien de la démarche**, transmis par le service en charge, afin de pouvoir déposer un nouveau dossier.
 
-### G. Téléchargement du dossier&#x20;
+### G. Téléchargement du dossier
 
 **Une fois le dossier déposé**, l’usager a la possibilité de le télécharger au format PDF en accédant au dossier et en cliquant sur le bouton **"Télécharger mon dossier (PDF)"**.\
 Les échanges effectués via la messagerie du dossier figurent également dans ce document.\
 L’usager peut également, depuis le même espace, **télécharger l’attestation délivrée en cas d’acceptation du dossier**, si l’administration a prévu l’envoi de ce document.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous avez également **la possibilité de traduire la plateforme en anglais** en cliquant sur le bouton dédié situé en haut à droite de votre interface usager, comme ci-dessous :&#x20;
+Vous avez également **la possibilité de traduire la plateforme en anglais** en cliquant sur le bouton dédié situé en haut à droite de votre interface usager, comme ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

@@ -4,7 +4,7 @@ description: Comment instruire un dossier sur demarche.numerique.gouv.fr ?
 
 # Tutoriel instructeur
 
-Ce tutoriel détaille les étapes d’instruction d'un dossier sur**demarche.numerique.gouv.fr** par un instructeur.
+Ce tutoriel détaille les étapes d’instruction d'un dossier sur **demarche.numerique.gouv.fr** par un instructeur.
 
 **Télécharger la version papier du tutoriel**
 
@@ -23,17 +23,19 @@ L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a
 * **Réception du message d’invitation à devenir instructeur sur une procédure :**&#x20;
 
 Les **instructeurs** doivent obligatoirement être **affectés à une démarche** par les **administrateurs**.\
-Vous devez donc **contacter l’administrateur** afin de pouvoir **accéder aux dossiers** de la démarche concernée.
+Vous devez donc **contacter l’administrateur** de la démarche afin de pouvoir **accéder aux dossiers** que vous souhaitez instruire.
 
 Un instructeur nommé pour la première fois par un administrateur pour suivre une procédure reçoit une invitation par e-mail :&#x20;
 
-![](<../.gitbook/assets/Capture d’écran 2019-02-13 à 15.22.17.png>)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
-Ce lien renvoie à la page suivante :
+Puis, l'instructeur est renvoyé vers la page qui lui permet de créer son compte.&#x20;
 
-![L'adresse e-mail affichée sera celle de l'instructeur](../.gitbook/assets/mdp.jpg)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à **demarche.numerique.gouv.fr**.
+Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à **demarche.numerique.gouv.fr**.\
+\
+Si vous avez déja un compte Pro connect, vous pouvez également passer par ce biais pour vous connecter à Démarche numérique.&#x20;
 
 Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://faq.demarches-simplifiees.fr/article/63-je-dois-confirmer-mon-compte-a-chaque-connexion).
 
@@ -49,7 +51,7 @@ En tant qu'instructeurs, vous êtes tenus informés de l’**actualité** et des
 
 
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -69,7 +71,7 @@ L’onglet **« en test »** regroupe les démarches qui ne sont pas encore publ
 
 L’onglet **« terminée »** regroupe les démarches closes n'ayant plus de dossiers à traiter.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches . Pour cela, il suffit de cliquer sur le bouton "**personnaliser l'ordre**" :&#x20;
 
@@ -196,7 +198,7 @@ Dans l’exemple suivant, vous pouvez, grâce au filtre **« Personnaliser le ta
 
 En cliquant sur la colonne "Nom", "Prénom" ou "Date de dépôt ", l'affichage est modifié : dans cet exemple, nous avons cliqué sur "**date de dépôt" pour faire apparaître les dossiers par ordre chronologique de dépôt de dossier.**&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 En cliquant de nouveau sur la même colonne, **le tri est effectué en sens inverse.**
 
@@ -218,7 +220,7 @@ En suivant un dossier, **l'instructeur sera alors notifié&#x20;**_**via**_**&#x
 
 **L’instructeur pourra également être notifié par mail** lorsque l’usager lui aura envoyé un message via la messagerie du dossier. Il est donc **important que chaque dossier instruit soit suivi par au moins un instructeur afin que le service instructeur soit alerté en cas de changement concernant le dossier**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Plusieurs instructeurs peuvent suivre le même dossier.** Pour cela, les instructeurs peuvent **rechercher le dossier depuis l'onglet " au total"** en utilisant **le filtre "instructeur"** ou **se transférer le dossier** depuis l'onglet "**personnes impliquées"** du dossier.&#x20;
 
@@ -558,7 +560,7 @@ Sur le même principe que l'action de suivi des dossiers, il vous suffit de coch
 
 Il est également la possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
