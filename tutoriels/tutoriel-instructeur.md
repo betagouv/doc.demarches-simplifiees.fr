@@ -47,13 +47,9 @@ Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la 
 
 En tant qu'instructeurs, vous êtes tenus informés de l’**actualité** et des **dernières fonctionnalités développées** par notre équipe grâce à l’onglet **« Nouveautés »**, situé en haut de votre interface. C’est également depuis cet onglet que vous pouvez retrouver les **invitations** et les **liens de replay** de nos **webinaires**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-04-10 à 17.33.08.png" alt=""><figcaption></figcaption></figure>
 
-
-
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-04-10 à 17.35.56.png" alt=""><figcaption></figcaption></figure>
 
 * **Liste de suivi des démarches**
 
