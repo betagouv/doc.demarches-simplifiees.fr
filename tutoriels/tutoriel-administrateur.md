@@ -730,8 +730,9 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.47.56.png" alt=""><figcaption></figcaption></figure>
 
 * Pour gagner du temps, vous pouvez également affecter des instructeurs en important une liste CSV avec l'email des instructeurs. Un modèle du fichier à importer est à votre disposition.&#x20;
+* Vous pouvez également écraser les instructeurs existants pour soumettre une liste de nouveaux instructeurs.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.08.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-04-10 à 17.49.18.png" alt=""><figcaption></figcaption></figure>
 
 * Vous avez la possibilité de retirer ou rajouter des instructeurs à tout moment de l'instruction de la démarche.&#x20;
 
