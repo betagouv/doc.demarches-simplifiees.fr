@@ -236,36 +236,33 @@ INFORMATION : Pour toutes les demandes exceptionnelles de prolongation de visa l
 \
 -[ Renouvellement des titres de séjour « Article 50 TUE/Article 18(1) Accord de retrait du Royaume-Uni de l’UE » (Brexit) - Arrondissement de Créteil ](https://demarche.numerique.gouv.fr/commencer/renouvellement-des-titres-de-sejour-article-50-tue-21)<br>
 
+### Sous-préfecture de L’Haÿ-les-Roses :&#x20;
 
 
-* [Première demande de titre de séjour - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi)
-* [Demande d'autorisation provisoire de séjour (APS) fin d'études - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
-* [Demande de titre de séjour recherche d'emploi et création d'entreprise (RECE) - Sous-préfecture de l'Haÿ-les-Roses](https://www.demarches-simplifiees.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
-* [Renouvellement des titres de séjour « Article 50 TUE/Article 18(1) Accord de retrait du Royaume-Uni de l’UE » (Brexit) (sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/renouvellement-des-titres-de-sejour-article-50-tue-31)
-*   > > > Demande de rendez-vous pour un changement de statut étudiant/recherche d'emploi ou création d'entreprise/APS Post Master vers salarié/travailleur temporaire (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-3](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-3)\
-    > > > \
-    > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "salarié" ou "travailleur temporaire" (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-4](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-4)\
-    > > > \
-    > > > Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens). (Sous-préfecture de L’Haÿ-les-Roses) : [https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2)
-    > > >
-    > > > \
-    > > > \
-    > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens. (Sous-préfecture de L’Haÿ-les-Roses) : [https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3)
-    > > >
-    > > > \
-    > > > Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "vie privée et familiale, liens personnels et familiaux" sur le fondement de l'article L 423-23 du CESEDA, ou d'un certificat de résidence algérien portant la mention "vie privée et familiale" au titre des liens personnels et familiaux (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu)\
-    > > > \
-    > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "vie privée et familiale, liens personnels et familiaux" sur le fondement de l'article L 423-23 du CESEDA, ou d'un certificat de résidence algérien portant la mention "vie privée et familiale" au titre des liens personnels et familiaux (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-2](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-2)\
-    > > > \
-    > > > Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "vie privée et familiale " délivrée à l'étranger résidant habituellement en France depuis l'âge de 13 ans sur le fondement de l'article L 423-21 du CESEDA, ou d'un certificat de résidence algérien délivré au ressortissant algérien résidant habituellement en France avant l'âge de 10 ans (Sous-préfecture de L’Haÿ-les-Roses)\
-    > > > [https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un)
 
-    \
-    \
-    \----------------
+&#x20;[Demande de rendez-vous en vue du dépôt d'une première demande de titre de séjour](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-en-vue-du-depot-d-une-premi)
+
+[Demande de titre de séjour ou d'autorisation provisoire de séjour recherche d'emploi ou création d'entreprise pour le demandeur ayant obtenu en France un diplôme au moins équivalent au grade de master](https://demarche.numerique.gouv.fr/commencer/demande-de-titre-de-sejour-ou-d-autorisation-provi)
+
+[Demande de rendez-vous pour un changement de statut étudiant/recherche d'emploi ou création d'entreprise/APS Post Master vers salarié/travailleur temporaire (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-3)
+
+&#x20;[Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "salarié" ou "travailleur temporaire" (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-4)
+
+[ Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens). (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu-2)
+
+[Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "entrepreneur/profession libérale" ou un certificat de résidence algérien mention "commerçant-artisan-industriel-profession libérale" (uniquement pour les ressortissants algériens. (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-3)
+
+[Demande de rendez-vous pour un changement de statut vers une carte de séjour portant la mention "vie privée et familiale, liens personnels et familiaux" sur le fondement de l'article L 423-23 du CESEDA, ou d'un certificat de résidence algérien portant la mention "vie privée et familiale" au titre des liens personnels et familiaux (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-changement-de-statu)
+
+[Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "vie privée et familiale, liens personnels et familiaux" sur le fondement de l'article L 423-23 du CESEDA, ou d'un certificat de résidence algérien portant la mention "vie privée et familiale" au titre des liens personnels et familiaux (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un-2)
+
+[Demande de rendez-vous pour un renouvellement d'une carte de séjour portant la mention "vie privée et familiale " délivrée à l'étranger résidant habituellement en France depuis l'âge de 13 ans sur le fondement de l'article L 423-21 du CESEDA, ou d'un certificat de résidence algérien délivré au ressortissant algérien résidant habituellement en France avant l'âge de 10 ans (Sous-préfecture de L’Haÿ-les-Roses)](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-un-renouvellement-d-un)
+
+[Demande de rendez-vous pour un renouvellement des titres de séjour « Article 50 TUE/Article 18(1) Accord de retrait du Royaume-Uni de l’UE » (Brexit)](https://demarche.numerique.gouv.fr/commencer/renouvellement-des-titres-de-sejour-article-50-tue-21)
+
+[Demande de rendez-vous - Admission exceptionnelle au séjour](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-admission-exceptionnelle-au-sejour)\
+\
+\----------------
+
 * [Séjour des étrangers - saisine lors de blocages ANEF - Sous-préfecture de Nogent-sur-Marne](https://www.demarches-simplifiees.fr/commencer/sp-nogent-sur-marne-blocages-anef)<br>
 
