@@ -25,9 +25,7 @@ L'instructeur a accès au contenu des dossiers de la démarche sur laquelle il a
 Les **instructeurs** doivent obligatoirement être **affectés à une démarche** par les **administrateurs**.\
 Vous devez donc **contacter l’administrateur** de la démarche afin de pouvoir **accéder aux dossiers** que vous souhaitez instruire.
 
-Un instructeur nommé pour la première fois par un administrateur pour suivre une procédure reçoit une invitation par e-mail :&#x20;
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+Un instructeur nommé pour la première fois par un administrateur pour suivre une procédure reçoit une invitation par e-mail.&#x20;
 
 Puis, l'instructeur est renvoyé vers la page qui lui permet de créer son compte.&#x20;
 
