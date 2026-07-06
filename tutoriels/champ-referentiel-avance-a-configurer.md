@@ -99,7 +99,7 @@ Le pré-remplissage permet d’automatiser la saisie de certains champs du formu
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.27.53 AM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.02.03%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/betagouv/doc.demarches-simplifiees.fr/blob/main/.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.02.03%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
 2. **Décidez l’usage de chaque propriété du JSON**
    * Selon le type de donnée, l’interface vous propose les champs compatibles avec votre formulaire.
@@ -112,7 +112,7 @@ Le pré-remplissage permet d’automatiser la saisie de certains champs du formu
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.30.37 AM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.03.52%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/betagouv/doc.demarches-simplifiees.fr/blob/main/.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.03.52%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
 4. **Gérez les répétitions (tableaux)**
    * Si la donnée source est un tableau (ex : plusieurs adresses), chaque élément peut être mappé sur une répétition du formulaire.
@@ -121,7 +121,7 @@ Une fois la configuration terminée, un résumé du pré-remplissage s’affiche
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.27.16 AM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/betagouv/doc.demarches-simplifiees.fr/blob/main/.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
 **Vérifiez l’affichage** Lors d’un test, les champs sont automatiquement pré-remplis pour l’usager.
 
@@ -184,7 +184,7 @@ Après validation d’un identifiant, certaines informations issues du référen
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-07-16 à 10.40.03 AM.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://github.com/betagouv/doc.demarches-simplifiees.fr/blob/main/.gitbook/assets/Capture%20d%E2%80%99%C3%A9cran%202025-06-17%20%C3%A0%2010.07.46%E2%80%AFAM.png" alt=""><figcaption></figcaption></figure>
 
 > **Astuce** Affichez uniquement les informations utiles à l’usager (ex : adresse, nom, statut), pas des identifiants techniques.
 
