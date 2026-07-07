@@ -51,7 +51,7 @@ L'usager a ensuite la possibilité de confirmer ou non l'exactitude des données
 2. **Les données ne peuvent pas être récupérées**, car :
 
 * l'usager ne s'est pas connecté via FranceConnect ; ou
-* l'usager s'est connecté via FranceConnect mais la récupération du quotient familial a échoué.
+* l'usager s'est connecté via FranceConnect mais la récupération automatisée des données a échoué.
 
 L'usager doit donc fournir un justificatif en pièce jointe :&#x20;
 
@@ -80,13 +80,13 @@ Faites une [demande d’accès sur DataPass](https://datapass.api.gouv.fr/formul
 Il s'agit d'une demande d’habilitation dans laquelle vous devrez compléter les parties suivantes : &#x20;
 
 * nom de la démarche\
-  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarches Numériques
+  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarche Numérique
 * présentation de la démarche \
-  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarches Numériques
+  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarche Numérique
 * durée de conservation des données et les personnes qui traiteront ces données (agent par exemple)\
-  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarches Numériques
+  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarche Numérique
 * cadre juridique qui vous autorise à accéder aux données que vous demandez (arrêté, délibération etc.)\
-  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarches Numériques
+  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarche Numérique
 * coordonnées du délégué à la protection des données \
-  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarches Numériques
+  &#x20;\=> vous pouvez reprendre les informations renseignées dans Démarche Numérique
 * coordonnées du contact métier
