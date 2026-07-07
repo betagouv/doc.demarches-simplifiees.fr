@@ -42,11 +42,11 @@ Deux situations sont possibles :
 
 1. **Les données sont récupérées avec succès** : les données sont présentées dans le dossier et aucun justificatif n'est demandé.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.14.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.14.59.png" alt=""><figcaption><p>Exemple avec le champ quotient familial</p></figcaption></figure>
 
 L'usager a ensuite la possibilité de confirmer ou non l'exactitude des données récupérées. Dans l'affirmative, aucune autre action n'est requise. Dans la négative, l'usager doit en revanche fournir un justificatif en pièce jointe.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.19.31.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.19.31.png" alt=""><figcaption><p>Exemple avec le champ quotient familial</p></figcaption></figure>
 
 2. **Les données ne peuvent pas être récupérées**, car :
 
@@ -55,13 +55,13 @@ L'usager a ensuite la possibilité de confirmer ou non l'exactitude des données
 
 L'usager doit donc fournir un justificatif en pièce jointe :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.21.20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.21.20.png" alt=""><figcaption><p>Exemple avec le champ quotient familial</p></figcaption></figure>
 
 ### Utilisation par les instructeurs
 
 Les données automatiquement récupérées d'API Particulier sont présentées directement dans le dossier, et l'instructeur en est informé :&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.39.58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 18.39.58.png" alt=""><figcaption><p>Exemple avec le champ quotient familial</p></figcaption></figure>
 
 Les données peuvent être présentées au niveau du tableau d'instruction, être utilisées pour filtrer sur les dossiers, être ajoutées dans les exports.
 
