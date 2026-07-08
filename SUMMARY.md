@@ -53,6 +53,7 @@
     * [Modifier l'état d'un dossier](api-graphql/les-mutations/modifier-letat-dun-dossier.md)
     * [Envoyer un message](api-graphql/les-mutations/envoyer-un-message.md)
     * [Ajouter ou supprimer un label](api-graphql/les-mutations/ajouter-ou-supprimer-un-label.md)
+    * [Gérer une démarche](api-graphql/les-mutations/gerer-une-demarche.md)
   * [Pagination](api-graphql/pagination.md)
   * [Gestion des Erreurs](api-graphql/gestion-des-erreurs.md)
   * [Cas d'usages / exemple d'implémentation](api-graphql/cas-dusages-exemple-dimplementation/README.md)

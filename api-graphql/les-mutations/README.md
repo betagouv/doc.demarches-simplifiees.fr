@@ -4,11 +4,11 @@ description: Liste de nos endpoints en écriture
 
 # Les mutations
 
-### L'API offre les endpoints suivant en écriture ([mutations](https://www.demarches-simplifiees.fr/graphql/schema/mutation.doc.html)) :
+### L'API offre les endpoints suivant en écriture ([mutations](https://demarche.numerique.gouv.fr/graphql)) :
 
 #### Dossier
 
-Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisent. Nous mettons donc a disposition toutes les mutations nécéssaires pour traiter un dossier dans tout son cycle de vie.&#x20;
+Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisent. Nous mettons donc a disposition toutes les mutations nécéssaires pour traiter un dossier dans tout son cycle de vie.
 
 Pour rappel, le cycle de vie d'un dossier dans DS est le suivant : brouillon -> en construction -> en instruction -> accepté ou refusé ou classé sans suite.
 
@@ -19,7 +19,7 @@ Les mutations possibles pour un dossier sont les suivantes :
 * Refuser un dossier
 * Classer un dossier sans suite
 * Repasser un dossier en construction
-* Repasser un dossier en instruction&#x20;
+* Repasser un dossier en instruction
 * Archiver un dossier
 * Ajouter un message à la messagerie du dossier / usager
 * Changer un dossier de groupe d'instructeur
@@ -28,15 +28,17 @@ Les mutations possibles pour un dossier sont les suivantes :
 
 #### Demarche :
 
-Pour rappel, la démarche décrit le formulaire présenté aux usagers, la durée de conservation des données, les instructeurs et groupes d'instructeurs qui instruisent les dossiers déposé sur la démarche.&#x20;
+Pour rappel, la démarche décrit le formulaire présenté aux usagers, la durée de conservation des données, les instructeurs et groupes d'instructeurs qui instruisent les dossiers déposé sur la démarche.
 
-L'unique mutations possibles pour une démarche est la suivantes :
+Les mutations possibles pour une démarche sont les suivantes ([voir le détail et des exemples](gerer-une-demarche.md)) :
 
-* Cloner une démarche
+* Publier une démarche
+* Modifier les paramètres d'une démarche (titre, description, date limite de dépôt, etc.)
+* Cloner une démarche (avec, en option, son service)
 
 #### AnnotationPrivées :
 
-* De modifier une annotation privée (de type checkbox, date, datetime, nombre entier et text)&#x20;
+* De modifier une annotation privée (de type checkbox, date, datetime, nombre entier et text)
 
 #### GroupeInstructeur :
 
@@ -45,10 +47,6 @@ L'unique mutations possibles pour une démarche est la suivantes :
 * Modifier un groupe d'instructeur
 * Supprimer un instructeur d'un groupe d'instructeur
 
-**PieceJointe** :&#x20;
+#### PieceJointe :
 
 * Uploader un PJ pour la liée à un message envoyé a l'usager
-
-##
-
-##
