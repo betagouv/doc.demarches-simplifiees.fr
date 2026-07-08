@@ -38,6 +38,19 @@ Les jetons peuvent être configurés pour :&#x20;
 Pour des raisons de sécurité, nous recommandons l'usage de ce type de jeton qui restreint l'accès aux démarches nécessaires.&#x20;
 {% endhint %}
 
+### Restreindre l'accès par adresse IP
+
+Un jeton est associé à un filtrage réseau : l'API n'accepte les requêtes portant ce jeton que si elles proviennent d'une adresse IP autorisée. À la création du jeton, vous choisissez l'un des deux modes :
+
+* **Détection automatique** : la première adresse IP qui utilise le jeton est enregistrée comme adresse autorisée.
+* **Réseaux personnalisés** : vous saisissez la ou les plages d'adresses autorisées, au format CIDR (IPv4 ou IPv6), par exemple `192.0.2.10/32` ou `2001:db8::/32`.
+
+Vous pouvez ajuster les plages autorisées à tout moment depuis la page d'édition du jeton. Une requête provenant d'une adresse IP non autorisée est rejetée.
+
+{% hint style="info" %}
+Tous les jetons créés à partir du 1er juillet 2026 doivent avoir une restriction par IP. Les jetons créés avant ne sont pas concernés jusqu'à leur expiration.
+{% endhint %}
+
 ## Comment utiliser le jeton ?
 
 Ce jeton doit être fourni dans l’en-tête HTTP `Authorization` de la requête.
