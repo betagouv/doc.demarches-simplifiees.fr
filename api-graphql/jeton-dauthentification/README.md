@@ -43,7 +43,7 @@ Pour des raisons de sécurité, nous recommandons l'usage de ce type de jeton qu
 Un jeton est associé à un filtrage réseau : l'API n'accepte les requêtes portant ce jeton que si elles proviennent d'une adresse IP autorisée. À la création du jeton, vous choisissez l'un des deux modes :
 
 * **Détection automatique** : la première adresse IP qui utilise le jeton est enregistrée comme adresse autorisée.
-* **Réseaux personnalisés** : vous saisissez la ou les plages d'adresses autorisées, au format CIDR (IPv4 ou IPv6), par exemple `192.0.2.10/32` ou `2001:db8::/32`.
+* **Réseaux personnalisés** : vous saisissez une (ou plusieurs) adresses IP comme `205.10.1.23`, ou des plages d'adresses autorisées, au format CIDR (IPv4 ou IPv6), par exemple `192.0.2.10/32` ou `2001:db8::/32`.
 
 Vous pouvez ajuster les plages autorisées à tout moment depuis la page d'édition du jeton. Une requête provenant d'une adresse IP non autorisée est rejetée.
 
