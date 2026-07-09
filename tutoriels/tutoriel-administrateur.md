@@ -25,14 +25,16 @@ Un administrateur est en charge de la construction du formulaire et de la gestio
 
 **Rendez-vous sur la page :** [**https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique**](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique)
 
-<figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption><p>Formulaire d'ouverture de compte administrateur </p></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
 
 Les comptes administrateurs sont les seuls comptes que l'équipe **demarche.numerique.gouv.fr** instruit. En effet, ils sont uniquement réservés aux agents publics.&#x20;
 
 Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à créer votre mot de passe. Pour des raisons de sécurité, celui-ci doit atteindre une certaine complexité. En effet, il doit contenir au minimum 8 caractères.
 
 {% hint style="info" %}
-Attention : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,  nous vous enverrons un mail vous demandant de vérifier votre compte. Il suffit alors de cliquer sur le lien contenu dans l'e-mail envoyé automatiquement par nos services.
+**Attention** : tous les 30 jours, une nouvelle fois pour des raisons de sécurité,  nous vous enverrons un mail vous demandant de vérifier votre compte. Il suffit alors de cliquer sur le lien contenu dans l'e-mail envoyé automatiquement par nos services.
 {% endhint %}
 
 ## 2. Se connecter à **demarche.numerique.gouv.fr**&#x20;
@@ -52,7 +54,7 @@ Une fois connecté, vous accédez au tableau de bord qui affiche les démarches 
 * **Terminées** : une démarche terminée est une démarche qui a été active mais qui désormais ne permet plus le dépôt de dossier par les usagers. Les dossiers déposés peuvent néanmoins toujours être instruits.
 * **Supprimées** : une démarche supprimée est une démarche close qui a été supprimée et qui n'est plus accessible par les usagers. En revanche, en tant qu'administrateur vous pouvez restaurer la démarche.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.39.27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (355).png" alt=""><figcaption></figcaption></figure>
 
 Vous avez un accès direct à vos démarches en sélectionnant le numéro de la démarche que vous recherchez. Vous devez être administrateur de cette démarche pour y accéder.&#x20;
 
@@ -64,13 +66,13 @@ Vous avez désormais la possibilité en tant qu'administrateur de consulter les 
 
 Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut, service, département, type d'usager , date de publication ou encore par thématique.&#x20;
 
-<figure><img src="../.gitbook/assets/Sans titre 1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sans titre admin.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Découvrir les nouveautés&#x20;
 
 Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
 
-<figure><img src="../.gitbook/assets/Sans titre 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
 Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégories. Les catégories concernant votre profil sont sélectionnées par défaut.
 
