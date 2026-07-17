@@ -666,19 +666,44 @@ Il convient désormais de penser d’un point de vue usager à la vie de la dém
 * Lorsque l’instructeur décide de bloquer la possibilité pour l'usager de modifier son dossier, ce dernier reçoit un accusé de **passage en instruction**.
 * Lorsque l’instructeur rend une décision sur le dossier, l’usager peut recevoir soit un accusé d'**acceptation** soit de **rejet** ou encore de **classement sans suite**
 
-Ces e-mails sont entièrement personnalisables. Vous pouvez décider de l’objet et du corps de l’e-mail. Pour cela, cliquez sur l'onglet « E-mails » dans la barre latérale de gauche. Vous avez alors une première barre pour l’objet puis une zone de texte où vous pouvez rédiger le corps de votre e-mail.&#x20;
+Ces e-mails sont entièrement personnalisables. Vous pouvez décider de l’objet et du corps de l’e-mail. Pour cela, ouvrez la tuile « Modèles d’email » depuis la page de votre démarche. Vous disposez d’un **éditeur de texte enrichi** : mettez en forme le corps du message (gras, italique, titres, listes, liens, sauts de ligne) et suivez le rendu final grâce à l’**aperçu** affiché à droite, qui se met à jour à chaque modification.&#x20;
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.22.06.png" alt=""><figcaption></figcaption></figure>
+<!--screenshot
+{
+  "url": "/admin/procedures/:procedure_id/mail_templates/received_mail/edit",
+  "view": ["app/views/administrateurs/mail_templates/edit.html.erb", "app/components/tiptap_editor_component.rb", "app/components/tiptap_editor_component.html.erb"],
+  "date": "2026-07-17",
+  "viewport": "1440x900",
+  "crop": "82,242,1262,868",
+  "authenticated_as": "test@exemple.fr",
+  "preconditions": "Démarche publiée avec des champs publics ; aperçu basé sur un dossier de démonstration",
+  "data_sensitivity": false,
+  "replaced": "image (136).png",
+  "gitbook_section": "### Les e-mails automatiques"
+}
+-->
+<figure><img src="../.gitbook/assets/email-editeur.png" alt="Écran d’édition d’un e-mail : à gauche l’éditeur de l’objet et du corps, à droite l’aperçu de l’e-mail"><figcaption><p>Personnaliser un e-mail, en tant qu'administrateur</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption><p>Personnaliser les email, en tant qu'administrateur </p></figcaption></figure>
+#### Insérer des balises
 
-Lorsque vous personnalisez votre mail, il est possible d’intégrer des balises de champs dans le corps du message en copiant le format de la balise dans le texte comme montré ci-dessus. **Pour chaque champ dans votre formulaire usager ou dans vos annotations privées, une balise existe**. Lorsque vous intégrez cette balise à votre message, l’information renseignée par l’usager pour le champ correspondant est automatiquement remontée dans le corps du mail.
+Vous pouvez intégrer des **balises** dans l’objet comme dans le corps du message : à l’envoi, chaque balise est automatiquement remplacée par la donnée correspondante du dossier. **Pour chaque champ de votre formulaire usager et pour chacune de vos annotations privées, une balise existe**, en plus des balises générales (numéro du dossier, dates clés, lien vers le dossier, nom du service, etc.).
 
-Exemple : j’ai un champ adresse et j’utilise ma balise adresse dans mon corps de texte comme suit : Attendu que vous habitez au –adresse--. Si l’usager a renseigné comme adresse 20 avenue de Ségur, il recevra un mail avec écrit : attendu que vous habitez au 20 avenue de Ségur.
+Pour insérer une balise, deux possibilités :
 
-Les balises sont notamment utiles pour remonter les annotations privées car elles peuvent transmettre directement les commentaires renseignés par l’instructeur à l’usager.
+* tapez le caractère **@** suivi du nom de la balise, puis sélectionnez-la dans la liste proposée ;
+* ou cliquez sur l’un des **boutons de balises** listés sous l’éditeur.
 
-<figure><img src="../.gitbook/assets/image (186).png" alt=""><figcaption><p>Exemple de balises possibles, en tant qu'administrateur </p></figcaption></figure>
+Exemple : dans le corps du message, je saisis « _Attendu que vous habitez au_ » puis j’insère la balise « _adresse_ ». Si l’usager a renseigné « _20 avenue de Ségur_ », il recevra un e-mail indiquant « _Attendu que vous habitez au 20 avenue de Ségur_ ».
+
+Les balises sont notamment utiles pour remonter les annotations privées, car elles transmettent directement à l’usager les informations renseignées par l’instructeur.
+
+#### Les champs facultatifs et conditionnés
+
+Par défaut, seules les balises des **champs obligatoires** sont proposées (repérées par un astérisque `*`). Pour utiliser aussi les **champs facultatifs** ou **conditionnés**, cochez la case **« Voir les champs facultatifs et/ou conditionnés »** (ou son équivalent pour les annotations privées). Le bouton **« Légende des balises »** en détaille les différents formats.
+
+{% hint style="info" %}
+**À noter** : si un champ facultatif n’a pas été renseigné — ou si un champ conditionné n’a pas été affiché — la balise **reste vide** : rien ne s’affiche à son emplacement. Rédigez la phrase pour qu’elle reste correcte avec comme sans cette valeur.
+{% endhint %}
 
 ### Les attestations
 
