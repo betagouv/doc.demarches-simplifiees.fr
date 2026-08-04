@@ -8,13 +8,13 @@ Lorsque les informations sont récupérées avec succès, l'usager n'a pas besoi
 
 Démarches Numérique intègre progressivement les données disponibles dans le bouquet d’API Particulier. Voici l'état actuel des données disponibles et à venir :
 
-| API                                                 | Données                                                                                                                      | Disponibilité          |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| Quotient familial CAF & MSA                         | Quotient (valeur, période d'appilication, date de calcul), composition familial (allocataires, enfants) et adresse du foyer  | Disponible             |
-| Statut étudiant boursier                            | Statut, échelon, période versement, établissement,  identité                                                                 | En cours d'intégration |
-| Allocation aux adultes handicapés (AAH)             | Statut, date début de droit                                                                                                  | En cours d'intégration |
-| Allocation d'éducation de l'enfant handicapé (AEEH) | Statut, date début de droit                                                                                                  | En cours d'intégration |
-| Allocation de rentrée scolaire (ARS)                | Non défini                                                                                                                   | Prochainement          |
+| API                                                 | Données                                                                                                                      | Disponibilité |
+| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Quotient familial CAF & MSA                         | Quotient (valeur, période d'appilication, date de calcul), composition familial (allocataires, enfants) et adresse du foyer  | Disponible    |
+| Statut étudiant boursier                            | Statut, échelon, période versement, établissement,  identité                                                                 | Disponible    |
+| Allocation aux adultes handicapés (AAH)             | Statut, date début de droit                                                                                                  | Disponible    |
+| Allocation d'éducation de l'enfant handicapé (AEEH) | Statut, date début de droit                                                                                                  | Disponible    |
+| Allocation de rentrée scolaire (ARS)                | Non défini                                                                                                                   | Disponible    |
 
 ### Ajout d'un champ d'API Particulier par l'administrateur
 
@@ -75,7 +75,7 @@ En l'absence de jeton, un message d'erreur indique le ou les champs concernés a
 
 **Comment obtenir un jeton API Particulier ?**
 
-Faites une [demande d’accès sur DataPass](https://datapass.api.gouv.fr/formulaires/api-particulier/demande/nouveau).
+Faites une [demande d’accès sur DataPass](https://datapass.api.gouv.fr/formulaires/api-particulier-demarche-numerique/demande/nouveau).
 
 Il s'agit d'une demande d’habilitation dans laquelle vous devrez compléter les parties suivantes : &#x20;
 
