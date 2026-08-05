@@ -14,7 +14,7 @@ Démarches Numérique intègre progressivement les données disponibles dans le 
 | Statut étudiant boursier                            | Statut, échelon, période versement, établissement,  identité                                                                 | Disponible    |
 | Allocation aux adultes handicapés (AAH)             | Statut, date début de droit                                                                                                  | Disponible    |
 | Allocation d'éducation de l'enfant handicapé (AEEH) | Statut, date début de droit                                                                                                  | Disponible    |
-| Allocation de rentrée scolaire (ARS)                | Non défini                                                                                                                   | Disponible    |
+| Allocation de rentrée scolaire (ARS)                | Statut, date début de droit                                                                                                  | Disponible    |
 
 ### Ajout d'un champ d'API Particulier par l'administrateur
 
