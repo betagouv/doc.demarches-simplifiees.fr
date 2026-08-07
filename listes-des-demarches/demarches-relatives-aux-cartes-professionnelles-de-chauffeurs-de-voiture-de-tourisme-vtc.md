@@ -28,6 +28,13 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 * [Demande d’attestation préfectorale à la suite d’une visite médicale pour l’aptitude à la conduite ](https://www.demarches-simplifiees.fr/commencer/attestation-aptitude-medicale)
 * [Transmission de l’attestation de formation continue T3P (taxi, VTC, conducteur de véhicule motorisé à deux ou trois roues) ](https://www.demarches-simplifiees.fr/commencer/t3p-formationcontinue)
 
+## 59 - Nord&#x20;
+
+* [Demande d'attestation préfectorale d'aptitude à la conduite pour TAXIS / Préfecture du Nord](https://demarche.numerique.gouv.fr/commencer/pref59-r221-10-taxis)
+* [Demande d'attestation préfectorale d'aptitude à la conduite VTC / Préfecture du Nord](https://demarche.numerique.gouv.fr/commencer/pref59-r221-10-vtc)
+* [Demande d'attestation préfectorale d'aptitude à la conduite VMDTR / Préfecture du Nord](https://demarche.numerique.gouv.fr/commencer/pref59-r221-10-vmdtr)
+* [Demande d'attestation préfectorale d'aptitude à la conduite AMBULANCES TRANSPORTS PUBLICS de personnes et RAMASSAGE SCOLAIRE / Arrondissement de Lille](https://demarche.numerique.gouv.fr/commencer/pref59-r221-10-ambulance-transport-de-personnes-ramassage-scolaire)
+
 ## 69 - Rhône
 
 * [Démarche relative aux obligations de visite médicale ou de formation continue (TAXI, VTC, VMDTR) dans le Rhône](https://www.demarches-simplifiees.fr/commencer/obligations-visite-medicale-ou-formation-continue-rhone)
