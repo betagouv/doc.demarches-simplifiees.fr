@@ -64,23 +64,29 @@ Vous avez un accès direct à vos démarches en sélectionnant le numéro de la 
 
 Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié. Cela vous permet également de cloner une démarche existante.
 
-Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « toutes les démarches » puis de filtrer par zones et/ou par statut, service, département, type d'usager , date de publication ou encore par thématique.&#x20;
+Ainsi,  pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « **toutes les démarches** » puis de filtrer par zones et/ou par statut, service, démarches modèles, département, type d'usager , date de publication ou encore par thématique.&#x20;
 
 <figure><img src="../.gitbook/assets/Sans titre admin.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Découvrir les nouveautés&#x20;
 
-Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton  « _Nouveautés_ »  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
+Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton                « _**Nouveautés**_**&#x20;»**  lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
 
 <figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
 Sur la gauche, vous pouvez filtrer pour voir les annonces dans diverses catégories. Les catégories concernant votre profil sont sélectionnées par défaut.
 
-## 6. Créer une nouvelle démarche
+## 6. Découvrir la documentation&#x20;
+
+Vous pouvez accéder au tutoriel administrateur à tout moment en cliquant sur le bouton "**documentation**" situé en haut de l'écran :&#x20;
+
+<figure><img src="../.gitbook/assets/Sans titre admin 2.png" alt=""><figcaption></figcaption></figure>
+
+## 7. Créer une nouvelle démarche
 
 Pour créer votre formulaire, vous devez cliquer sur le bouton « Nouvelle Démarche » situé en haut à droite de votre tableau de bord.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.09.09.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;La création d’une nouvelle démarche peut se faire soit à partir de zéro soit à partir d’une démarche existante. Cette dernière possibilité permet de cloner c’est-à-dire de copier une démarche pré-existante, déjà publiée et utilisée par une autre administration afin de l’adapter à sa situation.
 
