@@ -2,18 +2,16 @@
 
 ## Export manuel
 
-Il est possible d'exporter manuellement l'intégralité des dossiers déposés sur une procédure donnée.&#x20;
+Il est possible d'exporter manuellement l'intégralité des dossiers déposés sur une procédure donnée.
 
-Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaités  bouton «Télécharger les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods,zip.).
+Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaités bouton «Télécharger les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods,zip.).
 
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :&#x20;
+Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :
 
 * standard
-* A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici. ](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/export-personnalise)
+* A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici.](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/export-personnalise)
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +20,7 @@ Il n'est pas possible d'effectuer cette opération dans l'interface administrate
 Le tableau exporté est composé d'une ligne par dossier, chaque ligne comportant les informations suivantes :
 
 * métadonnées : numéro de dossier et dates
-* données saisies par le demandeur : identité du demandeur et  champs du formulaire
+* données saisies par le demandeur : identité du demandeur et champs du formulaire
 * données d'instruction : emails des usagers suivant le dossier et annotations privées
 
 En revanche, selon le type d’export demandé, certaines informations peuvent ne pas figurer, notamment :
@@ -39,7 +37,7 @@ Une option a été mis en place qui permet d'exporter non pas sous forme d'un ta
 
 #### Métadonnées
 
-Les métadonnées du dossier comprennent les informations suivantes:&#x20;
+Les métadonnées du dossier comprennent les informations suivantes:
 
 * id: numéro du dossier
 * created\_at: date de création du dossier
@@ -55,7 +53,7 @@ Les métadonnées du dossier comprennent les informations suivantes:&#x20;
 * initiated\_at: date du dépôt de dossier
 * received\_at: date du passage en instruction
 * processed\_at: date de décision du dossier
-* motivation: motivation de la décision&#x20;
+* motivation: motivation de la décision
 * email\_instructeurs: email de l'instructeur qui a donné la décision pour le dossier
 
 ![](../.gitbook/assets/CaptureExport2.PNG)
@@ -70,4 +68,4 @@ Voir la page [exports et macros](exports-et-macros.md)
 
 Cette API ne permet en revanche pas d'entrer des données dans l'application ou de commander des opérations.
 
-Pour plus d'information, vous pouvez consulter [la documentation dédiée à l'API](https://doc.demarches-simplifiees.fr/api-graphql)&#x20;
+Pour plus d'information, vous pouvez consulter [la documentation dédiée à l'API](https://doc.demarches-simplifiees.fr/api-graphql)

@@ -43,12 +43,12 @@ D'après une étude conduite en 2013 par le Secrétariat Général pour la Moder
 
 ## Une Startup d'État
 
-Dès juin 2013, l’État a pu expérimenter au sein de la Direction interministérielle du Numérique (DINUM)  une nouvelle manière de construire des services publics numériques, en réussissant tout d’abord la refonte de [**data.gouv.fr**](https://data.gouv.fr)**.**
+Dès juin 2013, l’État a pu expérimenter au sein de la Direction interministérielle du Numérique (DINUM) une nouvelle manière de construire des services publics numériques, en réussissant tout d’abord la refonte de [**data.gouv.fr**](https://data.gouv.fr)**.**
 
 L’exigence d’innovation radicale impose d’initier une Startup d’État loin de toute contrainte, pour qu’elle ne reproduise pas les règles explicites ou implicites qui fondent le service tel qu’il existe aujourd'hui. Pour autant, elle n’a pas besoin de capital privé. Une Startup d’État est donc simplement une équipe de 2 à 15 personnes financée par une administration et totalement autonome.
 
 L'ensemble des Startups d’État sont présentées sur [**beta.gouv.fr**](https://beta.gouv.fr)**.**
 
-### **Vous trouverez ci-dessous notre support de présentation :**&#x20;
+### **Vous trouverez ci-dessous notre support de présentation :**
 
-{% file src=".gitbook/assets/Webinaire Démarche numérique Juin 2026 (1).pdf" %}
+{% file src=".gitbook/assets/webinairedemarchenumerique - septembre 2026.pdf" %}

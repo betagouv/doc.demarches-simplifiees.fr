@@ -9,7 +9,7 @@ description: >-
 
 La prise en main de **demarche.numerique.gouv.fr** ne nécessite aucune compétence informatique. L'équipe accompagne les organismes qui le souhaitent dans la mise en place de démarches.
 
-<figure><img src=".gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
 ### Une prise en main simple
 
@@ -30,7 +30,7 @@ Pour obtenir un compte administrateur permettant de créer des formulaires en li
 
 Pour être accompagné, contactez-nous ici : **https://demarche.numerique.gouv.fr/contact-admin**
 
-Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous puissions vous rappeler.&#x20;
+Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous puissions vous rappeler.
 
 **Découvrez notre e-capsule de formation disponible sur Mentor depuis le lien suivant :** [**https://mentor.gouv.fr/course/view.php?id=4364\&section=1**](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
 
@@ -44,7 +44,7 @@ Prenez le temps de regarder ces guides et ces vidéos avant vous lancer !
 
 ![](.gitbook/assets/sexercer_aux_methodes_de_simplification.jpg)
 
-**SIMPLIFIER LES DOCUMENTS ADMINISTRATIFS**&#x20;
+**SIMPLIFIER LES DOCUMENTS ADMINISTRATIFS**
 
 * [**Aller à l'essentiel**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#Essentiel)
 * [**Utiliser des mots simples**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#MotsSimples)
@@ -52,4 +52,3 @@ Prenez le temps de regarder ces guides et ces vidéos avant vous lancer !
 * [**Considérer l'usager**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#ConsidererUsager)
 * [**Inciter à l'action**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#InciterALaction)
 * [**Soigner la présentation**](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs#SoignerPresentation)
-

@@ -12,23 +12,21 @@ Pour déterminer la durée de conservation globale d'un dossier, vous devez à l
 
 **L' administration est en effet responsable du traitement et de la conservation des dossiers**. Cela concerne principalement les dossiers terminés (acceptés, refusés ou sans suite). Vous recevez des notifications par e-mail un mois avant la suppression de dossiers afin de vous rappeler de les sauvegarder.
 
-La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple: passage en instruction, acceptation, refus ou classement sans suite d'un dossier).&#x20;
+La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple: passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
 
-## A quel moment est supprimé le dossier de l'usager?&#x20;
+## A quel moment est supprimé le dossier de l'usager?
 
-* Dossier en brouillon: le délai de conservation du dossier de l'usager court à partir de la création du dossier.&#x20;
-* Dossier en construction: le délai de conservation court à partir de la dernière date de modification du dossier par l'usager.&#x20;
-* Dossier accepté/refusé/classé sans suite: le délai de conservation court à partir de la dernière action d'instruction du dossier. &#x20;
+* Dossier en brouillon: le délai de conservation du dossier de l'usager court à partir de la création du dossier.
+* Dossier en construction: le délai de conservation court à partir de la dernière date de modification du dossier par l'usager.
+* Dossier accepté/refusé/classé sans suite: le délai de conservation court à partir de la dernière action d'instruction du dossier.
 
-## Comment l'administration peut récupérer les dossiers?&#x20;
+## Comment l'administration peut récupérer les dossiers?
 
-Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre serveur :
+Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre serveur :
 
 * [L'export des dossiers au format tableur](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/exports-de-donnees) permet d'avoir une vue d'ensemble des dossiers d'une démarche.
 
 ![Exporter aus formats xlsx, ods, csv et zip une liste de dossier filtré](<../.gitbook/assets/Screenshot 2023-07-04 at 9.39.50 AM.png>)
-
-
 
 * Le téléchargement individuel des dossiers au format ZIP permet de télécharger toutes les pièces échangées au cours de la vie du dossier.
 
@@ -40,11 +38,10 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 * [L'utilisation de l'API ](https://doc.demarches-simplifiees.fr/api-graphql)permet d'automatiser la récupération des données.
 
-Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cet archive au format ZIP intègre&#x20;
+Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cet archive au format ZIP intègre
 
 * tous les dossiers et leurs pièces jointes
 * tous les messages échangés par le biais de la messagerie entre les instructeurs et les usagers (incluant aussi les pièces jointes)
 * les attestations pour chaque dossier quand celles ci sont présentes
 
-![Accéder a l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screenshot 2023-07-04 at 9.41.27 AM (1).png>)
-
+![Accéder a l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screenshot 2023-07-04 at 9.41.27 AM.png>)

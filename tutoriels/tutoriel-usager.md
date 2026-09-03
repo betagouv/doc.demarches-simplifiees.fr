@@ -18,19 +18,7 @@ Afin d'accéder à une démarche, et subséquemment à la possibilité de créer
 
 Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'exemple ci-dessous :
 
-<!--screenshot
-{
-  "url": "https://demarche.numerique.gouv.fr/commencer/demande-de-versement-solde-detr",
-  "view": ["app/views/layouts/procedure_context.html.haml", "app/views/commencer/show.html.haml"],
-  "date": "2026-03-27",
-  "viewport": "1440x900",
-  "authenticated_as": null,
-  "data_sensitivity": false,
-  "replaced": "image (345).png",
-  "gitbook_section": "### A. Accéder au lien vers la procédure"
-}
--->
-<figure><img src="../.gitbook/assets/tuto-usager-commencer-demarche.png" alt="Page d'accueil d'une démarche avec les options de connexion"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tuto-usager-commencer-demarche.png" alt="Page d&#x27;accueil d&#x27;une démarche avec les options de connexion"><figcaption></figcaption></figure>
 
 ### **B. Se connecter à demarche.numerique.gouv.fr**
 
@@ -59,18 +47,6 @@ Le formulaire peut viser deux types d'usagers :
 
 La première information demandée est le numéro SIRET permettant de récupérer des informations juridiques et financières auprès de l'INSEE et d'Infogreffe grâce à l'API entreprise. Si vous ne connaissez pas le SIRET de votre administration, vous pouvez cliquer sur le lien de l'annuaire entreprises pour retrouver cette information.
 
-<!--screenshot
-{
-  "url": "https://demarche.numerique.gouv.fr/commencer/<slug>",
-  "view": ["app/views/layouts/procedure_context.html.haml", "app/views/users/commencer/show.html.haml"],
-  "date": "2026-03-27",
-  "viewport": "1440x900",
-  "authenticated_as": null,
-  "data_sensitivity": false,
-  "replaced": "image (266).png",
-  "gitbook_section": "### A. Page d accueil de la demarche"
-}
--->
 <figure><img src="../.gitbook/assets/tuto-usager-accueil-demarche-siret.png" alt="Page d accueil d une demarche sur demarche.numerique.gouv.fr"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture 23.PNG" alt=""><figcaption></figcaption></figure>
@@ -290,7 +266,7 @@ En effet, afin d’être conforme au **RGPD** et à nos **Conditions Générales
 
 **Pour les dossiers traités arrivant à expiration**, vous avez la possibilité de les télécharger au format PDF avant leur suppression, afin d’en conserver une trace :
 
-<figure><img src="../.gitbook/assets/image (282).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (280).png" alt=""><figcaption></figcaption></figure>
 
 **Pour les dossiers en brouillon**, vous avez la possibilité de les **conserver** selon la **durée de conservation** configurée par le service en charge de la démarche, comme illustré ci-dessous :
 

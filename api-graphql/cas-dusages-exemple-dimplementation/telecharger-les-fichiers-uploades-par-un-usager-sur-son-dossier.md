@@ -8,7 +8,7 @@ description: >-
 # Télécharger les fichiers uploadés par un usager sur son dossier
 
 {% hint style="info" %}
-**Nous recommandons de paralléliser / asynchroniser le téléchargement des fichiers**. En effet, un dossier peut avoir de nombreuses PJ, qui elle même peuvent peser jusqu'a 200Mo.&#x20;
+**Nous recommandons de paralléliser / asynchroniser le téléchargement des fichiers**. En effet, un dossier peut avoir de nombreuses PJ, qui elle même peuvent peser jusqu'a 200Mo.
 {% endhint %}
 
 {% hint style="danger" %}
@@ -42,7 +42,7 @@ Vous pouvez tester en executant le script suivant avec les variables d'environne
 
 Pour faciliter la lecture du code, la query complète GraphQL est fournie en PJ
 
-{% file src="../../.gitbook/assets/getDemarche.listOnlyFilesUrl.graphql" %}
+{% file src="../../.gitbook/assets/getDemarche.graphql" %}
 query GraphQL minimaliste pour lister les type de champs Piece Justificative ainsi que les fichiers associéés
 {% endfile %}
 
