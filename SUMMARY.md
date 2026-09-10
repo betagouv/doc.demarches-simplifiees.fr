@@ -41,7 +41,7 @@
   * [Automatisation : obligations des utilisateurs publics](api-graphql/automatisation-obligations-des-utilisateurs-publics.md)
   * [Introduction technique](api-graphql/introduction-technique.md)
   * [Accréditation](api-graphql/accreditation.md)
-  * [Le playground / Premiers pas](api-graphql/le-playground-premiers-pas.md)
+  * [Premiers pas : tester l'API avec un client GraphQL](api-graphql/premiers-pas-client-graphql.md)
   * [Point d'entrée et Schema GraphQL](api-graphql/point-dentree-et-schema-graphql.md)
   * [Jeton d'authentification](api-graphql/jeton-dauthentification/README.md)
     * [Problèmes fréquents](api-graphql/jeton-dauthentification/problemes-frequents.md)
