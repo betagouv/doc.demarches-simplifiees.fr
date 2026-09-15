@@ -4,7 +4,7 @@
 
 En fonction de votre préfecture de résidence, « Démarches simplifiées » héberge des démarches relatives au titre de séjour, lesquelles sont listées ci-après.
 
-Par ailleurs demarches-simplifiees.fr est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. Pour les titres de séjour et la naturalisation, seule une partie des départements ont fait le choix d'utiliser notre outil. De ce fait, les démarches administratives ne se trouvent pas toutes sur notre site.&#x20;
+Par ailleurs **demarche.numerique.gouv.fr** est un outil numérique proposé aux administrations pour dématérialiser leurs démarches. Pour les titres de séjour et la naturalisation, seule une partie des départements ont fait le choix d'utiliser notre outil. De ce fait, les démarches administratives ne se trouvent pas toutes sur notre site.&#x20;
 
 {% hint style="warning" %}
 **Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est pas obligatoire que la démarche recherchée soit dématérialisée sur notre site.**&#x20;
