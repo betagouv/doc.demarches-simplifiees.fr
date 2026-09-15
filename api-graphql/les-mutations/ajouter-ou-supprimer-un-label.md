@@ -1,6 +1,6 @@
 # Ajouter ou supprimer un label
 
-Les instructeurs peuvent ajouter (ou modifier) des labels à un dossier, qui agissent comme une sorte d’étiquette personnalisée. La liste des labels disponibles est au préalable définie dans l'interface l'administrateur (pas encore par API), ainsi que l’ordre dans lequel ils sont retournés.
+Les instructeurs peuvent ajouter (ou modifier) des labels à un dossier, qui agissent comme une sorte d’étiquette personnalisée. La liste des labels disponibles est au préalable définie dans l'interface de l'administrateur (pas encore par API), ainsi que l’ordre dans lequel ils sont retournés.
 
 Par défaut 5 labels sont créés : _Urgent, À examiner, À relancer, Complet, À signer_. Laissez libre cours à votre imagination pour organiser l’instruction : _Prêt pour la commission, Validé par la hiérarchie_, …
 

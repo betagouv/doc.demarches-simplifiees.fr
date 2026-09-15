@@ -19,7 +19,7 @@ Dans ce cas, &#x6C;**’utilisateur peut changer de profil en cliquant sur le bo
 
 
 
-**Interface l'usager :**&#x20;
+**Interface de l'usager :**&#x20;
 
 <figure><img src="../.gitbook/assets/image (295).png" alt="interface usager "><figcaption></figcaption></figure>
 

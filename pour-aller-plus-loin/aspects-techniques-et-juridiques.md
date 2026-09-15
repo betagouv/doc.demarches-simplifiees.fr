@@ -4,7 +4,7 @@
 
 **demarche.numerique.gouv.fr** est développée en interne au sein de la Direction interministérielle du numérique (DINUM).
 
-L’hébergement est assuré à travers d'un environnement SEC NUM CLOUD chez l'hébergeur OVH, leader européen de l'hébergement, compatible RGS (toutes les données sont hébergées en France), qui garantit une disponibilité du service de 99,99 % du temps. En plus d'un environnement privé SECNUM, 1 serveur sert au backup, ces serveurs communiquent à travers de lignes dédiées (offre OVH vRack, qui ne passe pas par internet). La communication sur **demarche.numerique.gouv.fr** se fait en HTTPS (sécurisé). La disponibilité de l’application est monitorée en continu avec des sondes évaluant les serveurs, le stockage, les logiciels, les droits utilisateurs, la connexion internet et les connexions serveurs. La disponibilité constatée est affichée à l’url suivante : [https://status.demarche.numerique.gouv.fr/](https://status.demarche.numerique.gouv.fr/).
+L’hébergement est assuré au travers d'un environnement SEC NUM CLOUD chez l'hébergeur OVH, leader européen de l'hébergement, compatible RGS (toutes les données sont hébergées en France), qui garantit une disponibilité du service de 99,99 % du temps. En plus d'un environnement privé SECNUM, 1 serveur sert au backup, ces serveurs communiquent à travers des lignes dédiées (offre OVH vRack, qui ne passe pas par internet). La communication sur **demarche.numerique.gouv.fr** se fait en HTTPS (sécurisé). La disponibilité de l’application est monitorée en continu avec des sondes évaluant les serveurs, le stockage, les logiciels, les droits utilisateurs, la connexion internet et les connexions serveurs. La disponibilité constatée est affichée à l’url suivante : [https://status.demarche.numerique.gouv.fr/](https://status.demarche.numerique.gouv.fr/).
 
 Le support client est assuré directement par l’équipe, joignable par email à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr) et par téléphone.
 
@@ -12,7 +12,7 @@ Le support client est assuré directement par l’équipe, joignable par email �
 
 Oui.
 
-Aucune disposition générale en droit français n’impose le recours à la signature pour recueillir l’engagement d’un usager. Les conditions générales d’utilisation d’un service en ligne peuvent prévoir, comme c’est le cas pour **demarche.numerique.gouv.fr**, la confirmation et la transmission du formulaire par l’usager vaut signature de celui-ci et qu’en utilisant le service, l’usager s’engage sur la véracité des informations transmises lors du dépôt de son dossier.
+Aucune disposition générale en droit français n’impose le recours à la signature pour recueillir l’engagement d’un usager. Les conditions générales d’utilisation d’un service en ligne peuvent prévoir, comme c’est le cas pour **demarche.numerique.gouv.fr**, que la confirmation et la transmission du formulaire par l’usager valent signature de celui-ci et qu’en utilisant le service, l’usager s’engage sur la véracité des informations transmises lors du dépôt de son dossier.
 
 ## Est-il possible de notifier des décisions aux usagers directement avec **demarche.numerique.gouv.fr** ?
 
@@ -20,7 +20,7 @@ Oui.
 
 En application de l'article L.212-2 du code des relations entre le public et l'administration, les actes unilatéraux de l'administration notifiés au public par l'intermédiaire d'un téléservice et conformes à l'article L. 112-9 et aux articles 9 à 12 de l'ordonnance n° 2005-1516 du 8 décembre 2005 sont dispensés de la signature de leur auteur, dès lors qu'ils comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient.
 
-Cela signifie par exemple qu’il est possible, sauf mention disposition contraire expresse spécifique à la procédure considérée, de notifier des décisions de rejet en utilisant les emails automatiques de rejet de **demarche.numerique.gouv.fr** ou des décisions d’autorisation avec l’éditeur d’attestation.
+Cela signifie par exemple qu’il est possible, sauf disposition contraire expresse spécifique à la procédure considérée, de notifier des décisions de rejet en utilisant les emails automatiques de rejet de **demarche.numerique.gouv.fr** ou des décisions d’autorisation avec l’éditeur d’attestation.
 
 Il conviendra dans ce cas de s’assurer que les prénom, nom et qualité de l’auteur de la décision sont bien mentionnés. Une signature numérisée peut être ajoutée à l’attestation via l’éditeur mais elle n’est pas nécessaire pour que l’attestation ait des effets juridiques.
 
@@ -44,4 +44,4 @@ Les accusés de réception envoyés automatiquement par **demarche.numerique.gou
 
 Non.
 
-Tous les usagers ne disposent pas d’une connexion à internet et la fermeture du canal papier risquerait de créer une rupture d’égalité. Il est possible d’inciter les usagers à déposer leur demander par voie électronique mais pour refuser des dossiers transmis par canal papier, un texte législatif ou réglementaire spécifique est nécessaire.
+Tous les usagers ne disposent pas d’une connexion à internet et la fermeture du canal papier risquerait de créer une rupture d’égalité. Il est possible d’inciter les usagers à déposer leur demande par voie électronique mais pour refuser des dossiers transmis par canal papier, un texte législatif ou réglementaire spécifique est nécessaire.

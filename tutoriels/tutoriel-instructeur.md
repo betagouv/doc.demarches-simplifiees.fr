@@ -75,7 +75,7 @@ Vous pourrez alors déplacer les démarches dans la liste pour les classer en fo
 
 <figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption><p>Personnalisation de l'ordre des démarches</p></figcaption></figure>
 
-Pour accéder directement, il est désormais possible de sélectionner la démarche concernée depuis la barre de recherche " **accès direct "** située à droite de votre interface instructeur :
+Pour y accéder directement, il est désormais possible de sélectionner la démarche concernée depuis la barre de recherche " **accès direct "** située à droite de votre interface instructeur :
 
 <figure><img src="../.gitbook/assets/instructeur.png" alt=""><figcaption><p>Accès direct à une démarche</p></figcaption></figure>
 
@@ -383,7 +383,7 @@ Une fois un dossier déposé par un usager, ce dossier est au stade « En constr
 
 <figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
-**Un dossier « en construction »** **reste modifiable par l'usager**. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à **la messagerie ou depuis le bouton "demande une correction"** afin que mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.
+**Un dossier « en construction »** **reste modifiable par l'usager**. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'informations manquantes, l'instructeur peut les réclamer à l'usager grâce à **la messagerie ou depuis le bouton "demander une correction"** afin de mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.
 
 #### _- Passer le dossier en instruction :_
 
@@ -391,7 +391,7 @@ Une fois le dossier complet, il convient de **passer ce dossier au statut « En 
 
 <figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».
+L’instructeur peut à tout moment faire passer un dossier d'« en construction » à « en instruction ».
 
 **Un dossier en instruction n’est plus modifiable par l’usager.** Si l'usager doit apporter des modifications sur un dossier en instruction, il faudra que l'instructeur repasse le dossier en construction en demandant la correction via la messagerie du dossier ou depuis le bouton "demander une correction".
 
@@ -536,9 +536,9 @@ Sur le même principe que l'action de suivi des dossiers, il vous suffit de coch
 
 <figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
-**c. Demande l'avis d'un expert en masse :**
+**c. Demander l'avis d'un expert en masse :**
 
-Il est également la possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
+Il est également possible de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -8,7 +8,7 @@ Lors de son cycle de vie, un administrateur d'une démarche peut publier une nou
 
 Les dossiers créés à partir de ce moment auront donc la dernière version du formulaire de la démarche.&#x20;
 
-Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex : on ne vas demandé à un usager de mettre à jour son dossier si celui-ci a été accepté).
+Cependant les anciens dossiers (accepté/refusé ou classé sans suite) eux ne changent pas de version (ex : on ne va pas demander à un usager de mettre à jour son dossier si celui-ci a été accepté).
 
 getDemarcheDescriptor (et toutes les notions de champDescriptor) permet de mapper un champ à son descripteur de champ de manière fiable. En somme :&#x20;
 

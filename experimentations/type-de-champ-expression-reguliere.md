@@ -31,5 +31,5 @@ Des informations sont à renseigner :&#x20;
 
 Exemples d'expressions régulières que nous testons actuellement :
 
-* je souhaite contraindre la saisie qu'à des chiffres, pas d'espace possible, ni caractère spécial : l'expression régulière à saisir est : "^\d+$" (sans les guillemets)
+* je souhaite contraindre la saisie à des chiffres uniquement, pas d'espace possible, ni caractère spécial : l'expression régulière à saisir est : "^\d+$" (sans les guillemets)
 * je souhaite contraindre la saisie à 9 chiffres pas un de plus ni un de moins, l'expression régulière à saisir est  : "^\d{9}$" (sans les guillemets)

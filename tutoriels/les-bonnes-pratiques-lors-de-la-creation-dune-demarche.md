@@ -42,7 +42,7 @@ Avant de cocher l'option obligatoire d'un champ il faut toujours se demander si 
 
 ## 7. Faites un test complet avant publication
 
-Une démarche en test permet justement de déposer des dossiers fictifs qui vous permettent de prendre tour à tour le rôle d'usager et le rôle d'instructeur. Demandez également à des collègues de tester pour vous. Apportez une attention particulière à la partie « Annotations privées » qui entre dans le cadre dans le processus d'instruction et qui est parfois laissée de côté lors de la création du formulaire.  Cette partie est modifiable, mais les modifications seront visibles pour les nouveaux dossiers non instruits.
+Une démarche en test permet justement de déposer des dossiers fictifs qui vous permettent de prendre tour à tour le rôle d'usager et le rôle d'instructeur. Demandez également à des collègues de tester pour vous. Apportez une attention particulière à la partie « Annotations privées » qui entre dans le cadre du processus d'instruction et qui est parfois laissée de côté lors de la création du formulaire.  Cette partie est modifiable, mais les modifications seront visibles pour les nouveaux dossiers non instruits.
 
 ## 8. Personnalisez l’URL de votre démarche et informez votre délégué à la protection des données :  &#x20;
 

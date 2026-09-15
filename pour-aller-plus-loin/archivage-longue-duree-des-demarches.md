@@ -38,7 +38,7 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 * [L'utilisation de l'API ](https://doc.demarche.numerique.gouv.fr/api-graphql)permet d'automatiser la récupération des données.
 
-Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cette archive au format ZIP intègre
+Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cette archive au format ZIP intègre :
 
 * tous les dossiers et leurs pièces jointes
 * tous les messages échangés par le biais de la messagerie entre les instructeurs et les usagers (incluant aussi les pièces jointes)

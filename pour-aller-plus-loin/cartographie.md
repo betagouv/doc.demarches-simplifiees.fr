@@ -12,7 +12,7 @@ L'affichage de la carte propose plusieurs options permettant à l'usager de sais
 
 Les options proposées à l'usager sont :&#x20;
 
-L'ajout un point GPS : cliquer sur l'icône d'ajout de point, puis cliquer sur la carte pour ajouter la coordonnée GPS au formulaire.&#x20;
+L'ajout d'un point GPS : cliquer sur l'icône d'ajout de point, puis cliquer sur la carte pour ajouter la coordonnée GPS au formulaire.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.28 PM.png" alt=""><figcaption></figcaption></figure>
 

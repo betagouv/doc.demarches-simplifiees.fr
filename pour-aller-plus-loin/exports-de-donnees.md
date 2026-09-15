@@ -4,7 +4,7 @@
 
 Il est possible d'exporter manuellement l'intégralité des dossiers déposés sur une procédure donnée.
 
-Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaités bouton «Télécharger les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods,zip.).
+Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaitez, puis sur le bouton « Télécharger les dossiers » en haut à droite, et choisir le format d'export souhaité (.csv, .xls, .ods, .zip).
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,4 +1,4 @@
-# Point d'entrée et Schema GraphQL
+# Point d'entrée et Schéma GraphQL
 
 Vous avez maintenant les pré-requis pour avancer sur votre propre client des API de **demarche.numerique.gouv.fr** :
 
@@ -17,18 +17,18 @@ Les requêtes doivent être envoyées avec le verbe HTTP **POST**
 {% endhint %}
 
 {% hint style="danger" %}
-Les **headers doivent contenir le jeton d'authentification au format attendu** confère : [jeton d'authentification](jeton-dauthentification/)
+Les **headers doivent contenir le jeton d'authentification au format attendu**, cf. : [jeton d'authentification](jeton-dauthentification/)
 {% endhint %}
 
 {% hint style="danger" %}
-Le corps de votre requete POST, **doit être un JSON respectant la spécification GraphQL**
+Le corps de votre requête POST, **doit être un JSON respectant la spécification GraphQL**
 {% endhint %}
 
 {% hint style="info" %}
 **Cette adresse n’est pas visitable dans un navigateur**. Elle renvoie des données au format JSON, à travers un transport HTTPS.
 {% endhint %}
 
-Pour plus d'information concernant le schema, vous pouvez :
+Pour plus d'information concernant le schéma, vous pouvez :
 
 * consulter la documentation : [https://www.demarche.numerique.gouv.fr/graphql/schema/index.html](https://demarche.numerique.gouv.fr/graphql/schema/index.html)
 * consulter le fichier graphql.schema : [https://github.com/demarche-numerique/demarche.numerique.gouv.fr/blob/main/app/graphql/schema.graphql](https://github.com/demarche-numerique/demarche.numerique.gouv.fr/blob/main/app/graphql/schema.graphql)

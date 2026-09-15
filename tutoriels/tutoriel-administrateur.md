@@ -90,7 +90,7 @@ La création d’une nouvelle démarche peut se faire soit à partir de zéro so
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01.png" alt=""><figcaption></figcaption></figure>
 
-Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
+Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé de la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
 
 La liste des démarches associées à l'intitulé recherché s'affichera et vous pourrez alors cliquer sur le bouton « Cloner ».
 
@@ -543,7 +543,7 @@ Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 10.40.49.png" alt=""><figcaption></figcaption></figure>
 
-**c) référentiel à configuré (avancé)**
+**c) référentiel à configurer (avancé)**
 
 ### Qu’est-ce qu’un champ référentiel à configurer (avancé ) ?
 
@@ -869,7 +869,7 @@ Pour les démarches avec **voies de recours,** il est possible de configurer un 
 \
 Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail qu’une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.\
 \
-Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et dans le cas échéant à quelle date.
+Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et, le cas échéant, à quelle date.
 
 ## 16. Les labels
 
@@ -928,7 +928,7 @@ Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer su
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.26.47.png" alt=""><figcaption></figcaption></figure>
 
-#### 2) Configuration les lieux
+#### 2) Configuration des lieux
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
@@ -996,7 +996,7 @@ Si vous n'avez pas paramétré de date limite de dépôt de dossier, vous pouvez
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.40.34.png" alt=""><figcaption></figcaption></figure>
 
-Un message s'affiche vous permettant qu'indiquer la raison de la cloture. Vous pouvez également indiquer si votre démarche est remplacée par une existante afin de rediriger les usagers vers la nouvelle démarche.
+Un message s'affiche vous permettant d'indiquer la raison de la clôture. Vous pouvez également indiquer si votre démarche est remplacée par une existante afin de rediriger les usagers vers la nouvelle démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.43.46.png" alt=""><figcaption></figcaption></figure>
 
@@ -1087,7 +1087,7 @@ Vous pouvez soit télécharger tous les dossiers, soit générer un export du mo
 
 ## 22. Supprimer une démarche
 
-La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
+La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, la suppression s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.13.45.png" alt=""><figcaption></figcaption></figure>
 

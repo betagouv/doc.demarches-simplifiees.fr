@@ -134,7 +134,7 @@ Dans l’Allier les démarches sont nombreuses et portent sur des thématiques d
 
 Tout part toujours de l’agent instructeur de dossiers. Souvent il veut dématérialiser un Cerfa, parfois actualiser une démarche existante, parfois même il se dit « pourquoi je ne ferai pas comme la collègue d’à côté ».
 
-Certains se lancent tout seul et suivent les guides en ligne pour créer leur démarche, d’autres font appel à moi pour les accompagner dans le processus. L’objectif n’est pas de faire à leur place mais bien de les acculturer à l’utilisation des outils numériques, dont **demarche.numerique.gouv.fr** les rendre le plus autonome possible.
+Certains se lancent tout seul et suivent les guides en ligne pour créer leur démarche, d’autres font appel à moi pour les accompagner dans le processus. L’objectif n’est pas de faire à leur place mais bien de les acculturer à l’utilisation des outils numériques, dont **demarche.numerique.gouv.fr**, et de les rendre les plus autonomes possible.
 
 **Quels sont les avantages que vous avez trouvés en utilisant demarche.numerique.gouv.fr ?**
 
