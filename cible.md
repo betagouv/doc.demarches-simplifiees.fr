@@ -10,7 +10,7 @@ description: "Cette page indique quels sont les trois publics concernés par l'u
 
 Des organismes publics de natures très diverses utilisent aujourd'hui l'application : administrations centrales, services déconcentrés, collectivités territoriales, opérateurs de l'État…
 
-Une liste plus complète des cas d'usage actuels est disponible dans la rubrique [**Cas d'usage**](https://doc.demarches-simplifiees.fr/cas-dusage).
+Une liste plus complète des cas d'usage actuels est disponible dans la rubrique [**Cas d'usage**](https://doc.demarche.numerique.gouv.fr/cas-dusage).
 
 ## Cas d'usage
 

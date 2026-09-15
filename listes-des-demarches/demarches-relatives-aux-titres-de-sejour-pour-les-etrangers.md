@@ -17,7 +17,7 @@ Par ailleurs demarches-simplifiees.fr est un outil numérique proposé aux admin
 
 #### Démarches relatives aux échanges de permis étrangers
 
-Pour les demandes concernant les échanges de permis de conduire étrangers, veuillez consulter [cette page](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire).
+Pour les demandes concernant les échanges de permis de conduire étrangers, veuillez consulter [cette page](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire).
 
 #### Démarches relatives à la demande d'autorisation provisoire de travail
 

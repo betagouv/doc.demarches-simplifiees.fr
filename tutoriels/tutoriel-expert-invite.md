@@ -91,7 +91,7 @@ Si vous avez accès à la messagerie, vous avez également la possibilité de r�
 
 Les administrateurs de la démarche ont également la possibilité de gérer les notifications des décisions finales aux experts ayant émis un avis sur un dossier.&#x20;
 
-Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur de la démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur).
+Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur de la démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-administrateur).
 
 Si l'administrateur de la démarche active la fonctionnalité « notifier des décisions sur les dossiers », en tant qu'expert invité, vous recevrez une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure :&#x20;
 

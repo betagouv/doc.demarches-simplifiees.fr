@@ -71,7 +71,7 @@ La confirmation de vos coordonnées postales vous sera demandée à la fin de l'
 * [**45 - Loiret**](https://demarche.numerique.gouv.fr/commencer/prefecture-45-demande-d-adhesion-au-label-qualite-)
 * [**49 - Maine-et-Loire**](https://demarche.numerique.gouv.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**51 - Marne**](https://demarche.numerique.gouv.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations)
-* [**55 - Meuse**](https://doc.demarches-simplifiees.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
+* [**55 - Meuse**](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-relatives-au-permis-de-conduire#55-meuse)
 * [**56 - Morbihan**](https://demarche.numerique.gouv.fr/commencer/labellisation_auto-ecole_prefecture56)
 * [**60 - Manche**](https://demarche.numerique.gouv.fr/commencer/label-qualite-ecoles-de-conduite)
 * [**63 - Puy-de-dome et Allier**](https://demarche.numerique.gouv.fr/commencer/demande-d-adhesion-au-label-qualite-des-formations-63-03)

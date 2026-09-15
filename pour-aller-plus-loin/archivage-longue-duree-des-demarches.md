@@ -24,7 +24,7 @@ La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera ap
 
 Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre serveur :
 
-* [L'export des dossiers au format tableur](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/exports-de-donnees) permet d'avoir une vue d'ensemble des dossiers d'une démarche.
+* [L'export des dossiers au format tableur](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees) permet d'avoir une vue d'ensemble des dossiers d'une démarche.
 
 ![Exporter aus formats xlsx, ods, csv et zip une liste de dossier filtré](<../.gitbook/assets/Screenshot 2023-07-04 at 9.39.50 AM.png>)
 
@@ -36,7 +36,7 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 ![Export PDF d'un dossier](<../.gitbook/assets/Screenshot 2023-07-04 at 9.40.34 AM.png>)
 
-* [L'utilisation de l'API ](https://doc.demarches-simplifiees.fr/api-graphql)permet d'automatiser la récupération des données.
+* [L'utilisation de l'API ](https://doc.demarche.numerique.gouv.fr/api-graphql)permet d'automatiser la récupération des données.
 
 Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cet archive au format ZIP intègre
 
