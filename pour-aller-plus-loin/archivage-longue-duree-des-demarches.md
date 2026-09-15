@@ -12,15 +12,15 @@ Pour déterminer la durée de conservation globale d'un dossier, vous devez à l
 
 **L' administration est en effet responsable du traitement et de la conservation des dossiers**. Cela concerne principalement les dossiers terminés (acceptés, refusés ou sans suite). Vous recevez des notifications par e-mail un mois avant la suppression de dossiers afin de vous rappeler de les sauvegarder.
 
-La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple: passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
+La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple : passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
 
-## À quel moment est supprimé le dossier de l'usager?
+## À quel moment est supprimé le dossier de l'usager ?
 
-* Dossier en brouillon: le délai de conservation du dossier de l'usager court à partir de la création du dossier.
-* Dossier en construction: le délai de conservation court à partir de la dernière date de modification du dossier par l'usager.
-* Dossier accepté/refusé/classé sans suite: le délai de conservation court à partir de la dernière action d'instruction du dossier.
+* Dossier en brouillon : le délai de conservation du dossier de l'usager court à partir de la création du dossier.
+* Dossier en construction : le délai de conservation court à partir de la dernière date de modification du dossier par l'usager.
+* Dossier accepté/refusé/classé sans suite : le délai de conservation court à partir de la dernière action d'instruction du dossier.
 
-## Comment l'administration peut récupérer les dossiers?
+## Comment l'administration peut récupérer les dossiers ?
 
 Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre serveur :
 

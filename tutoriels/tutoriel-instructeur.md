@@ -140,7 +140,7 @@ Il est possible de filtrer les dossiers à l'aide des champs présents dans la p
 
 Pour cela, il y a un bandeau avec des filtres que vous pouvez sélectionner.
 
-Les filtres sont les suivants:
+Les filtres sont les suivants :
 
 * L'état du dossier (En construction, en instruction, accepté, refusé, classé sans suite)
 * Le numéro du dossier
@@ -151,7 +151,7 @@ Les filtres sont les suivants:
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.12.30.png" alt=""><figcaption></figcaption></figure>
 
-**Un exemple d'application des filtres: ici l'état du dossier et la date de dépôt**
+**Un exemple d'application des filtres : ici l'état du dossier et la date de dépôt**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.34.04.png" alt=""><figcaption></figcaption></figure>
 
@@ -297,7 +297,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 * Une fois l’adresse e-mail des experts de la liste ajoutée, la fonctionnalité **« avis externe »** permet à l’instructeur de **personnaliser le message adressé à l’expert et de lui poser une question à laquelle il devra répondre par oui ou non.**\
   Dans ce cadre, l’instructeur peut également **partager une pièce justificative** afin d’aider l’expert à rendre son avis.<br>
 * De plus, l**es avis externes ne sont pas visibles par l'usager**.<br>
-* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit:
+* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit :
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -348,7 +348,7 @@ De son côté, **l’usager peut également savoir si son message a été lu**.
 
 Cet onglet fait office de **récapitulatif de l'ensemble des personnes contribuant au traitement du dossier.** Depuis cet onglet, il est également possible **d'envoyer le dossier à un autre instructeur qui a été au préalable nommé sur la procédure**. Celui-ci suivra alors automatiquement le dossier concerné et recevra également un e-mail lui indiquant que le dossier lui a été transmis.
 
-Cet onglet contient également:
+Cet onglet contient également :
 
 * **La liste des instructeurs qui suivent le dossier**
 * **Les personnes à qui un avis a été demandé** (demande d'avis aux expert**s)**
@@ -512,11 +512,11 @@ Dans l’onglet « **traités** », cliquez sur le bouton « **déplacer à arch
 
 **a. Suivre les dossiers "en masse" :**
 
-Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondants aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit**:
+Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondants aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit** :
 
 <figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
-Une fois que vous aurez coché sur les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers:
+Une fois que vous aurez coché sur les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers :
 
 <figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
@@ -573,7 +573,7 @@ Un justification optionnel peut aussi être envoyé en masse à tous les dossier
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
-Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours:
+Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours :
 
 <figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
@@ -581,7 +581,7 @@ Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant 
 À noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.
 {% endhint %}
 
-Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités": un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.
+Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités" : un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.
 
 <figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
@@ -630,11 +630,11 @@ Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à dr
 **ATTENTION** : Veillez à désactiver les extensions de blocage de publicités qui peuvent empêcher le téléchargement du fichier d'export.
 {% endhint %}
 
-Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction:
+Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction :
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:
+Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.44.47.png" alt=""><figcaption><p>Téléchargement de l'export</p></figcaption></figure>
 
@@ -674,7 +674,7 @@ Vous avez la possibilité de créer :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Onglet "Téléchargements"</p></figcaption></figure>
 
-À noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs.
+À noter : Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaP1pADWfziAvrXnIXD8A8U3YXcZpiuQ9xT7MFiUdyQoZTjHjNy3uXvPm0F15xYArIt3bilG3sApS-wmEQNF8QaN58Iq2_eEelXDuxMhz9LJjNtwjjQEtwU2JZkJV2KPhHr-R9?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page "Modèles d'export"</p></figcaption></figure>
 
@@ -763,16 +763,16 @@ Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pou
 
 Ils sont configurables par l'administrateur de la démarche. Ce dernier a la possibilité de modifier les labels ou d’en créer un nouveau.
 
-En tant qu''instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous:
+En tant qu''instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePLwU53WxHLPUlPvNNPP6sOCQTSqWqieXEOaiuc6qtkxkKujWhrVI2Snt_JOxvJ_jPibe87kccyvea2aH8qAQ2tNfUmYM7GfWGJo-ip0GM6qQeZserpP2hA1QSGfrfLniiRMFHOA?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
 
-Pour ajouter ou modifier un label sur un dossier, vous devez cliquer sur le point à droite des labels pour les afficher:
+Pour ajouter ou modifier un label sur un dossier, vous devez cliquer sur le point à droite des labels pour les afficher :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSksGcoWz9UU7Gb1Ks4gEFv1EDmMXIfRwV59sjxo0fy4Z3DUrhLYJcyys67bBSX7hAPFYMWvIXw9tkV42uDAHOVgQGt1OpfIlXKq5s3aOq6mSEDM2s7lmP7rti8dOcAPWaHGOPwg?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
 
 \
-Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tableau de bord en utilisant le filtre dédié aux labels ou en personnalisant votre tableau de bord instructeur comme ci-dessous:
+Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tableau de bord en utilisant le filtre dédié aux labels ou en personnalisant votre tableau de bord instructeur comme ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
@@ -877,7 +877,7 @@ Sur chaque procédure, l'instructeur a accès à des statistiques. Pour cela, il
 
 Ces statistiques sont calculées à partir du temps effectif de traitement des dossiers. Elles permettent aux instructeurs d'avoir une vue d'ensemble sur la démarche et un suivi de l'instruction.
 
-Dans cet onglet "statistiques", vous trouverez les informations suivantes:
+Dans cet onglet "statistiques", vous trouverez les informations suivantes :
 
 * Le temps de traitement usuel de la démarche
 * L'avancée des dossiers

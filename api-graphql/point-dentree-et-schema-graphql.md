@@ -28,7 +28,7 @@ Le corps de votre requete POST, **doit être un JSON respectant la spécificatio
 **Cette adresse n’est pas visitable dans un navigateur**. Elle renvoie des données au format JSON, à travers un transport HTTPS.
 {% endhint %}
 
-Pour plus d'information concernant le schema, vous pouvez:
+Pour plus d'information concernant le schema, vous pouvez :
 
 * consulter la documentation : [https://www.demarche.numerique.gouv.fr/graphql/schema/index.html](https://demarche.numerique.gouv.fr/graphql/schema/index.html)
 * consulter le fichier graphql.schema : [https://github.com/demarche-numerique/demarche.numerique.gouv.fr/blob/main/app/graphql/schema.graphql](https://github.com/demarche-numerique/demarche.numerique.gouv.fr/blob/main/app/graphql/schema.graphql)

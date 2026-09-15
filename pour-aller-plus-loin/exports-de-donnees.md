@@ -37,24 +37,24 @@ Une option a été mis en place qui permet d'exporter non pas sous forme d'un ta
 
 #### Métadonnées
 
-Les métadonnées du dossier comprennent les informations suivantes:
+Les métadonnées du dossier comprennent les informations suivantes :
 
-* id: numéro du dossier
-* created\_at: date de création du dossier
-* updated\_at: date de la dernière modification du dossier
-* archived: informe si le dossier est archive (_true_) ou non (_false_)
-* email: email de l'usager
-* state: correspond à l'état du dossier
-  * initiated: en construction
-  * received: en instruction
-  * closed: accepté
-  * refused: refusé
-  * without\_continuation: classé sans suite
-* initiated\_at: date du dépôt de dossier
-* received\_at: date du passage en instruction
-* processed\_at: date de décision du dossier
-* motivation: motivation de la décision
-* email\_instructeurs: email de l'instructeur qui a donné la décision pour le dossier
+* id : numéro du dossier
+* created\_at : date de création du dossier
+* updated\_at : date de la dernière modification du dossier
+* archived : informe si le dossier est archive (_true_) ou non (_false_)
+* email : email de l'usager
+* state : correspond à l'état du dossier
+  * initiated : en construction
+  * received : en instruction
+  * closed : accepté
+  * refused : refusé
+  * without\_continuation : classé sans suite
+* initiated\_at : date du dépôt de dossier
+* received\_at : date du passage en instruction
+* processed\_at : date de décision du dossier
+* motivation : motivation de la décision
+* email\_instructeurs : email de l'instructeur qui a donné la décision pour le dossier
 
 ![](../.gitbook/assets/CaptureExport2.PNG)
 

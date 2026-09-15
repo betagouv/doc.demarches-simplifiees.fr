@@ -22,7 +22,7 @@ Ces serveurs communiquent au travers de lignes dédiées c’est à dire que la 
 
 La disponibilité de l’application est monitorée en continu avec des sondes évaluant les serveurs, le stockage, les logiciels, les droits utilisateurs, la connexion internet et les connexions serveurs. La disponibilité constatée est publique et affichée à l’url suivante : [https://status.demarche.numerique.gouv.fr/](https://status.demarche.numerique.gouv.fr/).<br>
 
-Le deuxième aspect est le Référentiel général de sécurité (RGS):
+Le deuxième aspect est le Référentiel général de sécurité (RGS) :
 
 L’article 9 de l’ordonnance [n° 2005](https://www.legifrance.gouv.fr/affichTexteArticle.do?cidTexte=JORFTEXT000000636232\&idArticle=LEGIARTI000006317203\&dateTexte=\&categorieLien=cid)  fixe les règles de sécurité des systèmes d’information afin qu’ils garantissent la sécurité des informations échangées par voie électronique.
 

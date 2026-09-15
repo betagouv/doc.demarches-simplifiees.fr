@@ -27,7 +27,7 @@ Si vous avez déjà un compte ✔︎ : Votre authentification vous dirigera vers
 
 Si vous n'avez pas de compte ✘ : Votre authentification vous dirigera vers un parcours de création de compte ! Vous pourrez renseigner les informations et créer votre compte.
 
-Validation de la connexion: nous vous demanderons de confirmer la permission de connecter les deux solutions.
+Validation de la connexion : nous vous demanderons de confirmer la permission de connecter les deux solutions.
 
 <figure><img src="../.gitbook/assets/Connexion RDV.avif" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +75,7 @@ C’est ici que vous pouvez gérer votre offre de rendez-vous : des rendez-vous 
 
 Vos agents instructeurs pourront utiliser les motifs configurés ici&#x20;
 
-Vous devrez procéder à la configuration générale en renseignant:
+Vous devrez procéder à la configuration générale en renseignant :
 
 * Le nom du motif du RDV
 * Le service associé
@@ -84,7 +84,7 @@ Vous devrez procéder à la configuration générale en renseignant:
 
 
 
-Vous pouvez ensuite paramétrer le **type de rendez-vous**:
+Vous pouvez ensuite paramétrer le **type de rendez-vous** :
 
 * Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
 * Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.

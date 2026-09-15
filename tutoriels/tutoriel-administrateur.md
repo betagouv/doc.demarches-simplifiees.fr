@@ -403,13 +403,13 @@ L'usager doit renseigner une date et un horaire.
 
 #### g) Champ formaté
 
-Vous avez la possibilité de formater un champ selon le format de votre choix. Deux options s'offrent à vous:
+Vous avez la possibilité de formater un champ selon le format de votre choix. Deux options s'offrent à vous :
 
-* Le mode simple: vous pouvez formater un champ en choisissant le nombre de caractères que comportera ce champ, mais aussi s'il comporte des chiffres, des lettres et/ou des caractères spéciaux.
+* Le mode simple : vous pouvez formater un champ en choisissant le nombre de caractères que comportera ce champ, mais aussi s'il comporte des chiffres, des lettres et/ou des caractères spéciaux.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 17.58.48.png" alt=""><figcaption><p>Champ formaté en mode "choix simple"</p></figcaption></figure>
 
-* Le mode avancé: vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correpond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.
+* Le mode avancé : vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correpond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.03.28.png" alt=""><figcaption><p>Champ formaté en mode "avancé"</p></figcaption></figure>
 
@@ -426,7 +426,7 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.
 #### a) Pièce à joindre
 
 Ce champ permet à l'usager d'ajouter au dossier un document. La taille de chaque pièce justificative doit être inférieure à 200 Mo.\
-Vous pouvez désormais choisir la nature de la pièce à joindre entre:
+Vous pouvez désormais choisir la nature de la pièce à joindre entre :
 
 * **Relevé d'identité bancaire (RIB)** : Le contenu du fichier joint par l’usager sera analysé automatiquement afin de récupérer et retranscrire à l’instructeur les informations suivantes : **Nom du titulaire, Adresse du titulaire** (si présente sur le fichier), **IBAN, Code BIC, Nom de la banque**.
 *   **Titre d'identité :** ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20 Mo
@@ -521,7 +521,7 @@ Ce champ permet aux associations d'indiquer leurs numéros RNA. Les données li�
 
 **c) Carte**
 
-Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné, il peut choisir de faire figurer les informations suivantes:
+Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné, il peut choisir de faire figurer les informations suivantes :
 
 * Unesco
 * Arrêtés de protection
@@ -586,7 +586,7 @@ Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'i
 Une estimation de la durée nécessaire pour remplir le formulaire est affichée en bas de l’écran. Cette durée est calculée en fonction du nombre et du type des champs :
 
 * Champs rapides (texte, case à cocher, etc) : 10 secondes
-* Champs moyens (adresse, SIRET, IBAN, etc): 1 minute
+* Champs moyens (adresse, SIRET, IBAN, etc) : 1 minute
 * Champs longs (pièces justificatives, etc) : 3 minutes
 
 L’estimation considère qu’un bloc répétable est répété en moyenne entre 2 et 3 fois, et qu’un champ optionnel est rempli en moyenne une fois sur deux.
@@ -900,7 +900,7 @@ Si vous n'avez pas de compte ✘ : Votre authentification vous dirigera vers un 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.34.39.png" alt=""><figcaption></figcaption></figure>
 
-Validation de la connexion: nous vous demanderons de confirmer la permission de connecter les deux solutions.
+Validation de la connexion : nous vous demanderons de confirmer la permission de connecter les deux solutions.
 
 ### B) Configuration dans RDV service public
 
@@ -938,7 +938,7 @@ Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro 
 
 #### 3) Configurer les motifs de RDV
 
-Dans un premier temps, vous devrez procéder à la configuration générale en renseignant:
+Dans un premier temps, vous devrez procéder à la configuration générale en renseignant :
 
 * Le nom du motif du RDV
 * Le service associé
@@ -947,7 +947,7 @@ Dans un premier temps, vous devrez procéder à la configuration générale en r
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 11.07.32.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez ensuite paramétrer le **type de RDV**:
+Vous pouvez ensuite paramétrer le **type de RDV** :
 
 * Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
 * Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.

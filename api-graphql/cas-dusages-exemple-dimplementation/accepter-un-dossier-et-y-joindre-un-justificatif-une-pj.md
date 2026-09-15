@@ -13,7 +13,7 @@ Cette requete implique de décrire le fichier que vous allez envoyer : le filena
 
 ### 2. Vous uploadez le fichier sur notre object storage, en réutilisant les crédentials de la 1ere requete&#x20;
 
-<figure><img src="../../.gitbook/assets/evil-martions-direct-upload-architecture.webp" alt=""><figcaption><p>résumé des étapes 1 et 2,source: <a href="https://evilmartians.com/chronicles/active-storage-meets-graphql-direct-uploads">https://evilmartians.com/chronicles/active-storage-meets-graphql-direct-uploads</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/evil-martions-direct-upload-architecture.webp" alt=""><figcaption><p>résumé des étapes 1 et 2,source : <a href="https://evilmartians.com/chronicles/active-storage-meets-graphql-direct-uploads">https://evilmartians.com/chronicles/active-storage-meets-graphql-direct-uploads</a></p></figcaption></figure>
 
 ### 3. Vous, client, faites une requete pour lier ce fichier (maintenant sur nos serveurs, identifié par le signed\_blob\_id) a un justificatif
 

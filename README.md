@@ -39,7 +39,7 @@ La plateforme demarche.numerique.gouv.fr comporte quatre rôles :
 * Administrateurs : création et publication des démarches
 * Usagers : dépôt et suivi des dossiers
 * Instructeurs : traitement de ces demandes
-* Experts: émission d'un ou plusieurs avis sur un dossier&#x20;
+* Experts : émission d'un ou plusieurs avis sur un dossier&#x20;
 
 Aucune connaissance spécifique en informatique n'est requise pour comprendre cette documentation.
 

@@ -57,7 +57,7 @@ Cet onglet vous permet également de consulter les pièces justificatives jointe
 
 Cet onglet vous permet de donner votre avis sur le dossier : l'e-mail du demandeur de l'avis ( l'instructeur) et son message sont affichés.&#x20;
 
-Si l'instructeur a posé une question, vous avez la possibilité de répondre par "oui" ou "non": dans cet exemple il s'agit de la question "Êtes-vous favorable à cette demande".&#x20;
+Si l'instructeur a posé une question, vous avez la possibilité de répondre par "oui" ou "non" : dans cet exemple il s'agit de la question "Êtes-vous favorable à cette demande".&#x20;
 
 Vous avez également un champ de texte libre dédié pour rédiger l'avis après avoir consulté les éléments du dossier.
 

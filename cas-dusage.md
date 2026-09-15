@@ -38,7 +38,7 @@ Je n’ai malheureusement pas d’autres cas d’usage à l'échelle de mon admi
 
 La Dotation d'Equipement des territoires ruraux (DETR) ou les dotations aux collectivités territoriales de manière générale sont un sujet qui a été pratiqué sur **demarche.numerique.gouv.fr** par de nombreuses préfectures.
 
-Nous avons organisé dans cette optique un webinaire avec un grand nombre de préfectures, celui-ci est disponible en vidéo: [https://vimeo.com/290916758](https://vimeo.com/290916758)
+Nous avons organisé dans cette optique un webinaire avec un grand nombre de préfectures, celui-ci est disponible en vidéo : [https://vimeo.com/290916758](https://vimeo.com/290916758)
 
 ## Téléprocédure « inscription à l'épreuve pratique du permis de conduire en candidat libre »
 

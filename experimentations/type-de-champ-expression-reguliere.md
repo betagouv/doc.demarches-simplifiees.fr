@@ -6,7 +6,7 @@
 
 Une expression régulière (regex) est une séquence de caractères utilisée pour décrire un ensemble spécifique de chaînes de caractères selon certaines syntaxes. Elle permet d'effectuer des recherches, des remplacements et des validations de données dans une chaîne de caractères.
 
-Dans le cadre de la validation d'un champ de formulaire elle sert à valider les données entrées par un utilisateur en vérifiant si elles correspondent à un certain format. Par exemple, un regex peut vérifier qu'une adresse email entrée dans un champ de formulaire ressemble bien à une adresse email (ex: [nom@example.com](mailto:nom@example.com)) ou à un numéro de téléphone.
+Dans le cadre de la validation d'un champ de formulaire elle sert à valider les données entrées par un utilisateur en vérifiant si elles correspondent à un certain format. Par exemple, un regex peut vérifier qu'une adresse email entrée dans un champ de formulaire ressemble bien à une adresse email (ex : [nom@example.com](mailto:nom@example.com)) ou à un numéro de téléphone.
 
 
 

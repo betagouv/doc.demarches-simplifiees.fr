@@ -8,12 +8,12 @@ Lors de son cycle de vie, un administrateur d'une démarche peut publier une nou
 
 Les dossiers crées a partir de ce moment auront donc la derniere version du formulaire de la démarche.&#x20;
 
-Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex: on ne vas demandé à un usager de mettre à jour son dossier si celui ci a été accepté).
+Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex : on ne vas demandé à un usager de mettre à jour son dossier si celui ci a été accepté).
 
 getDemarcheDescriptor (et toutes les notions de champDescriptor) permet de mapper un champs à son descripteur de champ de manière fiable. En somme :&#x20;
 
 * Toutes les versions d'une démarche (au travers des objets `Revision` : [https://demarche.numerique.gouv.fr/graphql/schema/types/Revision](https://demarche.numerique.gouv.fr/graphql/schema/types/Revision)).
-* Une `Revision` porte le schema de donnée des dossiers déposés lorsque la démarche était sur cette version. Vous trouverez donc la liste des champs et des annotations sur la révision cf: [https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor](https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor)
+* Une `Revision` porte le schema de donnée des dossiers déposés lorsque la démarche était sur cette version. Vous trouverez donc la liste des champs et des annotations sur la révision cf : [https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor](https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor)
 * Les champs et annotations des dossiers de la démarche  `(data.demarche.dossiers.champs[].champDescriptorId)` correspondent à l'une des Revision de la démarches `data.demarche.revisions[].champDescriptors[].id`&#x20;
 
 ## Query pour demander le descriptif d'une démarche

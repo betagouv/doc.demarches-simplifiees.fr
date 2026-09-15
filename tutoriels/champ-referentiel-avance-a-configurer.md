@@ -301,7 +301,7 @@ L’en-tête et sa valeur seront ajoutés à chaque requête API.
 ### Questions fréquentes
 
 **Q : Que se passe-t-il si une donnée n’est pas trouvée ou est incomplète ?**\
-R:
+R :
 
 * Le système fait du “best effort” : il préremplit ce qu’il peut, et laisse les autres champs vides.
 * La validation du formulaire reste active : l’usager pourra compléter ou corriger les champs si besoin.

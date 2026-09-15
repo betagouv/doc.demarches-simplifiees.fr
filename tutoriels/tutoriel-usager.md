@@ -71,7 +71,7 @@ Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre ident
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.39.43.png" alt=""><figcaption><p>Connexion pour un bénéficiaire</p></figcaption></figure>
 
-Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier:
+Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.43.08.png" alt=""><figcaption><p>Notifier le bénéficiaire</p></figcaption></figure>
 
@@ -104,7 +104,7 @@ Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au f
 
 La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
 
-Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur): .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
+Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur) : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
 \
 En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.** Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
 
@@ -225,7 +225,7 @@ Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'ide
 
 #### Traités
 
-Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue. 3 décisions sont possibles:
+Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue. 3 décisions sont possibles :
 
 * acceptation
 * refus
