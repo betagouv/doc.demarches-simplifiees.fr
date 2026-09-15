@@ -549,6 +549,44 @@ Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager
 
 Nous vous renvoyons à la [documentation](champ-referentiel-avance-a-configurer.md) spécifique à ce type de champ.
 
+**d) Champ pré-rempli**
+
+Le champ « pré-rempli » affiche à l’usager une information que **vous** lui transmettez, sans qu’il puisse la modifier : une référence de dossier issue de votre système d’information, un code de campagne, ou le statut d’un bénéficiaire déjà connu de vos services.
+
+{% hint style="info" %}
+**Cette fonctionnalité n’est pas activée par défaut.** Pour en disposer sur une démarche, contactez notre équipe support à l’adresse **contact@demarche.numerique.gouv.fr** en précisant le numéro de la démarche concernée.
+{% endhint %}
+
+**Paramétrer le champ**
+
+<figure><img src="../.gitbook/assets/champ-pre-rempli-configuration.png" alt="Configuration d’un champ pré-rempli : libellé, options de la liste et case pour masquer le champ"><figcaption><p>Configuration d’un champ « pré-rempli » en tant qu’administrateur</p></figcaption></figure>
+
+Deux réglages vous sont proposés, en plus du libellé et de la description :
+
+* **Options de la liste** : les valeurs que le champ est susceptible de recevoir, une par ligne. Elles alimentent les listes déroulantes de la logique conditionnelle et les filtres du tableau de bord instructeur.
+* **Masquer ce champ dans le formulaire usager** : le champ disparaît complètement du formulaire, mais la valeur transmise est conservée et reste visible par l’instructeur. Utile lorsque l’information vous sert à traiter le dossier sans concerner l’usager.
+
+L’usager ne peut jamais saisir ni corriger la valeur. Ce champ ne peut donc pas être rendu obligatoire.
+
+**Alimenter le champ**
+
+Un champ pré-rempli peut recevoir sa valeur de deux manières :
+
+1. **Par l’API de préremplissage**, en ajoutant la valeur au lien de la démarche que vous diffusez à vos usagers. Nous vous renvoyons à la page dédiée à l’[API de préremplissage](../pour-aller-plus-loin/api-de-preremplissage.md).
+2. **Depuis un champ « référentiel à configurer (avancé) »** placé plus haut dans le formulaire : lors du paramétrage du mapping, vous choisissez le champ pré-rempli comme destination de l’une des données renvoyées par votre API. Le champ affiche alors la mention « Champ prérempli (référentiel) » en bas à droite, comme sur la capture ci-dessus. Nous vous renvoyons à la page dédiée au [champ référentiel avancé](champ-referentiel-avance-a-configurer.md).
+
+{% hint style="warning" %}
+Les « options de la liste » **ne filtrent pas** ce qui entre dans le champ : une valeur absente de la liste sera acceptée et affichée telle quelle. Veillez donc à ce que la liste reflète les valeurs réellement transmises, sinon vos conditions ne se déclencheront pas.
+{% endhint %}
+
+**Conditionner d’autres champs**
+
+Pour la logique conditionnelle, le champ pré-rempli se comporte **exactement comme un champ « choix simple »** : il apparaît dans la liste des champs cibles, et les valeurs saisies dans « Options de la liste » sont proposées dans le menu « Valeur ».
+
+<figure><img src="../.gitbook/assets/champ-pre-rempli-conditionnel.png" alt="Logique conditionnelle affichant un champ texte court si le champ pré-rempli est égal à une valeur donnée"><figcaption><p>Afficher un champ uniquement si le champ pré-rempli a une valeur donnée</p></figcaption></figure>
+
+Vous pouvez ainsi adapter le formulaire à ce que vous savez déjà de l’usager : n’afficher une série de questions qu’aux dossiers d’une certaine catégorie, ou masquer une pièce justificative déjà en votre possession. Combiné à l’option « masquer ce champ », cela permet de personnaliser un formulaire sans que l’usager voie le critère utilisé.
+
 ### **C. Renseigner une description**
 
 Vous pouvez ajouter une description afin de mieux renseigner l’usager sur l’information que vous attendez.
