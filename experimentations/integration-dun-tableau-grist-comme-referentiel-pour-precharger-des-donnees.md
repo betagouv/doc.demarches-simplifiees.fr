@@ -1,10 +1,10 @@
 ---
 description: >-
-  Et s vous aviez un référentiel dans GRIST que vous vouliez utiliser comme menu
-  déroulant dans Grist
+  Et si vous aviez un référentiel dans Grist que vous vouliez utiliser comme menu
+  déroulant dans Démarche numérique
 ---
 
-# Intégration d'un tableau Grist comme référentiel pour préchargér des données
+# Intégration d'un tableau Grist comme référentiel pour précharger des données
 
 {% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-L7_aKvpAJdAIEfxHudA%2Fuploads%2FULpp01kmWBCrRRsOwXpH%2Foutput-tiny-h264.mp4?alt=media&token=4df1430f-cd92-4536-a6e4-a3f84859eea8" %}
 

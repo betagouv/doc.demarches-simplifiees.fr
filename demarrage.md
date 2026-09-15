@@ -19,7 +19,7 @@ La prise en main de **demarche.numerique.gouv.fr** ne nécessite aucune compéte
 
 L'équipe peut fournir un accompagnement à toutes les étapes de la mise en œuvre du produit :
 
-* **Identification des cas d'usage** : toutes les procédures ne sont pas utilement dématérialisables avec l'application. L'équipe peut aider les organismes intéressés à identifier les bons cas d'usages. Lorsqu'ils existent de nombreux besoins de dématérialisation, une opération de recensement exhaustive avec déplacement dans les services intéressés peut être réalisée.
+* **Identification des cas d'usage** : toutes les procédures ne sont pas utilement dématérialisables avec l'application. L'équipe peut aider les organismes intéressés à identifier les bons cas d'usage. Lorsqu'il existe de nombreux besoins de dématérialisation, une opération de recensement exhaustive avec déplacement dans les services intéressés peut être réalisée.
 * **Ré-ingénierie des processus internes** : l'application est simple et rapide à mettre en œuvre mais faiblement paramétrable. Il est de ce fait souvent nécessaire de réaménager les processus d'instruction autour du produit. L'équipe aide les utilisateurs à mettre en adéquation la nouvelle démarche et l'instruction par les services sous une forme dématérialisée.
 * **Réalisation de tests** : il est conseillé d'effectuer une simulation complète de l'instruction d'un dossier puis des tests avant de passer en production. Ces actions permettent d'ajuster si nécessaire la démarche et les processus d'instruction. Les tests peuvent aussi être l'occasion d'identifier l'appétence des usagers pour le canal numérique.
 * **Formation des instructeurs** : les personnes chargées d'instruire les dossiers peuvent être peu familières des outils numériques. Des présentations générales sur l'application sont disponibles dans la rubrique `tutoriels`. Nous organisons également des webinaires dédiés aux instructeurs, chaque troisième mardi du mois. En cas de besoin, l'équipe accompagne les organismes dans l'élaboration d'une documentation spécifique et met en place des formations à destination des instructeurs.
@@ -36,11 +36,11 @@ Veuillez préciser votre numéro de téléphone (ligne directe) afin que nous pu
 
 ### La dématérialisation... ce n'est pas prendre un formulaire papier et le mettre en ligne à l'identique.
 
-La DITP (le Direction interministérielle à la Transformation Publique) a produit un [**guide à la création des formulaires** ](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs)qui présente les étapes essentielles à la simplification d'une démarche.
+La DITP (la Direction interministérielle de la transformation publique) a produit un [**guide à la création des formulaires** ](https://www.modernisation.gouv.fr/outils-et-formations/simplifier-les-documents-administratifs)qui présente les étapes essentielles à la simplification d'une démarche.
 
-Les conseils valent tout autant pour des démarches papiers et des démarches en ligne.
+Les conseils valent tout autant pour des démarches papier et des démarches en ligne.
 
-Prenez le temps de regarder ces guides et ces vidéos avant vous lancer !
+Prenez le temps de regarder ces guides et ces vidéos avant de vous lancer !
 
 ![](.gitbook/assets/sexercer_aux_methodes_de_simplification.jpg)
 

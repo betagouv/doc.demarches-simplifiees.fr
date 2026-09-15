@@ -6,25 +6,25 @@ description: Présentation du nouveau module cartographique
 
 **Tutoriels :**&#x20;
 
-Nous allons vous présenter le nouveau module cartographique et les fonctionnalités auxquels vous avez désormais accès.
+Nous allons vous présenter le nouveau module cartographique et les fonctionnalités auxquelles vous avez désormais accès.
 
-L'affichage de la carte propose plusieurs options permettant a l'usager de saisir des données cartographiques.&#x20;
+L'affichage de la carte propose plusieurs options permettant à l'usager de saisir des données cartographiques.&#x20;
 
 Les options proposées à l'usager sont :&#x20;
 
-L'ajout un point GPS : cliquer sur l'icône d'ajout de point, puis cliquer sur la carte pour ajouter la coordonnée GPS au formulaire.&#x20;
+L'ajout d'un point GPS : cliquer sur l'icône d'ajout de point, puis cliquer sur la carte pour ajouter la coordonnée GPS au formulaire.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.28 PM.png" alt=""><figcaption></figcaption></figure>
 
-Le tracé d'une ligne : cliquer sur l'icône d'ajout de ligne, cliquer une première fois pour debuter la ligne. Et double cliquer pour terminer la ligne.
+Le tracé d'une ligne : cliquer sur l'icône d'ajout de ligne, cliquer une première fois pour débuter la ligne. Et double cliquer pour terminer la ligne.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.13 PM.png" alt=""><figcaption></figcaption></figure>
 
-Le dessin d'un polygonne : cliquer sur l'icône pour dessiner un polygone, cliquer autant de fois que necessaire pour dessiner votre polygone sur la carte, et double cliquer pour terminer la saisie du polygone.
+Le dessin d'un polygone : cliquer sur l'icône pour dessiner un polygone, cliquer autant de fois que nécessaire pour dessiner votre polygone sur la carte, et double cliquer pour terminer la saisie du polygone.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.18 PM.png" alt=""><figcaption></figcaption></figure>
 
-La sélection d'une parcelle cadastrale : cliquer sur l'icône pour selectionner une parcelle cadastrale. Cliquer sur chaque parcelle cadastrale que vous souhaitez ajouter.
+La sélection d'une parcelle cadastrale : cliquer sur l'icône pour sélectionner une parcelle cadastrale. Cliquer sur chaque parcelle cadastrale que vous souhaitez ajouter.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.34 PM.png" alt=""><figcaption></figcaption></figure>
 

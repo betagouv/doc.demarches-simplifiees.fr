@@ -14,7 +14,7 @@ Vous pouvez à présent sélectionner les pièces jointes que vous souhaitez exp
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-08-30 at 11-17-22 demarches-simplifiees.fr.png" alt=""><figcaption><p>Nouveau modèle d'export</p></figcaption></figure>
 
-Ce nouveau modèle sera disponible pour vos exports dans le tableau de bord d'une démarche, dans la partie « télécharcher tout les dossiers ». Ici, l'export s'appelle « Mon export personnalisé ».
+Ce nouveau modèle sera disponible pour vos exports dans le tableau de bord d'une démarche, dans la partie « télécharger tout les dossiers ». Ici, l'export s'appelle « Mon export personnalisé ».
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-09-05 at 13-58-51 test bug bunty 1 · demarches-simplifiees.fr.png" alt=""><figcaption><p>Télécharger vos dossiers</p></figcaption></figure>
 

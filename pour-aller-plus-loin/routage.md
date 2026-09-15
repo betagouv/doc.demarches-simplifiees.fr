@@ -21,7 +21,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 ## **2. Configuration du routage**&#x20;
 
-* Plusieurs types de champ du formulaire permettent de router les dossiers, notamment « Choix simple », « Choix multiple », « Case à  cocher»,  « Nombre entier »,  « Nombre décimal », « Communes »,  « EPCI », « Départements » et « Régions ».
+* Plusieurs types de champ du formulaire permettent de router les dossiers, notamment « Choix simple », « Choix multiple », « Case à cocher», « Nombre entier », « Nombre décimal », « Communes », « EPCI », « Départements » et « Régions ».
 * Dans la page « Configuration des champs », créez un champ de l'un de ces types, par exemple « Choix simple ». Ce champ peut être déplacé au sein du formulaire. Cliquez ensuite sur « Valider le formulaire ».
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
@@ -45,7 +45,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-* Dans le cas d'un routage à partir d'un champ de type  « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ.
+* Dans le cas d'un routage à partir d'un champ de type « Choix simple », le nombre de groupes créés correspond au nombre d'options du champ.
 * Dans le cas d'un routage à partir d'un champ de type « Régions », 18 groupes sont créés (un par région).
 * Dans le cas d'un routage à partir d'un champ de type « Départements », 110 groupes sont créés (un par département).
 * Dans le cas d'un routage à partir d'un champ de type « Communes » ou « EPCI », 110 groupes (un par département) sont créés également. Ainsi, lors du dépôt du dossier, le code du département correspondant à la commune ou à l'EPCI choisi par l'usager permet de router le dossier vers le bon groupe d'instructeurs.
@@ -56,7 +56,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-* Si un badge « aucune règle » apparaît , c'est que la règle de routage du groupe doit être définie.
+* Si un badge « aucune règle » apparaît, c'est que la règle de routage du groupe doit être définie.
 * Si deux groupes ont la même règle de routage, les dossiers seront envoyés au premier groupe de la liste par ordre d'affichage.
 
 ## 5. Gestion d'un groupe

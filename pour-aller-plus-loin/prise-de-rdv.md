@@ -27,7 +27,7 @@ Si vous avez déjà un compte ✔︎ : Votre authentification vous dirigera vers
 
 Si vous n'avez pas de compte ✘ : Votre authentification vous dirigera vers un parcours de création de compte ! Vous pourrez renseigner les informations et créer votre compte.
 
-Validation de la connexion: nous vous demanderons de confirmer la permission de connecter les deux solutions.
+Validation de la connexion : nous vous demanderons de confirmer la permission de connecter les deux solutions.
 
 <figure><img src="../.gitbook/assets/Connexion RDV.avif" alt=""><figcaption></figcaption></figure>
 
@@ -59,13 +59,13 @@ Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer su
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
-Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro de téléphone.
+Vous devrez renseigner le nom du lieu, l'adresse et éventuellement un numéro de téléphone.
 
 Il sera nécessaire d’ajouter un lieu, l’adresse postale de votre administration.
 
 C’est avec cette adresse que les agents instructeurs pourront planifier des rendez-vous.
 
-C’est également cette adresse qui sera associée aux notifications SMS et email reçues par vos usager💡
+C’est également cette adresse qui sera associée aux notifications SMS et email reçues par vos usagers💡
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 16.49.35.png" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +75,7 @@ C’est ici que vous pouvez gérer votre offre de rendez-vous : des rendez-vous 
 
 Vos agents instructeurs pourront utiliser les motifs configurés ici&#x20;
 
-Vous devrez procéder à la configuration générale en renseignant:
+Vous devrez procéder à la configuration générale en renseignant :
 
 * Le nom du motif du RDV
 * Le service associé
@@ -84,7 +84,7 @@ Vous devrez procéder à la configuration générale en renseignant:
 
 
 
-Vous pouvez ensuite paramétrer le **type de rendez-vous**:
+Vous pouvez ensuite paramétrer le **type de rendez-vous** :
 
 * Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
 * Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.
@@ -95,11 +95,11 @@ Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" a
 
 #### 4) La prise de RDV dans **demarche.numerique.gouv.fr** en tant qu'instructeur
 
-Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vous serez automatiquement redirigé vers votre agenda le site de RDV service public. Vous devriez avoir au prélable renseigné vos indisponibilités.&#x20;
+Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vous serez automatiquement redirigé vers votre agenda sur le site de RDV service public. Vous devriez avoir au préalable renseigné vos indisponibilités.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 17.01.10.png" alt=""><figcaption></figcaption></figure>
 
-Une fois sur votre agenda, vous pourrez sélectionner le créneau horaire du rendez-vous que vous donnez à l'usager en passant par plusieurs étapes de confirmations.&#x20;
+Une fois sur votre agenda, vous pourrez sélectionner le créneau horaire du rendez-vous que vous donnez à l'usager en passant par plusieurs étapes de confirmation.&#x20;
 
 Vous pourrez ensuite choisir le motif du RDV, la durée, etc.&#x20;
 

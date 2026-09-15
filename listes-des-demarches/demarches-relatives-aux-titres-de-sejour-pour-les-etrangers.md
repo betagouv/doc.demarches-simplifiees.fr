@@ -73,13 +73,13 @@ Les modalités de notification de la disponibilité de votre titre de séjour va
 
 Un point d'accès numérique est également mis à disposition des usagers, vous pouvez contacter le standard de la préfecture pour plus d'informations.&#x20;
 
-#### 1ère demande de  carte de séjour temporaire « Vie privée et familiale » :
+#### 1ère demande de carte de séjour temporaire « Vie privée et familiale » :
 
 * [Etranger entré en France avant l’âge de 13 ans et y résidant depuis lors](https://demarche.numerique.gouv.fr/commencer/demande-premier-titre-sejour-etranger-etranger-entre-avant-13-ans)
 * [PACSÉ(E) avec un(e) français(e)](https://demarche.numerique.gouv.fr/commencer/demande-premier-titre-sejour-pacs-avec-francais)
 * [Accompagnant Etranger malade ](https://demarche.numerique.gouv.fr/commencer/demande-premier-titre-sejour-accompagnant-enfant-etranger-malade)
 
-#### 1ère demande de  carte de séjour temporaire « Carte de séjour temporaire » « Salarié » « Travailleur temporaire » : Salarié / Etranger placé auprès de l’Aide Sociale à l’Enfance (ASE) entre 16 et 18 ans /Salarié RLD - UE.
+#### 1ère demande de carte de séjour temporaire « Carte de séjour temporaire » « Salarié » « Travailleur temporaire » : Salarié / Etranger placé auprès de l’Aide Sociale à l’Enfance (ASE) entre 16 et 18 ans /Salarié RLD - UE.
 
 * [Salarié ](https://demarche.numerique.gouv.fr/commencer/demande-premier-titre-sejour-salarie-ou-travailleur-temporaire)
 * [Etranger placé auprès de l’Aide Sociale à l’Enfance (ASE) entre 16 et 18 ans](https://demarche.numerique.gouv.fr/commencer/demande-premier-titre-sejour-etranger-confie-aide-sociale-enfance-entre-16-et-18-ans)&#x20;

@@ -16,16 +16,16 @@ Ce principe n’abandonne néanmoins pas l’administration à des demandes vena
 
 Selon l’article précédemment énoncé il est obligatoire que l’usager s’identifie préalablement lors du recours à un téléservice.<br>
 
-Mais pour se faire l’identification doit contenir :
+Mais pour ce faire l’identification doit contenir :
 
 * Pour une entreprise : SIRET ou SIREN
 * Pour une asso : RNA
 * Personne physique : nom, prénom et adresse e-mail.
-* Tout autre moyen d’identification électronique reconnu par l’administration comme France Connect. Par ailleurs, lorsqu’un usager s’identifie par FC il n’a pas à fournir d’autres documents prouvant son identité. Faites donc attention lorsque vous demandez un scan, à ne pas le rendre obligatoire !
+* Tout autre moyen d’identification électronique reconnu par l’administration comme FranceConnect. Par ailleurs, lorsqu’un usager s’identifie par FC il n’a pas à fournir d’autres documents prouvant son identité. Faites donc attention lorsque vous demandez un scan, à ne pas le rendre obligatoire !
 
 **Principe numéro 3 : Plus besoin de signature pour qu’une décision soit opposable.**<br>
 
-Selon ce principe les décisions administratives qui sont notifiées au public par l'intermédiaire d'un téléservice sont dispensés de la signature de leur auteur, dès lors qu'ils comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient.
+Selon ce principe les décisions administratives qui sont notifiés au public par l'intermédiaire d'un téléservice sont dispensées de la signature de leur auteur, dès lors qu'elles comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient.
 
 Au sujet des délégations de signature, ce principe ne les remet pas en cause. Ainsi, un chef de service qui a la délégation de son chef de bureau pourra donner son nom, son prénom et sa fonction lorsqu'il validera une décision sur DS.<br>
 
@@ -41,7 +41,7 @@ En contrepartie, l’administration est tenue d’informer l’usager des inform
 
 **Principe numéro 5 : RGPD**
 
-Avec l’entrée en vigueur du RGPD en 2018, les administrations qui mettent en place des téléservices doivent identifier qui sont les responsables de traitement des données. Sur **demarche.numerique.gouv.fr** nous sommes co-responsables des données au même titre que l’administration qui met en ligne la démarche. C’est pourquoi nous prenons de grandes précautions  quant aux données qui sont récupérées. Des robots inspectent constamment et de manière automatique les informations demandées dans les démarches en ligne afin de nous assurer qu’aucune donnée sensible ne soit collectée.
+Avec l’entrée en vigueur du RGPD en 2018, les administrations qui mettent en place des téléservices doivent identifier qui sont les responsables de traitement des données. Sur **demarche.numerique.gouv.fr** nous sommes co-responsables des données au même titre que l’administration qui met en ligne la démarche. C’est pourquoi nous prenons de grandes précautions quant aux données qui sont récupérées. Des robots inspectent constamment et de manière automatique les informations demandées dans les démarches en ligne afin de nous assurer qu’aucune donnée sensible ne soit collectée.
 
 Par ailleurs, afin d’être en conformité avec le RGPD vous devez déclarer toutes les démarches que vous créez dans DS dans votre registre de traitement.
 

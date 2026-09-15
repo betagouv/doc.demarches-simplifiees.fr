@@ -13,17 +13,17 @@ Aujourd'hui notre API est **sortante et entrante.** Vous pouvez donc aussi bien 
 * les informations d'une démarche,
 * la liste des dossiers d'une démarche,
 * le détail d'un dossier
-* etc...
+* etc.
 
 ### Quelques exemples de données que vous pouvez écrire dans **demarche.numerique.gouv.fr** :
 
 * Envoyer un message à l'usager d'un dossier ;
-* Changer l'état d'un dossier (accepté, refusé, etc…)
-* etc...
+* Changer l'état d'un dossier (accepté, refusé, etc.)
+* etc.
 
 ### Exemples de cas d'usage de l'API :&#x20;
 
-* construire des tableaux bord afin de piloter le déploiement d'une démarche
+* construire des tableaux de bord afin de piloter le déploiement d'une démarche
 * utiliser **demarche.numerique.gouv.fr** pour ses formulaires et verser les dossiers saisis par les usagers dans votre Système d'Information afin de les instruire vous-même.
 * construire une interface sur mesure pour instruire les dossiers dans votre application
 

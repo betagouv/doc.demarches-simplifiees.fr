@@ -1,17 +1,17 @@
 # Champs liés à API Particulier
 
-Dans le cadre du programme Dites-le-nous une fois, l'État met à disposition des administrations le bouquet API Particulier permettant aux administrations de s’échanger les données des usagers. Fini les justificatifs papiers numérisés : les données remontent directement pour les usagers qui s'identifient via FranceConnect.
+Dans le cadre du programme Dites-le-nous une fois, l'État met à disposition des administrations le bouquet API Particulier permettant aux administrations de s’échanger les données des usagers. Fini les justificatifs papier numérisés : les données remontent directement pour les usagers qui s'identifient via FranceConnect.
 
 Lorsque les informations sont récupérées avec succès, l'usager n'a pas besoin de transmettre de justificatifs. Cette automatisation simplifie la démarche pour l'usager et limite les pièces justificatives à instruire. Les informations proviennent directement des organismes producteurs (CAF, MSA, CNOUS…), elles sont donc certifiées et actualisées.
 
 ### Les données accessibles via le bouquet API Particulier
 
-Démarches Numérique intègre progressivement les données disponibles dans le bouquet d’API Particulier. Voici l'état actuel des données disponibles et à venir :
+Démarche numérique intègre progressivement les données disponibles dans le bouquet d’API Particulier. Voici l'état actuel des données disponibles et à venir :
 
 | API                                                 | Données                                                                                                                      | Disponibilité |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Quotient familial CAF & MSA                         | Quotient (valeur, période d'appilication, date de calcul), composition familial (allocataires, enfants) et adresse du foyer  | Disponible    |
-| Statut étudiant boursier                            | Statut, échelon, période versement, établissement,  identité                                                                 | Disponible    |
+| Quotient familial CAF & MSA                         | Quotient (valeur, période d'application, date de calcul), composition familiale (allocataires, enfants) et adresse du foyer  | Disponible    |
+| Statut étudiant boursier                            | Statut, échelon, période versement, établissement, identité                                                                 | Disponible    |
 | Allocation aux adultes handicapés (AAH)             | Statut, date début de droit                                                                                                  | Disponible    |
 | Allocation d'éducation de l'enfant handicapé (AEEH) | Statut, date début de droit                                                                                                  | Disponible    |
 | Allocation de rentrée scolaire (ARS)                | Statut, date début de droit                                                                                                  | Disponible    |
@@ -32,11 +32,11 @@ Depuis l'éditeur de formulaire :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2026-07-06 à 17.58.33.png" alt=""><figcaption><p>Exemple avec le champ quotient familial</p></figcaption></figure>
 
-> **À noter : les** champs API Particulier ne sont pas personnalisables : libelle, description, champ de substitution.
+> **À noter : les** champs API Particulier ne sont pas personnalisables : libellé, description, champ de substitution.
 
 ### Fonctionnement pour l'usager
 
-Pour un usager France connecté, les données sont récupérées automatiquement lorsque celui-ci commence un nouveau dossier.
+Pour un usager connecté via FranceConnect, les données sont récupérées automatiquement lorsque celui-ci commence un nouveau dossier.
 
 Deux situations sont possibles :
 

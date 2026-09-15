@@ -10,10 +10,10 @@ Les **jetons d'API sont accessibles aux usagers ayant un compte administrateur**
 
 Deux options s'offrent à vous :&#x20;
 
-* Vous et votre administration n'avez jamais utilisé **demarche.numerique.gouv.fr**? Vous devez faire une demande de **compte administrateur** en remplissant le formulaire suivant : [https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique) (ça demande une validation humaine hiérarchique, qui peut prendre plusieurs jours ou semaines).&#x20;
+* Vous et votre administration n'avez jamais utilisé **demarche.numerique.gouv.fr** ? Vous devez faire une demande de **compte administrateur** en remplissant le formulaire suivant : [https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique](https://demarche.numerique.gouv.fr/commencer/inscription-admin-demarche-numerique) (ça demande une validation humaine hiérarchique, qui peut prendre plusieurs jours ou semaines).&#x20;
 * Votre administration a déjà un **compte administrateur** sur **demarche.numerique.gouv.fr** ? Demandez à l'un des administrateurs de la démarche pour lesquels vous allez réaliser l'intégration de l'API de vous ajouter en tant qu'administrateur sur la démarche afin de récupérer un token.
 
 {% hint style="info" %}
-Important, **nous recommandons** **d'utiliser une adresse email de compte** technique (non personnelle) (ex: tech@mon-ministere.gouv.fr) pour faciliter plus tard la transmission à une autre personne en cas de départ.
+Important, **nous recommandons** **d'utiliser une adresse email de compte** technique (non personnelle) (ex : tech@mon-ministere.gouv.fr) pour faciliter plus tard la transmission à une autre personne en cas de départ.
 {% endhint %}
 

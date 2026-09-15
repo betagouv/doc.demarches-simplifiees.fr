@@ -25,14 +25,14 @@ Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'e
 Il existe 3 cas de connexion pour accéder à la procédure sur **demarche.numerique.gouv.fr** :
 
 * **L’usager possède déjà un compte** sur **demarche.numerique.gouv.fr** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://demarche.numerique.gouv.fr/users/sign_up)
-* **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez-vous sur cette [page](https://demarche.numerique.gouv.fr/users/sign_up)
+* **L’usager possède un compte FranceConnect** : il faut cliquer sur le bouton « FranceConnect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec FranceConnect</p></figcaption></figure>
 
 S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
-Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la récéption de celui-ci.
+Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la réception de celui-ci.
 
 ## 2. Déposer un dossier
 
@@ -61,7 +61,7 @@ Une fois les informations relatives à l'établissement vérifiées, cliquez sur
 
 **Vous déposez un dossier pour vous-même:**
 
-Vous devez sélectionner l'option "pour vous" puis renseigner la civilité ( pour certaine démarche) et votre nom et prénom.
+Vous devez sélectionner l'option "pour vous" puis renseigner la civilité (pour certaines démarches) et votre nom et prénom.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.32.24.png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +71,7 @@ Vous devez choisir l'option "pour un bénéficiaire" puis renseigner votre ident
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.39.43.png" alt=""><figcaption><p>Connexion pour un bénéficiaire</p></figcaption></figure>
 
-Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier:
+Puis, vous aurez la possibilité de choisir de notifier ou non le bénéficiaire de l'avancée de son dossier :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.43.08.png" alt=""><figcaption><p>Notifier le bénéficiaire</p></figcaption></figure>
 
@@ -92,7 +92,7 @@ Après avoir complété ces informations, vous devez cliquer sur « Continuer »
 Le dépôt du dossier peut nécessiter l’ajout de pièces jointes afin de fournir des documents justificatifs.
 
 Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée.\
-Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf etc). Le format de pj peut être restreint.
+Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf, etc.). Le format de pj peut être restreint.
 
 Pour certaines démarches, plusieurs pièces jointes peuvent être demandées pour un seul champ.
 
@@ -102,15 +102,15 @@ Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au f
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger</p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
+La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
 
-Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur): .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
+Formats de pièces jointes acceptés (selon le paramétrage de l'administrateur) : .pdf, .doc, .docx, .xls, .xlsx, .csv, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
 \
 En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.** Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
-Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier un dossier.
+Il est possible d'inviter une ou plusieurs personnes à compléter ou à modifier un dossier.
 
 En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».
 
@@ -176,7 +176,7 @@ Une fois le dossier complété, cliquez sur le bouton « **Déposer le dossier**
 
 <figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
-Le dossier passe alors du statut « brouillon » au statut « déposé » ( qui remplace le statut "en construction").
+Le dossier passe alors du statut « brouillon » au statut « déposé » (qui remplace le statut "en construction").
 
 Le statut « déposé » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.
 
@@ -198,7 +198,7 @@ Exemple d'attestation de dépôt
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe ou via France connect, l'usager a accès à plusieurs onglets : « en cours » , « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
+En se connectant avec son adresse e-mail et son mot de passe ou via FranceConnect, l'usager a accès à plusieurs onglets : « en cours », « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
 
 <figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 
@@ -219,19 +219,19 @@ Par ailleurs, pour personnaliser votre tableau de bord et faciliter la recherche
 
 Cet onglet reprend toutes les démarches en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.
 
-Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.
+Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, le statut du dossier et la date de mise à jour.
 
 <figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
 #### Traités
 
-Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue. 3 décisions sont possibles:
+Cet onglet reprend les dossiers traités, pour lesquels une décision finale a été rendue. 3 décisions sont possibles :
 
 * acceptation
 * refus
 * classement sans suite
 
-En cas de refus ou de classement sans suite, l'administration doit motivée cette décision.
+En cas de refus ou de classement sans suite, l'administration doit motiver cette décision.
 
 <figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
@@ -241,7 +241,7 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 Pour certaines démarches, l'administration a paramétré un accusé de lecture de la décision du dossier.
 
-L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
+L’usager est prévenu par e-mail qu’une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.00.24.png" alt=""><figcaption><p>Notification par email de l'accusé de lecture</p></figcaption></figure>
 
@@ -303,11 +303,11 @@ Une fois le dossier déposé par l'usager, son statut est « déposé ». L'usag
 
 #### En instruction
 
-Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instructions n'expirent pas.
+Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instruction n'expirent pas.
 
 #### Accepté / Classé sans suite / Refusé
 
-Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. A savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.
+Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. À savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.
 
 Le dossier expirera à l’issue de la durée de conservation fixée par le service en charge de la démarche.
 

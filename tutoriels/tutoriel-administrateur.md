@@ -39,7 +39,7 @@ Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à crée
 
 [Rendez-vous sur la page d’accueil](https://demarche.numerique.gouv.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte **demarche.numerique.gouv.fr** et le mot de passe indiqué lors de la création de votre compte.
 
-Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "France connect".
+Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "FranceConnect".
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.37.08.png" alt=""><figcaption></figcaption></figure>
 
@@ -62,13 +62,13 @@ Vous avez un accès direct à vos démarches en sélectionnant le numéro de la 
 
 Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié. Cela vous permet également de cloner une démarche existante.
 
-Ainsi, pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « **toutes les démarches** » puis de filtrer par zones et/ou par statut, service, démarches modèles, département, type d'usager , date de publication ou encore par thématique.
+Ainsi, pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « **toutes les démarches** » puis de filtrer par zones et/ou par statut, service, démarches modèles, département, type d'usager, date de publication ou encore par thématique.
 
 <figure><img src="../.gitbook/assets/Sans titre admin.png" alt=""><figcaption></figcaption></figure>
 
 ## 5. Découvrir les nouveautés
 
-Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton « _**Nouveautés**_**&#x20;»** lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
+Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autres actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton « _**Nouveautés**_**&#x20;»** lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
 
 <figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +90,7 @@ La création d’une nouvelle démarche peut se faire soit à partir de zéro so
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-08-06 à 11.16.01.png" alt=""><figcaption></figcaption></figure>
 
-Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
+Pour chercher une démarche dans le catalogue, il suffit d'indiquer l'intitulé de la démarche recherchée dans le moteur de recherche puis cliquez sur le bouton « rechercher ».
 
 La liste des démarches associées à l'intitulé recherché s'affichera et vous pourrez alors cliquer sur le bouton « Cloner ».
 
@@ -104,7 +104,7 @@ Le principe est le même, il vous suffit de rechercher la démarche que vous sou
 
 En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !
 
-**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
+**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi. Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
 
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.
@@ -140,7 +140,7 @@ Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus t
 
 Vous pouvez renseigner la liste des pièces jointes à fournir. Cela permettra à l'usager de prendre connaissance des pièces jointes avant d'accéder au formulaire.
 
-Si votre formulaire contient des pièces jointes et que vous ne complétiez pas cette rubrique, une liste sera automatiquement générée.
+Si votre formulaire contient des pièces jointes et que vous ne complétez pas cette rubrique, une liste sera automatiquement générée.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -154,7 +154,7 @@ Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller 
 
 #### **d) Conservation des données**
 
-Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez indiquer le temps de conservation des données. Le délai maximal que vous pouvez paramétrer est de 12 mois. Si vous souhaitez conserver les dossiers au delà de 12 mois, il faudra passer par notre équipe support en justifiant le besoin. Nous pouvons étendre la durée de conservation à maximum 5 ans.
+Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez indiquer le temps de conservation des données. Le délai maximal que vous pouvez paramétrer est de 12 mois. Si vous souhaitez conserver les dossiers au-delà de 12 mois, il faudra passer par notre équipe support en justifiant le besoin. Nous pouvons étendre la durée de conservation à maximum 5 ans.
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
@@ -191,7 +191,7 @@ Les usagers pourront consulter l'ensemble des informations relatives au cadre ju
 
 Afin de favoriser la transparence des données, vous avez la possibilité d'autoriser la publication des descriptifs des démarches sur https://data.gouv.fr.
 
-Cette donnée est modifiable pour chaque démarche depuis la partie « présentation » de votre interface administrateur .
+Cette donnée est modifiable pour chaque démarche depuis la partie « présentation » de votre interface administrateur.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.19.29.png" alt=""><figcaption></figcaption></figure>
 
@@ -231,11 +231,11 @@ Enfin, il existe deux options avancées optionnelles. La première est le choix 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.54.44.png" alt=""><figcaption></figcaption></figure>
 
-* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificative » .
+* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificative ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.56.34.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou « enregistrer » , situé en bas à droite de l’écran.
+Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou « enregistrer », situé en bas à droite de l’écran.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.59.26.png" alt=""><figcaption></figcaption></figure>
 
@@ -247,7 +247,7 @@ Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez 
 
 La civilité, le prénom et le nom sont des informations déja demandées en préambule de la démarche à destination des personnes physiques. Il convient de ne pas les redemander dans le formulaire.
 
-A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
+À tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.09.26.png" alt=""><figcaption></figcaption></figure>
 
@@ -341,7 +341,7 @@ Les champs « Régions », « Département » et « Communes » utilisent des va
 
 Pour le champ « Communes », les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera.
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager</p></figcaption></figure>
 
@@ -393,7 +393,7 @@ L'usager doit renseigner un nombre entier.
 
 L'usager doit renseigner une date au format jj/mm/aaaa.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>Champ "date", en tant qu'usager</p></figcaption></figure>
 
 #### f) Date et Heure
 
@@ -403,13 +403,13 @@ L'usager doit renseigner une date et un horaire.
 
 #### g) Champ formaté
 
-Vous avez la possibilité de formater un champ selon le format de votre choix. Deux options s'offrent à vous:
+Vous avez la possibilité de formater un champ selon le format de votre choix. Deux options s'offrent à vous :
 
-* Le mode simple: vous pouvez formater un champ en choisissant le nombre de caractères que comportera ce champ, mais aussi s'il comporte des chiffres, des lettres et/ou des caractères spéciaux.
+* Le mode simple : vous pouvez formater un champ en choisissant le nombre de caractères que comportera ce champ, mais aussi s'il comporte des chiffres, des lettres et/ou des caractères spéciaux.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 17.58.48.png" alt=""><figcaption><p>Champ formaté en mode "choix simple"</p></figcaption></figure>
 
-* Le mode avancé: vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correpond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.
+* Le mode avancé : vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correspond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.03.28.png" alt=""><figcaption><p>Champ formaté en mode "avancé"</p></figcaption></figure>
 
@@ -426,7 +426,7 @@ Voici l'écran en cas d'erreur dans la saisie, bloquant le dépôt du dossier.
 #### a) Pièce à joindre
 
 Ce champ permet à l'usager d'ajouter au dossier un document. La taille de chaque pièce justificative doit être inférieure à 200 Mo.\
-Vous pouvez désormais choisir la nature de la pièce à joindre entre:
+Vous pouvez désormais choisir la nature de la pièce à joindre entre :
 
 * **Relevé d'identité bancaire (RIB)** : Le contenu du fichier joint par l’usager sera analysé automatiquement afin de récupérer et retranscrire à l’instructeur les informations suivantes : **Nom du titulaire, Adresse du titulaire** (si présente sur le fichier), **IBAN, Code BIC, Nom de la banque**.
 *   **Titre d'identité :** ce champ permet à l’usager de joindre une carte d'identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Formats acceptés : jpg/png, taille maximale : 20 Mo
@@ -457,7 +457,7 @@ Ce type de champ insère à gauche du libellé du champ une case que l'usager pe
 
 **a) Manuelle**
 
-L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste » .
+L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 14.24.24.png" alt=""><figcaption><p>Champ de choix simple dans une liste de choix "manuelle"</p></figcaption></figure>
 
@@ -491,7 +491,7 @@ Pour l'utiliser, remplissez l'encadré « Liste déroulante » en suivant le mod
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Exemple de choix dans la liste déroulante</p></figcaption></figure>
 
-Les titres des menus déroulant liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels.
+Les titres des menus déroulants liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.56.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -511,7 +511,7 @@ L'usager peut répondre « Oui » ou « Non » à la question posée dans le lib
 
 Il s'agit d'un référentiel spécifique de l’Éducation nationale permettant d'accéder aux caractéristiques et aux informations de contact des établissements de l'Éducation nationale grâce à son [API ](https://api.gouv.fr/les-api/api-annuaire-education)dédiée.
 
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Champ " Annuaire de l'éductaion" en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Champ " Annuaire de l'éducation" en tant qu'usager</p></figcaption></figure>
 
 #### b) RNA
 
@@ -521,12 +521,12 @@ Ce champ permet aux associations d'indiquer leurs numéros RNA. Les données li�
 
 **c) Carte**
 
-Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné, il peut choisir de faire figurer les informations suivantes:
+Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné, il peut choisir de faire figurer les informations suivantes :
 
 * Unesco
 * Arrêtés de protection
 * Conservatoire du littoral
-* Réserve nationales de chasse et faune sauvage
+* Réserves nationales de chasse et faune sauvage
 * Réserves biologiques
 * Réserves naturelles
 * Natura 2000
@@ -537,13 +537,13 @@ Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 10.24.08.png" alt=""><figcaption></figcaption></figure>
 
-Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/cartographie)
+Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc). Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/cartographie)
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption><p>Champ "Carte" en tant qu'usager</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 10.40.49.png" alt=""><figcaption></figcaption></figure>
 
-**c) référentiel à configuré (avancé)**
+**c) référentiel à configurer (avancé)**
 
 ### Qu’est-ce qu’un champ référentiel à configurer (avancé ) ?
 
@@ -586,7 +586,7 @@ Avant de cocher cette case, assurez-vous que tous les usagers disposeront de l'i
 Une estimation de la durée nécessaire pour remplir le formulaire est affichée en bas de l’écran. Cette durée est calculée en fonction du nombre et du type des champs :
 
 * Champs rapides (texte, case à cocher, etc) : 10 secondes
-* Champs moyens (adresse, SIRET, IBAN, etc): 1 minute
+* Champs moyens (adresse, SIRET, IBAN, etc) : 1 minute
 * Champs longs (pièces justificatives, etc) : 3 minutes
 
 L’estimation considère qu’un bloc répétable est répété en moyenne entre 2 et 3 fois, et qu’un champ optionnel est rempli en moyenne une fois sur deux.
@@ -605,9 +605,9 @@ Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bo
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.43.10.png" alt=""><figcaption></figcaption></figure>
 
-Les modifications apportés aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en retournant sur le tableau de bord de l'interface administrateur.
+Les modifications apportées aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en retournant sur le tableau de bord de l'interface administrateur.
 
-A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
+À tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.13.17.png" alt=""><figcaption></figcaption></figure>
@@ -624,15 +624,15 @@ Vous venez de finir votre formulaire, il convient désormais d’en prévoir les
 
 À cette fin, **demarche.numerique.gouv.fr** vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**
 
-D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisés dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
+D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisées dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
 
 ### Annotations privées
 
-Les annotations privées sont l’équivalent du cadre réservé à l’administration présent sur les formulaires papiers. **Ce sont des champs à destination des seuls instructeurs, visibles et modifiables uniquement par eux.**
+Les annotations privées sont l’équivalent du cadre réservé à l’administration présent sur les formulaires papier. **Ce sont des champs à destination des seuls instructeurs, visibles et modifiables uniquement par eux.**
 
 En créant des champs « Annotations privées », vous pouvez en tant qu’administrateur prévoir quelles sont les informations que doit analyser l’instructeur pour traiter le dossier.
 
-A titre d’exemple, pour une démarche de demande provisoire de titre de travail pour un étudiant étranger, vous pouvez créer une annotation privée intitulée « Qualité de l’expérience universitaire ». L’instructeur saura donc qu’il doit renseigner et analyser cet élément dans son évaluation générale pour la délivrance ou non du titre. Par ailleurs, comme sur DS, plusieurs instructeurs peuvent instruire le même dossier, les annotations privées peuvent permettre un dialogue entre eux.
+À titre d’exemple, pour une démarche de demande provisoire de titre de travail pour un étudiant étranger, vous pouvez créer une annotation privée intitulée « Qualité de l’expérience universitaire ». L’instructeur saura donc qu’il doit renseigner et analyser cet élément dans son évaluation générale pour la délivrance ou non du titre. Par ailleurs, comme sur DS, plusieurs instructeurs peuvent instruire le même dossier, les annotations privées peuvent permettre un dialogue entre eux.
 
 Pour créer des annotations privées, rendez-vous dans l’onglet « Annotations privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de « formulaire instructeur ».
 
@@ -691,7 +691,7 @@ Les attestations sont des documents au format .pdf qui sont délivrés en pièce
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.29.09.png" alt=""><figcaption></figcaption></figure>
 
-A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en haut de votre écran.
+À la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en haut de votre écran.
 
 Désactiver cette option arrête immédiatement l’émission de nouvelles attestations.
 
@@ -700,13 +700,13 @@ Désactiver cette option arrête immédiatement l’émission de nouvelles attes
 En activant l'attestation, vous pouvez alors :
 
 * Choisir d'afficher ou non le logo de la Marianne
-* **Indiquer l'intitulé de votre institution** ( obligatoire)
-* Choisir **un logo additionnel** ( optionnel )
-* Renseigner **l'intitulé de la direction** (optionnel )
+* **Indiquer l'intitulé de votre institution** (obligatoire)
+* Choisir **un logo additionnel** (optionnel)
+* Renseigner **l'intitulé de la direction** (optionnel)
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Rédiger le contenu de l’attestation**. Il est possible de remonter des éléments du dossier de l'usager et des annotations privées grâce à l'utilisation des balises de champs. Pour cela, tapez le caractère @ suivi du nom de la balise, ou cliquez sur les boutons dédiés aux balises et insérez les dans votre texte. Il faut veiller à ce que la balise du texte soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas. **Les champs facultatifs et conditionnés sont eux aussi disponibles en tant que balises** : cochez « Voir les champs facultatifs et/ou conditionnés » pour les afficher. Si le champ n’est pas rempli, la balise correspondante reste vide.
+* **Rédiger le contenu de l’attestation**. Il est possible de remonter des éléments du dossier de l'usager et des annotations privées grâce à l'utilisation des balises de champs. Pour cela, tapez le caractère @ suivi du nom de la balise, ou cliquez sur les boutons dédiés aux balises et insérez-les dans votre texte. Il faut veiller à ce que la balise du texte soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas. **Les champs facultatifs et conditionnés sont eux aussi disponibles en tant que balises** : cochez « Voir les champs facultatifs et/ou conditionnés » pour les afficher. Si le champ n’est pas rempli, la balise correspondante reste vide.
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -728,7 +728,7 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 ### A. Lors d'une instruction unique
 
-* Si vous souhaitez que l'ensemble des instructeurs aient accès à l'ensemble des dossiers, rendez-vous sur l’onglet « Instructeur ». Il vous suffit ensuite de renseignez l’adresse e-mail de l’instructeur dans le champ « E-mail » et cliquer sur le bouton « Affecter ».
+* Si vous souhaitez que l'ensemble des instructeurs aient accès à l'ensemble des dossiers, rendez-vous sur l’onglet « Instructeur ». Il vous suffit ensuite de renseigner l’adresse e-mail de l’instructeur dans le champ « E-mail » et cliquer sur le bouton « Affecter ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.47.56.png" alt=""><figcaption></figcaption></figure>
 
@@ -781,13 +781,13 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 Vous pouvez à tout moment désactiver ces fonctionnalités en décochant les cases.
 
-A chaque modification, un bandeau vert de confirmation s'affiche.
+À chaque modification, un bandeau vert de confirmation s'affiche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.21.48.png" alt=""><figcaption></figcaption></figure>
 
 ###
 
-* **Du coté instructeurs** :
+* **Du côté instructeurs** :
 * Ils doivent désormais, **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 14.59.34.png" alt=""><figcaption></figcaption></figure>
@@ -800,12 +800,12 @@ L'instructeur peut également choisir si la demande d'avis est confidentielle ou
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.03.33.png" alt=""><figcaption></figcaption></figure>
 
-* **Du coté des experts :**
+* **Du côté des experts :**
 * Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet « avis » s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.07.15.png" alt=""><figcaption></figcaption></figure>
 
-* Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émis lors de la démarche en bas de page.
+* Du côté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émis lors de la démarche en bas de page.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.21.13.png" alt=""><figcaption></figcaption></figure>
 
@@ -817,8 +817,8 @@ L'instructeur peut également choisir si la demande d'avis est confidentielle ou
 
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.
 * Il vous suffit **d'ajouter une à une les adresses e-mails des experts** et de **cliquer ensuite sur "ajouter à la liste"** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche. Vous pouvez à tout moment retirer un expert de cette liste. Vous pouvez également choisir ou non de notifier les experts sur les décisions rendues sur les dossiers.
-* **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton « Retirer » situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
-* Du coté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**
+* **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton « Retirer » situé à droite de l'écran. Du côté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
+* Du côté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**
 
 <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
@@ -828,7 +828,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-* Du coté experts : une fois la fonctionnalité activée, les experts recevront une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure :<br>
+* Du côté experts : une fois la fonctionnalité activée, les experts recevront une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure :<br>
 * 1\) L'expert est notifié que le dossier a été accepté.
 
 ![](<../.gitbook/assets/image (140).png>)
@@ -861,19 +861,19 @@ Le message de fin de dépôt de dossier est paramétré par défaut. Vous pouvez
 
 ## 15. Configurer un accusé de lecture
 
-Pour les démarches avec **voies de recours,** il est possible de configurer un **accusé de lecture**. L‘activation se fait depuis la tuile _Accusé de lecture_ (en bas de la page d’accueil de la démarche).
+Pour les démarches avec **voies de recours,** il est possible de configurer un **accusé de lecture**. L’activation se fait depuis la tuile _Accusé de lecture_ (en bas de la page d’accueil de la démarche).
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-05-15 à 16.17.20.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
-Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.\
+Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail qu’une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.\
 \
-Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et dans le cas échéant à quelle date.
+Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et, le cas échéant, à quelle date.
 
 ## 16. Les labels
 
-En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit d'étiquette que les instructeurs peuvent associer aux dossiers pour mieux les identifier ou les organiser.
+En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit d'étiquettes que les instructeurs peuvent associer aux dossiers pour mieux les identifier ou les organiser.
 
 <figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
@@ -900,7 +900,7 @@ Si vous n'avez pas de compte ✘ : Votre authentification vous dirigera vers un 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 16.34.39.png" alt=""><figcaption></figcaption></figure>
 
-Validation de la connexion: nous vous demanderons de confirmer la permission de connecter les deux solutions.
+Validation de la connexion : nous vous demanderons de confirmer la permission de connecter les deux solutions.
 
 ### B) Configuration dans RDV service public
 
@@ -928,17 +928,17 @@ Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer su
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.26.47.png" alt=""><figcaption></figcaption></figure>
 
-#### 2) Configuration les lieux
+#### 2) Configuration des lieux
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
-Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro de téléphone.
+Vous devrez renseigner le nom du lieu, l'adresse et éventuellement un numéro de téléphone.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.29.30.png" alt=""><figcaption></figcaption></figure>
 
 #### 3) Configurer les motifs de RDV
 
-Dans un premier temps, vous devrez procéder à la configuration générale en renseignant:
+Dans un premier temps, vous devrez procéder à la configuration générale en renseignant :
 
 * Le nom du motif du RDV
 * Le service associé
@@ -947,7 +947,7 @@ Dans un premier temps, vous devrez procéder à la configuration générale en r
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 11.07.32.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez ensuite paramétrer le **type de RDV**:
+Vous pouvez ensuite paramétrer le **type de RDV** :
 
 * Sur place : l'agent reçoit l'usager sur place, au lieu sélectionné (MDS…).
 * Par téléphone : l’agent appelle le numéro indiqué sur la fiche de l'usager.
@@ -961,7 +961,7 @@ Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" a
 ## 17. Publier sa démarche
 
 {% hint style="info" %}
-**ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépô du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
+**ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépôt du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
 {% endhint %}
 
 La publication de la démarche génère un lien de la forme : "https://www.demarche.numerique.gouv.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.
@@ -996,7 +996,7 @@ Si vous n'avez pas paramétré de date limite de dépôt de dossier, vous pouvez
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.40.34.png" alt=""><figcaption></figcaption></figure>
 
-Un message s'affiche vous permettant qu'indiquer la raison de la cloture. Vous pouvez également indiquer si votre démarche est remplacée par une existante afin de rediriger les usagers vers la nouvelle démarche.
+Un message s'affiche vous permettant d'indiquer la raison de la clôture. Vous pouvez également indiquer si votre démarche est remplacée par une existante afin de rediriger les usagers vers la nouvelle démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.43.46.png" alt=""><figcaption></figcaption></figure>
 
@@ -1004,7 +1004,7 @@ Si vous renseignez dans "Raison de la clôture", "Autre", vous aurez un encart p
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.48.30.png" alt=""><figcaption></figcaption></figure>
 
-Vous avez la possibilité d'envoyer un email aux usagers ayant débuté un dossier en brouillon pour l'informer de la clôture de la démarche.
+Vous avez la possibilité d'envoyer un email aux usagers ayant débuté un dossier en brouillon pour les informer de la clôture de la démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.50.40.png" alt=""><figcaption></figcaption></figure>
 
@@ -1064,7 +1064,7 @@ Pour finaliser la réactivation, vous pouvez ensuite compléter et/ou modifier l
 
 <figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_1ae7kfx.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez enfin cliquez sur le bouton "publier" pour réactiver la démarche.
+Vous pouvez enfin cliquer sur le bouton "publier" pour réactiver la démarche.
 
 <figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_t3oltj.png" alt=""><figcaption></figcaption></figure>
 
@@ -1087,7 +1087,7 @@ Vous pouvez soit télécharger tous les dossiers, soit générer un export du mo
 
 ## 22. Supprimer une démarche
 
-La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, elle s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
+La suppression d’une démarche est optionnelle. Vous pouvez vouloir supprimer des démarches en test ou closes. Toute suppression est définitive. Une fois la démarche supprimée, la suppression s'appliquera à l'ensemble des éventuels administrateurs de la démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 11.13.45.png" alt=""><figcaption></figcaption></figure>
 

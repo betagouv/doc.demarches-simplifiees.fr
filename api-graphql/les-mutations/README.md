@@ -4,11 +4,11 @@ description: Liste de nos endpoints en écriture
 
 # Les mutations
 
-### L'API offre les endpoints suivant en écriture ([mutations](https://demarche.numerique.gouv.fr/graphql)) :
+### L'API offre les endpoints suivants en écriture ([mutations](https://demarche.numerique.gouv.fr/graphql)) :
 
 #### Dossier
 
-Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisent. Nous mettons donc a disposition toutes les mutations nécéssaires pour traiter un dossier dans tout son cycle de vie.
+Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisent. Nous mettons donc à disposition toutes les mutations nécessaires pour traiter un dossier dans tout son cycle de vie.
 
 Pour rappel, le cycle de vie d'un dossier dans DS est le suivant : brouillon -> en construction -> en instruction -> accepté ou refusé ou classé sans suite.
 
@@ -28,7 +28,7 @@ Les mutations possibles pour un dossier sont les suivantes :
 
 #### Demarche :
 
-Pour rappel, la démarche décrit le formulaire présenté aux usagers, la durée de conservation des données, les instructeurs et groupes d'instructeurs qui instruisent les dossiers déposé sur la démarche.
+Pour rappel, la démarche décrit le formulaire présenté aux usagers, la durée de conservation des données, les instructeurs et groupes d'instructeurs qui instruisent les dossiers déposés sur la démarche.
 
 Les mutations possibles pour une démarche sont les suivantes ([voir le détail et des exemples](gerer-une-demarche.md)) :
 

@@ -4,14 +4,14 @@
 
 Il est possible d'exporter manuellement l'intégralité des dossiers déposés sur une procédure donnée.
 
-Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaités bouton «Télécharger les dossiers » en haut à droite et choisir le format d'export souhaité (.csv, .xls, .ods,zip.).
+Pour cela, dans l'interface instructeur, cliquer sur la procédure concernée puis sur la liste des dossiers que vous souhaitez, puis sur le bouton « Télécharger les dossiers » en haut à droite, et choisir le format d'export souhaité (.csv, .xls, .ods, .zip).
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Une liste déroulante avec les différents formats s'affichera alors avec deux options de téléchargement :
 
 * standard
-* A partir d'un modèle ( vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/export-personnalise)
+* À partir d'un modèle (vous permettant de sélectionner les informations que vous souhaitez exporter) Vous retrouverez plus d'informations concernant l'export personnalisé en cliquant[ ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/export-personnalise)
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,30 +31,30 @@ En revanche, selon le type d’export demandé, certaines informations peuvent n
 
 #### Export sous la forme d'un ZIP
 
-Une option a été mis en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
+Une option a été mise en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
 
 **Tout est alors prêt pour faire de l'archivage !**
 
 #### Métadonnées
 
-Les métadonnées du dossier comprennent les informations suivantes:
+Les métadonnées du dossier comprennent les informations suivantes :
 
-* id: numéro du dossier
-* created\_at: date de création du dossier
-* updated\_at: date de la dernière modification du dossier
-* archived: informe si le dossier est archive (_true_) ou non (_false_)
-* email: email de l'usager
-* state: correspond à l'état du dossier
-  * initiated: en construction
-  * received: en instruction
-  * closed: accepté
-  * refused: refusé
-  * without\_continuation: classé sans suite
-* initiated\_at: date du dépôt de dossier
-* received\_at: date du passage en instruction
-* processed\_at: date de décision du dossier
-* motivation: motivation de la décision
-* email\_instructeurs: email de l'instructeur qui a donné la décision pour le dossier
+* id : numéro du dossier
+* created\_at : date de création du dossier
+* updated\_at : date de la dernière modification du dossier
+* archived : informe si le dossier est archive (_true_) ou non (_false_)
+* email : email de l'usager
+* state : correspond à l'état du dossier
+  * initiated : en construction
+  * received : en instruction
+  * closed : accepté
+  * refused : refusé
+  * without\_continuation : classé sans suite
+* initiated\_at : date du dépôt de dossier
+* received\_at : date du passage en instruction
+* processed\_at : date de décision du dossier
+* motivation : motivation de la décision
+* email\_instructeurs : email de l'instructeur qui a donné la décision pour le dossier
 
 ![](../.gitbook/assets/CaptureExport2.PNG)
 

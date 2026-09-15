@@ -6,7 +6,7 @@
 
 Une expression régulière (regex) est une séquence de caractères utilisée pour décrire un ensemble spécifique de chaînes de caractères selon certaines syntaxes. Elle permet d'effectuer des recherches, des remplacements et des validations de données dans une chaîne de caractères.
 
-Dans le cadre de la validation d'un champ de formulaire elle sert à valider les données entrées par un utilisateur en vérifiant si elles correspondent à un certain format. Par exemple, un regex peut vérifier qu'une adresse email entrée dans un champ de formulaire ressemble bien à une adresse email (ex: [nom@example.com](mailto:nom@example.com)) ou à un numéro de téléphone.
+Dans le cadre de la validation d'un champ de formulaire elle sert à valider les données entrées par un utilisateur en vérifiant si elles correspondent à un certain format. Par exemple, un regex peut vérifier qu'une adresse email entrée dans un champ de formulaire ressemble bien à une adresse email (ex : [nom@example.com](mailto:nom@example.com)) ou à un numéro de téléphone.
 
 
 
@@ -29,7 +29,7 @@ Des informations sont à renseigner :&#x20;
 * Saisissez un exemple qui passe votre expression régulière : pour que la démarche soit publiable, l'exemple doit être valide. Sinon il vous sera impossible de publier la démarche.
 * Message d'erreur à afficher à l'usager : Il s'agit du message que vous voulez transmettre à l'usager en cas d'erreur de saisie&#x20;
 
-Exemples d'expression régulières que nous testons actuellement :
+Exemples d'expressions régulières que nous testons actuellement :
 
-* je souhaite contraindre la saisie qu'à des chiffres, pas d'espace possible, ni caractère spécial : l'expression régulière à saisir est : "^\d+$" (sans les guillemets)
+* je souhaite contraindre la saisie à des chiffres uniquement, pas d'espace possible, ni caractère spécial : l'expression régulière à saisir est : "^\d+$" (sans les guillemets)
 * je souhaite contraindre la saisie à 9 chiffres pas un de plus ni un de moins, l'expression régulière à saisir est  : "^\d{9}$" (sans les guillemets)

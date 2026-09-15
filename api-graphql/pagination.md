@@ -12,7 +12,7 @@ Concrètement, nous suivons la spec relay : [https://relay.dev/graphql/connectio
 
 ## Application concrète&#x20;
 
-### Première requete&#x20;
+### Première requête&#x20;
 
 Voici un exemple. On commence par faire une query pour récupérer les 100 premiers dossiers :
 
@@ -45,7 +45,7 @@ query getDemarche($demarcheNumber: Int!, $after: String) {
 
 Dans le résultat obtenu il faut lire la valeur du « curseur » dans le champ `demarche.dossiers.pageInfo.endCursor` .&#x20;
 
-### Deuxième requête, et toutes autres :
+### Deuxième requête, et toutes les autres :
 
 On peut passer alors ce « curseur » comme argument `after` dans la prochaine query. Et ainsi de suite jusqu’à ce que le champ `demarche.dossiers.pageInfo.hasNextPage` soit égal à `false`.
 
@@ -77,7 +77,7 @@ query getDemarche($demarcheNumber: Int!, $after: String) {
 }
 ```
 
-Pour un exemple d'implementation, rendez-vous sur :&#x20;
+Pour un exemple d'implémentation, rendez-vous sur :&#x20;
 
 {% content-ref url="cas-dusages-exemple-dimplementation/pagination-recuperer-tous-les-dossiers-dune-demarche.md" %}
 [pagination-recuperer-tous-les-dossiers-dune-demarche.md](cas-dusages-exemple-dimplementation/pagination-recuperer-tous-les-dossiers-dune-demarche.md)

@@ -10,7 +10,7 @@ Elle s’engage à assurer un niveau élevé de protection des données à carac
 
 L’administration est responsable des traitements de données à caractère personnel réalisés pour l’instruction des dossiers sur **demarche.numerique.gouv.fr**. L’administration détermine les données pertinentes et leur durée de conservation. La DINUM intervient en qualité de sous-traitant pour assurer l’hébergement, la tierce maintenance applicative et l’envoi des notifications. Pour exercer vos droits sur ces traitements, vous devez vous adresser à l’administration en charge de la démarche. La DINUM peut vous aider à vous mettre en relation avec elle.
 
-### 1. Quelles sont les données à caractères personnel traitées ?&#x20;
+### 1. Quelles sont les données à caractère personnel traitées ?&#x20;
 
 La DINUM ne collecte et n’exploite que les données adéquates, pertinentes et strictement nécessaires pour assurer ces finalités.
 
@@ -25,7 +25,7 @@ Vos données à caractère personnel traitées par la DINUM sont :
 
 Le traitement est nécessaire à l’exécution d’une mission d’intérêt public ou relevant de l’exercice de l’autorité publique dont est investi le responsable de traitement (article 6-e du RGPD).
 
-La mission d’intérêt public constitue la mise à disposition et le développement d’outils collaboratifs par la DINUM en vue de leur intégration dans les ministères [(article 6 du décret ](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)[n°2019-1088 du 25 octobre 2019 relatif au système d’information et de communication de l’Etat et à la direction interministérielle du numérique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)).
+La mission d’intérêt public constitue la mise à disposition et le développement d’outils collaboratifs par la DINUM en vue de leur intégration dans les ministères [(article 6 du décret ](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)[n°2019-1088 du 25 octobre 2019 relatif au système d’information et de communication de l’État et à la direction interministérielle du numérique](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000039281619/2019-10-28#_blank)).
 
 #### 2.2. Sécurisation de la plateforme
 
@@ -38,7 +38,7 @@ La mise en place d’un dispositif de journalisation participe au respect de l�
 | Type de données           | Durée de conservation                                                                                                                                                                                  |
 | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Données de compte         | <p>Suppression possible à la demande de l’utilisateur</p><p>Suppression automatique des comptes inactifs depuis 2 ans sans dossiers ou avec des dossiers supprimés depuis plus de 2 ans</p><p><br></p> |
-| Historique des dossiers   | A la suppression du compte                                                                                                                                                                             |
+| Historique des dossiers   | À la suppression du compte                                                                                                                                                                             |
 | Données du support        | 1 mois                                                                                                                                                                                                 |
 | Données de journalisation | 12 mois                                                                                                                                                                                                |
 

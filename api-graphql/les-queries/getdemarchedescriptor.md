@@ -6,15 +6,15 @@ description: Récupérer les versions du formulaire par démarche
 
 Lors de son cycle de vie, un administrateur d'une démarche peut publier une nouvelle version du formulaire (ex, ajout d'un champ au formulaire).&#x20;
 
-Les dossiers crées a partir de ce moment auront donc la derniere version du formulaire de la démarche.&#x20;
+Les dossiers créés à partir de ce moment auront donc la dernière version du formulaire de la démarche.&#x20;
 
-Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex: on ne vas demandé à un usager de mettre à jour son dossier si celui ci a été accepté).
+Cependant les anciens dossiers (accepté/refusé ou classé sans suite) eux ne changent pas de version (ex : on ne va pas demander à un usager de mettre à jour son dossier si celui-ci a été accepté).
 
-getDemarcheDescriptor (et toutes les notions de champDescriptor) permet de mapper un champs à son descripteur de champ de manière fiable. En somme :&#x20;
+getDemarcheDescriptor (et toutes les notions de champDescriptor) permet de mapper un champ à son descripteur de champ de manière fiable. En somme :&#x20;
 
 * Toutes les versions d'une démarche (au travers des objets `Revision` : [https://demarche.numerique.gouv.fr/graphql/schema/types/Revision](https://demarche.numerique.gouv.fr/graphql/schema/types/Revision)).
-* Une `Revision` porte le schema de donnée des dossiers déposés lorsque la démarche était sur cette version. Vous trouverez donc la liste des champs et des annotations sur la révision cf: [https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor](https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor)
-* Les champs et annotations des dossiers de la démarche  `(data.demarche.dossiers.champs[].champDescriptorId)` correspondent à l'une des Revision de la démarches `data.demarche.revisions[].champDescriptors[].id`&#x20;
+* Une `Revision` porte le schéma de données des dossiers déposés lorsque la démarche était sur cette version. Vous trouverez donc la liste des champs et des annotations sur la révision cf : [https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor](https://demarche.numerique.gouv.fr/graphql/schema/types/ChampDescriptor)
+* Les champs et annotations des dossiers de la démarche  `(data.demarche.dossiers.champs[].champDescriptorId)` correspondent à l'une des Revision de la démarche `data.demarche.revisions[].champDescriptors[].id`&#x20;
 
 ## Query pour demander le descriptif d'une démarche
 
@@ -124,7 +124,7 @@ Vous pouvez aussi récupérer la description d'une démarche via le endpoint get
 
 ```
 
-### Variables pour récupérer les déscripteurs d'une démarche :
+### Variables pour récupérer les descripteurs d'une démarche :
 
 ```graphql
 {

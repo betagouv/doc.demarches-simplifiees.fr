@@ -33,7 +33,7 @@ Puis, l'instructeur est renvoyé vers la page qui lui permet de créer son compt
 
 Cette page permet à l'instructeur de définir le mot de passe qui sera associé à son compte, et qu'il utilisera ultérieurement pour se connecter à **demarche.numerique.gouv.fr**.\
 \
-Si vous avez déja un compte Pro connect, vous pouvez également passer par ce biais pour vous connecter à Démarche numérique.
+Si vous avez déja un compte ProConnect, vous pouvez également passer par ce biais pour vous connecter à Démarche numérique.
 
 Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://demarche.numerique.gouv.fr/faq/instructeur/je-dois-confirmer-mon-compte-a-chaque-connexion).
 
@@ -67,7 +67,7 @@ L’onglet **« terminée »** regroupe les démarches closes n'ayant plus de do
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches . Pour cela, il suffit de cliquer sur le bouton "**personnaliser l'ordre**" :
+Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches. Pour cela, il suffit de cliquer sur le bouton "**personnaliser l'ordre**" :
 
 <figure><img src="../.gitbook/assets/instructeur (1).png" alt=""><figcaption><p>La liste des démarches en tant qu'instructeur</p></figcaption></figure>
 
@@ -75,7 +75,7 @@ Vous pourrez alors déplacer les démarches dans la liste pour les classer en fo
 
 <figure><img src="../.gitbook/assets/image (256).png" alt=""><figcaption><p>Personnalisation de l'ordre des démarches</p></figcaption></figure>
 
-Pour accéder directement, il est désormais possible de sélectionner la démarche concernée depuis la barre de recherche " **accès direct "** située à droite de votre interface instructeur :
+Pour y accéder directement, il est désormais possible de sélectionner la démarche concernée depuis la barre de recherche " **accès direct "** située à droite de votre interface instructeur :
 
 <figure><img src="../.gitbook/assets/instructeur.png" alt=""><figcaption><p>Accès direct à une démarche</p></figcaption></figure>
 
@@ -106,7 +106,7 @@ Ces différents stades de traitement correspondent à :
 * **Traités** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.
 * **Au total :** contient l'ensemble des dossiers déposés sur cette démarche, quel que soit leur statut (« à suivre », « suivis par moi », « traités »). Si les dossiers sont routés dans des groupes instructeurs, vous ne trouverez dans cet onglet que les dossiers du (des) groupe(s) dont vous faites partie.
 * **Expirants :** contient les dossiers dont le délai de conservation va bientôt expirer (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).
-* **A archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans **demarche.numerique.gouv.fr** sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
+* **À archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans **demarche.numerique.gouv.fr** sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
 * **Corbeille :** cet onglet contient :\
   \- les dossiers dont le délai de conservation a expiré (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).\
   \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.
@@ -140,18 +140,18 @@ Il est possible de filtrer les dossiers à l'aide des champs présents dans la p
 
 Pour cela, il y a un bandeau avec des filtres que vous pouvez sélectionner.
 
-Les filtres sont les suivants:
+Les filtres sont les suivants :
 
 * L'état du dossier (En construction, en instruction, accepté, refusé, classé sans suite)
 * Le numéro du dossier
-* La notification sur le dossier (S'il y a un message sur le dossier, si le dossier est déposé depuis longtemps etc)
+* La notification sur le dossier (S'il y a un message sur le dossier, si le dossier est déposé depuis longtemps, etc.)
 * La date de dépôt
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.07.13.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.12.30.png" alt=""><figcaption></figcaption></figure>
 
-**Un exemple d'application des filtres: ici l'état du dossier et la date de dépôt**
+**Un exemple d'application des filtres : ici l'état du dossier et la date de dépôt**
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.34.04.png" alt=""><figcaption></figcaption></figure>
 
@@ -168,7 +168,7 @@ Les filtres sont les suivants:
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.37.06.png" alt=""><figcaption></figcaption></figure>
 
-Une fois la ou les champs sélectionnés, vous pouvez cliquer sur le bouton bleu "ajouter"
+Une fois le ou les champs sélectionnés, vous pouvez cliquer sur le bouton bleu "ajouter"
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.42.57.png" alt=""><figcaption></figcaption></figure>
 
@@ -192,7 +192,7 @@ En cliquant de nouveau sur la même colonne, **le tri est effectué en sens inve
 
 Les dossiers déposés sont regroupés par défaut sous le statut « **à suivre** ».
 
-Un dossier à suivre a le statut « **en construction** » , il est alors **consultable et modifiable par l’usager**.
+Un dossier à suivre a le statut « **en construction** », il est alors **consultable et modifiable par l’usager**.
 
 Toutefois, les dossiers figurant dans la colonne **« à suivre »** peuvent également avoir le statut **« en instruction »**, lorsqu’il s’agit **d’une démarche paramétrée avec un passage automatique à ce statut**. Dans ce cas, le dossier n’est pas modifiable par l’usager.
 
@@ -236,7 +236,7 @@ Pour chaque pièce jointe, vous trouverez **sa date d’ajout**, **sa provenance
 
 #### - Annotations privées :
 
-Équivalent au cadre réservé à l’administration sur les formulaires papiers, **il permet à l’instructeur de renseigner les informations demandées par l’administration afin de faciliter le suivi du traitement des dossiers.**
+Équivalent au cadre réservé à l’administration sur les formulaires papier, **il permet à l’instructeur de renseigner les informations demandées par l’administration afin de faciliter le suivi du traitement des dossiers.**
 
 **Ce cadre est strictement réservé aux instructeurs**. Il n’est visible ni par les usagers, ni par les personnes invitées à consulter le dossier.
 
@@ -297,7 +297,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 * Une fois l’adresse e-mail des experts de la liste ajoutée, la fonctionnalité **« avis externe »** permet à l’instructeur de **personnaliser le message adressé à l’expert et de lui poser une question à laquelle il devra répondre par oui ou non.**\
   Dans ce cadre, l’instructeur peut également **partager une pièce justificative** afin d’aider l’expert à rendre son avis.<br>
 * De plus, l**es avis externes ne sont pas visibles par l'usager**.<br>
-* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit:
+* En revanche, l'instructeur peut choisir **si l'avis sera confidentiel** (visible uniquement par les instructeurs) **ou partagé avec les autres experts invités**, en cliquant sur le menu déroulant situé à droite de la mention « Cet avis sera », comme suit :
 
 <figure><img src="../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -319,7 +319,7 @@ En tant qu'instructeur, vous avez désormais la **possibilité de demander l'avi
 
 #### _- Messagerie :_
 
-La messagerie **permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction**. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée. La présentation du fil de messagerie prend toute la hauteur de la page et est organisé dans un ordre antéchronologique (**le message le plus récent en haut du fil**) afin de retrouver plus facilement les derniers échanges.
+La messagerie **permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction**. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée. La présentation du fil de messagerie prend toute la hauteur de la page et est organisée dans un ordre antéchronologique (**le message le plus récent en haut du fil**) afin de retrouver plus facilement les derniers échanges.
 
 Pour envoyer un message à l’usager : cliquez sur "**nouveau message**", vous avez la possibilité d'envoyer une pièce jointe à l’usager en cliquant sur le bouton « **Parcourir** », sélectionner un fichier puis cliquer sur le bouton « **Envoyer le message** ».
 
@@ -348,12 +348,12 @@ De son côté, **l’usager peut également savoir si son message a été lu**.
 
 Cet onglet fait office de **récapitulatif de l'ensemble des personnes contribuant au traitement du dossier.** Depuis cet onglet, il est également possible **d'envoyer le dossier à un autre instructeur qui a été au préalable nommé sur la procédure**. Celui-ci suivra alors automatiquement le dossier concerné et recevra également un e-mail lui indiquant que le dossier lui a été transmis.
 
-Cet onglet contient également:
+Cet onglet contient également :
 
 * **La liste des instructeurs qui suivent le dossier**
 * **Les personnes à qui un avis a été demandé** (demande d'avis aux expert**s)**
 * **Les personnes invitées par l'usager à co-construire ou modifier le dossier**
-* **Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.**
+* **Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossier (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.**
 
 <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur</p></figcaption></figure>
 
@@ -383,7 +383,7 @@ Une fois un dossier déposé par un usager, ce dossier est au stade « En constr
 
 <figure><img src="../.gitbook/assets/Sans titre.png" alt=""><figcaption></figcaption></figure>
 
-**Un dossier « en construction »** **reste modifiable par l'usager**. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'information manquante, l'instructeur peut les réclamer à l'usager grâce à **la messagerie ou depuis le bouton "demande une correction"** afin que mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.
+**Un dossier « en construction »** **reste modifiable par l'usager**. Ce stade permet à l'instructeur de s'assurer de la complétude du dossier. En cas d'informations manquantes, l'instructeur peut les réclamer à l'usager grâce à **la messagerie ou depuis le bouton "demander une correction"** afin de mieux suivre les demandes de modifications depuis le tableau de suivi des dossiers.
 
 #### _- Passer le dossier en instruction :_
 
@@ -391,7 +391,7 @@ Une fois le dossier complet, il convient de **passer ce dossier au statut « En 
 
 <figure><img src="../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-L’instructeur peut à tout moment passer un dossier en « construction » en « Instruction ».
+L’instructeur peut à tout moment faire passer un dossier d'« en construction » à « en instruction ».
 
 **Un dossier en instruction n’est plus modifiable par l’usager.** Si l'usager doit apporter des modifications sur un dossier en instruction, il faudra que l'instructeur repasse le dossier en construction en demandant la correction via la messagerie du dossier ou depuis le bouton "demander une correction".
 
@@ -461,7 +461,7 @@ Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
 #### b. Classer sans suite le dossier
 
-Cliquez sur le bouton « **En instruction** » en haut à droite de l’écran puis cliquer sur le bouton « **Classer sans suite ». L’instructeur doit alors remplir une motivation** qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK**» .
+Cliquez sur le bouton « **En instruction** » en haut à droite de l’écran puis cliquer sur le bouton « **Classer sans suite ». L’instructeur doit alors remplir une motivation** qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK**».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.18.24.png" alt=""><figcaption><p>Classement sans suite d'un dossier</p></figcaption></figure>
 
@@ -512,11 +512,11 @@ Dans l’onglet « **traités** », cliquez sur le bouton « **déplacer à arch
 
 **a. Suivre les dossiers "en masse" :**
 
-Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondants aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit**:
+Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondant aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit** :
 
 <figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
-Une fois que vous aurez coché sur les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers:
+Une fois que vous aurez coché les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers :
 
 <figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
@@ -536,9 +536,9 @@ Sur le même principe que l'action de suivi des dossiers, il vous suffit de coch
 
 <figure><img src="../.gitbook/assets/image (331).png" alt=""><figcaption></figcaption></figure>
 
-**c. Demande l'avis d'un expert en masse :**
+**c. Demander l'avis d'un expert en masse :**
 
-Il est également la possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
+Il est également possible de demander l'avis d'expert pour plusieurs dossiers à la fois. Cette fonctionnalité est disponible depuis l’onglet « suivis par moi » en cliquant sur le bouton « Autres actions multiples ».
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -561,27 +561,27 @@ Pour les dossiers suivis, il vous suffit de **sélectionner les dossiers concern
 
 Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), **le processus est le même.**
 
-Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondants aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".
+Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondant aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".
 
-A savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.
+À savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.58.17.png" alt=""><figcaption></figcaption></figure>
 
 **Le motif renseigné sera le même pour tous les dossiers sélectionnés puisqu'il s'agit d'une action en masse**. L'usager sera notifié par email du motif de la décision.
 
-Un justification optionnel peut aussi être envoyé en masse à tous les dossiers sélectionnés.
+Une justification optionnelle peut aussi être envoyée en masse à tous les dossiers sélectionnés.
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
-Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours:
+Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant qu'une action de masse est en cours :
 
 <figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-A noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.
+À noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.
 {% endhint %}
 
-Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités": un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.
+Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités" : un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.
 
 <figure><img src="../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
@@ -630,11 +630,11 @@ Cliquez sur le bouton « Télécharger tous les dossiers » situé en haut à dr
 **ATTENTION** : Veillez à désactiver les extensions de blocage de publicités qui peuvent empêcher le téléchargement du fichier d'export.
 {% endhint %}
 
-Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction:
+Cliquez sur le format souhaité afin de lancer la préparation du fichier d'extraction :
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit:
+Vous devez ensuite cliquer sur l'icône pour générer le fichier comme suit :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-10 à 18.44.47.png" alt=""><figcaption><p>Téléchargement de l'export</p></figcaption></figure>
 
@@ -644,13 +644,13 @@ Un message s'affiche afin d'informer que le fichier est en cours de préparation
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.
+Après quelques minutes, vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.
 
-Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consultant la page dédiée en cliquant [ici](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees).
+Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consulter la page dédiée en cliquant [ici](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees).
 
 ### B. Extraire les dossiers et les pièces jointes
 
@@ -674,7 +674,7 @@ Vous avez la possibilité de créer :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Onglet "Téléchargements"</p></figcaption></figure>
 
-A noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs .
+À noter : Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaP1pADWfziAvrXnIXD8A8U3YXcZpiuQ9xT7MFiUdyQoZTjHjNy3uXvPm0F15xYArIt3bilG3sApS-wmEQNF8QaN58Iq2_eEelXDuxMhz9LJjNtwjjQEtwU2JZkJV2KPhHr-R9?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page "Modèles d'export"</p></figcaption></figure>
 
@@ -759,20 +759,20 @@ Vous avez aussi la possibilité de faire remonter les dossiers avec une notifica
 
 ### **B. Les labels**
 
-Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pour mieux les identifier ou les organiser. Les couleurs disponibles permettre de s’y retrouver plus facilement. Les labels sont standards ou personnalisables.
+Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pour mieux les identifier ou les organiser. Les couleurs disponibles permettent de s’y retrouver plus facilement. Les labels sont standards ou personnalisables.
 
 Ils sont configurables par l'administrateur de la démarche. Ce dernier a la possibilité de modifier les labels ou d’en créer un nouveau.
 
-En tant qu''instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous:
+En tant qu'instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePLwU53WxHLPUlPvNNPP6sOCQTSqWqieXEOaiuc6qtkxkKujWhrVI2Snt_JOxvJ_jPibe87kccyvea2aH8qAQ2tNfUmYM7GfWGJo-ip0GM6qQeZserpP2hA1QSGfrfLniiRMFHOA?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
 
-Pour ajouter ou modifier un label sur un dossier, vous devez cliquer sur le point à droite des labels pour les afficher:
+Pour ajouter ou modifier un label sur un dossier, vous devez cliquer sur le point à droite des labels pour les afficher :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcSksGcoWz9UU7Gb1Ks4gEFv1EDmMXIfRwV59sjxo0fy4Z3DUrhLYJcyys67bBSX7hAPFYMWvIXw9tkV42uDAHOVgQGt1OpfIlXKq5s3aOq6mSEDM2s7lmP7rti8dOcAPWaHGOPwg?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
 
 \
-Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tableau de bord en utilisant le filtre dédié aux labels ou en personnalisant votre tableau de bord instructeur comme ci-dessous:
+Vous pourrez ensuite rechercher plus facilement les dossiers depuis votre tableau de bord en utilisant le filtre dédié aux labels ou en personnalisant votre tableau de bord instructeur comme ci-dessous :
 
 <figure><img src="../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
@@ -846,11 +846,11 @@ Cet e-mail vous signale le dépôt d'un nouveau message **sur vos dossiers suivi
 
 En plus de la notification hebdomadaire, l'instructeur peut faire le choix d'une notification quotidienne afin de recevoir un récapitulatif des dossiers à instruire.
 
-Cet notification est envoyée du lundi au samedi vers 10h du matin.
+Cette notification est envoyée du lundi au samedi vers 10h du matin.
 
 #### 4. Notification hebdomadaire
 
-Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédures suivies.
+Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédure suivie.
 
 Cette notification permet d'informer _a minima_ l'instructeur du dépôt de dossiers sur la procédure si celui-ci ne se connecte qu'occasionnellement.
 
@@ -865,19 +865,19 @@ Un e-mail est envoyé à l'instructeur lorsqu'un expert a rendu un avis sur un d
 En tant qu’instructeur, vous pouvez **paramétrer les événements à signaler** sur les dossiers de votre démarche.\
 Cette configuration permet de **faciliter le suivi et l’instruction** des dossiers en mettant en avant les informations les plus pertinentes.
 
-Voici le différents badges de notification configurables :
+Voici les différents badges de notification configurables :
 
 <figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 ### Statistiques de la démarche :
 
-Sur chaque procédure, l'instructeur a accès à des statistiques . Pour cela, il suffit à l'instructeur de cliquer sur le bouton "gestion de la démarche" puis "statistiques de la démarche"
+Sur chaque procédure, l'instructeur a accès à des statistiques. Pour cela, il suffit à l'instructeur de cliquer sur le bouton "gestion de la démarche" puis "statistiques de la démarche"
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ces statistiques sont calculées à partir du temps effectif de traitement des dossiers. Elles permettent aux instructeurs d'avoir une vue d'ensemble sur la démarche et un suivi de l'instruction.
 
-Dans cet onglet "statistiques", vous trouverez les informations suivantes:
+Dans cet onglet "statistiques", vous trouverez les informations suivantes :
 
 * Le temps de traitement usuel de la démarche
 * L'avancée des dossiers
@@ -892,7 +892,7 @@ Afin d’accompagner au mieux vos usagers en cas de demande, nous mettons à vot
 
 <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-En cliquant sur le bouton "accompagnement des usagers" , vous pouvez :
+En cliquant sur le bouton "accompagnement des usagers", vous pouvez :
 
 ### 1. Contacter les usagers avec un dossier "brouillon"
 

@@ -10,7 +10,7 @@ description: >-
 Nos API renvoient jusqu'à 100 dossiers maximum par requête. De fait, si il y a plus de 100 dossiers modifiés par jours sur votre démarche, une tache planifiée (ex quotidienne) récupérant tous les dossiers modifiées ne sera pas suffisante pour suivre tous les changements.
 
 {% hint style="info" %}
-De fait, il vous faudra utiliser notre mechanisme de curseur, hésitez pas à prendre connaissance de notre mechanisme de [pagination](../pagination.md) !
+De fait, il vous faudra utiliser notre mechanisme de curseur, n'hésitez pas à prendre connaissance de notre mechanisme de [pagination](../pagination.md) !
 {% endhint %}
 
 Pour faciliter la lecture du code, la query GraphQL est fournie en PJ
@@ -150,9 +150,9 @@ La **variable updatedSince/UPDATED\_SINCE permet ici deux choses** : #1 contrain
 {% endhint %}
 
 {% hint style="info" %}
-**Le curseur permet ici deux choses** : #1 paginer les appels successif (ex: lorsque vous lancez la synchronisation la 1ere fois, vous pourriez avoir a récuperer plus d'une page), #2 en ré-utilisant le pageInfo.endCursor, récupérer les nouveaux résultats (ex: lors de batch quotidien).
+**Le curseur permet ici deux choses** : #1 paginer les appels successifs (ex : lorsque vous lancez la synchronisation la 1ere fois, vous pourriez avoir a récuperer plus d'une page), #2 en ré-utilisant le pageInfo.endCursor, récupérer les nouveaux résultats (ex : lors de batch quotidien).
 {% endhint %}
 
-Concrètement, l'usage de l'updatedSince permet de filtrer et ordonner les réponses aux appels de notre APIs. Le curseur permet  de rappeler l'API sur cette contrainte et de récupérer les nouveaux résultats.
+Concrètement, l'usage de l'updatedSince permet de filtrer et ordonner les réponses aux appels de notre APIs. Le curseur permet de rappeler l'API sur cette contrainte et de récupérer les nouveaux résultats.
 
 Donc si vous voulez faire du polling regulier, ne changer pas cette date (updatedSince), utilisez simplement le pageInfo.endCursor (et faites attention à ne pas l'écraser lorsqu'il n'y a plus de résultat).

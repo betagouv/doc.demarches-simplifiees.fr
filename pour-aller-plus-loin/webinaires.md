@@ -26,7 +26,7 @@ Vous pourrez également retrouver le **lien d’invitation** ainsi que le **repl
 
 
 
-Voici le lien du replay de notre dernier webinaire ( 03/07/2025) : [https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/7cb32e003fe2131ecb102ba902b2e5a37cf6e991-1751544292504](https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/7cb32e003fe2131ecb102ba902b2e5a37cf6e991-1751544292504)
+Voici le lien du replay de notre dernier webinaire (03/07/2025) : [https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/7cb32e003fe2131ecb102ba902b2e5a37cf6e991-1751544292504](https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/7cb32e003fe2131ecb102ba902b2e5a37cf6e991-1751544292504)
 
 
 

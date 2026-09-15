@@ -22,15 +22,15 @@ Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.num
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/a5b39f24-b91b-4eab-8b8f-5cf0b6ffcd9d](https://demarche.numerique.gouv.fr/commencer/a5b39f24-b91b-4eab-8b8f-5cf0b6ffcd9d)
 
-### 5.  Médaille d'honneur du travail employeur/salarié ( Haute -Marne)
+### 5.  Médaille d'honneur du travail employeur/salarié (Haute -Marne)
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/mhtravail](https://demarche.numerique.gouv.fr/commencer/mhtravail)
 
-### 6. Médaille d'honneur Régionale, Départementale ou Communale - Collectivités ( Haute-Marne)&#x20;
+### 6. Médaille d'honneur Régionale, Départementale ou Communale - Collectivités (Haute-Marne)&#x20;
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/mhrdc](https://demarche.numerique.gouv.fr/commencer/mhrdc)
 
-### 7. Médaille d'honneur agricole employeur/salarié ( Haute- Marne)&#x20;
+### 7. Médaille d'honneur agricole employeur/salarié (Haute- Marne)&#x20;
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/mhagricole](https://demarche.numerique.gouv.fr/commencer/mhagricole)
 
@@ -41,7 +41,7 @@ Pour le **département de la Côte d'Or (21)**, les demandes de médailles sont 
 {% endhint %}
 
 {% hint style="info" %}
-Pour le **département de la Vendée (85)**, les demandes de médailles d'honneur du travail doivent être **exclusivement adressées par voie papier à la sous-préfecture des Sables-d'Olonne** . Aucune demande en ligne ne sera prise en compte .&#x20;
+Pour le **département de la Vendée (85)**, les demandes de médailles d'honneur du travail doivent être **exclusivement adressées par voie papier à la sous-préfecture des Sables-d'Olonne**. Aucune demande en ligne ne sera prise en compte .&#x20;
 
 Pour plus d'informations : [https://www.vendee.gouv.fr/contacts-r51.html](https://www.vendee.gouv.fr/contacts-r51.html)
 
