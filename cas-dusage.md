@@ -20,7 +20,7 @@ _Témoignage de Muriel Bego, de la DIRECCTE du Val-de-Loire_
 
 **Quelle est la procédure que vous avez mise en place sur les monuments historiques?**
 
-Je fais partie du pôle Entreprise Economie Emploi (3E) de la DIRECCTE Val-de-Loire. Être propriétaire d’un monument historique donne droit à certains avantages fiscaux permettant de déduire du revenu imposable certaines charges relatives à ces biens. Ces avantages sont majorés lorsque le monument est ouvert au public dans les conditions fixées par les articles 17 ter à 17 quinquies de l’Annexe IV du Code Général des Impôts. Pour bénéficier des avantages fiscaux liés à l’ouverture au public de son monument, le propriétaire doit transmettre à la DIRECCTE avant le 1er février de l’année N une « déclaration d’ouverture au public », dans laquelle il indique la période et les conditions d’ouverture du monument (art. 17 quater). Ainsi, le propriétaire se doit de proposer son bien pour ouverture au public au minimum 40 jours par an.
+Je fais partie du pôle Entreprise Économie Emploi (3E) de la DIRECCTE Val-de-Loire. Être propriétaire d’un monument historique donne droit à certains avantages fiscaux permettant de déduire du revenu imposable certaines charges relatives à ces biens. Ces avantages sont majorés lorsque le monument est ouvert au public dans les conditions fixées par les articles 17 ter à 17 quinquies de l’Annexe IV du Code Général des Impôts. Pour bénéficier des avantages fiscaux liés à l’ouverture au public de son monument, le propriétaire doit transmettre à la DIRECCTE avant le 1er février de l’année N une « déclaration d’ouverture au public », dans laquelle il indique la période et les conditions d’ouverture du monument (art. 17 quater). Ainsi, le propriétaire se doit de proposer son bien pour ouverture au public au minimum 40 jours par an.
 
 #### **Comment s’est passée la prise en main de l’outil ?**
 
@@ -158,7 +158,7 @@ Un diplôme leur est remis pour leur réussite dans la publication de démarches
 
 Un projet ne peut voir le jour et se développer que s’il est porté par le haut. C’est le cas pour **demarche.numerique.gouv.fr**.
 
-A la création du SGC, notre directrice Madame Dufour a donné les moyens au Bureau Interministériel des Systèmes d’Information et de Communication (BISIC) d’acculturer les agents aux ressources numériques en créant un pôle spécifique.
+À la création du SGC, notre directrice Madame Dufour a donné les moyens au Bureau Interministériel des Systèmes d’Information et de Communication (BISIC) d’acculturer les agents aux ressources numériques en créant un pôle spécifique.
 
 En ma qualité d’adjointe du BISIC chargée de faire découvrir les outils et pratiques numériques locales, j’accompagne individuellement les agents par des actions d’accueil numérique des nouveaux arrivants, d’accompagnement à la mise en œuvre de projets de dématérialisation (DS, Osmose, LimeSurvey, etc …). Je participe également à la valorisation du travail des agents avec des articles dans l’intranet, des vidéos de présentation, des ateliers « Rencontres du numérique » où les missions du BISIC sont présentées aux agents de manière interactive. Je me déplace sur tous les sites, je vais vers les utilisateurs, une chose très appréciée.
 

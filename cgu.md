@@ -66,7 +66,7 @@ description: Dernière mise à jour, le 16 septembre 2024 (Volet contribution fi
 
 ### [b.    Modalités financières](cgu.md#_toc108111757)
 
-### [c.    Evolutions du service et modifications des conditions d’utilisation](cgu.md#_toc108111758)
+### [c.    Évolutions du service et modifications des conditions d’utilisation](cgu.md#_toc108111758)
 
 ### [d.    Responsabilités](cgu.md#_toc108111759)
 
@@ -88,7 +88,7 @@ Au sens des présentes conditions générales d’utilisation, il faut entendre 
 
 **Service** : la plateforme « **demarche.numerique.gouv.fr** », qui permet à une administration de créer des démarches en ligne et d’instruire les dossiers déposés sur la plateforme.
 
-**Administration :** l’administration partenaire qui utilise le Service pour créer une démarche administrative en ligne. L’administration partenaire peut être issue des administrations de l’Etat, des collectivités territoriales, de leurs établissements publics administratifs et des organismes et personnes de droit public et privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale.
+**Administration :** l’administration partenaire qui utilise le Service pour créer une démarche administrative en ligne. L’administration partenaire peut être issue des administrations de l’État, des collectivités territoriales, de leurs établissements publics administratifs et des organismes et personnes de droit public et privé chargés d’une mission de service public administratif, y compris les organismes de sécurité sociale.
 
 **Agent** : agent d’une Administration partenaire qui bénéficie dans le Service des droits d’administrateur ou d’instructeur d’une démarche administrative.
 
@@ -215,7 +215,7 @@ L’Administration peut signaler toute utilisation du Service non conforme aux p
 
 La DINUM est responsable des informations traitées dans le cadre du Service pour ce qui concerne la gestion de la plateforme et la gestion des comptes utilisateurs.
 
-A ce titre, elle respecte les obligations inhérentes à ces traitements, notamment celles relevant du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE dit règlement général sur la protection des données (RGPD) et la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
+À ce titre, elle respecte les obligations inhérentes à ces traitements, notamment celles relevant du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE dit règlement général sur la protection des données (RGPD) et la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
 
 ### b. Traitements relevant de la responsabilité de l’administration partenaire <a href="#toc108111745" id="toc108111745"></a>
 
@@ -223,7 +223,7 @@ A ce titre, elle respecte les obligations inhérentes à ces traitements, notamm
 
 En sa qualité de responsable de traitement, l’Administration confie à la DINUM, qui agit en qualité de sous-traitant, les traitements nécessaires à la dématérialisation de ses démarches administratives, à l’instruction et au suivi des dossiers déposés par les usagers sur le Service.
 
-A ce titre, l’Administration autorise la DINUM à :
+À ce titre, l’Administration autorise la DINUM à :
 
 * Collecter les données à caractère personnel des usagers qui réalisent une démarche administrative par l’intermédiaire du Service ;
 * Héberger ces données pendant la durée du traitement fixée par l’Administration ;
@@ -335,7 +335,7 @@ En tant que porteur d'un commun numérique à impact national, la DINUM acceuill
 
 Ces contribution peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
 
-### c. Evolutions du service et modifications des conditions d’utilisation <a href="#toc108111758" id="toc108111758"></a>
+### c. Évolutions du service et modifications des conditions d’utilisation <a href="#toc108111758" id="toc108111758"></a>
 
 La DINUM peut modifier à tout moment les conditions générales d’utilisation dans le respect des modalités suivantes :
 
@@ -351,7 +351,7 @@ Il appartient à l’Administration de se référer à la dernière version des 
 
 ### d. Responsabilités <a href="#toc108111759" id="toc108111759"></a>
 
-Le Service est développé conformément à l’état de l’art. Toutefois, il n’est pas garanti qu’il soit exempt d’anomalies ou d’erreurs. A ce titre, la DINUM ne peut être tenue responsable des pertes ou des préjudices, de quelque nature qu’ils soient, qui pourraient être causés à la suite d’un dysfonctionnement ou d’une indisponibilité du Service ou de son utilisation contraire aux présentes conditions générales d’utilisation. De telles situations n'ouvriront droit à aucune compensation financière.
+Le Service est développé conformément à l’état de l’art. Toutefois, il n’est pas garanti qu’il soit exempt d’anomalies ou d’erreurs. À ce titre, la DINUM ne peut être tenue responsable des pertes ou des préjudices, de quelque nature qu’ils soient, qui pourraient être causés à la suite d’un dysfonctionnement ou d’une indisponibilité du Service ou de son utilisation contraire aux présentes conditions générales d’utilisation. De telles situations n'ouvriront droit à aucune compensation financière.
 
 ### e. Durée du Service et conditions de résiliation <a href="#toc108111760" id="toc108111760"></a>
 

@@ -38,4 +38,4 @@ Une des plus grandes inquiétude pour l’usager est de se voir refuser sa deman
 
 Vous avez maintenant toutes les cartes en main pour que votre service en ligne fasse des usagers heureux !<br>
 
-A bientôt !<br>
+À bientôt !<br>

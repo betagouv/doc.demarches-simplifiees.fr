@@ -7,7 +7,7 @@ description: >-
 
 # Démarches modèles à dupliquer
 
-## Etape 1: Avoir un compte administrateur valide
+## Étape 1: Avoir un compte administrateur valide
 
 Sans compte administrateur, vous n'avez pas les droits pour créer des démarches en ligne.
 
@@ -17,13 +17,13 @@ Pour obtenir un compte administrateur, je vous invite à remplir le formulaire s
 \
 Une fois le dossier accepté, nous vous créerons le compte administrateur et vous aurez les accès pour passer à l’étape 2.&#x20;
 
-## Etape 2: Connexion à l'interface administrateur
+## Étape 2: Connexion à l'interface administrateur
 
 Après vous être connecté, vous aurez accès à l’interface administrateur. Vous devrez vous rendre sur l’onglet: « toutes les démarches » situé en haut de votre écran :&#x20;
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-## Etape 3: Découverte du moteur de recherche
+## Étape 3: Découverte du moteur de recherche
 
 Lorsque vous arrivez sur la page "Toutes les démarches", vous avez plusieurs façons de procéder:
 

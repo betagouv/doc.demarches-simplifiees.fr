@@ -14,7 +14,7 @@ Pour déterminer la durée de conservation globale d'un dossier, vous devez à l
 
 La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple: passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
 
-## A quel moment est supprimé le dossier de l'usager?
+## À quel moment est supprimé le dossier de l'usager?
 
 * Dossier en brouillon: le délai de conservation du dossier de l'usager court à partir de la création du dossier.
 * Dossier en construction: le délai de conservation court à partir de la dernière date de modification du dossier par l'usager.

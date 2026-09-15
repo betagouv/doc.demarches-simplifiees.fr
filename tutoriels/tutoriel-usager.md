@@ -307,7 +307,7 @@ Le dossier « en instruction » est pris en charge par le service compétent. Il
 
 #### Accepté / Classé sans suite / Refusé
 
-Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. A savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.
+Le dossier prend l'un de ces statuts une fois que le service compétent a statué : la messagerie reste encore accessible. À savoir que lorsque le dossier est archivé par l'administration, la messagerie est automatiquement désactivée.
 
 Le dossier expirera à l’issue de la durée de conservation fixée par le service en charge de la démarche.
 

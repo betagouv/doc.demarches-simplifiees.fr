@@ -44,7 +44,7 @@ L’utilisation du Service est réservée à l’accomplissement de démarches a
 
 Les usagers sont des personnes physiques ou morales qui utilisent le Service pour accomplir une démarche administrative en déposant un dossier auprès de l’administration. L’usager reçoit des mails de notifications lui permettant de suivre l’état d’avancement de son dossier.
 
-L’usager est responsable des informations partagées avec l’administration. A ce titre, toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article  441-1 du Code Pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.  &#x20;
+L’usager est responsable des informations partagées avec l’administration. À ce titre, toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article  441-1 du Code Pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.  &#x20;
 
 Il veille notamment à ne jamais tenir de propos ou échanger de contenus insultants, diffamatoires ou indécents.
 

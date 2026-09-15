@@ -106,7 +106,7 @@ Ces différents stades de traitement correspondent à :
 * **Traités** : dossiers sur lesquels un ou plusieurs instructeurs ont statué et apporté une décision.
 * **Au total :** contient l'ensemble des dossiers déposés sur cette démarche, quel que soit leur statut (« à suivre », « suivis par moi », « traités »). Si les dossiers sont routés dans des groupes instructeurs, vous ne trouverez dans cet onglet que les dossiers du (des) groupe(s) dont vous faites partie.
 * **Expirants :** contient les dossiers dont le délai de conservation va bientôt expirer (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).
-* **A archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans **demarche.numerique.gouv.fr** sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
+* **À archiver :** contient les dossiers qui étaient anciennement dans l’onglet « traités » (ils ont été déplacés par un instructeur dans cet onglet « à archiver »). La messagerie usager est automatiquement désactivée sur le dossier dès qu’il est « à archiver ». Ces dossiers seront supprimés lorsque leur délai de conservation dans **demarche.numerique.gouv.fr** sera expiré. Pour sauvegarder et archiver vos dossiers sur votre serveur, vous devez les télécharger.
 * **Corbeille :** cet onglet contient :\
   \- les dossiers dont le délai de conservation a expiré (la durée de conservation des dossiers est fixée par l'administrateur de la démarche).\
   \- les dossiers « traités » qui ont été mis à la corbeille par les instructeurs.
@@ -563,7 +563,7 @@ Quelle que soit la décision (acceptation, classement sans suite ou refus des do
 
 Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondants aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".
 
-A savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.
+À savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 14.58.17.png" alt=""><figcaption></figcaption></figure>
 
@@ -578,7 +578,7 @@ Une fois la décision "de masse", le bandeau suivant apparaîtra vous informant 
 <figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-A noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.
+À noter : Les actions de masse peuvent prendre un certain temps en fonction du nombre de dossiers sélectionnés. Il se peut que vous deviez recharger la page pour que l'action soit effectuée.
 {% endhint %}
 
 Lorsque l'action de masse est effectuée, vous retrouverez les dossiers qui ont été instruits dans l'onglet des dossiers "traités": un bandeau vert vous informe que l'action de masse d'instruction des dossiers est terminée.
@@ -674,7 +674,7 @@ Vous avez la possibilité de créer :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Onglet "Téléchargements"</p></figcaption></figure>
 
-A noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs .
+À noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs .
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaP1pADWfziAvrXnIXD8A8U3YXcZpiuQ9xT7MFiUdyQoZTjHjNy3uXvPm0F15xYArIt3bilG3sApS-wmEQNF8QaN58Iq2_eEelXDuxMhz9LJjNtwjjQEtwU2JZkJV2KPhHr-R9?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page "Modèles d'export"</p></figcaption></figure>
 

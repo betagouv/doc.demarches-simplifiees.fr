@@ -247,7 +247,7 @@ Exemple : si vous souhaitez obtenir les coordonnées d’un usager, vous pouvez 
 
 La civilité, le prénom et le nom sont des informations déja demandées en préambule de la démarche à destination des personnes physiques. Il convient de ne pas les redemander dans le formulaire.
 
-A tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
+À tout moment, vous pouvez prévisualiser le formulaire que vous êtes en train de créer en cliquant sur l’onglet « Prévisualiser le formulaire ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.09.26.png" alt=""><figcaption></figcaption></figure>
 
@@ -607,7 +607,7 @@ Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bo
 
 Les modifications apportés aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en retournant sur le tableau de bord de l'interface administrateur.
 
-A tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
+À tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 12.13.17.png" alt=""><figcaption></figcaption></figure>
@@ -632,7 +632,7 @@ Les annotations privées sont l’équivalent du cadre réservé à l’administ
 
 En créant des champs « Annotations privées », vous pouvez en tant qu’administrateur prévoir quelles sont les informations que doit analyser l’instructeur pour traiter le dossier.
 
-A titre d’exemple, pour une démarche de demande provisoire de titre de travail pour un étudiant étranger, vous pouvez créer une annotation privée intitulée « Qualité de l’expérience universitaire ». L’instructeur saura donc qu’il doit renseigner et analyser cet élément dans son évaluation générale pour la délivrance ou non du titre. Par ailleurs, comme sur DS, plusieurs instructeurs peuvent instruire le même dossier, les annotations privées peuvent permettre un dialogue entre eux.
+À titre d’exemple, pour une démarche de demande provisoire de titre de travail pour un étudiant étranger, vous pouvez créer une annotation privée intitulée « Qualité de l’expérience universitaire ». L’instructeur saura donc qu’il doit renseigner et analyser cet élément dans son évaluation générale pour la délivrance ou non du titre. Par ailleurs, comme sur DS, plusieurs instructeurs peuvent instruire le même dossier, les annotations privées peuvent permettre un dialogue entre eux.
 
 Pour créer des annotations privées, rendez-vous dans l’onglet « Annotations privées ». Il convient ensuite d’ajouter vos annotations privées comme des champs normaux. Le modèle est exactement le même que pour le formulaire usager, c’est pourquoi on parle parfois de « formulaire instructeur ».
 
@@ -691,7 +691,7 @@ Les attestations sont des documents au format .pdf qui sont délivrés en pièce
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.29.09.png" alt=""><figcaption></figcaption></figure>
 
-A la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en haut de votre écran.
+À la différence de la configuration des e-mails, celle de l’attestation est optionnelle. Pour l’activer, cliquer sur le bouton « Activer l’attestation », situé en haut de votre écran.
 
 Désactiver cette option arrête immédiatement l’émission de nouvelles attestations.
 
@@ -781,7 +781,7 @@ En tant qu'administrateur, vous pouvez gérer les experts invités d'une démarc
 
 Vous pouvez à tout moment désactiver ces fonctionnalités en décochant les cases.
 
-A chaque modification, un bandeau vert de confirmation s'affiche.
+À chaque modification, un bandeau vert de confirmation s'affiche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.21.48.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,7 +1,7 @@
 ---
 description: >-
   Retrouvez dans cette page les démarches déployées dans les services
-  déconcentrés de l'Etat ou au niveau national relatives aux procédures liées au
+  déconcentrés de l'État ou au niveau national relatives aux procédures liées au
   permis de conduire
 ---
 
@@ -104,7 +104,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [**27 - Demande initiale ou de renouvellement d'agrément d'un Etablissement d’Enseignement de la Conduite et de la Sécurité Routière (ECSR)** ](https://demarche.numerique.gouv.fr/commencer/demande-agrement-ecsr-eure)
 * [**27 - Demande d'autorisation d'enseigner la conduite des véhicules terrestres à moteur**](https://demarche.numerique.gouv.fr/commencer/demande-autorisation-enseigner-eure)
 * [Bilan annuel d’activité des Centres de Sensibilisation à la Sécurité Routière (CSSR) dans l'Eure](https://demarche.numerique.gouv.fr/commencer/bilan-annuel-activite-cssr)
-* [Inscription à l'Epreuve Théorique Générale pour les sessions organisées par l'Etat dans l'Eure ](https://demarche.numerique.gouv.fr/commencer/inscription-a-l-etg-nf-dys-pour-le-dpt-eure)
+* [Inscription à l'Epreuve Théorique Générale pour les sessions organisées par l'État dans l'Eure ](https://demarche.numerique.gouv.fr/commencer/inscription-a-l-etg-nf-dys-pour-le-dpt-eure)
 
 ### 30 - Gard&#x20;
 
@@ -157,7 +157,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 55 - Demande de convention dans le cadre du dispositif « Permis à un euro par jour » entre l'État et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
 [https://demarche.numerique.gouv.fr/commencer/demande-convention-permis-1-euro\_55](https://demarche.numerique.gouv.fr/commencer/demande-convention-permis-1-euro_55)\
 \
-55 - Dénonciation de la convention "Permis à un euro par jour" entre l'Etat et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
+55 - Dénonciation de la convention "Permis à un euro par jour" entre l'État et un établissement d'enseignement de la conduite et de la sécurité routière - Département de la Meuse\
 [https://demarche.numerique.gouv.fr/commencer/denonciation-convention-permis-1-euro\_55](https://demarche.numerique.gouv.fr/commencer/denonciation-convention-permis-1-euro_55)\
 \
 55 - Dépôt de l'attestation de garantie financière d'un établissement d'enseignement de la conduite des véhicules à moteur et de la sécurité routière - Département de la Meuse\
@@ -225,7 +225,7 @@ Une attestation d’inscription avec un numéro NEPH vous sera ensuite délivré
 * [88 - Demande de premier agrément d'un établissement d’enseignement de la conduite et de la sécurité routière](https://demarche.numerique.gouv.fr/commencer/premier-agrement-ae)
 * [88 - Demande de renouvellement d'agrément d'un établissement d’enseignement de la conduite et de la sécurité routière](https://demarche.numerique.gouv.fr/commencer/renouvellement-agrement-ae88)
 * [88 - Demande de retrait d'agrément pour une ou plusieurs catégories d'enseignement de la conduite des véhicules à moteur](https://demarche.numerique.gouv.fr/commencer/retrait-agrement)
-* [88 - Demande de convention dans le cadre du dispositif "Permis à un euro par jour" entre l'Etat et un établissement d'enseignement de la conduite et de la sécurité routière](https://demarche.numerique.gouv.fr/commencer/demande-permis1euro_88)
+* [88 - Demande de convention dans le cadre du dispositif "Permis à un euro par jour" entre l'État et un établissement d'enseignement de la conduite et de la sécurité routière](https://demarche.numerique.gouv.fr/commencer/demande-permis1euro_88)
 
 ### 95 - Val d'Oise&#x20;
 

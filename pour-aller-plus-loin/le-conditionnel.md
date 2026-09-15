@@ -49,7 +49,7 @@ Nous souhaitons faire apparaître la deuxième question en fonction de la questi
 
 <figure><img src="../.gitbook/assets/Conditionnel 2.png" alt=""><figcaption></figcaption></figure>
 
-Etape 3 : Sélectionner le champ cible (la question) que vous souhaitez conditionner ainsi que l’opérateur
+Étape 3 : Sélectionner le champ cible (la question) que vous souhaitez conditionner ainsi que l’opérateur
 
 <figure><img src="../.gitbook/assets/Conditionnel 3.png" alt=""><figcaption></figcaption></figure>
 

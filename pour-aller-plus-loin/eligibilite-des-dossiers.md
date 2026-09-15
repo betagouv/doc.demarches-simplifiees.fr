@@ -2,7 +2,7 @@
 description: Vous pouvez ajouter des règles d'inéligibilité des dossiers
 ---
 
-# Eligibilité des dossiers
+# Éligibilité des dossiers
 
 Afin de configurer les règles d'inéligibilité, il vous faut :&#x20;
 
