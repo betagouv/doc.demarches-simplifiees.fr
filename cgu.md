@@ -207,7 +207,7 @@ L’expert est invité par un instructeur pour formuler un avis sur un dossier. 
 
 ### d.  Signalement à la DINUM <a href="#toc108111742" id="toc108111742"></a>
 
-L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+L’Administration peut signaler toute utilisation du Service non conforme aux présentes conditions générales d’utilisation à la DINUM à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 ## 6. Traitements des données à caractère personnel <a href="#toc108111743" id="toc108111743"></a>
 
@@ -268,7 +268,7 @@ La DINUM et l’Administration mettent à la disposition de l’autorité de con
 
 La DINUM dispose de l’autorisation générale de l’Administration pour ce qui est du recrutement de sous-traitants ultérieurs sur la base d’une liste convenue.
 
-La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’Administration. L’Administration doit formuler sa demande à l’adresse [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 La DINUM informe l’Administration de tout projet de modification de cette liste par l’ajout ou le remplacement de sous-traitants ultérieurs.
 
@@ -325,7 +325,7 @@ La DINUM assure le support de premier niveau auprès des utilisateurs, exclusive
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée.
 
-Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarches-simplifiees.fr).
+Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 ### b. Modalités financières <a href="#toc108111757" id="toc108111757"></a>
 

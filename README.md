@@ -47,4 +47,4 @@ Aucune connaissance spécifique en informatique n'est requise pour comprendre ce
 
 ### Retours
 
-Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact@demarches-simplifiees.fr)
+Vous pouvez nous aider à améliorer cette documentation ainsi que l'outil en nous faisant part de vos remarques par [**e-mail.**](mailto:contact@demarche.numerique.gouv.fr)
