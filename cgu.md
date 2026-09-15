@@ -76,13 +76,13 @@ description: Dernière mise à jour, le 16 septembre 2024 (Volet contribution fi
 
 #### [ii.         Suspension ou désactivation par la DINUM](cgu.md#_toc108111762)
 
-## 2 . Objet et champ d’application des conditions générales d’utilisation <a href="#toc108111727" id="toc108111727"></a>
+## 2. Objet et champ d’application des conditions générales d’utilisation <a href="#toc108111727" id="toc108111727"></a>
 
 Les présentes conditions générales d’utilisation ont pour objet de définir dans quelles conditions et selon quelles modalités une administration peut utiliser la plateforme **demarche.numerique.gouv.fr** pour dématérialiser une démarche administrative dans le cadre de la mise en œuvre d’un téléservice ou d’une démarche interne de l’administration.
 
 Elles déterminent les droits et les obligations respectifs de l’administration qui utilise la plateforme **demarche.numerique.gouv.fr** et de la direction interministérielle du numérique (DINUM) qui la met à la disposition des administrations.
 
-## 3 . Définitions <a href="#toc108111728" id="toc108111728"></a>
+## 3. Définitions <a href="#toc108111728" id="toc108111728"></a>
 
 Au sens des présentes conditions générales d’utilisation, il faut entendre par :
 
@@ -98,11 +98,11 @@ Au sens des présentes conditions générales d’utilisation, il faut entendre 
 
 **Utilisateurs** : Agents et Usagers du Service.
 
-## 4 . Rôle et engagements de la DINUM <a href="#toc108111729" id="toc108111729"></a>
+## 4. Rôle et engagements de la DINUM <a href="#toc108111729" id="toc108111729"></a>
 
 La DINUM s’engage à respecter les présentes conditions générales d’utilisation et la législation en vigueur.
 
-### a . Présentation du Service <a href="#toc108111730" id="toc108111730"></a>
+### a. Présentation du Service <a href="#toc108111730" id="toc108111730"></a>
 
 Le Service est un outil de dématérialisation et de simplification des démarches administratives de l’Administration. Il propose également des fonctionnalités d’aide à l’instruction des dossiers déposés.
 
@@ -117,7 +117,7 @@ Il permet à l’Usager de réaliser une démarche en ligne, en partageant la co
 
 Le Service est développé sous licence AGPL et le code est disponible à l’adresse suivante : [https://github.com/demarche-numerique/demarche.numerique.gouv.fr](https://github.com/demarche-numerique/demarche.numerique.gouv.fr)
 
-### b . Prestations garanties <a href="#toc108111731" id="toc108111731"></a>
+### b. Prestations garanties <a href="#toc108111731" id="toc108111731"></a>
 
 La DINUM est responsable de l’administration générale de la plateforme. Elle tient le Service à la disposition de l’Administration.
 
@@ -133,7 +133,7 @@ Elle propose une assistance technique et fonctionnelle en vue d’assurer le bon
 
 La DINUM informe l’Administration de toute difficulté de nature à affecter le bon fonctionnement du Service.
 
-### C . Niveau de service et disponibilité <a href="#toc108111732" id="toc108111732"></a>
+### C. Niveau de service et disponibilité <a href="#toc108111732" id="toc108111732"></a>
 
 #### I. Disponibilité du Service <a href="#toc108111733" id="toc108111733"></a>
 
@@ -155,11 +155,11 @@ Le Service bénéficie d’une homologation de sécurité RGS de la direction in
 
 Le Service a également fait l’objet, en tant que socle pour les Démarches administratives, d’une analyse d’impact sur la protection des données (AIPD) pour les traitements qui relèvent de la responsabilité de la DINUM.
 
-## 5 . Rôle et engagements de l’Administration <a href="#toc108111735" id="toc108111735"></a>
+## 5. Rôle et engagements de l’Administration <a href="#toc108111735" id="toc108111735"></a>
 
 L’Administration s’engage à respecter les présentes conditions générales d’utilisation et à utiliser le Service conformément à la législation en vigueur. Elle fournit des informations complètes, exactes et à jour.
 
-### a . La création d’une démarche en ligne <a href="#toc108111736" id="toc108111736"></a>
+### a. La création d’une démarche en ligne <a href="#toc108111736" id="toc108111736"></a>
 
 L’Administration utilise le Service pour créer des démarches en ligne. Le Service peut être utilisé pour créer un téléservice à destination du public ou mettre en ligne une démarche interne à l’administration.
 
@@ -181,7 +181,7 @@ Compte tenu de l’intégration de la démarche dans son propre système d’inf
 
 ### b. Restrictions d’usage <a href="#toc108111737" id="toc108111737"></a>
 
-L’homologation du Service ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions .
+L’homologation du Service ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions.
 
 Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations consommatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de de sécurité complémentaires.
 
@@ -234,7 +234,7 @@ Dans ce cadre, la DINUM et l’Administration respectent les obligations inhére
 
 Le détail des opérations de traitement, et notamment les catégories de données à caractère personnel traitées, leur durée de conservation et les finalités du traitement pour lesquelles les données à caractère personnel sont traitées par la DINUM, en sa qualité de sous-traitant, pour le compte de l’Administration, responsable de traitement, est précisé au moment de la création d’une nouvelle démarche.
 
-#### ii . Limitation de la finalité <a href="#toc108111747" id="toc108111747"></a>
+#### ii. Limitation de la finalité <a href="#toc108111747" id="toc108111747"></a>
 
 La DINUM traite les données à caractère personnel uniquement pour les finalités spécifiques du traitement, telles que définies par l’Administration au moment de la création de la démarche, sauf instruction complémentaire de l’Administration.
 

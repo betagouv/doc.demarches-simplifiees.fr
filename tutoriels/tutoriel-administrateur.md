@@ -62,7 +62,7 @@ Vous avez un accès direct à vos démarches en sélectionnant le numéro de la 
 
 Vous avez désormais la possibilité en tant qu'administrateur de consulter les démarches publiées grâce à un tableau de bord dédié. Cela vous permet également de cloner une démarche existante.
 
-Ainsi, pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « **toutes les démarches** » puis de filtrer par zones et/ou par statut, service, démarches modèles, département, type d'usager , date de publication ou encore par thématique.
+Ainsi, pour consulter les informations (administrateur et date de création) sur les démarches publiées pour toutes les zones, il vous suffit de cliquer sur « **toutes les démarches** » puis de filtrer par zones et/ou par statut, service, démarches modèles, département, type d'usager, date de publication ou encore par thématique.
 
 <figure><img src="../.gitbook/assets/Sans titre admin.png" alt=""><figcaption></figcaption></figure>
 
@@ -104,7 +104,7 @@ Le principe est le même, il vous suffit de rechercher la démarche que vous sou
 
 En clonant la démarche, le gain de temps est considérable ! Il vous suffira uniquement de modifier la démarche afin de la personnaliser en fonction de vos besoins !
 
-**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi . Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
+**Enfin, nous mettons également à votre disposition des démarches modèles prêtes à l'emploi. Voici le lien vers la documentation dédiée :** [https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer](https://doc.demarche.numerique.gouv.fr/listes-des-demarches/demarches-modeles-a-dupliquer)
 
 {% hint style="info" %}
 **ATTENTION** : les administrateurs ont la liberté de choisir l'intitulé de leurs démarches, il n’est donc pas toujours homogène. Nous vous conseillons de tester plusieurs mots-clés pour une même recherche.
@@ -191,7 +191,7 @@ Les usagers pourront consulter l'ensemble des informations relatives au cadre ju
 
 Afin de favoriser la transparence des données, vous avez la possibilité d'autoriser la publication des descriptifs des démarches sur https://data.gouv.fr.
 
-Cette donnée est modifiable pour chaque démarche depuis la partie « présentation » de votre interface administrateur .
+Cette donnée est modifiable pour chaque démarche depuis la partie « présentation » de votre interface administrateur.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.19.29.png" alt=""><figcaption></figcaption></figure>
 
@@ -231,11 +231,11 @@ Enfin, il existe deux options avancées optionnelles. La première est le choix 
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.54.44.png" alt=""><figcaption></figcaption></figure>
 
-* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificative » .
+* **Champ « pièce justificative » avec multiples fichiers** : cette option permet aux usagers d'envoyer plusieurs fichiers par champ « pièce justificative ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.56.34.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou « enregistrer » , situé en bas à droite de l’écran.
+Vous pouvez désormais passer à l’étape suivante en cliquant sur le bouton « Créer la démarche » ou « enregistrer », situé en bas à droite de l’écran.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 10.59.26.png" alt=""><figcaption></figcaption></figure>
 
@@ -341,7 +341,7 @@ Les champs « Régions », « Département » et « Communes » utilisent des va
 
 Pour le champ « Communes », les usagers doivent dans un premier temps entrer par auto-complétion leur département puis un second champ dédié à la commune s'affichera.
 
-<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Champ "commune" , en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption><p>Champ "commune", en tant qu'usager</p></figcaption></figure>
 
@@ -393,7 +393,7 @@ L'usager doit renseigner un nombre entier.
 
 L'usager doit renseigner une date au format jj/mm/aaaa.
 
-<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>Champ "date" , en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (91).png" alt=""><figcaption><p>Champ "date", en tant qu'usager</p></figcaption></figure>
 
 #### f) Date et Heure
 
@@ -457,7 +457,7 @@ Ce type de champ insère à gauche du libellé du champ une case que l'usager pe
 
 **a) Manuelle**
 
-L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste » .
+L'usager doit choisir l'une des valeurs paramétrées par l'administrateur. Pour créer des valeurs, il vous suffit de les ajouter dans la partie « options de la liste ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 14.24.24.png" alt=""><figcaption><p>Champ de choix simple dans une liste de choix "manuelle"</p></figcaption></figure>
 
@@ -537,7 +537,7 @@ Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 10.24.08.png" alt=""><figcaption></figcaption></figure>
 
-Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/cartographie)
+Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc). Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/cartographie)
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption><p>Champ "Carte" en tant qu'usager</p></figcaption></figure>
 

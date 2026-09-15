@@ -56,7 +56,7 @@ Ce système est particulièrement adapté aux démarches nationales instruites l
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-* Si un badge « aucune règle » apparaît , c'est que la règle de routage du groupe doit être définie.
+* Si un badge « aucune règle » apparaît, c'est que la règle de routage du groupe doit être définie.
 * Si deux groupes ont la même règle de routage, les dossiers seront envoyés au premier groupe de la liste par ordre d'affichage.
 
 ## 5. Gestion d'un groupe

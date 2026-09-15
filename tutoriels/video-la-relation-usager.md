@@ -4,7 +4,7 @@
 8 minutes
 {% endembed %}
 
-Bonjour à tous ,
+Bonjour à tous,
 
 Le passage à la dématérialisation modifie la relation entre le service administratif et l’usager. Comme toute innovation, la dématérialisation bouscule les pratiques et peut être perçue par l’usager comme une éloignement. Or, au contraire, elle peut justement être un moyen de se rapprocher de l’usager en suivant simplement quelques bonnes pratiques. Voici les 4 points d’attention pour établir sur DS une bonne relation entre administration et usager :<br>
 

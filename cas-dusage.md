@@ -80,11 +80,11 @@ _Témoignage de Frédéric Cuignet Royer, DDVA, DDCS 54_
 
 **Dans quel contexte s'est inscrit le besoin de dématérialiser la démarche relative au FDVA - volet fonctionnement innovation?**
 
-Cela s'est fait dans un contexte où il y a eu une évolution de la réserve parlementaire, le FDVA (fonds de développement de la vie associative) pour son volet « fonctionnement innovation » s’adressait ainsi dans un temps très court (décret sorti en mai, AAP début juillet, clôture le 17/9), principalement aux petites associations du département. De plus, d'autres facteurs ont eu une influence sur la dématérialisation de la démarche via le site **demarche.numerique.gouv.fr** : d'une part, la volumétrie était inconnue (100, 200 , 300 dossiers) et d'autre part, l'existence d'usagers avec une culture du dépôt en ligne très inégale.
+Cela s'est fait dans un contexte où il y a eu une évolution de la réserve parlementaire, le FDVA (fonds de développement de la vie associative) pour son volet « fonctionnement innovation » s’adressait ainsi dans un temps très court (décret sorti en mai, AAP début juillet, clôture le 17/9), principalement aux petites associations du département. De plus, d'autres facteurs ont eu une influence sur la dématérialisation de la démarche via le site **demarche.numerique.gouv.fr** : d'une part, la volumétrie était inconnue (100, 200, 300 dossiers) et d'autre part, l'existence d'usagers avec une culture du dépôt en ligne très inégale.
 
 **Comment s'est mise en place la démarche en ligne ?**
 
-La mise en place au sein du service, s'est faite par l'intermédiaire de deux agents , l'un en charge de l'appel à projet Test et le second qui était plus expérimenté notamment avec le « compteasso » pour le CNDS. Une demi-journée a été nécessaire pour la construction et le test Communication spécifique dans le cadre de la diffusion de l’appel à projet régional (attention, le dépôt en ligne était optionnel).
+La mise en place au sein du service, s'est faite par l'intermédiaire de deux agents, l'un en charge de l'appel à projet Test et le second qui était plus expérimenté notamment avec le « compteasso » pour le CNDS. Une demi-journée a été nécessaire pour la construction et le test Communication spécifique dans le cadre de la diffusion de l’appel à projet régional (attention, le dépôt en ligne était optionnel).
 
 **Pourquoi avoir choisi demarche.numerique.gouv.fr ?**
 
@@ -128,7 +128,7 @@ Témoignage de Nathalie DESTERNES - Adjointe au chef du BISIC, SGC de l'Allier
 
 **En quoi consistent les démarches mises en place via demarche.numerique.gouv.fr ?**
 
-Dans l’Allier les démarches sont nombreuses et portent sur des thématiques diverses et variées (agriculture, délivrance des titres, réglementation générale ou encore subventions aux collectivités etc.) . Plus de trente démarches ont été dématérialisés via **demarche.numerique.gouv.fr**. Elles sont le reflet de l’activité des agents de l’ATE (DDETSPP, DDT, Préfecture et SGC).
+Dans l’Allier les démarches sont nombreuses et portent sur des thématiques diverses et variées (agriculture, délivrance des titres, réglementation générale ou encore subventions aux collectivités etc.). Plus de trente démarches ont été dématérialisés via **demarche.numerique.gouv.fr**. Elles sont le reflet de l’activité des agents de l’ATE (DDETSPP, DDT, Préfecture et SGC).
 
 **Comment s'est déroulée la mise en place des démarches ?**
 

@@ -67,7 +67,7 @@ L’onglet **« terminée »** regroupe les démarches closes n'ayant plus de do
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches . Pour cela, il suffit de cliquer sur le bouton "**personnaliser l'ordre**" :
+Vous avez la possibilité de personnaliser l'ordre d'affichage des démarches. Pour cela, il suffit de cliquer sur le bouton "**personnaliser l'ordre**" :
 
 <figure><img src="../.gitbook/assets/instructeur (1).png" alt=""><figcaption><p>La liste des démarches en tant qu'instructeur</p></figcaption></figure>
 
@@ -192,7 +192,7 @@ En cliquant de nouveau sur la même colonne, **le tri est effectué en sens inve
 
 Les dossiers déposés sont regroupés par défaut sous le statut « **à suivre** ».
 
-Un dossier à suivre a le statut « **en construction** » , il est alors **consultable et modifiable par l’usager**.
+Un dossier à suivre a le statut « **en construction** », il est alors **consultable et modifiable par l’usager**.
 
 Toutefois, les dossiers figurant dans la colonne **« à suivre »** peuvent également avoir le statut **« en instruction »**, lorsqu’il s’agit **d’une démarche paramétrée avec un passage automatique à ce statut**. Dans ce cas, le dossier n’est pas modifiable par l’usager.
 
@@ -461,7 +461,7 @@ Le dossier passe automatiquement dans l’onglet des dossiers traités.
 
 #### b. Classer sans suite le dossier
 
-Cliquez sur le bouton « **En instruction** » en haut à droite de l’écran puis cliquer sur le bouton « **Classer sans suite ». L’instructeur doit alors remplir une motivation** qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK**» .
+Cliquez sur le bouton « **En instruction** » en haut à droite de l’écran puis cliquer sur le bouton « **Classer sans suite ». L’instructeur doit alors remplir une motivation** qui sera consultable par l’usager dans son dossier après classement sans suite. Cliquez sur le bouton « **Valider la décision** ». Confirmez le choix de validation en cliquant sur le bouton « **OK**».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-08-09 à 13.18.24.png" alt=""><figcaption><p>Classement sans suite d'un dossier</p></figcaption></figure>
 
@@ -644,7 +644,7 @@ Un message s'affiche afin d'informer que le fichier est en cours de préparation
 
 <figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.
+Après quelques minutes, vous pouvez rafraîchir la page afin d'accéder au bouton de téléchargement.
 
 <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -674,7 +674,7 @@ Vous avez la possibilité de créer :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfllmWe-c1fW5PsiOVUPOz1gVRpUnLkWuE2LY4tXsjkXQYALJs3vN6H_CylffMOxEo2L101JjSK-0gXx_xniLyQr8yMz1Iy-rCqvUwfQusS4ajab6Lp63aD68xj7QLzP2w3mtLu?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Onglet "Téléchargements"</p></figcaption></figure>
 
-À noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs .
+À noter: Vos modèles d’export peuvent être partagés avec l'ensemble des instructeurs.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcaP1pADWfziAvrXnIXD8A8U3YXcZpiuQ9xT7MFiUdyQoZTjHjNy3uXvPm0F15xYArIt3bilG3sApS-wmEQNF8QaN58Iq2_eEelXDuxMhz9LJjNtwjjQEtwU2JZkJV2KPhHr-R9?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption><p>Page "Modèles d'export"</p></figcaption></figure>
 
@@ -871,7 +871,7 @@ Voici le différents badges de notification configurables :
 
 ### Statistiques de la démarche :
 
-Sur chaque procédure, l'instructeur a accès à des statistiques . Pour cela, il suffit à l'instructeur de cliquer sur le bouton "gestion de la démarche" puis "statistiques de la démarche"
+Sur chaque procédure, l'instructeur a accès à des statistiques. Pour cela, il suffit à l'instructeur de cliquer sur le bouton "gestion de la démarche" puis "statistiques de la démarche"
 
 <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -892,7 +892,7 @@ Afin d’accompagner au mieux vos usagers en cas de demande, nous mettons à vot
 
 <figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
-En cliquant sur le bouton "accompagnement des usagers" , vous pouvez :
+En cliquant sur le bouton "accompagnement des usagers", vous pouvez :
 
 ### 1. Contacter les usagers avec un dossier "brouillon"
 

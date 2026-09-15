@@ -41,7 +41,7 @@ Pour le **département de la Côte d'Or (21)**, les demandes de médailles sont 
 {% endhint %}
 
 {% hint style="info" %}
-Pour le **département de la Vendée (85)**, les demandes de médailles d'honneur du travail doivent être **exclusivement adressées par voie papier à la sous-préfecture des Sables-d'Olonne** . Aucune demande en ligne ne sera prise en compte .&#x20;
+Pour le **département de la Vendée (85)**, les demandes de médailles d'honneur du travail doivent être **exclusivement adressées par voie papier à la sous-préfecture des Sables-d'Olonne**. Aucune demande en ligne ne sera prise en compte .&#x20;
 
 Pour plus d'informations : [https://www.vendee.gouv.fr/contacts-r51.html](https://www.vendee.gouv.fr/contacts-r51.html)
 
