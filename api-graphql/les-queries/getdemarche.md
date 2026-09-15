@@ -9,7 +9,7 @@ Le cas d'usage classique de ce endpoint est de lister tous les dossiers d'une d�
 
 
 {% hint style="info" %}
-Là encore, réferrez-vous [au schéma de l'API](https://www.demarches-simplifiees.fr/graphql/schema/index.html) qui documente à quoi correspond chaque attribut.
+Là encore, réferrez-vous [au schéma de l'API](https://demarche.numerique.gouv.fr/graphql/schema/index.html) qui documente à quoi correspond chaque attribut.
 {% endhint %}
 
 ## Query pour récupérer les informations d'une démarche :&#x20;

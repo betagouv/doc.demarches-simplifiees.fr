@@ -9,15 +9,15 @@ description: >-
 
 ### Tribunal pour enfants de Lille :
 
-[**Prise de rendez-vous pour consulter une procédure d'assistance éducative**](https://www.demarches-simplifiees.fr/commencer/demande-de-rendez-vous-pour-consulter-une-procedur)
+[**Prise de rendez-vous pour consulter une procédure d'assistance éducative**](https://demarche.numerique.gouv.fr/commencer/demande-de-rendez-vous-pour-consulter-une-procedur)
 
 ### SAUJ :&#x20;
 
-[**Demande de certificat de non appel et de copie de jugement**](https://www.demarches-simplifiees.fr/commencer/demande-de-certificat-de-non-appel-et-de-copie-de-)
+[**Demande de certificat de non appel et de copie de jugement**](https://demarche.numerique.gouv.fr/commencer/demande-de-certificat-de-non-appel-et-de-copie-de-)
 
-[**Consultation du casier judiciaire**](https://www.demarches-simplifiees.fr/commencer/consultation-du-casier-judiciaire)
+[**Consultation du casier judiciaire**](https://demarche.numerique.gouv.fr/commencer/consultation-du-casier-judiciaire)
 
 ### Greffe correctionnel :&#x20;
 
-[**Demande de restitution de titre d'identité (passeport/CNI/titre de séjour)**](https://www.demarches-simplifiees.fr/commencer/demande-de-restitution-de-titre-d-identite-passepo)
+[**Demande de restitution de titre d'identité (passeport/CNI/titre de séjour)**](https://demarche.numerique.gouv.fr/commencer/demande-de-restitution-de-titre-d-identite-passepo)
 
