@@ -38,7 +38,7 @@ Consultez les 11 tutoriels vidéo :
 {% endhint %}
 
 {% hint style="success" %}
-En cas de doute, [contactez-nous](https://www.demarches-simplifiees.fr/contact).
+En cas de doute, [contactez-nous](https://demarche.numerique.gouv.fr/contact).
 {% endhint %}
 
 ##

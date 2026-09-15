@@ -26,7 +26,7 @@ L'équipe peut fournir un accompagnement à toutes les étapes de la mise en œu
 
 ### Pour commencer
 
-Pour obtenir un compte administrateur permettant de créer des formulaires en ligne, remplissez [**notre formulaire**](https://www.demarches-simplifiees.fr/demandes/new) de demande de compte.
+Pour obtenir un compte administrateur permettant de créer des formulaires en ligne, remplissez [**notre formulaire**](https://demarche.numerique.gouv.fr/demandes/new) de demande de compte.
 
 Pour être accompagné, contactez-nous ici : **https://demarche.numerique.gouv.fr/contact-admin**
 

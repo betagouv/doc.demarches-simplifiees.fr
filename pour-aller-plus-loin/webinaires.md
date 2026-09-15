@@ -30,7 +30,7 @@ Voici le lien du replay de notre dernier webinaire ( 03/07/2025) : [https://webi
 
 
 
-[<br>](https://www.demarches-simplifiees.fr/commencer/inscription-aux-webinaires-demarches-simplifiees)
+[<br>](https://demarche.numerique.gouv.fr/commencer/inscription-aux-webinaires-demarches-simplifiees)
 
 
 

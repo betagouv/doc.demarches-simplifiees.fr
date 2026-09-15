@@ -37,7 +37,7 @@ Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à crée
 
 ## 2. Se connecter à **demarche.numerique.gouv.fr**
 
-[Rendez-vous sur la page d’accueil](https://www.demarches-simplifiees.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte **demarche.numerique.gouv.fr** et le mot de passe indiqué lors de la création de votre compte.
+[Rendez-vous sur la page d’accueil](https://demarche.numerique.gouv.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte **demarche.numerique.gouv.fr** et le mot de passe indiqué lors de la création de votre compte.
 
 Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "France connect".
 
@@ -96,7 +96,7 @@ La liste des démarches associées à l'intitulé recherché s'affichera et vous
 
 Une copie de la démarche apparaît automatiquement dans les démarches en test.
 
-**Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)
+**Vous pouvez également rechercher une démarche depuis l'onglet** [**"toutes les démarches".**](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-administrateur#id-4.-decouvrir-le-tableau-de-bord-de-lensemble-des-demarches-publiees)
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -279,7 +279,7 @@ Le titre de section permet de segmenter et de structurer votre formulaire. En ef
 
 #### **b) Bloc répétable**
 
-Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables).
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://demarche.numerique.gouv.fr/faq/administrateur/les-blocs-repetables).
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager</p></figcaption></figure>
 
@@ -537,7 +537,7 @@ Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné,
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 10.24.08.png" alt=""><figcaption></figcaption></figure>
 
-Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/cartographie)
+Ce champ permet de faire appel à l’API géo. Sur un fond de carte, l’usager peut dessiner la localisation de son projet. Sont alors automatiquement ressortis les champs sélectionnés au préalable (Réserves naturelles, cadastres, etc) . Vous pouvez consulter le tutoriel dédié en cliquant [ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/cartographie)
 
 <figure><img src="../.gitbook/assets/image (100).png" alt=""><figcaption><p>Champ "Carte" en tant qu'usager</p></figcaption></figure>
 
@@ -559,7 +559,7 @@ Exemple : si vous demandez le numéro de téléphone vous pouvez préciser : ren
 
 En tant qu'administrateur, vous pouvez conditionner vos champs en fonction des réponses des champs précédents afin de simplifier vos formulaires.
 
-Pour activer le conditionnel, nous vous renvoyons à [la documentation dédiée à cette fonctionnalité](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/le-conditionnel)
+Pour activer le conditionnel, nous vous renvoyons à [la documentation dédiée à cette fonctionnalité](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel)
 
 ### E. Modifier l’ordre des champs
 
@@ -751,13 +751,13 @@ Une fois l'instructeur affecté, un bandeau de confirmation s'affiche. L'instruc
 
 ### B. Dans le cadre de l'utilisation du routage
 
-Il est désormais possible d'affecter automatiquement les dossiers à des groupes d'instructeurs préalablement définis à l'avance. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la fonction routage en cliquant [ici](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/routage).
+Il est désormais possible d'affecter automatiquement les dossiers à des groupes d'instructeurs préalablement définis à l'avance. Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la fonction routage en cliquant [ici](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/routage).
 
 ## **12. La gestion des** « **avis experts invités** » **de votre démarche**
 
 En tant qu'administrateur de la démarche, vous bénéficiez de la possibilité de donner des droits aux instructeurs pour que ces derniers sollicitent l'avis d'experts invités. En effet, afin d'être en conformité avec le Règlement Général sur la Protection des Données (article 32-4 du RGPD), il convient d'assurer la traçabilité des actions de traitement des données personnelles menées par les personnes qui sont habilitées à traiter un dossier, c'est-à-dire les instructeurs de la démarche.
 
-Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne la gestion des experts invités qui seront sollicités par les instructeurs à donner leurs avis. Pour en savoir plus concernant les « experts invités », nous vous invitons à consulter notre page consacrée au tutoriel « experts invités » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-expert-invite).
+Ainsi, vous disposez désormais de plusieurs fonctionnalités en ce qui concerne la gestion des experts invités qui seront sollicités par les instructeurs à donner leurs avis. Pour en savoir plus concernant les « experts invités », nous vous invitons à consulter notre page consacrée au tutoriel « experts invités » en cliquant [ici](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-expert-invite).
 
 #### **Présentation générale de l'onglet** « **avis externes** »
 
@@ -843,7 +843,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 ## 13. Proposez l'évaluation de votre démarche par les usagers
 
-Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) **demarche.numerique.gouv.fr** permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarches-simplifiees.fr/tutoriels/integration-du-bouton-mon-avis)
+Proposez aux usagers de donner un avis sur votre démarche, grâce à l’outil mis à disposition par l'[Observatoire de la qualité des démarches en ligne.](https://observatoire.numerique.gouv.fr/) **demarche.numerique.gouv.fr** permet l'intégration directe de l'outil « MonAvis » au sein de votre démarche. Pour en savoir plus, vous pouvez consulter [l'article dédié en cliquant ici.](https://doc.demarche.numerique.gouv.fr/tutoriels/integration-du-bouton-mon-avis)
 
 ![](<../.gitbook/assets/image (59).png>)
 

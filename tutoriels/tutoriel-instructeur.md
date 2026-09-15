@@ -35,7 +35,7 @@ Cette page permet à l'instructeur de définir le mot de passe qui sera associé
 \
 Si vous avez déja un compte Pro connect, vous pouvez également passer par ce biais pour vous connecter à Démarche numérique.
 
-Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://faq.demarches-simplifiees.fr/article/63-je-dois-confirmer-mon-compte-a-chaque-connexion).
+Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://demarche.numerique.gouv.fr/faq/instructeur/je-dois-confirmer-mon-compte-a-chaque-connexion).
 
 ## 2. Le tableau de suivi des procédures
 
@@ -114,7 +114,7 @@ Ces différents stades de traitement correspondent à :
 \
 À partir de la date à laquelle les dossiers ont été placés dans la corbeille, vous disposez d’un délai de 14 jours pour les télécharger, les restaurer ou prolonger leur durée de conservation d’un mois. Passé ce délai, ces dossiers seront supprimés définitivement.
 
-Pour connaître les règles d'expiration et de suppression des dossiers, vous pouvez consulter la documentation dédiée en cliquant [ici](https://doc.demarches-simplifiees.fr/expiration-et-suppression-des-dossiers) .
+Pour connaître les règles d'expiration et de suppression des dossiers, vous pouvez consulter la documentation dédiée en cliquant [ici](https://doc.demarche.numerique.gouv.fr/expiration-et-suppression-des-dossiers) .
 
 ### **C. Personnaliser le tableau de suivi des dossiers**
 
@@ -272,7 +272,7 @@ Vous pouvez aussi **joindre une pièce jointe à la demande d'avis à l'expert**
 
 ### L'ajout d'experts à une démarche
 
-**Seul l'administrateur de la démarche peut gérer les experts d'une démarche.** Pour ce faire, il dispose de trois fonctionnalités. **Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la gestion des experts invités par l'administrateur d'une démarche en cliquant** [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche)**.**
+**Seul l'administrateur de la démarche peut gérer les experts d'une démarche.** Pour ce faire, il dispose de trois fonctionnalités. **Pour en savoir plus, nous vous invitons à consulter notre page consacrée à la gestion des experts invités par l'administrateur d'une démarche en cliquant** [**ici**](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche)**.**
 
 Ainsi, selon le choix de gestion des experts par l'administrateur de la démarche, plusieurs cas d'usage sont envisageables pour les instructeurs :
 
@@ -285,7 +285,7 @@ Ainsi, selon le choix de gestion des experts par l'administrateur de la démarch
 
 **2. Le choix de solliciter un expert parmi une liste prédéfinie par l'administrateur**
 
-* Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en **définissant, désormais, à l'avance une liste d'experts invités**. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche).<br>
+* Deuxième cas d'usage : les administrateurs de la démarche peuvent également faire le choix d'opter pour la nouvelle fonctionnalité relative à la gestion des experts invités en **définissant, désormais, à l'avance une liste d'experts invités**. Pour en savoir plus concernant la gestion des avis experts invités par l'administrateur d'une démarche, nous vous invitons à consulter notre page consacrée au tutoriel « administrateur » en cliquant [ici](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-administrateur#12-la-gestion-des-avis-experts-invites-de-votre-demarche).<br>
 * Dès lors, les instructeurs de la démarche **ne pourront inviter et solliciter l’avis que des experts prédéfinis figurant dans la liste :**
 
 <figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
@@ -313,7 +313,7 @@ L'instructeur a la possibilité de **relancer l'expert ou de révoquer la demand
 
 3. **La demande d'avis en masse**
 
-En tant qu'instructeur, vous avez désormais la **possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois**. Cette fonctionnalité est disponible en sélectionnant les dossiers concernés depuis l’onglet « **suivis par moi** » en cliquant sur le bouton « **Autres actions multiples** ». Pour en savoir plus, vous pouvez consulter la documentation dédiée [en cliquant ici](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers).
+En tant qu'instructeur, vous avez désormais la **possibilité de demander l'avis d'expert pour plusieurs dossiers à la fois**. Cette fonctionnalité est disponible en sélectionnant les dossiers concernés depuis l’onglet « **suivis par moi** » en cliquant sur le bouton « **Autres actions multiples** ». Pour en savoir plus, vous pouvez consulter la documentation dédiée [en cliquant ici](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers).
 
 <figure><img src="../.gitbook/assets/image (313).png" alt=""><figcaption></figcaption></figure>
 
@@ -342,7 +342,7 @@ De son côté, **l’usager peut également savoir si son message a été lu**.
 
 **L'envoi d'un message en masse :**
 
-**Il est possible d’envoyer un message à plusieurs usagers à la fois**. Cette fonctionnalité est disponible depuis les onglets « à suivre », « suivis par moi », « traités » et « au total ». Pour en savoir plus, vous pouvez cliquer [**ici**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers) **.**
+**Il est possible d’envoyer un message à plusieurs usagers à la fois**. Cette fonctionnalité est disponible depuis les onglets « à suivre », « suivis par moi », « traités » et « au total ». Pour en savoir plus, vous pouvez cliquer [**ici**](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers) **.**
 
 #### _- Personnes impliquées :_
 
@@ -371,7 +371,7 @@ Depuis cet onglet, vous pouvez **proposer un créneau** à l’usager, le modifi
 
 <figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
-**Pour plus d'information concernant la prise de rendez-vous, vous pouvez accéder au tutoriel dédié en cliquant** [ici.](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/prise-de-rdv#id-4-la-prise-de-rdv-dans-demarches-simplifiees-en-tant-quinstructeur)
+**Pour plus d'information concernant la prise de rendez-vous, vous pouvez accéder au tutoriel dédié en cliquant** [ici.](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/prise-de-rdv#id-4-la-prise-de-rdv-dans-demarches-simplifiees-en-tant-quinstructeur)
 
 ### B. Premières étapes : construction et instruction du dossier
 
@@ -431,7 +431,7 @@ Vous pouvez également utiliser une **action de masse** pour faire passer plusie
 
 ### C. Prendre une décision sur le dossier
 
-Lors du traitement des dossiers, l'instructeur peut choisir d'instruire les dossiers un à un ou bien [**d'instruire les dossiers en masse.**](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers)
+Lors du traitement des dossiers, l'instructeur peut choisir d'instruire les dossiers un à un ou bien [**d'instruire les dossiers en masse.**](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-instructeur#id-4.-instruction-en-masse-des-dossiers)
 
 L’instruction du dossier peut aboutir à trois décisions :
 
@@ -650,7 +650,7 @@ Après quelques minutes , vous pouvez rafraîchir la page afin d'accéder au bou
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.
 
-Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consultant la page dédiée en cliquant [ici](https://doc.demarches-simplifiees.fr/pour-aller-plus-loin/exports-de-donnees).
+Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consultant la page dédiée en cliquant [ici](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees).
 
 ### B. Extraire les dossiers et les pièces jointes
 
@@ -658,7 +658,7 @@ Vous ne pouvez pas télécharger uniquement les pièces jointes associées aux d
 
 Vous pouvez faire un export massif de l'ensemble des dossiers ou bien exporter dossier par dossier. Pour éviter une attente longue, nous vous conseillons d'exporter vos dossiers au fur et à mesure des dépôts.
 
-L'API vous permet également de télécharger les dossiers et les pièces jointes. Vous pouvez consulter [notre documentation API pour plus d'informations.](https://doc.demarches-simplifiees.fr/api-graphql)
+L'API vous permet également de télécharger les dossiers et les pièces jointes. Vous pouvez consulter [notre documentation API pour plus d'informations.](https://doc.demarche.numerique.gouv.fr/api-graphql)
 
 ### C. Personnaliser les exports
 
@@ -729,7 +729,7 @@ Des badges de notifications sont affichés pour signaler des événements sur le
 <figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption><p>Table des notifications</p></figcaption></figure>
 
 En tant qu’instructeur, vous pouvez personnaliser les **badges de notification** affichés sur les dossiers de votre démarche.\
-Cette configuration se fait depuis l’onglet **« Gestion de la démarche »**, puis **« Gestion des notifications»**, où vous pouvez choisir les événements à signaler pour faciliter le suivi des dossiers comme précisé dans [le tutoriel dédié](https://doc.demarches-simplifiees.fr/tutoriels/tutoriel-instructeur#la-gestion-des-badges-de-notification-sur-les-dossiers).
+Cette configuration se fait depuis l’onglet **« Gestion de la démarche »**, puis **« Gestion des notifications»**, où vous pouvez choisir les événements à signaler pour faciliter le suivi des dossiers comme précisé dans [le tutoriel dédié](https://doc.demarche.numerique.gouv.fr/tutoriels/tutoriel-instructeur#la-gestion-des-badges-de-notification-sur-les-dossiers).
 
 Les notifications de type **“Avertissement”** sont communes à tous les instructeurs du dossier considéré, qu’ils suivent ou non celui-ci.
 
