@@ -41,7 +41,7 @@ En contrepartie, l’administration est tenue d’informer l’usager des inform
 
 **Principe numéro 5 : RGPD**
 
-Avec l’entrée en vigueur du RGPD en 2018, les administrations qui mettent en place des téléservices doivent identifier qui sont les responsables de traitement des données. Sur **demarche.numerique.gouv.fr** nous sommes co-responsables des données au même titre que l’administration qui met en ligne la démarche. C’est pourquoi nous prenons de grandes précautions  quant aux données qui sont récupérées. Des robots inspectent constamment et de manière automatique les informations demandées dans les démarches en ligne afin de nous assurer qu’aucune donnée sensible ne soit collectée.
+Avec l’entrée en vigueur du RGPD en 2018, les administrations qui mettent en place des téléservices doivent identifier qui sont les responsables de traitement des données. Sur **demarche.numerique.gouv.fr** nous sommes co-responsables des données au même titre que l’administration qui met en ligne la démarche. C’est pourquoi nous prenons de grandes précautions quant aux données qui sont récupérées. Des robots inspectent constamment et de manière automatique les informations demandées dans les démarches en ligne afin de nous assurer qu’aucune donnée sensible ne soit collectée.
 
 Par ailleurs, afin d’être en conformité avec le RGPD vous devez déclarer toutes les démarches que vous créez dans DS dans votre registre de traitement.
 

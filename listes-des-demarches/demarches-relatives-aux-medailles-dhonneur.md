@@ -22,15 +22,15 @@ Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.num
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/a5b39f24-b91b-4eab-8b8f-5cf0b6ffcd9d](https://demarche.numerique.gouv.fr/commencer/a5b39f24-b91b-4eab-8b8f-5cf0b6ffcd9d)
 
-### 5.  Médaille d'honneur du travail employeur/salarié ( Haute -Marne)
+### 5.  Médaille d'honneur du travail employeur/salarié (Haute -Marne)
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/mhtravail](https://demarche.numerique.gouv.fr/commencer/mhtravail)
 
-### 6. Médaille d'honneur Régionale, Départementale ou Communale - Collectivités ( Haute-Marne)&#x20;
+### 6. Médaille d'honneur Régionale, Départementale ou Communale - Collectivités (Haute-Marne)&#x20;
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/mhrdc](https://demarche.numerique.gouv.fr/commencer/mhrdc)
 
-### 7. Médaille d'honneur agricole employeur/salarié ( Haute- Marne)&#x20;
+### 7. Médaille d'honneur agricole employeur/salarié (Haute- Marne)&#x20;
 
 Vous pouvez déposer une demande en cliquant sur ce lien : [https://demarche.numerique.gouv.fr/commencer/mhagricole](https://demarche.numerique.gouv.fr/commencer/mhagricole)
 

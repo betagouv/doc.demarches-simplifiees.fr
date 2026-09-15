@@ -35,9 +35,9 @@ Dans ce cas, &#x6C;**’utilisateur peut changer de profil en cliquant sur le bo
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-28 à 16.57.35.png" alt=""><figcaption></figcaption></figure>
 
-Pour utiliser l'outil dans les meilleures conditions, vous devez utiliser un navigateur dont la version  est supérieure ou égale à :
+Pour utiliser l'outil dans les meilleures conditions, vous devez utiliser un navigateur dont la version est supérieure ou égale à :
 
-* Chrome  V50
+* Chrome V50
 * Internet Explorer V12
 * Edge V14
 * Firefox V50

@@ -8,13 +8,13 @@ description: Découvrez ici les dernières procédures lancées par les administ
 
 Dans le cadre de sa stratégie jeunesse, la Métropole Européenne de Lille (MEL) lance cet été son Summer Pass, une opération pour les 40 000 jeunes de 15 à 17 ans de son territoire. Ce chéquier permet de bénéficier d’entrées gratuites dans différents sites comme les parcs de l’Espace naturel métropolitain, le Musée d’Art Moderne, le musée de Fromelles, la patinoire Serge Charles ou la piscine des Weppes.
 
-La collectivité souhaitait mettre à disposition des jeunes un formulaire en ligne pour faire la demande du Pass. La Direction du Système d'Information (DSI) a étudié différents outils avant de se décider, leur délai était très court puisqu’ils ne disposaient que de deux mois pour mettre en production le formulaire. Aurélien Caffier, chargé de projet Quartier Politique de la Ville, a alors partagé son expérience positive avec **demarche.numerique.gouv.fr** pour la dématérialisation des demandes de subvention. C’est l’outil qui a finalement a été validé par la DSI. Une fois mis en place, le dispositif a très rapidement porté ses fruits. En dix jours, la Métropole avait déjà reçu 2300 demandes.
+La collectivité souhaitait mettre à disposition des jeunes un formulaire en ligne pour faire la demande du Pass. La Direction du Système d'Information (DSI) a étudié différents outils avant de se décider, leur délai était très court puisqu’ils ne disposaient que de deux mois pour mettre en production le formulaire. Aurélien Caffier, chargé de projet Quartier Politique de la Ville, a alors partagé son expérience positive avec **demarche.numerique.gouv.fr** pour la dématérialisation des demandes de subvention. C’est l’outil qui a finalement été validé par la DSI. Une fois mis en place, le dispositif a très rapidement porté ses fruits. En dix jours, la Métropole avait déjà reçu 2300 demandes.
 
 L’expérience de Lille montre l’intérêt de « Démarche numérique » pour ce type de procédure ponctuelle. Le prix élevé d’une prestation d’un service informatique au vu de l’utilisation dissuade les administrations. Le choix d’un outil générique comme **demarche.numerique.gouv.fr** adaptable aux différents besoins, peut être une solution très intéressante pour les administrations.
 
 Pour en savoir plus:[ https://www.20minutes.fr/lille/2286267-20180608-lille-summer-pass-bons-plans-15-17-ans](https://www.20minutes.fr/lille/2286267-20180608-lille-summer-pass-bons-plans-15-17-ans)
 
-## L'ouverture des monuments historiques par la DIRECCTE du Val-de -Loire
+## L'ouverture des monuments historiques par la DIRECCTE du Val-de-Loire
 
 _Témoignage de Muriel Bego, de la DIRECCTE du Val-de-Loire_
 
@@ -160,6 +160,6 @@ Un projet ne peut voir le jour et se développer que s’il est porté par le ha
 
 À la création du SGC, notre directrice Madame Dufour a donné les moyens au Bureau Interministériel des Systèmes d’Information et de Communication (BISIC) d’acculturer les agents aux ressources numériques en créant un pôle spécifique.
 
-En ma qualité d’adjointe du BISIC chargée de faire découvrir les outils et pratiques numériques locales, j’accompagne individuellement les agents par des actions d’accueil numérique des nouveaux arrivants, d’accompagnement à la mise en œuvre de projets de dématérialisation (DS, Osmose, LimeSurvey, etc …). Je participe également à la valorisation du travail des agents avec des articles dans l’intranet, des vidéos de présentation, des ateliers « Rencontres du numérique » où les missions du BISIC sont présentées aux agents de manière interactive. Je me déplace sur tous les sites, je vais vers les utilisateurs, une chose très appréciée.
+En ma qualité d’adjointe du BISIC chargée de faire découvrir les outils et pratiques numériques locales, j’accompagne individuellement les agents par des actions d’accueil numérique des nouveaux arrivants, d’accompagnement à la mise en œuvre de projets de dématérialisation (DS, Osmose, LimeSurvey, , etc.). Je participe également à la valorisation du travail des agents avec des articles dans l’intranet, des vidéos de présentation, des ateliers « Rencontres du numérique » où les missions du BISIC sont présentées aux agents de manière interactive. Je me déplace sur tous les sites, je vais vers les utilisateurs, une chose très appréciée.
 
 Grace à toutes ces actions, notre catalogue de service est maintenant connu en interne. Les agents sont de plus en plus autonomes avec les équipements et ressources numériques, satisfaits de l’offre proposée et force de proposition pour aller plus loin encore.<br>

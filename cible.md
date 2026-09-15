@@ -28,7 +28,7 @@ Il peut s'agir d'appels à projets, de procédures de création d'entreprise, de
 * La demande est instruite avec des partenaires publics (collectivités, agences…) ;
 * L'instruction débouche sur la délivrance d’une attestation (éditeur d’attestation) ;
 * Il existe déjà une application interne pour traiter les demandes (API permettant de sortir les données de **demarche.numerique.gouv.fr**).
-* La demande implique une prise de rendez-vous ( interconnexion avec [l'outil RDV service public ](https://rdv.anct.gouv.fr/))
+* La demande implique une prise de rendez-vous (interconnexion avec [l'outil RDV service public ](https://rdv.anct.gouv.fr/))
 
 En revanche, l'application n'est pas l'outil le plus adapté dans les cas suivants :
 
@@ -62,5 +62,5 @@ Ajouter des rôles d’instructeurs avec des droits plus ou moins fins n'est pas
 
 Changer notre adresse e-mail par la vôtre est problématique :
 
-* L' e-mail émane de notre site, il est donc normal que l'expéditeur vienne de notre domaine, pour bien signifier à l'usager que le changement a eu lieu sur notre plateforme
-* L' un des buts de notre site est de centraliser les échanges relatifs à un dossier au même endroit, en envoyant un e-mail depuis l'adresse de l'administration qui gère la démarche, l'usager pourrait alors répondre directement à cette adresse et les échanges seraient alors dispersés entre notre site et des boites e-mails.
+* L'e-mail émane de notre site, il est donc normal que l'expéditeur vienne de notre domaine, pour bien signifier à l'usager que le changement a eu lieu sur notre plateforme
+* L'un des buts de notre site est de centraliser les échanges relatifs à un dossier au même endroit, en envoyant un e-mail depuis l'adresse de l'administration qui gère la démarche, l'usager pourrait alors répondre directement à cette adresse et les échanges seraient alors dispersés entre notre site et des boites e-mails.

@@ -153,6 +153,6 @@ La **variable updatedSince/UPDATED\_SINCE permet ici deux choses** : #1 contrain
 **Le curseur permet ici deux choses** : #1 paginer les appels successif (ex : lorsque vous lancez la synchronisation la 1ere fois, vous pourriez avoir a récuperer plus d'une page), #2 en ré-utilisant le pageInfo.endCursor, récupérer les nouveaux résultats (ex : lors de batch quotidien).
 {% endhint %}
 
-Concrètement, l'usage de l'updatedSince permet de filtrer et ordonner les réponses aux appels de notre APIs. Le curseur permet  de rappeler l'API sur cette contrainte et de récupérer les nouveaux résultats.
+Concrètement, l'usage de l'updatedSince permet de filtrer et ordonner les réponses aux appels de notre APIs. Le curseur permet de rappeler l'API sur cette contrainte et de récupérer les nouveaux résultats.
 
 Donc si vous voulez faire du polling regulier, ne changer pas cette date (updatedSince), utilisez simplement le pageInfo.endCursor (et faites attention à ne pas l'écraser lorsqu'il n'y a plus de résultat).

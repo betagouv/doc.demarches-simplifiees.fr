@@ -16,7 +16,7 @@ Afin de prouver l'intégrité des dossiers, chaque jour, **demarche.numerique.go
 Le jeton d'horodatage est inaltérable et son auteur peut être identifié. On est donc sûr que l'empreinte de la photo a bien été signée à telle date.\
 \
 Si on veut vérifier qu'un dossier n'a pas été altéré depuis son traitement :\
-\- on prend la prend la photo qui correspond à la dernière modification du dossier\
+\- on prend la photo qui correspond à la dernière modification du dossier\
 \- on s'assure que le dossier n'a pas changé depuis cette photo\
 \- finalement on vérifie l'intégrité de la photo en calculant son empreinte et en la comparant à l'empreinte enregistré dans le jeton d'horodatage
 

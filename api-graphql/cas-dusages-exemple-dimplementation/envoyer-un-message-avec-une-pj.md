@@ -6,7 +6,7 @@ Il est possible d'envoyer un message via les API GraphQL. Mais avant cela, voici
 
 ### 1. Vous demandez a notre **API une authorisation pour uploader un fichier sur notre object storage**.&#x20;
 
-Cette requete implique de décrire le fichier que vous allez envoyer : le filename, byteSize, checksum (un digest md5, base64digesté) et son contenu. Ceci pour nous permettre de valider que nous echangeons le meme fichier, qu'il n'a pas été altéré etc.. Nous vous renvoyons :&#x20;
+Cette requete implique de décrire le fichier que vous allez envoyer : le filename, byteSize, checksum (un digest md5, base64digesté) et son contenu. Ceci pour nous permettre de valider que nous echangeons le meme fichier, qu'il n'a pas été altéré etc. Nous vous renvoyons :&#x20;
 
 1. les crédentials pour communiquer avec notre object storage
 2. l'identifiant du fichier (blob\_signed\_id) a utiliser dans une autre requete pour le lier à une autre mutation&#x20;

@@ -21,7 +21,7 @@ Les outils d'export sont disponibles sur votre interface et la suppression des d
 
 ### Suppression automatique des comptes usagers
 
-Les usagers inactifs (qui ne se sont pas connectés pendant deux ans et n'ayant pas de dossier en instruction) sont automatiquement supprimés. Deux semaines avant la suppression du compte,  l’usager est notifié par e-mail. Après la suppression, il pourra plus tard recréer un compte avec la même adresse électronique. Si l'usager ne souhaite pas que nous supprimions son compte automatiquement, il lui suffit de se connecter une fois à son compte avec ses identifiants habituels. Le délai sera réinitialisé et le compte conservé à nouveau pendant 2 ans.
+Les usagers inactifs (qui ne se sont pas connectés pendant deux ans et n'ayant pas de dossier en instruction) sont automatiquement supprimés. Deux semaines avant la suppression du compte, l’usager est notifié par e-mail. Après la suppression, il pourra plus tard recréer un compte avec la même adresse électronique. Si l'usager ne souhaite pas que nous supprimions son compte automatiquement, il lui suffit de se connecter une fois à son compte avec ses identifiants habituels. Le délai sera réinitialisé et le compte conservé à nouveau pendant 2 ans.
 
 Concernant les dossiers des usagers inactifs, nous supprimons : les dossiers en brouillon et les dossiers en construction (nous considérons qu'un dossier en construction inactif pendant 2 ans ne sera jamais déposé).
 

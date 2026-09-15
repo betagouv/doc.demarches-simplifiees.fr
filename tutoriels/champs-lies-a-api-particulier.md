@@ -11,7 +11,7 @@ Démarches Numérique intègre progressivement les données disponibles dans le 
 | API                                                 | Données                                                                                                                      | Disponibilité |
 | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Quotient familial CAF & MSA                         | Quotient (valeur, période d'appilication, date de calcul), composition familial (allocataires, enfants) et adresse du foyer  | Disponible    |
-| Statut étudiant boursier                            | Statut, échelon, période versement, établissement,  identité                                                                 | Disponible    |
+| Statut étudiant boursier                            | Statut, échelon, période versement, établissement, identité                                                                 | Disponible    |
 | Allocation aux adultes handicapés (AAH)             | Statut, date début de droit                                                                                                  | Disponible    |
 | Allocation d'éducation de l'enfant handicapé (AEEH) | Statut, date début de droit                                                                                                  | Disponible    |
 | Allocation de rentrée scolaire (ARS)                | Statut, date début de droit                                                                                                  | Disponible    |

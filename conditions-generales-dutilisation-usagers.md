@@ -54,7 +54,7 @@ Sauf preuve contraire, toute connexion au Service ou transmission de données ef
 
 Si l’usager estime que son mot de passe est compromis, il ou elle doit le modifier sans délai.
 
-En cas de compromission de son compte, l’usager doit contacter l’équipe support  à l’adresse : **contact@demarche.numerique.gouv.fr**
+En cas de compromission de son compte, l’usager doit contacter l’équipe support à l’adresse : **contact@demarche.numerique.gouv.fr**
 
 L’usager a la possibilité de modifier son dossier lorsque son dossier est « en construction ». Une fois le dossier « en instruction », l’usager doit contacter le service instructeur via la messagerie du dossier ou depuis les informations de contact situées en bas du formulaire afin de procéder aux modifications.
 

@@ -700,9 +700,9 @@ Désactiver cette option arrête immédiatement l’émission de nouvelles attes
 En activant l'attestation, vous pouvez alors :
 
 * Choisir d'afficher ou non le logo de la Marianne
-* **Indiquer l'intitulé de votre institution** ( obligatoire)
-* Choisir **un logo additionnel** ( optionnel )
-* Renseigner **l'intitulé de la direction** (optionnel )
+* **Indiquer l'intitulé de votre institution** (obligatoire)
+* Choisir **un logo additionnel** (optionnel)
+* Renseigner **l'intitulé de la direction** (optionnel)
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -861,13 +861,13 @@ Le message de fin de dépôt de dossier est paramétré par défaut. Vous pouvez
 
 ## 15. Configurer un accusé de lecture
 
-Pour les démarches avec **voies de recours,** il est possible de configurer un **accusé de lecture**. L‘activation se fait depuis la tuile _Accusé de lecture_ (en bas de la page d’accueil de la démarche).
+Pour les démarches avec **voies de recours,** il est possible de configurer un **accusé de lecture**. L’activation se fait depuis la tuile _Accusé de lecture_ (en bas de la page d’accueil de la démarche).
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-05-15 à 16.17.20.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
-Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.\
+Lorsque cette fonctionnalité est activée, l’usager est prévenu par e-mail qu’une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.\
 \
 Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissance ou non de la décision et dans le cas échéant à quelle date.
 

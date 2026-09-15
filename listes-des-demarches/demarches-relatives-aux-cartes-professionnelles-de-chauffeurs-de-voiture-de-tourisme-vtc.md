@@ -96,5 +96,5 @@ Comme chaque administration choisit d'utiliser cette plateforme ou non, il n'est
 
 ## 91 - Essonne&#x20;
 
-* [Demande d'attestation d'aptitude physique pour les conducteurs de de voiture de transport avec chauffeur (VTC)](https://demarche.numerique.gouv.fr/commencer/prefecture91-visitemedicale)
+* [Demande d'attestation d'aptitude physique pour les conducteurs de voiture de transport avec chauffeur (VTC)](https://demarche.numerique.gouv.fr/commencer/prefecture91-visitemedicale)
 

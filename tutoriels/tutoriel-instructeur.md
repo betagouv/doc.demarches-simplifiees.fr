@@ -144,7 +144,7 @@ Les filtres sont les suivants :
 
 * L'état du dossier (En construction, en instruction, accepté, refusé, classé sans suite)
 * Le numéro du dossier
-* La notification sur le dossier (S'il y a un message sur le dossier, si le dossier est déposé depuis longtemps etc)
+* La notification sur le dossier (S'il y a un message sur le dossier, si le dossier est déposé depuis longtemps, etc.)
 * La date de dépôt
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.07.13.png" alt=""><figcaption></figcaption></figure>
@@ -763,7 +763,7 @@ Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pou
 
 Ils sont configurables par l'administrateur de la démarche. Ce dernier a la possibilité de modifier les labels ou d’en créer un nouveau.
 
-En tant qu''instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous :
+En tant qu'instructeur, il vous suffit de rentrer dans le dossier en question et les labels seront affichés en haut à gauche du dossier comme ci-dessous :
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePLwU53WxHLPUlPvNNPP6sOCQTSqWqieXEOaiuc6qtkxkKujWhrVI2Snt_JOxvJ_jPibe87kccyvea2aH8qAQ2tNfUmYM7GfWGJo-ip0GM6qQeZserpP2hA1QSGfrfLniiRMFHOA?key=3zgL0B1Ny3Xv2xgXXorcojTg" alt=""><figcaption></figcaption></figure>
 

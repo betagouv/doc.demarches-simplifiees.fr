@@ -61,7 +61,7 @@ Une fois les informations relatives à l'établissement vérifiées, cliquez sur
 
 **Vous déposez un dossier pour vous-même:**
 
-Vous devez sélectionner l'option "pour vous" puis renseigner la civilité ( pour certaine démarche) et votre nom et prénom.
+Vous devez sélectionner l'option "pour vous" puis renseigner la civilité (pour certaine démarche) et votre nom et prénom.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.32.24.png" alt=""><figcaption></figcaption></figure>
 
@@ -92,7 +92,7 @@ Après avoir complété ces informations, vous devez cliquer sur « Continuer »
 Le dépôt du dossier peut nécessiter l’ajout de pièces jointes afin de fournir des documents justificatifs.
 
 Pour chaque document demandé, cliquer sur parcourir, sélectionner un fichier puis cliquer sur « Ouvrir ». Le nom du fichier sélectionné apparait à côté du bouton « Parcourir », la pièce est alors enregistrée.\
-Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf etc). Le format de pj peut être restreint.
+Il se peut que pour certaines démarches, il y ait un format spécifique de pj attendu (txt, jpeg, png, pdf, etc.). Le format de pj peut être restreint.
 
 Pour certaines démarches, plusieurs pièces jointes peuvent être demandées pour un seul champ.
 
@@ -176,7 +176,7 @@ Une fois le dossier complété, cliquez sur le bouton « **Déposer le dossier**
 
 <figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
-Le dossier passe alors du statut « brouillon » au statut « déposé » ( qui remplace le statut "en construction").
+Le dossier passe alors du statut « brouillon » au statut « déposé » (qui remplace le statut "en construction").
 
 Le statut « déposé » indique que le dossier est visible par l’administration mais reste modifiable par l'usager. Pour certaines démarches, le dossier passe automatiquement au statut "en instruction". L'usager ne pourra plus modifier son dossier.
 
@@ -241,7 +241,7 @@ Les dossiers sont identifiés par un numéro, par l'intitulé de la démarche, p
 
 Pour certaines démarches, l'administration a paramétré un accusé de lecture de la décision du dossier.
 
-L’usager est prévenu par e-mail qu‘une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
+L’usager est prévenu par e-mail qu’une décision a été rendue sur son dossier sans en dévoiler la nature (accepté, refusé, classé sans suite). L'usager doit se connecter puis cliquer sur un bouton pour accepter l’accusé de lecture afin de prendre connaissance de la décision finale.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-07-17 à 16.00.24.png" alt=""><figcaption><p>Notification par email de l'accusé de lecture</p></figcaption></figure>
 

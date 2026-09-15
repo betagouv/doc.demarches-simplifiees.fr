@@ -24,7 +24,7 @@ Vous pouvez saisir le cadre budgetaire en vous rendant sur la page de configurat
 
 Vous pouvez ainsi configurer le cadre budgetaire en renseignant le centre de coût, le domaine fonctionnel et le référentiel de programmation
 
-<figure><img src="../.gitbook/assets/page-cadre-budgetaire.png" alt=""><figcaption><p>À savoir que nous pour le moment, nous n'avons pas toutes les références du cadre budgetaire (uniquement les informations des cadres déjà en activitéé )</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/page-cadre-budgetaire.png" alt=""><figcaption><p>À savoir que nous pour le moment, nous n'avons pas toutes les références du cadre budgetaire (uniquement les informations des cadres déjà en activitéé)</p></figcaption></figure>
 
 Une fois le cadre budgetaire, celui sera présent sur les exports xlsx de vos démarches de sorte à ce que votre service financier puisse recouper son cadre budgetaire à des dossiers DS.
 

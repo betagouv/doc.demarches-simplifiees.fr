@@ -10,7 +10,7 @@ Dans la très grande majorité des cas, cette durée peut être inférieure, **c
 
 Pour déterminer la durée de conservation globale d'un dossier, vous devez à la fois vous appuyer sur les règles d'archivage, mais aussi sur **l'analyse de risque que vous devez avoir effectuée préalablement.**
 
-**L' administration est en effet responsable du traitement et de la conservation des dossiers**. Cela concerne principalement les dossiers terminés (acceptés, refusés ou sans suite). Vous recevez des notifications par e-mail un mois avant la suppression de dossiers afin de vous rappeler de les sauvegarder.
+**L'administration est en effet responsable du traitement et de la conservation des dossiers**. Cela concerne principalement les dossiers terminés (acceptés, refusés ou sans suite). Vous recevez des notifications par e-mail un mois avant la suppression de dossiers afin de vous rappeler de les sauvegarder.
 
 La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple : passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
 

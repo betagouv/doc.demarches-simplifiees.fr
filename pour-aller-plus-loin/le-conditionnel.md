@@ -14,7 +14,7 @@ Voici un exemple d’utilisation du conditionnel :
 
 &#x20;
 
-1\)    Le premier champ : le conditionnel ne s’applique pas sur le premier champ. La conditionnalité s’affichera à partir du deuxième champ.
+1\) Le premier champ : le conditionnel ne s’applique pas sur le premier champ. La conditionnalité s’affichera à partir du deuxième champ.
 
 Pour que le conditionnel fonctionne, il faut que le champ précédant la question conditionnée soit de l'un des types suivants :
 
@@ -40,7 +40,7 @@ Le champ oui/non est le premier champ, il va permettre d’activer le conditionn
 
 <figure><img src="../.gitbook/assets/Conditionnel 1.png" alt=""><figcaption></figcaption></figure>
 
-2\)    Deuxième champ :
+2\) Deuxième champ :
 
 Nous souhaitons faire apparaître la deuxième question en fonction de la question précédente.
 

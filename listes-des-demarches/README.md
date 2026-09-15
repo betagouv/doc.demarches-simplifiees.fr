@@ -20,7 +20,7 @@ description: >-
 ### Retrouvez les 11 tutoriels des démarches administratives les plus courantes
 
 * Pour vous guider dans vos démarches essentielles, l'État propose avec 7 ministères partenaires, des tutoriels vidéo afin d’accompagner concrètement et durablement les personnes en situation d’illectronisme et celles concernées par des difficultés d’accès au numérique en France.&#x20;
-* L'objectif est aussi aussi de lutter contre le non-recours aux droits causé par le manque d’information sur les aides et la complexité administrative:&#x20;
+* L'objectif est aussi de lutter contre le non-recours aux droits causé par le manque d’information sur les aides et la complexité administrative:&#x20;
 
 Consultez les 11 tutoriels vidéo :
 

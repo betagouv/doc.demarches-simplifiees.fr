@@ -183,7 +183,7 @@ Compte tenu de l’intégration de la démarche dans son propre système d’inf
 
 L’homologation du Service ne couvre pas le traitement des données sensibles au sens des articles 9 et 10 du RGPD : données révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques ou l'appartenance syndicale, ainsi que des données génétiques ou des données biométriques aux fins d'identifier une personne physique de manière unique, des données concernant la santé ou des données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique, ou des données relatives aux condamnations pénales et aux infractions.
 
-Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations consommatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de de sécurité complémentaires.
+Le traitement de ces catégories de données reste toutefois possible, sous la responsabilité des administrations consommatrices, qui devront s’être préalablement assurées que le niveau de sécurité offert par le service est adapté aux risques liés à leurs traitements et, le cas échéant, après ajout de mesures de sécurité complémentaires.
 
 Le Service n’est pas prévu pour les démarches qui pourraient être effectuées par des mineurs de moins de 15 ans. L’accès à une démarche administrative pour les mineurs de plus de 15 ans relève de l’appréciation de l’Administration.
 
@@ -325,7 +325,7 @@ La DINUM assure le support de premier niveau auprès des utilisateurs, exclusive
 
 L’Administration assure le support métier auprès des utilisateurs pour les démarches qu’elle crée.
 
-Le support DINUM est disponible 5j/7 de 8h à 18h.Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
+Le support DINUM est disponible 5j/7 de 8h à 18 h. Il est joignable par email à l’adresse suivante : [contact@demarche.numerique.gouv.fr](mailto:contact@demarche.numerique.gouv.fr).
 
 ### b. Modalités financières <a href="#toc108111757" id="toc108111757"></a>
 
@@ -357,7 +357,7 @@ Le Service est développé conformément à l’état de l’art. Toutefois, il 
 
 Le Service est mis à disposition de l’Administration pour une durée indéterminée.
 
-#### i.Résiliation par l’Administration partenaire <a href="#toc108111761" id="toc108111761"></a>
+#### i. Résiliation par l’Administration partenaire <a href="#toc108111761" id="toc108111761"></a>
 
 L’Administration peut mettre fin à tout moment à l’utilisation du Service, partiellement ou pour l’ensemble de ses démarches et de ses agents.
 
