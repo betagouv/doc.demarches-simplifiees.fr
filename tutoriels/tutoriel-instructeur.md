@@ -35,7 +35,7 @@ Cette page permet à l'instructeur de définir le mot de passe qui sera associé
 \
 Si vous avez déja un compte Pro connect, vous pouvez également passer par ce biais pour vous connecter à Démarche numérique.
 
-Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://faq.demarches-simplifiees.fr/article/63-je-dois-confirmer-mon-compte-a-chaque-connexion).
+Si vous devez confirmer votre compte à chaque connexion, veuillez consulter la [page dédiée](https://demarche.numerique.gouv.fr/faq/instructeur/je-dois-confirmer-mon-compte-a-chaque-connexion).
 
 ## 2. Le tableau de suivi des procédures
 

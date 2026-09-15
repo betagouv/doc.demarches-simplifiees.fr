@@ -279,7 +279,7 @@ Le titre de section permet de segmenter et de structurer votre formulaire. En ef
 
 #### **b) Bloc répétable**
 
-Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://faq.demarches-simplifiees.fr/article/48-les-blocs-repetables).
+Ce champ permet à l'usager de saisir un certain nombre de champs autant de fois qu'il le souhaite. Pour savoir comment l'utiliser, je vous invite à vous rendre sur la page dédiée en cliquant [ici](https://demarche.numerique.gouv.fr/faq/administrateur/les-blocs-repetables).
 
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Exemple de "bloc répétable", en tant qu'usager</p></figcaption></figure>
 
