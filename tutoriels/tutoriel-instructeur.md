@@ -168,7 +168,7 @@ Les filtres sont les suivants :
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.37.06.png" alt=""><figcaption></figcaption></figure>
 
-Une fois la ou les champs sélectionnés, vous pouvez cliquer sur le bouton bleu "ajouter"
+Une fois le ou les champs sélectionnés, vous pouvez cliquer sur le bouton bleu "ajouter"
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-11-21 à 16.42.57.png" alt=""><figcaption></figcaption></figure>
 
@@ -236,7 +236,7 @@ Pour chaque pièce jointe, vous trouverez **sa date d’ajout**, **sa provenance
 
 #### - Annotations privées :
 
-Équivalent au cadre réservé à l’administration sur les formulaires papiers, **il permet à l’instructeur de renseigner les informations demandées par l’administration afin de faciliter le suivi du traitement des dossiers.**
+Équivalent au cadre réservé à l’administration sur les formulaires papier, **il permet à l’instructeur de renseigner les informations demandées par l’administration afin de faciliter le suivi du traitement des dossiers.**
 
 **Ce cadre est strictement réservé aux instructeurs**. Il n’est visible ni par les usagers, ni par les personnes invitées à consulter le dossier.
 
@@ -319,7 +319,7 @@ En tant qu'instructeur, vous avez désormais la **possibilité de demander l'avi
 
 #### _- Messagerie :_
 
-La messagerie **permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction**. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée. La présentation du fil de messagerie prend toute la hauteur de la page et est organisé dans un ordre antéchronologique (**le message le plus récent en haut du fil**) afin de retrouver plus facilement les derniers échanges.
+La messagerie **permet à l’instructeur d’échanger directement avec l’usager par messages sur le dossier afin de faciliter son instruction**. Le fil de messagerie permet de garder l’historique des échanges avec l’usager de manière centralisée. La présentation du fil de messagerie prend toute la hauteur de la page et est organisée dans un ordre antéchronologique (**le message le plus récent en haut du fil**) afin de retrouver plus facilement les derniers échanges.
 
 Pour envoyer un message à l’usager : cliquez sur "**nouveau message**", vous avez la possibilité d'envoyer une pièce jointe à l’usager en cliquant sur le bouton « **Parcourir** », sélectionner un fichier puis cliquer sur le bouton « **Envoyer le message** ».
 
@@ -353,7 +353,7 @@ Cet onglet contient également :
 * **La liste des instructeurs qui suivent le dossier**
 * **Les personnes à qui un avis a été demandé** (demande d'avis aux expert**s)**
 * **Les personnes invitées par l'usager à co-construire ou modifier le dossier**
-* **Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossiers (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.**
+* **Les "décisions rendues" récapitulent l'ensemble des changements de statut du dossier (du dépôt du dossier à son instruction) avec les dates et heures de ces modifications.**
 
 <figure><img src="../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption><p>Liste des personnes impliquées en tant qu'instructeur</p></figcaption></figure>
 
@@ -512,11 +512,11 @@ Dans l’onglet « **traités** », cliquez sur le bouton « **déplacer à arch
 
 **a. Suivre les dossiers "en masse" :**
 
-Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondants aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit** :
+Pour pouvoir instruire les dossiers en masse, **vous devez d'abord suivre ces dossiers**. Pour cela, vous devez **cocher les cases correspondant aux dossiers** que vous souhaitez instruire. **Pour sélectionner tous les dossiers, vous devez cliquer sur la case en haut à gauche comme suit** :
 
 <figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
 
-Une fois que vous aurez coché sur les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers :
+Une fois que vous aurez coché les cases des dossiers que vous souhaitez instruire, le bouton bleu qui vous permet de "suivre les dossiers" s'affichera. Il vous suffira de cliquer dessus pour réaliser l'action de suivi des dossiers :
 
 <figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
 
@@ -561,7 +561,7 @@ Pour les dossiers suivis, il vous suffit de **sélectionner les dossiers concern
 
 Quelle que soit la décision (acceptation, classement sans suite ou refus des dossiers), **le processus est le même.**
 
-Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondants aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".
+Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en haut pour sélectionner tous les dossiers, ou bien les cases correspondant aux dossiers qu'il souhaite instruire. Puis, il doit cliquer sur le bouton bleu "instruire les dossiers" et sélectionner la décision souhaitée entre "Accepter les dossiers", "Refuser les dossiers" ou bien "Classer sans suite les dossiers".
 
 À savoir que le motif de la décision pour les dossiers acceptés est optionnel, il est en revanche **obligatoire** pour les dossiers refusés et classés sans suite.
 
@@ -569,7 +569,7 @@ Dans l'onglet des dossiers suivis, l'instructeur doit cocher la case tout en hau
 
 **Le motif renseigné sera le même pour tous les dossiers sélectionnés puisqu'il s'agit d'une action en masse**. L'usager sera notifié par email du motif de la décision.
 
-Un justification optionnel peut aussi être envoyé en masse à tous les dossiers sélectionnés.
+Une justification optionnelle peut aussi être envoyée en masse à tous les dossiers sélectionnés.
 
 <figure><img src="../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
 
@@ -650,7 +650,7 @@ Après quelques minutes, vous pouvez rafraîchir la page afin d'accéder au bout
 
 Le temps de préparation du fichier d'export est variable selon le nombre de dossiers déposés.
 
-Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consultant la page dédiée en cliquant [ici](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees).
+Le tableau d’extraction des dossiers contient autant de colonnes que de champs dans la procédure et présente un dossier par ligne, pour plus d'informations sur l'extraction des données, vous pouvez consulter la page dédiée en cliquant [ici](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees).
 
 ### B. Extraire les dossiers et les pièces jointes
 
@@ -759,7 +759,7 @@ Vous avez aussi la possibilité de faire remonter les dossiers avec une notifica
 
 ### **B. Les labels**
 
-Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pour mieux les identifier ou les organiser. Les couleurs disponibles permettre de s’y retrouver plus facilement. Les labels sont standards ou personnalisables.
+Les labels permettent aux admins et instructeurs d’étiqueter les dossiers pour mieux les identifier ou les organiser. Les couleurs disponibles permettent de s’y retrouver plus facilement. Les labels sont standards ou personnalisables.
 
 Ils sont configurables par l'administrateur de la démarche. Ce dernier a la possibilité de modifier les labels ou d’en créer un nouveau.
 
@@ -846,11 +846,11 @@ Cet e-mail vous signale le dépôt d'un nouveau message **sur vos dossiers suivi
 
 En plus de la notification hebdomadaire, l'instructeur peut faire le choix d'une notification quotidienne afin de recevoir un récapitulatif des dossiers à instruire.
 
-Cet notification est envoyée du lundi au samedi vers 10h du matin.
+Cette notification est envoyée du lundi au samedi vers 10h du matin.
 
 #### 4. Notification hebdomadaire
 
-Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédures suivies.
+Un e-mail hebdomadaire est envoyé le lundi matin à l’instructeur afin de faire le bilan de l’activité d’une procédure sur la semaine. L'e-mail présente le récapitulatif de l'activité par procédure suivie.
 
 Cette notification permet d'informer _a minima_ l'instructeur du dépôt de dossiers sur la procédure si celui-ci ne se connecte qu'occasionnellement.
 
@@ -865,7 +865,7 @@ Un e-mail est envoyé à l'instructeur lorsqu'un expert a rendu un avis sur un d
 En tant qu’instructeur, vous pouvez **paramétrer les événements à signaler** sur les dossiers de votre démarche.\
 Cette configuration permet de **faciliter le suivi et l’instruction** des dossiers en mettant en avant les informations les plus pertinentes.
 
-Voici le différents badges de notification configurables :
+Voici les différents badges de notification configurables :
 
 <figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 

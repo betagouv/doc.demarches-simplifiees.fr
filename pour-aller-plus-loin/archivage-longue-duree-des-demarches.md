@@ -12,7 +12,7 @@ Pour déterminer la durée de conservation globale d'un dossier, vous devez à l
 
 **L'administration est en effet responsable du traitement et de la conservation des dossiers**. Cela concerne principalement les dossiers terminés (acceptés, refusés ou sans suite). Vous recevez des notifications par e-mail un mois avant la suppression de dossiers afin de vous rappeler de les sauvegarder.
 
-La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliqué à partir de la dernière action d'instruction (exemple : passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
+La durée de conservation renseignée sur **demarche.numerique.gouv.fr** sera appliquée à partir de la dernière action d'instruction (exemple : passage en instruction, acceptation, refus ou classement sans suite d'un dossier).
 
 ## À quel moment est supprimé le dossier de l'usager ?
 
@@ -26,7 +26,7 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 * [L'export des dossiers au format tableur](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/exports-de-donnees) permet d'avoir une vue d'ensemble des dossiers d'une démarche.
 
-![Exporter aus formats xlsx, ods, csv et zip une liste de dossier filtré](<../.gitbook/assets/Screenshot 2023-07-04 at 9.39.50 AM.png>)
+![Exporter aux formats xlsx, ods, csv et zip une liste de dossiers filtrés](<../.gitbook/assets/Screenshot 2023-07-04 at 9.39.50 AM.png>)
 
 * Le téléchargement individuel des dossiers au format ZIP permet de télécharger toutes les pièces échangées au cours de la vie du dossier.
 
@@ -38,10 +38,10 @@ Plusieurs fonctionnalités sont disponibles pour stocker ces archives dans votre
 
 * [L'utilisation de l'API ](https://doc.demarche.numerique.gouv.fr/api-graphql)permet d'automatiser la récupération des données.
 
-Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cet archive au format ZIP intègre
+Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers traités d'une démarche. Cette archive au format ZIP intègre
 
 * tous les dossiers et leurs pièces jointes
 * tous les messages échangés par le biais de la messagerie entre les instructeurs et les usagers (incluant aussi les pièces jointes)
 * les attestations pour chaque dossier quand celles-ci sont présentes
 
-![Accéder a l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screenshot 2023-07-04 at 9.41.27 AM.png>)
+![Accéder à l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screenshot 2023-07-04 at 9.41.27 AM.png>)

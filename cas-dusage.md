@@ -46,7 +46,7 @@ _Témoignage et retour d'expérience d'Hélène LE ROC'H, DDT du Rhône_
 
 **En quoi consiste la démarche mise en place par la DDT du Rhône via notre site demarche.numerique.gouv.fr ?**
 
-Il s'agit d'une téléprocédure permettant aux candidats libres de s’inscrire pour passer l’épreuve pratique du permis de conduire. Elle s’adresse aux usagers ne souhaitant pas passer par une auto-école. En ce sens, l'instruction se déroule en deux temps : dans un premier temps, l'enregistrement de la demande d'inscription est prise en compte dans la file d'attente et dans un second temps, la programmation et la convocation à l'examen. Ces deux étapes sont réalisées par des agents distincts.
+Il s'agit d'une téléprocédure permettant aux candidats libres de s’inscrire pour passer l’épreuve pratique du permis de conduire. Elle s’adresse aux usagers ne souhaitant pas passer par une auto-école. En ce sens, l'instruction se déroule en deux temps : dans un premier temps, l'enregistrement de la demande d'inscription est pris en compte dans la file d'attente et dans un second temps, la programmation et la convocation à l'examen. Ces deux étapes sont réalisées par des agents distincts.
 
 **Comment s'est déroulée la mise en place de la démarche ?**
 
@@ -100,7 +100,7 @@ Nous avions besoin d'avoir une plateforme déclarative des prélèvements réali
 
 #### Comment s'est déroulée la mise en place de la démarche ?
 
-La démarche a été très rapide à créer : il s'agissait uniquement de dématérialiser une procédure papier et de la compléter par les besoins identifiés. Une première phase de test nous a permis d'identifier les points de tensions pour les usagers et grâce à la modification en ligne de la démarche sans dépublication, nous pouvons l'améliorer continuellement au fur et à mesure de l'analyse des retours. La macro VBA via l'API a nécessité un peu plus de travail de programmation et engendrait parfois des erreurs du fait de données non-anticipés mais ont été corrigées au fur et à mesure. Les usagers ont fait l'objet d'un support de nos services pour utiliser la démarche et sont maintenant à l'aise avec toutes les démarches. Cela nécessite néanmoins un travail d'accompagnement important suivant les compétences des usagers, à prévoir lors de la mise en place de la démarche
+La démarche a été très rapide à créer : il s'agissait uniquement de dématérialiser une procédure papier et de la compléter par les besoins identifiés. Une première phase de test nous a permis d'identifier les points de tension pour les usagers et grâce à la modification en ligne de la démarche sans dépublication, nous pouvons l'améliorer continuellement au fur et à mesure de l'analyse des retours. La macro VBA via l'API a nécessité un peu plus de travail de programmation et engendrait parfois des erreurs du fait de données non anticipées, mais elles ont été corrigées au fur et à mesure. Les usagers ont fait l'objet d'un support de nos services pour utiliser la démarche et sont maintenant à l'aise avec toutes les démarches. Cela nécessite néanmoins un travail d'accompagnement important suivant les compétences des usagers, à prévoir lors de la mise en place de la démarche
 
 #### Quels sont les avantages que vous avez trouvés en utilisant **demarche.numerique.gouv.fr** ?
 
@@ -128,7 +128,7 @@ Témoignage de Nathalie DESTERNES - Adjointe au chef du BISIC, SGC de l'Allier
 
 **En quoi consistent les démarches mises en place via demarche.numerique.gouv.fr ?**
 
-Dans l’Allier les démarches sont nombreuses et portent sur des thématiques diverses et variées (agriculture, délivrance des titres, réglementation générale ou encore subventions aux collectivités etc.). Plus de trente démarches ont été dématérialisés via **demarche.numerique.gouv.fr**. Elles sont le reflet de l’activité des agents de l’ATE (DDETSPP, DDT, Préfecture et SGC).
+Dans l’Allier les démarches sont nombreuses et portent sur des thématiques diverses et variées (agriculture, délivrance des titres, réglementation générale ou encore subventions aux collectivités etc.). Plus de trente démarches ont été dématérialisées via **demarche.numerique.gouv.fr**. Elles sont le reflet de l’activité des agents de l’ATE (DDETSPP, DDT, Préfecture et SGC).
 
 **Comment s'est déroulée la mise en place des démarches ?**
 

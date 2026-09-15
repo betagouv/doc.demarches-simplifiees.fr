@@ -25,7 +25,7 @@ Mais pour ce faire l’identification doit contenir :
 
 **Principe numéro 3 : Plus besoin de signature pour qu’une décision soit opposable.**<br>
 
-Selon ce principe les décisions administratives qui sont notifiées au public par l'intermédiaire d'un téléservice sont dispensés de la signature de leur auteur, dès lors qu'ils comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient.
+Selon ce principe les décisions administratives qui sont notifiés au public par l'intermédiaire d'un téléservice sont dispensées de la signature de leur auteur, dès lors qu'elles comportent ses prénom, nom et qualité ainsi que la mention du service auquel celui-ci appartient.
 
 Au sujet des délégations de signature, ce principe ne les remet pas en cause. Ainsi, un chef de service qui a la délégation de son chef de bureau pourra donner son nom, son prénom et sa fonction lorsqu'il validera une décision sur DS.<br>
 

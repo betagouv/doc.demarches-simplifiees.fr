@@ -31,7 +31,7 @@ En revanche, selon le type d’export demandé, certaines informations peuvent n
 
 #### Export sous la forme d'un ZIP
 
-Une option a été mis en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
+Une option a été mise en place qui permet d'exporter non pas sous forme d'un tableau, mais sous forme de fichier (un fichier par dossier) contenant les données, les PJ, et les métadonnées.
 
 **Tout est alors prêt pour faire de l'archivage !**
 

@@ -59,13 +59,13 @@ Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer su
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
-Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro de téléphone.
+Vous devrez renseigner le nom du lieu, l'adresse et éventuellement un numéro de téléphone.
 
 Il sera nécessaire d’ajouter un lieu, l’adresse postale de votre administration.
 
 C’est avec cette adresse que les agents instructeurs pourront planifier des rendez-vous.
 
-C’est également cette adresse qui sera associée aux notifications SMS et email reçues par vos usager💡
+C’est également cette adresse qui sera associée aux notifications SMS et email reçues par vos usagers💡
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 16.49.35.png" alt=""><figcaption></figcaption></figure>
 
@@ -99,7 +99,7 @@ Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vou
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 17.01.10.png" alt=""><figcaption></figcaption></figure>
 
-Une fois sur votre agenda, vous pourrez sélectionner le créneau horaire du rendez-vous que vous donnez à l'usager en passant par plusieurs étapes de confirmations.&#x20;
+Une fois sur votre agenda, vous pourrez sélectionner le créneau horaire du rendez-vous que vous donnez à l'usager en passant par plusieurs étapes de confirmation.&#x20;
 
 Vous pourrez ensuite choisir le motif du RDV, la durée, etc.&#x20;
 

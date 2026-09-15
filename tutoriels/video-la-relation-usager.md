@@ -6,13 +6,13 @@
 
 Bonjour à tous,
 
-Le passage à la dématérialisation modifie la relation entre le service administratif et l’usager. Comme toute innovation, la dématérialisation bouscule les pratiques et peut être perçue par l’usager comme une éloignement. Or, au contraire, elle peut justement être un moyen de se rapprocher de l’usager en suivant simplement quelques bonnes pratiques. Voici les 4 points d’attention pour établir sur DS une bonne relation entre administration et usager :<br>
+Le passage à la dématérialisation modifie la relation entre le service administratif et l’usager. Comme toute innovation, la dématérialisation bouscule les pratiques et peut être perçue par l’usager comme un éloignement. Or, au contraire, elle peut justement être un moyen de se rapprocher de l’usager en suivant simplement quelques bonnes pratiques. Voici les 4 points d’attention pour établir sur DS une bonne relation entre administration et usager :<br>
 
 1. Bien communiquer le lien d’accès à la démarche :
 
-Chaque démarche publiée a un unique point d’accès pour l’usager : son lien ou URL. Ce lien doit être facilement accessible et visible. Le meilleur moyen est de le placer sur votre site internet sur la page dédiée à la démarche. Parfois l’accès à cette page peut-être compliqué pour l’usager. Ainsi nous vous invitons à essayer de simplifier le parcours d’accès à cette page sur votre site.
+Chaque démarche publiée a un unique point d’accès pour l’usager : son lien ou URL. Ce lien doit être facilement accessible et visible. Le meilleur moyen est de le placer sur votre site internet sur la page dédiée à la démarche. Parfois l’accès à cette page peut être compliqué pour l’usager. Ainsi nous vous invitons à essayer de simplifier le parcours d’accès à cette page sur votre site.
 
-Un deuxième moyen peut-être de faire une campagne d’e-mails dans lesquels vous communiquez ce lien aux personnes concernées par cette démarche.
+Un deuxième moyen peut être de faire une campagne d’e-mails dans lesquels vous communiquez ce lien aux personnes concernées par cette démarche.
 
 Enfin, avertissez le standard pour qu’il oriente bien vers votre page et votre lien et non pas directement vers **demarche.numerique.gouv.fr**
 
@@ -33,7 +33,7 @@ Il est important de mettre en place un processus métier qui intègre ce volet d
 
 4\. Motiver sa décision :<br>
 
-Une des plus grandes inquiétude pour l’usager est de se voir refuser sa demande sans comprendre la raison de ce refus. C’est pourquoi nous vous encourageons à bien motiver vos décisions de refus ou de classement sans suite. C’est une étape par défaut obligatoire sur DS mais seuls vous êtes maîtres de son contenu donc n’hésitez pas à bien expliciter la cause du refus. Vous avez la possibilité d’intégrer cette motivation à votre e-mail de décision grâce à la balise « motivation » sur votre interface admin lors de la création du formulaire. Sinon elle reste consultable dans le dossier en ligne de l’usager à tout moment.\
+Une des plus grandes inquiétudes pour l’usager est de se voir refuser sa demande sans comprendre la raison de ce refus. C’est pourquoi nous vous encourageons à bien motiver vos décisions de refus ou de classement sans suite. C’est une étape par défaut obligatoire sur DS mais seuls vous êtes maîtres de son contenu donc n’hésitez pas à bien expliciter la cause du refus. Vous avez la possibilité d’intégrer cette motivation à votre e-mail de décision grâce à la balise « motivation » sur votre interface admin lors de la création du formulaire. Sinon elle reste consultable dans le dossier en ligne de l’usager à tout moment.\
 <br>
 
 Vous avez maintenant toutes les cartes en main pour que votre service en ligne fasse des usagers heureux !<br>

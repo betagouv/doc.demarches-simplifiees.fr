@@ -8,7 +8,7 @@ description: Présentation du fonctionnement de l'horodatage
 
 ### Fonctionnement vulgarisé
 
-Afin de prouver l'intégrité des dossiers, chaque jour, **demarche.numerique.gouv.fr** fait une photo de tous les dossiers modifiés. On envoie ensuite l'empreinte de cette photo a un tiers de confiance qualifié qui nous renvoie un jeton d'horodatage déclarant : \
+Afin de prouver l'intégrité des dossiers, chaque jour, **demarche.numerique.gouv.fr** fait une photo de tous les dossiers modifiés. On envoie ensuite l'empreinte de cette photo à un tiers de confiance qualifié qui nous renvoie un jeton d'horodatage déclarant : \
 « Moi, Tiers de Confiance, je certifie que **demarche.numerique.gouv.fr** m'a envoyé cette empreinte à cette date ».
 
 ### En quoi cela prouve-t-il quoi que ce soit ?
@@ -18,7 +18,7 @@ Le jeton d'horodatage est inaltérable et son auteur peut être identifié. On e
 Si on veut vérifier qu'un dossier n'a pas été altéré depuis son traitement :\
 \- on prend la photo qui correspond à la dernière modification du dossier\
 \- on s'assure que le dossier n'a pas changé depuis cette photo\
-\- finalement on vérifie l'intégrité de la photo en calculant son empreinte et en la comparant à l'empreinte enregistré dans le jeton d'horodatage
+\- finalement on vérifie l'intégrité de la photo en calculant son empreinte et en la comparant à l'empreinte enregistrée dans le jeton d'horodatage
 
 ### C'est quoi cette histoire d'empreinte ?
 
@@ -93,7 +93,7 @@ L'empreinte de ce fichier est `b193534bd4e8f2f32841e6010286ed98be6dc8e24f89dbd7f
 
 ### L'empreinte des opérations du jour
 
-Toute les nuits, **demarche.numerique.gouv.fr** crée un fichier avec toutes les empreintes des opérations de la journée. Il se présente sous le nom demarches-simplifiees-operations-date.json
+Toutes les nuits, **demarche.numerique.gouv.fr** crée un fichier avec toutes les empreintes des opérations de la journée. Il se présente sous le nom demarches-simplifiees-operations-date.json
 
 {% code title="procedure-xxx/bills/horodatage/demarches-simplifiees-operations-date.json" overflow="wrap" %}
 ```

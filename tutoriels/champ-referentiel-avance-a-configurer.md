@@ -317,7 +317,7 @@ R : Vérifiez le mapping dans la configuration et assurez-vous que la donnée 
 **Q : Quelles sont les évolutions à venir ?** R : Elles seront nombreuses. Vous pouvez avoir un aperçu [ici](https://github.com/demarches-simplifiees/demarches-simplifiees.fr/issues/11161). Pour faire court :
 
 * l'autocomplete
-* le support du conditionnel pour les donnée affichées aux usagers/instructeur
+* le support du conditionnel pour les données affichées aux usagers/instructeurs
 * le support des balises (attestation/mail) pour les données affichées aux usagers/instructeurs
 * le support des filtres pour les données affichées aux usagers/instructeurs
 

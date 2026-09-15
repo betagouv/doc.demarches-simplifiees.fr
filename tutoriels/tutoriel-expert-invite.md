@@ -22,7 +22,7 @@ Si vous disposez déjà d'un compte, il vous suffit de vous connecter. En revanc
 
 ## 2. Présentation de l'interface
 
-Une fois connecté, l'expert a accès à une liste des démarches pour lesquels son avis est demandé : il peut donc être invité sur une ou plusieurs démarches.&#x20;
+Une fois connecté, l'expert a accès à une liste des démarches pour lesquelles son avis est demandé : il peut donc être invité sur une ou plusieurs démarches.&#x20;
 
 <figure><img src="../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +71,7 @@ Dans l'onglet "voir les avis", vous aurez un récapitulatif des autres avis dema
 
 <figure><img src="../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
-**Pour modifier un avis,** il suffit de retourner sur l'onglet "donner votre avis" et changer le contenu du message. En revanche, l'avis ne peut être supprimé. **L'avis doit être formulé avant l'instruction du dossier.**&#x20;
+**Pour modifier un avis,** il suffit de retourner sur l'onglet "donner votre avis" et de changer le contenu du message. En revanche, l'avis ne peut être supprimé. **L'avis doit être formulé avant l'instruction du dossier.**&#x20;
 
 Si l'administrateur vous donne les droits en amont, vous avez également la possibilité en tant qu'expert de **demander un autre avis à un autre expert**. Il vous suffit pour cela de cliquer sur l'onglet "demander un autre avis". Vous pourrez donc par ce biais envoyer le dossier de l'usager ainsi que ses pièces jointes à un autre expert qui pourra formuler un avis. Cet avis sera consultable par l'instructeur du dossier.&#x20;
 

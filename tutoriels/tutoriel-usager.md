@@ -61,7 +61,7 @@ Une fois les informations relatives à l'établissement vérifiées, cliquez sur
 
 **Vous déposez un dossier pour vous-même:**
 
-Vous devez sélectionner l'option "pour vous" puis renseigner la civilité (pour certaine démarche) et votre nom et prénom.
+Vous devez sélectionner l'option "pour vous" puis renseigner la civilité (pour certaines démarches) et votre nom et prénom.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.32.24.png" alt=""><figcaption></figcaption></figure>
 
@@ -104,13 +104,13 @@ Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au f
 
 La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
 
-Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur) : .pdf, .doc, .docx, .xls, .xlsx, .csv, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
+Formats de pièces jointes acceptés (selon le paramétrage de l'administrateur) : .pdf, .doc, .docx, .xls, .xlsx, .csv, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
 \
 En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.** Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
 
 #### Co-construction du dossier : inviter une personne à modifier le dossier
 
-Il est possible d'inviter un ou plusieurs personnes à compléter ou à modifier un dossier.
+Il est possible d'inviter une ou plusieurs personnes à compléter ou à modifier un dossier.
 
 En accédant au dossier concerné, cliquez sur le bouton « Inviter une personne à modifier ce dossier » en haut à droite, puis saisissez une adresse e-mail. Vous pouvez ajouter un message à votre destinataire. Enfin, cliquez sur le bouton « Envoyer une invitation ».
 
@@ -219,7 +219,7 @@ Par ailleurs, pour personnaliser votre tableau de bord et faciliter la recherche
 
 Cet onglet reprend toutes les démarches en cours effectuées par l'usager (brouillon, en construction, en instruction). Vous accédez ainsi à l'ensemble des dossiers déposés par l'usager et pas encore traités par l'instructeur.
 
-Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, statut du dossier et la date de mise à jour.
+Les dossiers sont identifiés par un numéro, l'intitulé de la démarche, l'identité du demandeur, le statut du dossier et la date de mise à jour.
 
 <figure><img src="../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
 
@@ -231,7 +231,7 @@ Cet onglet reprend les dossiers traités, pour lesquels une décision finale a �
 * refus
 * classement sans suite
 
-En cas de refus ou de classement sans suite, l'administration doit motivée cette décision.
+En cas de refus ou de classement sans suite, l'administration doit motiver cette décision.
 
 <figure><img src="../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
@@ -303,7 +303,7 @@ Une fois le dossier déposé par l'usager, son statut est « déposé ». L'usag
 
 #### En instruction
 
-Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instructions n'expirent pas.
+Le dossier « en instruction » est pris en charge par le service compétent. Il ne peut plus être modifié par l'usager, mais est toujours consultable. Les dossiers en instruction n'expirent pas.
 
 #### Accepté / Classé sans suite / Refusé
 

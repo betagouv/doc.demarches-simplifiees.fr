@@ -68,7 +68,7 @@ Ainsi, pour consulter les informations (administrateur et date de création) sur
 
 ## 5. Découvrir les nouveautés
 
-Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autre actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton « _**Nouveautés**_**&#x20;»** lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
+Vous retrouverez sur cette page les principales nouveautés, corrections de bugs, ou autres actualités à propos de **demarche.numerique.gouv.fr**. Une petite pastille s'affichera à côté du bouton « _**Nouveautés**_**&#x20;»** lorsqu'il y a du nouveau qui peut vous intéresser sur cette page.
 
 <figure><img src="../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
 
@@ -140,7 +140,7 @@ Vous pouvez enregistrer votre avancement à tout moment et revenir dessus plus t
 
 Vous pouvez renseigner la liste des pièces jointes à fournir. Cela permettra à l'usager de prendre connaissance des pièces jointes avant d'accéder au formulaire.
 
-Si votre formulaire contient des pièces jointes et que vous ne complétiez pas cette rubrique, une liste sera automatiquement générée.
+Si votre formulaire contient des pièces jointes et que vous ne complétez pas cette rubrique, une liste sera automatiquement générée.
 
 <figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
@@ -491,7 +491,7 @@ Pour l'utiliser, remplissez l'encadré « Liste déroulante » en suivant le mod
 
 <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption><p>Exemple de choix dans la liste déroulante</p></figcaption></figure>
 
-Les titres des menus déroulant liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels.
+Les titres des menus déroulants liés doivent donc être encadrés par des doubles tirets "--" sans espace tandis que les choix du second menu doivent être laissés tels quels.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.56.47.png" alt=""><figcaption></figcaption></figure>
 
@@ -526,7 +526,7 @@ Du point de vue de l'administrateur, lorsque le champ "carte" est sélectionné,
 * Unesco
 * Arrêtés de protection
 * Conservatoire du littoral
-* Réserve nationales de chasse et faune sauvage
+* Réserves nationales de chasse et faune sauvage
 * Réserves biologiques
 * Réserves naturelles
 * Natura 2000
@@ -605,7 +605,7 @@ Vous pouvez à tout moment prévisualiser votre formulaire en cliquant sur le bo
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-21 à 11.43.10.png" alt=""><figcaption></figcaption></figure>
 
-Les modifications apportés aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en retournant sur le tableau de bord de l'interface administrateur.
+Les modifications apportées aux champs s'enregistrent automatiquement. Une fois tous les champs créés, vous pouvez poursuivre la création de votre démarche en retournant sur le tableau de bord de l'interface administrateur.
 
 À tout moment, vous pouvez tester votre démarche, du dépôt de dossier à son instruction, en cliquant sur l'onglet « Tester ». Profitez de la phase de test pour vérifier la saisie de dossiers ainsi que toutes les fonctionnalités associées (instruction, e-mails automatiques, attestations, etc.).\
 Durant la phase test, vous pouvez effectuer toutes les modifications que vous souhaitez sur votre démarche.
@@ -624,11 +624,11 @@ Vous venez de finir votre formulaire, il convient désormais d’en prévoir les
 
 À cette fin, **demarche.numerique.gouv.fr** vous propose d’utiliser des **annotations privées**, véritable **formulaire à remplir cette fois-ci par l’instructeur lors de l’instruction d’un dossier.**
 
-D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisés dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
+D’autres fonctionnalités comme **les avis externes et la co-construction usager** peuvent être utilisées dans le cadre de l’élaboration d’un processus d’instruction. Néanmoins, vous avez la possibilité de les construire ultérieurement.
 
 ### Annotations privées
 
-Les annotations privées sont l’équivalent du cadre réservé à l’administration présent sur les formulaires papiers. **Ce sont des champs à destination des seuls instructeurs, visibles et modifiables uniquement par eux.**
+Les annotations privées sont l’équivalent du cadre réservé à l’administration présent sur les formulaires papier. **Ce sont des champs à destination des seuls instructeurs, visibles et modifiables uniquement par eux.**
 
 En créant des champs « Annotations privées », vous pouvez en tant qu’administrateur prévoir quelles sont les informations que doit analyser l’instructeur pour traiter le dossier.
 
@@ -728,7 +728,7 @@ Afin que la démarche soit publiée, il est nécessaire en amont d’en assigner
 
 ### A. Lors d'une instruction unique
 
-* Si vous souhaitez que l'ensemble des instructeurs aient accès à l'ensemble des dossiers, rendez-vous sur l’onglet « Instructeur ». Il vous suffit ensuite de renseignez l’adresse e-mail de l’instructeur dans le champ « E-mail » et cliquer sur le bouton « Affecter ».
+* Si vous souhaitez que l'ensemble des instructeurs aient accès à l'ensemble des dossiers, rendez-vous sur l’onglet « Instructeur ». Il vous suffit ensuite de renseigner l’adresse e-mail de l’instructeur dans le champ « E-mail » et cliquer sur le bouton « Affecter ».
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 15.47.56.png" alt=""><figcaption></figcaption></figure>
 
@@ -873,7 +873,7 @@ Du côté de l’instructeur, un bandeau affiche si l’usager a pris connaissan
 
 ## 16. Les labels
 
-En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit d'étiquette que les instructeurs peuvent associer aux dossiers pour mieux les identifier ou les organiser.
+En tant qu'administrateur, vous avez la possibilité de configurer des labels, il s'agit d'étiquettes que les instructeurs peuvent associer aux dossiers pour mieux les identifier ou les organiser.
 
 <figure><img src="../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
 
@@ -932,7 +932,7 @@ Il vous suffit ensuite de rajouter l'email de l'agent invité puis de cliquer su
 
 Vous pouvez ensuite configurer un ou plusieurs lieux (si les rendez-vous proposés sont physiques).
 
-Vous devrez renseigner le nom du lieux, l'adresse et éventuellement un numéro de téléphone.
+Vous devrez renseigner le nom du lieu, l'adresse et éventuellement un numéro de téléphone.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-17 à 17.29.30.png" alt=""><figcaption></figcaption></figure>
 
@@ -1004,7 +1004,7 @@ Si vous renseignez dans "Raison de la clôture", "Autre", vous aurez un encart p
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.48.30.png" alt=""><figcaption></figcaption></figure>
 
-Vous avez la possibilité d'envoyer un email aux usagers ayant débuté un dossier en brouillon pour l'informer de la clôture de la démarche.
+Vous avez la possibilité d'envoyer un email aux usagers ayant débuté un dossier en brouillon pour les informer de la clôture de la démarche.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 10.50.40.png" alt=""><figcaption></figcaption></figure>
 
@@ -1064,7 +1064,7 @@ Pour finaliser la réactivation, vous pouvez ensuite compléter et/ou modifier l
 
 <figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_1ae7kfx.png" alt=""><figcaption></figcaption></figure>
 
-Vous pouvez enfin cliquez sur le bouton "publier" pour réactiver la démarche.
+Vous pouvez enfin cliquer sur le bouton "publier" pour réactiver la démarche.
 
 <figure><img src="https://storage.crisp.chat/users/helpdesk/website/-/9/2/4/3/924377d9b4868800/image_t3oltj.png" alt=""><figcaption></figcaption></figure>
 

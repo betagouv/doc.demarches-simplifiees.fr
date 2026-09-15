@@ -149,7 +149,7 @@ L’indisponibilité du Service n’ouvre droit à aucune compensation de quelqu
 
 #### II. Sécurité du Service : <a href="#toc108111734" id="toc108111734"></a>
 
-La DINUM prend toute les précautions utiles pour préserver la sécurité de la plateforme et des outils mis en œuvre pour accomplir le Service, notamment s’agissant de l’accès au Service, de la gestion des comptes utilisateurs et du traitement des données collectées.
+La DINUM prend toutes les précautions utiles pour préserver la sécurité de la plateforme et des outils mis en œuvre pour accomplir le Service, notamment s’agissant de l’accès au Service, de la gestion des comptes utilisateurs et du traitement des données collectées.
 
 Le Service bénéficie d’une homologation de sécurité RGS de la direction interministérielle du numérique. L’attestation d’homologation est tenue à la disposition de l’Administration.
 
@@ -262,7 +262,7 @@ Lorsqu’elle décide d’un audit, l’Administration en informe la DINUM au mi
 
 L’Administration est associée à la définition des besoins en matière de protection des données et au suivi des mesures apportées par la DINUM pour y répondre.
 
-La DINUM et l’Administration mettent à la disposition de l’autorité de contrôle compétente, dès que celles-ci en fait la demande, les informations nécessaires pour démontrer leur conformité, y compris les résultats de tout audit.
+La DINUM et l’Administration mettent à la disposition de l’autorité de contrôle compétente, dès qu’elle en fait la demande, les informations nécessaires pour démontrer leur conformité, y compris les résultats de tout audit.
 
 #### v. Liste des sous-traitants ultérieurs <a href="#toc108111751" id="toc108111751"></a>
 
@@ -272,7 +272,7 @@ La DINUM tient la liste des sous-traitants ultérieurs à la disposition de l’
 
 La DINUM informe l’Administration de tout projet de modification de cette liste par l’ajout ou le remplacement de sous-traitants ultérieurs.
 
-L’Administration peut faire connaitre à la DINUM son opposition à ce changement. Si à l’issue de l’étude des raisons invoquées par l’Administration, la DINUM décide de procéder à l’ajout ou au remplacement de sous-traitants ultérieurs, l’Administration a la possibilité de résilier son adhésion au Service dans les conditions prévues à l’article 7.e.ii. des conditions générales d’utilisation
+L’Administration peut faire connaître à la DINUM son opposition à ce changement. Si à l’issue de l’étude des raisons invoquées par l’Administration, la DINUM décide de procéder à l’ajout ou au remplacement de sous-traitants ultérieurs, l’Administration a la possibilité de résilier son adhésion au Service dans les conditions prévues à l’article 7.e.ii. des conditions générales d’utilisation
 
 Lorsque la DINUM recrute un sous-traitant ultérieur pour mener des activités de traitement spécifiques (pour le compte de l’Administration), elle le fait au moyen d’un contrat qui impose au sous-traitant ultérieur, en substance, les mêmes obligations en matière de protection des données que celles imposées à la DINUM en vertu des présentes clauses. La DINUM veille à ce que le sous-traitant ultérieur respecte les obligations auxquelles elle est elle-même soumise en vertu des présentes clauses et du règlement (UE) 2016/679.
 
@@ -333,7 +333,7 @@ L'utilisation du service en ligne **demarche.numerique.gouv.fr** par les adminis
 
 En tant que porteur d'un commun numérique à impact national, la DINUM accueille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
 
-Ces contribution peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
+Ces contributions peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
 
 ### c. Évolutions du service et modifications des conditions d’utilisation <a href="#toc108111758" id="toc108111758"></a>
 

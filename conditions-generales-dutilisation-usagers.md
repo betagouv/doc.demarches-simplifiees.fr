@@ -42,7 +42,7 @@ L’usager s’engage, lors de l’utilisation qu’il fait du Service, à ne pa
 
 L’utilisation du Service est réservée à l’accomplissement de démarches administratives.
 
-Les usagers sont des personnes physiques ou morales qui utilisent le Service pour accomplir une démarche administrative en déposant un dossier auprès de l’administration. L’usager reçoit des mails de notifications lui permettant de suivre l’état d’avancement de son dossier.
+Les usagers sont des personnes physiques ou morales qui utilisent le Service pour accomplir une démarche administrative en déposant un dossier auprès de l’administration. L’usager reçoit des mails de notification lui permettant de suivre l’état d’avancement de son dossier.
 
 L’usager est responsable des informations partagées avec l’administration. À ce titre, toute personne procédant à une fausse déclaration pour elle-même ou pour autrui s’expose, notamment, aux sanctions prévues à l’article  441-1 du Code Pénal, prévoyant des peines pouvant aller jusqu’à trois ans d’emprisonnement et 45 000 euros d’amende.  &#x20;
 
@@ -72,7 +72,7 @@ La plage d’ouverture du Service est 24h/24 7j/7, hors période d’indisponibi
 
 La DINUM poursuit un objectif de disponibilité annuelle du Service de 99,9%, hors indisponibilités planifiées. En cas d’incident ou de maintenance, elle vise un délai de rétablissement de 72h en heures non-ouvrables.
 
-Dans le cadre d’une maintenance de l’environnement d’exécution du Service, la DINUM se réserve le droit de suspendre temporairement le fonctionnement du Service. Elle tient informée les usagers depuis leur interface dans les meilleurs délais afin que ces derniers puissent prendre leur disposition. En cas d’urgence, cette suspension peut intervenir sans préavis.
+Dans le cadre d’une maintenance de l’environnement d’exécution du Service, la DINUM se réserve le droit de suspendre temporairement le fonctionnement du Service. Elle tient informée les usagers depuis leur interface dans les meilleurs délais afin que ces derniers puissent prendre leurs dispositions. En cas d’urgence, cette suspension peut intervenir sans préavis.
 
 Ces arrêts exceptionnels peuvent être rendus nécessaires par exemple pour des opérations de gestion des données en back-office, des opérations de mise en production ou des changements d’architecture. Il n’est pas garanti que le Service soit exempt d’anomalies ou d’erreurs.
 

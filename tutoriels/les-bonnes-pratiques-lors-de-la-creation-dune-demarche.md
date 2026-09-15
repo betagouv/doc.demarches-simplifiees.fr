@@ -28,11 +28,11 @@ Pour rendre celui-ci plus digeste, segmentez votre formulaire en utilisant les c
 
 ## 5. Utilisez des blocs répétables et les champs conditionnels
 
-Un bloc répétable sur un champ permet à ce dernier d'être répété autant de fois que nécessaires par l'usager. En particulier, lorsque vous demandez des pièces justificatives, nous recommandons de terminer votre formulaire par un bloc répétable « Autres pièces justificatives » comme dans l'image ci-dessous. Il arrive en effet que l'usager dispose d'un document séparé en plusieurs fichiers et qu'il ne sache pas comment les regrouper afin de le mettre en ligne sous une seule pièce justificative. Il se retrouve alors bloqué.
+Un bloc répétable sur un champ permet à ce dernier d'être répété autant de fois que nécessaire par l'usager. En particulier, lorsque vous demandez des pièces justificatives, nous recommandons de terminer votre formulaire par un bloc répétable « Autres pièces justificatives » comme dans l'image ci-dessous. Il arrive en effet que l'usager dispose d'un document séparé en plusieurs fichiers et qu'il ne sache pas comment les regrouper afin de le mettre en ligne sous une seule pièce justificative. Il se retrouve alors bloqué.
 
 ![](<../.gitbook/assets/Screenshot 2019-08-01 at 15.41.04.png>)
 
-Afin de simplifier vos formulaires, vous pouvez également activer des logiques conditionnelles. Cela permettra de guider vos usagers vers les champs dédiées à leur situations en fonction de leur réponses aux champs du formulaire. Les formulaires sont donc plus précis et il s'agit d'un gain de temps pour l'usager. Pour plus d'information : [https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel)
+Afin de simplifier vos formulaires, vous pouvez également activer des logiques conditionnelles. Cela permettra de guider vos usagers vers les champs dédiés à leur situation en fonction de leurs réponses aux champs du formulaire. Les formulaires sont donc plus précis et il s'agit d'un gain de temps pour l'usager. Pour plus d'information : [https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel](https://doc.demarche.numerique.gouv.fr/pour-aller-plus-loin/le-conditionnel)
 
 <figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ Lorsque vous cliquez sur le bouton « Publier » de votre démarche en test, la 
 
 <figure><img src="../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
-Par défaut, l'url de votre démarche est composé du titre de votre démarche. Mais vous avez la possibilité de personnaliser la fin de l'url selon vos besoins.&#x20;
+Par défaut, l'url de votre démarche est composée du titre de votre démarche. Mais vous avez la possibilité de personnaliser la fin de l'url selon vos besoins.&#x20;
 
 ## 9. Prenez rendez-vous avec nous !
 

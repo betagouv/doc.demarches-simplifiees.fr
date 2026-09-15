@@ -12,7 +12,7 @@ Cliquer sur la tuile "Inéligibilité des dossiers"
 
 Puis vous pourrez configurer les 3 options suivantes :&#x20;
 
-* activer/desactiver le blocage des dossiers si un dossier correspond aux critères
+* activer/désactiver le blocage des dossiers si un dossier correspond aux critères
 * renseigner le message d'inéligibilité qui sera affiché à l'usager si son dossier est inéligible
 * ajouter des critères d'inéligibilité
 
