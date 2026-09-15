@@ -11,7 +11,7 @@ description: Présentation du fonctionnement de l'horodatage
 Afin de prouver l'intégrité des dossiers, chaque jour, **demarche.numerique.gouv.fr** fait une photo de tous les dossiers modifiés. On envoie ensuite l'empreinte de cette photo a un tiers de confiance qualifié qui nous renvoie un jeton d'horodatage déclarant : \
 « Moi, Tiers de Confiance, je certifie que **demarche.numerique.gouv.fr** m'a envoyé cette empreinte à cette date ».
 
-### En quoi cela prouve-t-il quoi que soit ?
+### En quoi cela prouve-t-il quoi que ce soit ?
 
 Le jeton d'horodatage est inaltérable et son auteur peut être identifié. On est donc sûr que l'empreinte de la photo a bien été signée à telle date.\
 \
@@ -170,7 +170,7 @@ openssl ts -verify -CAfile <(cat store/*) -data $BILL -in $TOKEN -token_in
 Certains horodatages émis par Universign ne sont pas compatibles avec openssl,\
 `rsa routines:RSA_padding_check_PKCS1_type_1:invalid padding`\
 \
-Ils doivent les vérifier eux-même en attendant de mettre à disposition une API. Contactez nous si besoin.
+Ils doivent les vérifier eux-mêmes en attendant de mettre à disposition une API. Contactez-nous si besoin.
 
 Astuce pour inspecter le contenu d'un jeton :\
 `openssl asn1parse -in token -inform der`

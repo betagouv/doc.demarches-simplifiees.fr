@@ -40,7 +40,7 @@ En revanche, l'application n'est pas l'outil le plus adapté dans les cas suivan
 **demarche.numerique.gouv.fr** a l'avantage d'être un outil :
 
 * **Simple** : entièrement en ligne, sans installation ni paramétrage à effectuer, qui peut être utilisé directement par les services gestionnaires (modèle Typeform, Google Form).
-* **Intégré à l’écosystème numérique public** : récupération automatique d’informations sur les demandeurs via API Entreprise et France Connect et récupération d'informations géographiques via BAN et API Géo ;
+* **Intégré à l’écosystème numérique public** : récupération automatique d’informations sur les demandeurs via API Entreprise et FranceConnect et récupération d'informations géographiques via BAN et API Géo ;
 * **Collaboratif** : possibilité de co-construire et co-instruire les demandes pour simplifier la vie des usagers et des administrations, ce qui simplifie l'instruction des dossiers lorsque plusieurs organismes publics interviennent ;
 * **Sûr** : plateforme homologuée Référentiel Général de Sécurité (RGS) et disponibilité constatée toujours supérieure à 99 % sur une période de 30 jours et accessible en ligne sur [**https://dashboard.entreprise.api.gouv.fr/**](https://dashboard.entreprise.api.gouv.fr/real_time)
 
@@ -63,4 +63,4 @@ Ajouter des rôles d’instructeurs avec des droits plus ou moins fins n'est pas
 Changer notre adresse e-mail par la vôtre est problématique :
 
 * L'e-mail émane de notre site, il est donc normal que l'expéditeur vienne de notre domaine, pour bien signifier à l'usager que le changement a eu lieu sur notre plateforme
-* L'un des buts de notre site est de centraliser les échanges relatifs à un dossier au même endroit, en envoyant un e-mail depuis l'adresse de l'administration qui gère la démarche, l'usager pourrait alors répondre directement à cette adresse et les échanges seraient alors dispersés entre notre site et des boites e-mails.
+* L'un des buts de notre site est de centraliser les échanges relatifs à un dossier au même endroit, en envoyant un e-mail depuis l'adresse de l'administration qui gère la démarche, l'usager pourrait alors répondre directement à cette adresse et les échanges seraient alors dispersés entre notre site et des boîtes e-mail.

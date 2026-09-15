@@ -329,9 +329,9 @@ Le support DINUM est disponible 5j/7 de 8h à 18 h. Il est joignable par email �
 
 ### b. Modalités financières <a href="#toc108111757" id="toc108111757"></a>
 
-L'utilisation du service en ligne **demarche.numerique.gouv.fr** par les administrations et organismes publics est gratieux.
+L'utilisation du service en ligne **demarche.numerique.gouv.fr** par les administrations et organismes publics est gratuit.
 
-En tant que porteur d'un commun numérique à impact national, la DINUM acceuille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
+En tant que porteur d'un commun numérique à impact national, la DINUM accueille cependant les contributions volontaires des partenaires à l'amélioration du service rendu.
 
 Ces contribution peuvent prendre la forme d’un financement annuel sous la forme d’un transfert budgétaire, de contributions au code source de l’application, d’apport en nature ou par la valorisation d’apports en compétence.
 

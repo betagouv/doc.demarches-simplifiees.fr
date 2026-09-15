@@ -39,7 +39,7 @@ Une fois votre demande acceptée, vous recevrez un e-mail vous invitant à crée
 
 [Rendez-vous sur la page d’accueil](https://demarche.numerique.gouv.fr/) et cliquez sur le bouton connexion en haut à droite. Vous arrivez alors sur la page de connexion. Rentrez l’e-mail lié au compte **demarche.numerique.gouv.fr** et le mot de passe indiqué lors de la création de votre compte.
 
-Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "France connect".
+Vous avez également la possibilité de vous connecter via "ProConnect" avec la double authentification. Les usagers ont également la possibilité de se connecter via "FranceConnect".
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-17 à 16.37.08.png" alt=""><figcaption></figcaption></figure>
 
@@ -154,7 +154,7 @@ Si vous souhaitez intégrer plusieurs logos, il est conseillé de copier-coller 
 
 #### **d) Conservation des données**
 
-Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez indiquer le temps de conservation des données. Le délai maximal que vous pouvez paramétrer est de 12 mois. Si vous souhaitez conserver les dossiers au delà de 12 mois, il faudra passer par notre équipe support en justifiant le besoin. Nous pouvons étendre la durée de conservation à maximum 5 ans.
+Afin d’être en conformité avec le Règlement Général sur la Protection des Données (RGPD) vous devez indiquer le temps de conservation des données. Le délai maximal que vous pouvez paramétrer est de 12 mois. Si vous souhaitez conserver les dossiers au-delà de 12 mois, il faudra passer par notre équipe support en justifiant le besoin. Nous pouvons étendre la durée de conservation à maximum 5 ans.
 
 <figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
@@ -409,7 +409,7 @@ Vous avez la possibilité de formater un champ selon le format de votre choix. D
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-07 à 17.58.48.png" alt=""><figcaption><p>Champ formaté en mode "choix simple"</p></figcaption></figure>
 
-* Le mode avancé : vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correpond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.
+* Le mode avancé : vous pouvez formater un champ selon une expression régulière en définissant le nombre de caractères, l'ordre des caractères, etc. Attention, à n'utiliser que si vous êtes sur du format du champ car si le format renseigné par l'usager ne correspond pas à l'expression régulière, ce dernier ne pourra déposer le dossier.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-03-26 à 12.03.28.png" alt=""><figcaption><p>Champ formaté en mode "avancé"</p></figcaption></figure>
 
@@ -511,7 +511,7 @@ L'usager peut répondre « Oui » ou « Non » à la question posée dans le lib
 
 Il s'agit d'un référentiel spécifique de l’Éducation nationale permettant d'accéder aux caractéristiques et aux informations de contact des établissements de l'Éducation nationale grâce à son [API ](https://api.gouv.fr/les-api/api-annuaire-education)dédiée.
 
-<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Champ " Annuaire de l'éductaion" en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption><p>Champ " Annuaire de l'éducation" en tant qu'usager</p></figcaption></figure>
 
 #### b) RNA
 
@@ -706,7 +706,7 @@ En activant l'attestation, vous pouvez alors :
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* **Rédiger le contenu de l’attestation**. Il est possible de remonter des éléments du dossier de l'usager et des annotations privées grâce à l'utilisation des balises de champs. Pour cela, tapez le caractère @ suivi du nom de la balise, ou cliquez sur les boutons dédiés aux balises et insérez les dans votre texte. Il faut veiller à ce que la balise du texte soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas. **Les champs facultatifs et conditionnés sont eux aussi disponibles en tant que balises** : cochez « Voir les champs facultatifs et/ou conditionnés » pour les afficher. Si le champ n’est pas rempli, la balise correspondante reste vide.
+* **Rédiger le contenu de l’attestation**. Il est possible de remonter des éléments du dossier de l'usager et des annotations privées grâce à l'utilisation des balises de champs. Pour cela, tapez le caractère @ suivi du nom de la balise, ou cliquez sur les boutons dédiés aux balises et insérez-les dans votre texte. Il faut veiller à ce que la balise du texte soit identique à celle située sous le corps de l'attestation, sinon celle-ci ne fonctionnera pas. **Les champs facultatifs et conditionnés sont eux aussi disponibles en tant que balises** : cochez « Voir les champs facultatifs et/ou conditionnés » pour les afficher. Si le champ n’est pas rempli, la balise correspondante reste vide.
 
 <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -787,7 +787,7 @@ Vous pouvez à tout moment désactiver ces fonctionnalités en décochant les ca
 
 ###
 
-* **Du coté instructeurs** :
+* **Du côté instructeurs** :
 * Ils doivent désormais, **entrer une à une les adresses e-mails des experts invités sollicités à émettre un avis.** Et ensuit&#x65;**, cliquer sur les adresses e-mails** afin que le choix des experts invités soit bien pris en compte dans la démarche comme l'illustre la capture d'écran ci-dessous.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 14.59.34.png" alt=""><figcaption></figcaption></figure>
@@ -800,12 +800,12 @@ L'instructeur peut également choisir si la demande d'avis est confidentielle ou
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.03.33.png" alt=""><figcaption></figcaption></figure>
 
-* **Du coté des experts :**
+* **Du côté des experts :**
 * Lorsque ces derniers sont sollicités par les instructeurs de votre démarche afin d'émettre un avis dans un dossier, l'onglet « avis » s'affichera avec une pastille orange lors de la connexion à leurs interfaces expert. De plus, les experts recevront également un mail automatique de demande d'avis.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.07.15.png" alt=""><figcaption></figcaption></figure>
 
-* Du coté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émis lors de la démarche en bas de page.
+* Du côté administrateur : vous pouvez consulter la liste des experts invités ayant émis un avis ainsi que le nombre d'avis émis lors de la démarche en bas de page.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-10-29 à 15.21.13.png" alt=""><figcaption></figcaption></figure>
 
@@ -817,8 +817,8 @@ L'instructeur peut également choisir si la demande d'avis est confidentielle ou
 
 * Une fois cette fonctionnalité activée, vous devrez dresser une liste d'experts invités qui sera accessible aux instructeurs afin de désigner des experts dans les dossiers.
 * Il vous suffit **d'ajouter une à une les adresses e-mails des experts** et de **cliquer ensuite sur "ajouter à la liste"** afin que cette dernière soit correctement ajoutée à la liste des experts que vous souhaitez affecter à votre démarche. Vous pouvez à tout moment retirer un expert de cette liste. Vous pouvez également choisir ou non de notifier les experts sur les décisions rendues sur les dossiers.
-* **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton « Retirer » situé à droite de l'écran. Du coté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
-* Du coté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**
+* **Si la fonctionnalité est activée, vous pouvez également ajouter et retirer à tout moment des experts même après publication de votre démarche**. Il vous suffit de cliquer sur le bouton « Retirer » situé à droite de l'écran. Du côté expert, si ce dernier a des avis en cours, ils ne seront pas impactés, mais il ne pourra pas être sollicité pour les nouveaux avis.
+* Du côté instructeurs : ces derniers **pourront uniquement inviter et demander l'avis des experts prédéfinis au sein de votre liste.**
 
 <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 
@@ -828,7 +828,7 @@ Ainsi, si vous souhaitez activer cette fonctionnalité, il vous suffit de clique
 
 <figure><img src="../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 
-* Du coté experts : une fois la fonctionnalité activée, les experts recevront une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure :<br>
+* Du côté experts : une fois la fonctionnalité activée, les experts recevront une notification de la décision finale. Ainsi, selon l'issue du dossier, il existe trois cas de figure :<br>
 * 1\) L'expert est notifié que le dossier a été accepté.
 
 ![](<../.gitbook/assets/image (140).png>)
@@ -961,7 +961,7 @@ Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" a
 ## 17. Publier sa démarche
 
 {% hint style="info" %}
-**ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépô du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
+**ATTENTION :** avant de publier votre démarche, il est nécessaire d'avoir fait un test global de celle-ci, du dépôt du dossier à l'instruction complète de celui-ci, grâce au lien de test disponible dans l'onglet « Test et publication » de la démarche.
 {% endhint %}
 
 La publication de la démarche génère un lien de la forme : "https://www.demarche.numerique.gouv.fr/commencer/xxxxx". Les usagers qui disposent de ce lien pourront déposer un dossier. Pour cela, rendez-vous dans l'onglet « Test et publication », puis cliquez sur le bouton « Publier », situé en haut à droite de votre écran.

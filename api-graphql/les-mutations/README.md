@@ -8,7 +8,7 @@ description: Liste de nos endpoints en écriture
 
 #### Dossier
 
-Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisent. Nous mettons donc a disposition toutes les mutations nécéssaires pour traiter un dossier dans tout son cycle de vie.
+Pour rappel, les usagers déposent les dossiers, les instructeurs les instruisent. Nous mettons donc a disposition toutes les mutations nécessaires pour traiter un dossier dans tout son cycle de vie.
 
 Pour rappel, le cycle de vie d'un dossier dans DS est le suivant : brouillon -> en construction -> en instruction -> accepté ou refusé ou classé sans suite.
 

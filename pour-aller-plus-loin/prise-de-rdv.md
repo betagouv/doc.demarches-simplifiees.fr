@@ -95,7 +95,7 @@ Une fois ces paramètres renseignés, vous devez cliquer sur "créer le motif" a
 
 #### 4) La prise de RDV dans **demarche.numerique.gouv.fr** en tant qu'instructeur
 
-Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vous serez automatiquement redirigé vers votre agenda le site de RDV service public. Vous devriez avoir au prélable renseigné vos indisponibilités.&#x20;
+Dans l'onglet "Rendez-vous" vous allez cliquer sur "prendre un rendez-vous". Vous serez automatiquement redirigé vers votre agenda le site de RDV service public. Vous devriez avoir au préalable renseigné vos indisponibilités.&#x20;
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2025-09-24 à 17.01.10.png" alt=""><figcaption></figcaption></figure>
 

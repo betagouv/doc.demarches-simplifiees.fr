@@ -90,7 +90,7 @@ La mise en place au sein du service, s'est faite par l'intermédiaire de deux ag
 
 Tout d'abord, plusieurs irritants lors du dépôt d'un dossier ont conditionné notre choix vers DS, comme l'existence de dossiers manuscrits, les dates limites de dépôt de dossier peu respectées, ou encore les allers-retours sur les dossiers (avec les pièces complémentaires). Ainsi, nous avons choisi DS pour gagner en temps de collecte, pour éviter les erreurs de messagerie mais également pour passer tout de suite au téléservice au moment où l'on installe un financement dans le temps.
 
-## La dématerialisation des déclarations de prélèvement réalisés par les locataires de chasse.
+## La dématérialisation des déclarations de prélèvement réalisés par les locataires de chasse.
 
 Témoignage de Jonathan Fischbach, ONF, Agence de Sarrebourg
 
@@ -113,10 +113,10 @@ Le site **demarche.numerique.gouv.fr** a été utilisé pour plusieurs raisons :
 
 #### Quelles sont les prochaines étapes avec **demarche.numerique.gouv.fr** ?
 
-Bien évidemment, la démarche n'est que déclarative, des erreurs de déclarations peuvent occurrer et restent à traiter a posteriori. Néanmoins, le gain de temps est énorme (>80%) si on compare à de la re-saisie et les erreurs bien moins nombreuses. De nombreuses démarches sont publiées par l'ONF aux niveaux territorial et national, qu'elles soient uniquement déclaratives ou suivies (instruction avec demande d'avis aux experts concernés), pour tout ce qui peut être dématérialisé :
+Bien évidemment, la démarche n'est que déclarative, des erreurs de déclarations peuvent survenir et restent à traiter a posteriori. Néanmoins, le gain de temps est énorme (>80%) si on compare à de la re-saisie et les erreurs bien moins nombreuses. De nombreuses démarches sont publiées par l'ONF aux niveaux territorial et national, qu'elles soient uniquement déclaratives ou suivies (instruction avec demande d'avis aux experts concernés), pour tout ce qui peut être dématérialisé :
 
 * Demande d'autorisation de manifestation en forêt domaniale
-* Demande de macrons de circulations
+* Demande de macarons de circulation
 * Signalement d'incivilités
 * Dépôt de candidature à des adjudications
 

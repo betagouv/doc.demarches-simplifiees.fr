@@ -25,14 +25,14 @@ Ce lien renvoie vers une page de connexion Démarche numérique similaire à l'e
 Il existe 3 cas de connexion pour accéder à la procédure sur **demarche.numerique.gouv.fr** :
 
 * **L’usager possède déjà un compte** sur **demarche.numerique.gouv.fr** : il doit cliquer sur « Se connecter » puis renseigner l'e-mail et le mot de passe de connexion
-* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez vous sur cette [page](https://demarche.numerique.gouv.fr/users/sign_up)
-* **L’usager possède un compte France Connect** : il faut cliquer sur le bouton « France Connect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
+* **L’usager ne possède pas de compte** et souhaite se connecter pour la première fois : il doit cliquer sur le lien de la démarche (qu'il trouvera sur le site de l'administration), puis, entrer un e-mail, choisir un mot de passe et cliquer sur « se connecter ». En cas de doute, rendez-vous sur cette [page](https://demarche.numerique.gouv.fr/users/sign_up)
+* **L’usager possède un compte FranceConnect** : il faut cliquer sur le bouton « FranceConnect », puis choisir un compte de connexion en cliquant sur un des boutons (La Poste, Ameli, etc.), entrer les identifiants liés au compte sélectionné. La redirection vers **demarche.numerique.gouv.fr** est automatique.
 
-<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec France Connect</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Capture d’écran 2024-01-12 à 17.25.14.png" alt=""><figcaption><p>Connexion avec FranceConnect</p></figcaption></figure>
 
 S'il s'agit d'une première inscription, **un lien vous sera envoyé par e-mail afin de confirmer la création du compte**. Veillez à consulter les courriers indésirables, spams ou e-mails promotionnels vers lesquels l'e-mail de validation peut être redirigé automatiquement.
 
-Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la récéption de celui-ci.
+Par ailleurs, si vous ne recevez pas cet e-mail assurez-vous de ne pas utiliser un filtre anti-spam qui empêcherait la réception de celui-ci.
 
 ## 2. Déposer un dossier
 
@@ -102,9 +102,9 @@ Le dépôt du dossier peut nécessiter de remplir un document vierge annexe au f
 
 <figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Exemple de modèle à télécharger</p></figcaption></figure>
 
-La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces-jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
+La capacité maximale d’ajout de pièce jointe est **de 200 Mo au total par champ.** Si l'ensemble des pièces jointes dépasse 200 Mo, vous devrez revoir le format de votre pièce jointe.
 
-Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur) : .pdf, .doc, .docx, .xls, .xlsx, .cvs, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
+Formats de pièces jointes acceptées (selon le paramétrage de l'administrateur) : .pdf, .doc, .docx, .xls, .xlsx, .csv, .ppt, .pptx, .odt, .ods, .odp, .jpg, .jpeg, .png\
 \
 En ce qui concerne le champ de pièce à joindre "titre d'identité", l’usager pourra joindre une carte d’identité (uniquement le recto), passeport, titre de séjour ou autre justificatif d’identité. Les formats acceptés pour cette pièce seront uniquement : **image / scan** (**.jpg, .jpeg, .png**) **uniquement de 20 Mo max.** Dans le cadre du RGPD, le titre d’identité sera **filigrané** et **automatiquement supprimé une fois le dossier traité** (accepté, refusé ou classé sans suite).
 
@@ -198,7 +198,7 @@ Exemple d'attestation de dépôt
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe ou via France connect, l'usager a accès à plusieurs onglets : « en cours », « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
+En se connectant avec son adresse e-mail et son mot de passe ou via FranceConnect, l'usager a accès à plusieurs onglets : « en cours », « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
 
 <figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
 

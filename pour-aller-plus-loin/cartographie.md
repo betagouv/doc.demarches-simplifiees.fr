@@ -20,7 +20,7 @@ Le tracé d'une ligne : cliquer sur l'icône d'ajout de ligne, cliquer une premi
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.13 PM.png" alt=""><figcaption></figcaption></figure>
 
-Le dessin d'un polygonne : cliquer sur l'icône pour dessiner un polygone, cliquer autant de fois que necessaire pour dessiner votre polygone sur la carte, et double cliquer pour terminer la saisie du polygone.
+Le dessin d'un polygone : cliquer sur l'icône pour dessiner un polygone, cliquer autant de fois que necessaire pour dessiner votre polygone sur la carte, et double cliquer pour terminer la saisie du polygone.
 
 <figure><img src="../.gitbook/assets/Capture d’écran 2023-10-09 à 2.12.18 PM.png" alt=""><figcaption></figcaption></figure>
 

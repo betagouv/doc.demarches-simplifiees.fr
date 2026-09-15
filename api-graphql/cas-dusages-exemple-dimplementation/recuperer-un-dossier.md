@@ -6,7 +6,7 @@ description: >-
 
 # Récupérer un dossier
 
-Exemple d'implémentation pour récuperer les informations d'un dossier (dans notre cas, nous remontons uniquement quelques informations : le status du dossier, différentes dates liées a l'instruction de celui ci, l'id et le nom de la démarche et enfin les messages echangés entre l'administration et l'usager).
+Exemple d'implémentation pour récuperer les informations d'un dossier (dans notre cas, nous remontons uniquement quelques informations : le status du dossier, différentes dates liées a l'instruction de celui-ci, l'id et le nom de la démarche et enfin les messages echangés entre l'administration et l'usager).
 
 {% code title="get_dossier.rb" %}
 ```ruby

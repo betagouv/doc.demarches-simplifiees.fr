@@ -18,7 +18,7 @@ L'objectif est d'assurer la dématérialisation dans les meilleures conditions e
 
 ## Un outil visant à accélérer la dématérialisation
 
-Les usagers du service public devraient aujourd'hui pouvoir effectuer toutes leurs démarches en ligne. Ils ne devraient plus avoir à transmettre des informations dont l’administration dispose déjà ou à faire eux-même le lien entre une multitude d’interlocuteurs publics.
+Les usagers du service public devraient aujourd'hui pouvoir effectuer toutes leurs démarches en ligne. Ils ne devraient plus avoir à transmettre des informations dont l’administration dispose déjà ou à faire eux-mêmes le lien entre une multitude d’interlocuteurs publics.
 
 La dématérialisation, quant à elle, ne devrait pas être un investissement humain et financier pour les gestionnaires et les agents publics mais un gain de temps et un facteur d’économie.
 

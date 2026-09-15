@@ -42,6 +42,6 @@ Vous pouvez aussi récupérer une archive mensuelle pour tous les dossiers trait
 
 * tous les dossiers et leurs pièces jointes
 * tous les messages échangés par le biais de la messagerie entre les instructeurs et les usagers (incluant aussi les pièces jointes)
-* les attestations pour chaque dossier quand celles ci sont présentes
+* les attestations pour chaque dossier quand celles-ci sont présentes
 
 ![Accéder a l'export des dossiers traités depuis l'onglet des dossiers traités](<../.gitbook/assets/Screenshot 2023-07-04 at 9.41.27 AM.png>)

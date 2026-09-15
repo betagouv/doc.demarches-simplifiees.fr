@@ -8,7 +8,7 @@ Lors de son cycle de vie, un administrateur d'une démarche peut publier une nou
 
 Les dossiers crées a partir de ce moment auront donc la derniere version du formulaire de la démarche.&#x20;
 
-Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex : on ne vas demandé à un usager de mettre à jour son dossier si celui ci a été accepté).
+Cependant les anciens dossiers (accépté/refusé ou classé sans suite) eux ne changent pas de version (ex : on ne vas demandé à un usager de mettre à jour son dossier si celui-ci a été accepté).
 
 getDemarcheDescriptor (et toutes les notions de champDescriptor) permet de mapper un champs à son descripteur de champ de manière fiable. En somme :&#x20;
 
@@ -124,7 +124,7 @@ Vous pouvez aussi récupérer la description d'une démarche via le endpoint get
 
 ```
 
-### Variables pour récupérer les déscripteurs d'une démarche :
+### Variables pour récupérer les descripteurs d'une démarche :
 
 ```graphql
 {

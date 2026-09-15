@@ -16,12 +16,12 @@ Ce principe n’abandonne néanmoins pas l’administration à des demandes vena
 
 Selon l’article précédemment énoncé il est obligatoire que l’usager s’identifie préalablement lors du recours à un téléservice.<br>
 
-Mais pour se faire l’identification doit contenir :
+Mais pour ce faire l’identification doit contenir :
 
 * Pour une entreprise : SIRET ou SIREN
 * Pour une asso : RNA
 * Personne physique : nom, prénom et adresse e-mail.
-* Tout autre moyen d’identification électronique reconnu par l’administration comme France Connect. Par ailleurs, lorsqu’un usager s’identifie par FC il n’a pas à fournir d’autres documents prouvant son identité. Faites donc attention lorsque vous demandez un scan, à ne pas le rendre obligatoire !
+* Tout autre moyen d’identification électronique reconnu par l’administration comme FranceConnect. Par ailleurs, lorsqu’un usager s’identifie par FC il n’a pas à fournir d’autres documents prouvant son identité. Faites donc attention lorsque vous demandez un scan, à ne pas le rendre obligatoire !
 
 **Principe numéro 3 : Plus besoin de signature pour qu’une décision soit opposable.**<br>
 
