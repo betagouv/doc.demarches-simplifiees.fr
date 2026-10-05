@@ -35,6 +35,29 @@ La **clé** est un identifiant en base 64. Elle identifie le champ de façon uni
 
 La **valeur** est la donnée à renseigner dans le champ du formulaire. Selon le type de champ, cette valeur peut être contrainte. Par exemple, il est impossible de fournir la valeur "toto" pour un champ de type entier.
 
+Le format attendu pour chaque type de champ est indiqué sur la page `/preremplir/<nom-demarche>` (voir [Démarrage rapide](api-de-preremplissage.md#demarrage-rapide)).
+
+### Champ carte
+
+Un champ carte se préremplit avec **une seule géométrie** [GeoJSON](https://geojson.org) de type `Point`, `LineString` ou `Polygon`. Elle apparaît sur la carte comme si l'usager·ère l'avait tracée, et iel peut la modifier ou la supprimer.
+
+Les coordonnées sont exprimées en WGS84 (GPS), dans l'ordre **[longitude, latitude]**. Par exemple, pour un point à Paris :
+
+```json
+{"type": "Point", "coordinates": [2.3086, 48.8495]}
+```
+
+Selon le mode de préremplissage :
+
+* **en GET**, la géométrie est passée sous forme de **chaîne JSON**, encodée dans l'URL : `?champ_Q2hhbXAtMTIz=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B2.3086%2C48.8495%5D%7D`
+* **en POST**, la géométrie peut être passée directement comme objet JSON : `{"champ_Q2hhbXAtMTIz": {"type": "Point", "coordinates": [2.3086, 48.8495]}}`
+
+{% hint style="warning" %}
+Une géométrie invalide (type non accepté, JSON malformé, ou coordonnées hors des limites WGS84 comme des coordonnées en Lambert 93) est **ignorée** : le dossier est créé, mais le champ carte reste vide.
+
+Attention à l'ordre des coordonnées : une latitude et une longitude inversées peuvent rester dans les limites et être acceptées, en plaçant le point au mauvais endroit.
+{% endhint %}
+
 ## Préremplissage en GET (par URL)
 
 L'API de préremplissage met à votre disposition une URL, que vous **pouvez communiquer à votre usager·ère**. Cette URL crée un dossier prérempli en brouillon. Elle permet à l'usager·ère de s'authentifier, puis d'accéder au dossier afin de poursuivre son remplissage et enfin de le déposer.
