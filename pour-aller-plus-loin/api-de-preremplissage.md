@@ -37,26 +37,7 @@ La **valeur** est la donnée à renseigner dans le champ du formulaire. Selon le
 
 Le format attendu pour chaque type de champ est indiqué sur la page `/preremplir/<nom-demarche>` (voir [Démarrage rapide](api-de-preremplissage.md#demarrage-rapide)).
 
-### Champ carte
-
-Un champ carte se préremplit avec **une seule géométrie** [GeoJSON](https://geojson.org) de type `Point`, `LineString` ou `Polygon`. Elle apparaît sur la carte comme si l'usager·ère l'avait tracée, et iel peut la modifier ou la supprimer.
-
-Les coordonnées sont exprimées en WGS84 (GPS), dans l'ordre **[longitude, latitude]**. Par exemple, pour un point à Paris :
-
-```json
-{"type": "Point", "coordinates": [2.3086, 48.8495]}
-```
-
-Selon le mode de préremplissage :
-
-* **en GET**, la géométrie est passée sous forme de **chaîne JSON**, encodée dans l'URL : `?champ_Q2hhbXAtMTIz=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B2.3086%2C48.8495%5D%7D`
-* **en POST**, la géométrie peut être passée directement comme objet JSON : `{"champ_Q2hhbXAtMTIz": {"type": "Point", "coordinates": [2.3086, 48.8495]}}`
-
-{% hint style="warning" %}
-Une géométrie invalide (type non accepté, JSON malformé, ou coordonnées hors des limites WGS84 comme des coordonnées en Lambert 93) est **ignorée** : le dossier est créé, mais le champ carte reste vide.
-
-Attention à l'ordre des coordonnées : une latitude et une longitude inversées peuvent rester dans les limites et être acceptées, en plaçant le point au mauvais endroit.
-{% endhint %}
+Certains champs, comme le champ carte, attendent une valeur structurée : voir l'[exemple de préremplissage d'un champ carte](api-de-preremplissage.md#exemple-preremplir-un-champ-carte).
 
 ## Préremplissage en GET (par URL)
 
@@ -108,6 +89,60 @@ La réponse prend la forme suivante :&#x20;
 ```
 
 Au moment de la réponse, le dossier est orphelin. Il est rattaché à l'usager·ère après son authentification.
+
+## Exemple : préremplir un champ carte
+
+Le champ carte est plus technique que les autres champs : sa valeur n'est pas un simple texte, mais une **géométrie** au format [GeoJSON](https://geojson.org).
+
+### Format de la valeur
+
+Un champ carte se préremplit avec **une seule géométrie** GeoJSON de type `Point`, `LineString` ou `Polygon`. Elle apparaît sur la carte comme si l'usager·ère l'avait tracée, et iel peut la modifier ou la supprimer.
+
+Les coordonnées sont exprimées en WGS84 (GPS), dans l'ordre **[longitude, latitude]**. Par exemple, pour un point à Paris :
+
+```json
+{"type": "Point", "coordinates": [2.3086, 48.8495]}
+```
+
+Selon le mode de préremplissage :
+
+* **en GET**, la géométrie est passée sous forme de **chaîne JSON**, encodée dans l'URL : `?champ_Q2hhbXAtMTIz=%7B%22type%22%3A%22Point%22%2C%22coordinates%22%3A%5B2.3086%2C48.8495%5D%7D`
+* **en POST**, la géométrie peut être passée directement comme objet JSON : `{"champ_Q2hhbXAtMTIz": {"type": "Point", "coordinates": [2.3086, 48.8495]}}`
+
+### Exemple de requête en POST
+
+Voici une requête complète qui préremplit un champ carte avec un polygone (une parcelle, par exemple), ainsi qu'un champ texte :
+
+```shell
+curl --request POST 'https://demarche.numerique.gouv.fr/api/public/v1/demarches/<id>/dossiers' \
+     --header 'Content-Type: application/json' \
+     --data '{
+       "champ_Q2hhbXAtMTIz": {
+         "type": "Polygon",
+         "coordinates": [[
+           [2.3070, 48.8490],
+           [2.3100, 48.8490],
+           [2.3100, 48.8505],
+           [2.3070, 48.8505],
+           [2.3070, 48.8490]
+         ]]
+       },
+       "champ_Q2hhbXAtNDU2": "Parcelle située rue de Vaugirard"
+     }'
+```
+
+Quelques points d'attention pour un polygone :
+
+* les coordonnées sont entourées de **deux paires de crochets** : `[[ ... ]]` ;
+* le **dernier point doit être identique au premier**, pour fermer le polygone.
+
+La réponse est la même que pour tout [préremplissage en POST](api-de-preremplissage.md#reponse) : elle contient l'URL du dossier vers laquelle diriger l'usager·ère.
+
+{% hint style="warning" %}
+Une géométrie invalide (type non accepté, JSON malformé, ou coordonnées hors des limites WGS84 comme des coordonnées en Lambert 93) est **ignorée** : le dossier est créé, mais le champ carte reste vide.
+
+Attention à l'ordre des coordonnées : une latitude et une longitude inversées peuvent rester dans les limites et être acceptées, en plaçant le point au mauvais endroit.
+{% endhint %}
 
 ## Environnement
 
