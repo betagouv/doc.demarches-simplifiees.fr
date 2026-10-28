@@ -16,17 +16,17 @@ description: "Cette page présente l'objectif de demarche.numerique.gouv.fr\_: l
 
 {% file src=".gitbook/assets/BilAN 2025 VOFF.pdf" %}
 
-### **Découvrez notre e-capsule de formation disponible sur Mentor en cliquant** [**ici** ](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
+### **Découvrez notre e-capsule de formation disponible sur Mentor en cliquant** [**ici**](https://mentor.gouv.fr/course/view.php?id=4364\&section=1)
 
 <figure><img src=".gitbook/assets/tempsnip mentor .png" alt=""><figcaption><p>Parcours "numérique et relation aux usagers"</p></figcaption></figure>
 
-### Consultez notre démonstration en ligne pour découvrir notre outil en cliquant [**ici** ](https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8cf3381d925efe286faf2c37242cf916d6cf7e6a-1764853161456)
+### Consultez notre démonstration en ligne pour découvrir notre outil en cliquant [**ici**](https://webinaire.bbb-dinum-scalelite.visio.education.fr/playback/presentation/2.3/8cf3381d925efe286faf2c37242cf916d6cf7e6a-1764853161456)
 
 Nous organisons, chaque premier jeudi du mois, des webinaires de présentation pour vous permettre de découvrir la plateforme, ses nouveautés et de poser toutes vos questions afin d’en optimiser l’utilisation.
 
-### Support de présentation :&#x20;
+### Support de présentation :
 
-{% file src=".gitbook/assets/Webinaire Démarche numérique Juin 2026.pdf" %}
+{% file src=".gitbook/assets/Webinaire Démarche Numérique Octobre 2026.pdf" %}
 
 ### Objectif
 
@@ -39,7 +39,7 @@ La plateforme demarche.numerique.gouv.fr comporte quatre rôles :
 * Administrateurs : création et publication des démarches
 * Usagers : dépôt et suivi des dossiers
 * Instructeurs : traitement de ces demandes
-* Experts : émission d'un ou plusieurs avis sur un dossier&#x20;
+* Experts : émission d'un ou plusieurs avis sur un dossier
 
 Aucune connaissance spécifique en informatique n'est requise pour comprendre cette documentation.
 
