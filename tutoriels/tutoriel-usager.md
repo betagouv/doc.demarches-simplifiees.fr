@@ -132,7 +132,7 @@ Vous avez également la possibilité de modifier votre identité en cas d’erre
 
 Lorsque vous remplissez un formulaire sur la plateforme, les informations que vous remplissez sont **enregistrées automatiquement**.
 
-<figure><img src="../.gitbook/assets/image (272).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 Si vous voulez terminer de remplir le formulaire plus tard, **il suffit de fermer la page du formulaire**.
 
@@ -172,7 +172,7 @@ Pour y accéder, cliquez sur le lien **« Voir les statistiques de la démarche 
 
 Une fois le dossier complété, cliquez sur le bouton « **Déposer le dossier** » afin de le transmettre au service instructeur.
 
-<figure><img src="../.gitbook/assets/image (219).png" alt=""><figcaption><p>Déposer le dossier en tant qu'usager</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (347).png" alt=""><figcaption></figcaption></figure>
 
@@ -198,22 +198,48 @@ Exemple d'attestation de dépôt
 
 ### A. Présentation du tableau de bord
 
-En se connectant avec son adresse e-mail et son mot de passe ou via FranceConnect, l'usager a accès à plusieurs onglets : « en cours », « traités », « dossiers invités », « expirant », «corbeille » et « historique des dossiers supprimés ».
+En se connectant avec son adresse e-mail et son mot de passe, ou via FranceConnect, l'usager accède à son tableau de bord des dossiers. Il peut personnaliser la liste de ses dossiers, les filtrer, en rechercher un, consulter l'historique des dossiers supprimés ou la corbeille, et accéder à la documentation.
 
-<figure><img src="../.gitbook/assets/image (278).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 **Recherche des dossiers et affichage des filtres :**
 
-**Vous avez la possibilité de rechercher un dossier en saisissant le numéro de dossier, le nom/prénom ou encore des mots-clés relatifs aux dossiers dans la barre de recherche.**\
-Vous pouvez également afficher les dossiers par démarche.
+**Vous avez la possibilité de rechercher un dossier en saisissant le numéro de dossier, le nom/prénom, le siret ou encore des mots-clés relatifs aux dossiers dans la barre de recherche.**
+
+<figure><img src="../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
+
+**Personnaliser la liste des dossiers**&#x20;
+
+Pour chaque dossier, les informations suivantes sont systématiquement affichées :
+
+* N° de dossier
+* Identité du demandeur
+* Date de dépôt (ou de création / modification)
+
+Afin de faciliter la distinction des dossiers entre eux dans la liste (notamment si vous déposez plusieurs dossiers sur une même démarche), vous pouvez définir **une ou plusieurs informations complémentaires** à afficher, issues des données renseignées dans les champs du formulaire.
+
+Il vous suffit de cliquer sur le bouton « **Personnaliser la liste des dossiers** », de sélectionner les champs que vous souhaitez afficher dans la vue des dossiers, puis de cliquer sur le bouton « **Enregistrer** »
+
+<figure><img src="../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+
+Les informations sélectionnées seront affichées sous l'intitulé de la démarche, comme ci-dessous:
+
+<figure><img src="../.gitbook/assets/image (128).png" alt=""><figcaption></figcaption></figure>
+
+**Filtrer l'affichage des dossiers**&#x20;
 
 Par ailleurs, pour personnaliser votre tableau de bord et faciliter la recherche, vous pouvez **filtrer l’affichage** de vos dossiers selon plusieurs critères :
 
-* Le statut du dossier
-* La date de création du dossier
+* Par démarche
+* Par dossier partagé&#x20;
+* L'état de traitement&#x20;
+* Les alertes sur le dossier
+* La date de création du dossier&#x20;
 * La date de dépôt du dossier
 
-<figure><img src="../.gitbook/assets/image (279).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+
+Vous pouvez sélectionner plus filtres puis cliquer sur le bouton " afficher les dossiers".&#x20;
 
 **En cours**
 
