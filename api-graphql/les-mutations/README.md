@@ -36,6 +36,16 @@ Les mutations possibles pour une démarche sont les suivantes ([voir le détail 
 * Modifier les paramètres d'une démarche (titre, description, date limite de dépôt, etc.)
 * Cloner une démarche (avec, en option, son service)
 
+#### Webhook :
+
+Les mutations possibles pour les webhooks d'une démarche sont les suivantes ([voir le détail et des exemples](../webhooks/gerer-ses-webhooks.md)) :
+
+* Créer un webhook
+* Modifier un webhook
+* Désactiver ou réactiver un webhook
+* Renouveler le secret d'un webhook
+* Supprimer un webhook
+
 #### AnnotationPrivées :
 
 * De modifier une annotation privée (de type checkbox, date, datetime, nombre entier et text)

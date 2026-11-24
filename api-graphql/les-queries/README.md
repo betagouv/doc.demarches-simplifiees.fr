@@ -14,3 +14,4 @@ Pour construire une requête et interpréter les réponses, consultez [**le sch�
 * [dossier](https://demarche.numerique.gouv.fr/graphql/schema/index.html#query-dossier) : pour lire un dossier, ses champs etc.
 * [demarcheDescriptor](https://demarche.numerique.gouv.fr/graphql/schema/index.html#query-demarcheDescriptor) : pour lire la description d'une démarche
 * [groupeInstructeur](https://demarche.numerique.gouv.fr/graphql/schema/index.html#query-groupeInstructeur) : pour lire les groupes d'instructeurs d'une démarche
+* [webhooks](https://demarche.numerique.gouv.fr/graphql/schema/index.html#query-webhooks) et [webhook](https://demarche.numerique.gouv.fr/graphql/schema/index.html#query-webhook) : pour lire les webhooks d'une démarche ([voir le détail](../webhooks/gerer-ses-webhooks.md))
