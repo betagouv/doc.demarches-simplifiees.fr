@@ -13,6 +13,10 @@ Nos API renvoient jusqu'à 100 dossiers maximum par requête. De fait, si il y a
 De fait, il vous faudra utiliser notre mechanisme de curseur, n'hésitez pas à prendre connaissance de notre mechanisme de [pagination](../pagination.md) !
 {% endhint %}
 
+{% hint style="info" %}
+Pour être prévenu de chaque changement en quelques secondes, utilisez les [webhooks](../webhooks/README.md). Cette synchronisation reste utile pour l'import initial, ou pour rattraper des notifications perdues.
+{% endhint %}
+
 Pour faciliter la lecture du code, la query GraphQL est fournie en PJ
 
 {% file src="../../.gitbook/assets/getDemarche.updatedSince.graphql" %}

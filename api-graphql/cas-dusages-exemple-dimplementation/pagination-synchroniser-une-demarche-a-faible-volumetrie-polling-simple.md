@@ -11,6 +11,10 @@ Nos API renvoient jusqu'à 100 dossiers maximum par requête. De fait, si il y a
 
 Ainsi il est plus intéressant d'éviter la compléxité d'un mechanisme de pagination au profit d'un mechanisme de polling.
 
+{% hint style="info" %}
+Pour être prévenu de chaque changement en quelques secondes, sans tâche planifiée, utilisez plutôt les [webhooks](../webhooks/README.md).
+{% endhint %}
+
 <pre class="language-bash"><code class="lang-bash"><strong>API_TOKEN="votre_token" DEMARCHE_NUMBER=votre_numero_de_demarche ruby get_last_updated_dossiers.rb
 </strong></code></pre>
 
