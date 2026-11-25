@@ -54,7 +54,9 @@ webhook-signature: v1,K5oZfzN95Z9UVu1EsfQmfVNQhnkZ2pj9o9NDN/H/pI4=
 | `events[].dossier_number` | Numéro du dossier concerné.                                                                      |
 | `events[].timestamp`      | Date de l'évènement, au format ISO 8601.                                                         |
 
-## Vérifier la signature
+## Vérifier la signature <a href="#verifier-la-signature" id="verifier-la-signature"></a>
+
+La vérification est obligatoire : n'importe qui peut envoyer une requête à votre URL, et seule la signature prouve que la notification vient bien de **demarche.numerique.gouv.fr** et non d'un tiers qui se ferait passer pour nous. Rejetez toute requête dont la signature est invalide.
 
 Les notifications suivent la spécification ouverte [Standard Webhooks](https://www.standardwebhooks.com). Ses [bibliothèques officielles](https://github.com/standard-webhooks/standard-webhooks/tree/main/libraries) (JavaScript, Python, PHP, Ruby, Go, Java, C#, Rust, Elixir) vérifient la signature et rejettent les requêtes de plus de 5 minutes, ce qui empêche de rejouer une ancienne notification. Elles acceptent le secret tel que vous l'avez reçu, préfixe `whsec_` compris.
 

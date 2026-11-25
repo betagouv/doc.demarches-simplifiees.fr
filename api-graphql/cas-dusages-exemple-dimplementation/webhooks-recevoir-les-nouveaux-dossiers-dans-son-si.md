@@ -12,7 +12,7 @@ Objectif : à chaque dépôt ou modification d'un dossier, votre SI récupère s
 Commencez par lire la présentation des [webhooks](../webhooks/README.md).
 {% endhint %}
 
-## 1. Créer le webhook
+## 1. Créer le webhook <a href="#1-creer-le-webhook" id="1-creer-le-webhook"></a>
 
 ```shell
 curl 'https://demarche.numerique.gouv.fr/api/v2/graphql' \
@@ -23,7 +23,7 @@ curl 'https://demarche.numerique.gouv.fr/api/v2/graphql' \
     "variables": {
       "input": {
         "demarche": { "number": 12345 },
-        "url": "https://mon-si.exemple.fr/webhooks/demarche-numerique",
+        "url": "https://mon-si.exemple.gouv.fr/webhooks/demarche-numerique",
         "eventTypes": ["dossier_depose", "dossier_modifie"],
         "label": "Import SI"
       }
@@ -37,7 +37,7 @@ Conservez le `secret` de la réponse : l'application le lit dans la variable d'e
 
 Pour chaque lot reçu, l'application :
 
-1. vérifie la signature ;
+1. [vérifie la signature](../webhooks/recevoir-les-notifications.md#verifier-la-signature) ;
 2. écarte les évènements déjà traités ;
 3. lit une seule fois chaque dossier concerné, puis l'enregistre dans le SI ;
 4. répond `204`, ou `500` en cas d'erreur pour que le lot soit renvoyé plus tard.
@@ -85,7 +85,7 @@ async function lireDossier(number) {
   return data.dossier;
 }
 
-// À remplacer par l'enregistrement dans votre SI (base de données, GED…)
+// À remplacer par l'enregistrement dans votre SI (base de données, gestion documentaire…)
 async function enregistrerDossier(dossier) {
   console.log(`Dossier ${dossier.number} : ${dossier.state}`);
 }

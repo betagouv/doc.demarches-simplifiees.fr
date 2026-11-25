@@ -130,8 +130,6 @@ La suppression est définitive : les évènements pas encore livrés à ce webho
 | Message                                                                 | Cause                                                                                   |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
 | Le jeton utilisé est configuré seulement en lecture                     | Les mutations demandent un jeton avec un accès en écriture.                             |
-| URL ne doit pas pointer vers une adresse locale ou privée               | L'URL doit être joignable depuis internet.                                              |
 | Le nombre maximum de webhooks (50) est atteint pour cette démarche      | Supprimez un webhook inutilisé avant d'en créer un autre.                               |
-| L'URL du webhook n'est pas autorisée (dans `lastError`)                 | Au moment de l'envoi, le nom de domaine ne se résout pas ou mène à une adresse privée.  |
 
 Les autres erreurs sont décrites sur la page [Gestion des erreurs](../gestion-des-erreurs.md).
