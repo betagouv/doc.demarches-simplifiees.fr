@@ -23,7 +23,7 @@ Aujourd'hui notre API est **sortante et entrante.** Vous pouvez donc aussi bien 
 
 ### Être notifié des changements
 
-Plutôt que d'interroger l'API à intervalles réguliers, vous pouvez configurer des [**webhooks**](webhooks/README.md) : **demarche.numerique.gouv.fr** prévient alors votre application, en quelques secondes, dès qu'un dossier est déposé, instruit ou reçoit un message.
+Plutôt que d'interroger l'API à intervalles réguliers, vous pouvez configurer des [**webhooks**](webhooks/README.md) : **demarche.numerique.gouv.fr** prévient alors votre application, en quelques secondes, dès qu'un dossier est déposé, instruit ou reçoit un message.
 
 ### Exemples de cas d'usage de l'API :&#x20;
 

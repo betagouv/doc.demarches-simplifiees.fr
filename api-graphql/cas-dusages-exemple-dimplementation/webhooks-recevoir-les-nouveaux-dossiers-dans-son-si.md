@@ -1,12 +1,12 @@
 ---
 description: >-
-  Exemple de cas d'usage : recevoir chaque dossier dans votre SI quelques
+  Exemple de cas d'usage : recevoir chaque dossier dans votre SI quelques
   secondes après son dépôt, sans interroger l'API en boucle.
 ---
 
 # Webhooks – Recevoir les nouveaux dossiers dans son SI
 
-Objectif : à chaque dépôt ou modification d'un dossier, votre SI récupère sa version à jour. L'exemple est donné en Node.js, Python et Ruby (Rails) ; le principe est le même dans tout autre langage.
+Objectif : à chaque dépôt ou modification d'un dossier, votre SI récupère sa version à jour. L'exemple est donné en Node.js, Python et Ruby (Rails) ; le principe est le même dans tout autre langage.
 
 {% hint style="info" %}
 Cet exemple part d'un webhook déjà créé (voir le [démarrage rapide](../webhooks/README.md#demarrage-rapide)), abonné aux évènements `dossier_depose` et `dossier_modifie`. L'application lit son secret dans la variable d'environnement `WEBHOOK_SECRET`, et votre jeton d'API dans `API_TOKEN`.
@@ -14,11 +14,11 @@ Cet exemple part d'un webhook déjà créé (voir le [démarrage rapide](../webh
 
 ## 1. Recevoir les notifications et lire les dossiers
 
-Pour chaque lot reçu, l'application :
+Pour chaque lot reçu, l'application :
 
-1. [vérifie la signature](../webhooks/recevoir-les-notifications.md#verifier-la-signature) ;
-2. écarte les [évènements déjà traités](../webhooks/recevoir-les-notifications.md#doublons) ;
-3. lit une seule fois chaque dossier concerné avec la query `dossier` de l'API GraphQL, puis l'enregistre dans le SI ;
+1. [vérifie la signature](../webhooks/recevoir-les-notifications.md#verifier-la-signature) ;
+2. écarte les [évènements déjà traités](../webhooks/recevoir-les-notifications.md#doublons) ;
+3. lit une seule fois chaque dossier concerné avec la query `dossier` de l'API GraphQL, puis l'enregistre dans le SI ;
 4. répond `204`, ou `500` en cas d'erreur pour que le lot soit renvoyé plus tard.
 
 {% tabs %}
@@ -67,8 +67,8 @@ async function enregistrerDossier(dossier) {
   console.log(`Dossier ${dossier.number} : ${dossier.state}`);
 }
 
-// À conserver dans votre SI : en mémoire, elle est perdue au redémarrage
-let derniereSequence = 0;
+// Dernière sequence traitée, par webhook. À conserver dans votre SI : en mémoire, elle est perdue au redémarrage
+const dernieresSequences = new Map();
 
 const app = express();
 
@@ -83,6 +83,7 @@ app.post(
       return res.sendStatus(401);
     }
 
+    const derniereSequence = dernieresSequences.get(payload.webhook_id) ?? 0;
     const events = payload.events.filter((event) => event.sequence > derniereSequence);
     const numeros = new Set(events.map((event) => event.dossier_number));
 
@@ -96,7 +97,7 @@ app.post(
       return res.sendStatus(500);
     }
 
-    if (events.length > 0) derniereSequence = events.at(-1).sequence;
+    if (events.length > 0) dernieresSequences.set(payload.webhook_id, events.at(-1).sequence);
     res.sendStatus(204);
   },
 );
@@ -157,19 +158,18 @@ def enregistrer_dossier(dossier):
     print(f"Dossier {dossier['number']} : {dossier['state']}")
 
 
-# À conserver dans votre SI : en mémoire, elle est perdue au redémarrage
-derniere_sequence = 0
+# Dernière sequence traitée, par webhook. À conserver dans votre SI : en mémoire, elle est perdue au redémarrage
+dernieres_sequences = {}
 
 
 @app.post("/webhooks/demarche-numerique")
 def recevoir():
-    global derniere_sequence
-
     try:
         payload = webhook.verify(request.get_data(), request.headers)
     except WebhookVerificationError:
         return "", 401
 
+    derniere_sequence = dernieres_sequences.get(payload["webhook_id"], 0)
     events = [event for event in payload["events"] if event["sequence"] > derniere_sequence]
     numeros = dict.fromkeys(event["dossier_number"] for event in events)
 
@@ -183,7 +183,7 @@ def recevoir():
         return "", 500
 
     if events:
-        derniere_sequence = events[-1]["sequence"]
+        dernieres_sequences[payload["webhook_id"]] = events[-1]["sequence"]
     return "", 204
 ```
 {% endcode %}
@@ -194,8 +194,8 @@ def recevoir():
 ```ruby
 # Gemfile : gem "standardwebhooks"
 # config/routes.rb : post "webhooks/demarche-numerique", to: "demarche_numerique_webhooks#create"
-# Dernière sequence traitée, par démarche :
-#   bin/rails generate model CurseurWebhook demarche_number:integer:uniq derniere_sequence:bigint
+# Dernière sequence traitée, par webhook :
+#   bin/rails generate model CurseurWebhook webhook_id:string:uniq derniere_sequence:bigint
 class DemarcheNumeriqueWebhooksController < ActionController::API
   API_URL = URI("https://demarche.numerique.gouv.fr/api/v2/graphql")
   WEBHOOK = StandardWebhooks::Webhook.new(ENV.fetch("WEBHOOK_SECRET"))
@@ -218,7 +218,7 @@ class DemarcheNumeriqueWebhooksController < ActionController::API
     payload = WEBHOOK.verify(request.raw_post, request.headers)
 
     curseur = CurseurWebhook.create_with(derniere_sequence: 0)
-      .find_or_create_by!(demarche_number: payload["demarche_number"])
+      .find_or_create_by!(webhook_id: payload["webhook_id"])
     events = payload["events"].select { |event| event["sequence"] > curseur.derniere_sequence }
 
     events.map { |event| event["dossier_number"] }.uniq.each do |numero|
@@ -262,10 +262,12 @@ end
 {% endtabs %}
 
 {% hint style="warning" %}
-Le traitement doit tenir en 15 secondes. Cet exemple lit les dossiers avant de répondre, ce qui convient tant que les lots restent petits. Pour des volumes importants, enregistrez les évènements dans une file, répondez aussitôt, puis lisez les dossiers en arrière-plan.
+Le traitement doit tenir en 15 secondes. Cet exemple lit les dossiers avant de répondre, ce qui convient tant que les lots restent petits. Or un lot peut contenir jusqu'à 100 évènements, par exemple après une interruption de votre application. En production, enregistrez les évènements dans une file, répondez aussitôt, puis lisez les dossiers en arrière-plan.
 {% endhint %}
 
-Relire un dossier et remplacer sa copie donne le même résultat quel que soit le nombre de fois où l'opération est répétée : un lot reçu deux fois ne crée pas de doublon dans votre SI.
+Dans votre SI, enregistrez le dossier en remplaçant la copie qui porte le même `number`, ou en la créant si elle n'existe pas encore : un lot reçu deux fois ne crée alors aucun doublon.
+
+L'exemple répond `500` sur toute erreur de l'API, ce qui fait renvoyer le lot. Une erreur qui se reproduirait à chaque tentative bloquerait tous les lots suivants : voir les [bonnes pratiques](../webhooks/recevoir-les-notifications.md#bonnes-pratiques).
 
 ## 2. Importer les dossiers existants
 
@@ -273,5 +275,5 @@ Le webhook ne notifie que les évènements postérieurs à sa création. Pour re
 
 ## Aller plus loin
 
-* **Suivre aussi les décisions** : ajoutez `dossier_accepte`, `dossier_refuse`, `dossier_sans_suite` et `dossier_repasse_en_instruction` au webhook ([modifier un webhook](../webhooks/gerer-ses-webhooks.md#modifier-un-webhook)). Le code ne change pas : il relit le dossier, dont l'état (`state`) reflète la décision.
-* **Répercuter les suppressions** : abonnez le webhook à `dossier_supprime`. Un dossier supprimé n'est plus lisible via l'API : pour ces évènements, supprimez ou archivez votre copie sans appeler l'API, selon vos propres règles de conservation.
+* **Suivre aussi les décisions** : ajoutez `dossier_accepte`, `dossier_refuse`, `dossier_sans_suite` et `dossier_repasse_en_instruction` au webhook ([modifier un webhook](../webhooks/gerer-ses-webhooks.md#modifier-un-webhook)). Le code ne change pas : il relit le dossier, dont l'état (`state`) reflète la décision.
+* **Répercuter les suppressions** : abonnez le webhook à `dossier_supprime`. Un dossier supprimé n'est plus lisible via l'API : pour ces évènements, supprimez ou archivez votre copie sans appeler l'API, selon vos propres règles de conservation.

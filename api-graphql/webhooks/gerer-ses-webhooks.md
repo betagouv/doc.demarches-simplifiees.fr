@@ -4,7 +4,7 @@ description: Lister, modifier, désactiver, renouveler le secret ou supprimer un
 
 # Gérer ses webhooks
 
-Les webhooks se gèrent via l'API GraphQL. Les mutations demandent un jeton avec un accès **en écriture** à la démarche ; un jeton en lecture suffit pour les consulter.
+Les webhooks se gèrent via l'API GraphQL. Les mutations demandent un jeton avec un accès **en écriture** à la démarche ; un jeton en lecture suffit pour les consulter.
 
 Un webhook est désigné par son `id`, renvoyé à sa création (par exemple `V2ViaG9vay0xMg==`).
 
@@ -31,7 +31,7 @@ Pour un seul webhook, utilisez `webhook(id: "V2ViaG9vay0xMg==")`, qui renvoie le
 | ------------------------- | ----------------------------------------------------------------------------------- |
 | `enabled`                 | Le webhook est actif.                                                               |
 | `lastSuccessAt`           | Date de la dernière livraison réussie.                                              |
-| `lastError`               | Dernière erreur de livraison (code HTTP, délai dépassé…).                           |
+| `lastError`               | Erreur de la livraison en échec (code HTTP, délai dépassé…), vide dès qu'une livraison réussit. |
 | `autoDisabledAt`          | Date de la [désactivation automatique](recevoir-les-notifications.md#desactivation-automatique), le cas échéant. |
 | `previousSecretExpiresAt` | Pendant un renouvellement du secret, date d'expiration de l'ancien.                 |
 
@@ -59,26 +59,26 @@ mutation {
 * Changer l'`url` remet à zéro le compteur d'échecs.
 
 {% hint style="info" %}
-Pour changer d'URL sans aucune interruption, créez un second webhook vers la nouvelle URL, vérifiez qu'il reçoit bien les notifications, puis supprimez l'ancien. Les deux portent les mêmes numéros de `sequence` : votre [dédoublonnage](recevoir-les-notifications.md#doublons) absorbe la période où ils coexistent.
+Pour changer d'URL sans aucune interruption, créez un second webhook vers la nouvelle URL, vérifiez qu'il reçoit bien les notifications, puis supprimez l'ancien. Tant qu'ils coexistent, chaque évènement vous parvient deux fois, une par webhook : un traitement qui relit le dossier et remplace votre copie absorbe ces doublons.
 {% endhint %}
 
 ## Désactiver et réactiver <a href="#desactiver-et-reactiver" id="desactiver-et-reactiver"></a>
 
-`webhookDesactiver` suspend les livraisons, par exemple pendant une maintenance de votre application. Les évènements continuent d'être enregistrés (7 jours au plus).
+`webhookDesactiver` suspend les livraisons, par exemple pendant une maintenance de votre application. Les évènements continuent d'être enregistrés (7 jours au plus).
 
-`webhookActiver` reprend les livraisons : les évènements en attente sont livrés dans l'ordre. C'est aussi la mutation à utiliser après une désactivation automatique, une fois le problème corrigé.
+`webhookActiver` reprend les livraisons : les évènements en attente sont livrés dans l'ordre. C'est aussi la mutation à utiliser après une désactivation automatique, une fois le problème corrigé.
 
 ```graphql
 mutation {
   webhookActiver(input: { webhook: "V2ViaG9vay0xMg==" }) {
-    webhook { enabled lastError }
+    webhook { enabled }
     errors { message }
   }
 }
 ```
 
 {% hint style="info" %}
-Sur un webhook actif en attente d'une nouvelle tentative, `webhookActiver` relance la livraison immédiatement. Utile quand vous venez de rétablir votre application.
+Sur un webhook actif en attente d'une nouvelle tentative, `webhookActiver` relance la livraison immédiatement et remet à zéro le compteur d'échecs. Utile quand vous venez de rétablir votre application.
 {% endhint %}
 
 ## Renouveler le secret <a href="#renouveler-le-secret" id="renouveler-le-secret"></a>
@@ -96,20 +96,20 @@ mutation {
 }
 ```
 
-Le renouvellement se fait sans interruption :
+Le renouvellement se fait sans interruption :
 
 1. La mutation renvoie le nouveau `secret`.
 2. Jusqu'à `previousSecretExpiresAt`, chaque notification porte deux signatures, l'une avec l'ancien secret et l'autre avec le nouveau. Votre application les accepte avec l'un ou l'autre.
 3. Déployez le nouveau secret avant cette échéance. L'ancien expire ensuite de lui-même.
 
-`delaiExpirationAncienSecret` fixe la durée de cette transition, en heures : 24 par défaut, 168 (7 jours) au plus.
+`delaiExpirationAncienSecret` fixe la durée de cette transition, en heures : 24 par défaut, 168 (7 jours) au plus.
 
 {% hint style="warning" %}
-Attendez la fin de la transition avant de renouveler à nouveau : seul le dernier secret remplacé est conservé, le plus ancien cesse aussitôt de signer.
+Attendez la fin de la transition avant de renouveler à nouveau : seul le dernier secret remplacé est conservé, le plus ancien cesse aussitôt de signer.
 {% endhint %}
 
 {% hint style="danger" %}
-En cas de fuite du secret, renouvelez-le avec `delaiExpirationAncienSecret: 0` : l'ancien secret cesse immédiatement de signer les notifications.
+En cas de fuite du secret, renouvelez-le avec `delaiExpirationAncienSecret: 0` : l'ancien secret cesse immédiatement de signer les notifications.
 {% endhint %}
 
 ## Supprimer un webhook
@@ -123,12 +123,13 @@ mutation {
 }
 ```
 
-La suppression est définitive : les évènements pas encore livrés à ce webhook ne le seront pas.
+La suppression est définitive : les évènements pas encore livrés à ce webhook ne le seront pas.
 
 ## Erreurs fréquentes
 
 | Message                                                                 | Cause                                                                                   |
 | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Les webhooks ne sont pas activés sur cette démarche.                    | Les webhooks n'ont pas encore été activés sur la démarche (voir les [prérequis](README.md#prerequis)). |
 | Le jeton utilisé est configuré seulement en lecture                     | Les mutations demandent un jeton avec un accès en écriture.                             |
 | Le nombre maximum de webhooks (50) est atteint pour cette démarche      | Supprimez un webhook inutilisé avant d'en créer un autre.                               |
 

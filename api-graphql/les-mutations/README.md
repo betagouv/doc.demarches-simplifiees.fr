@@ -36,9 +36,9 @@ Les mutations possibles pour une démarche sont les suivantes ([voir le détail 
 * Modifier les paramètres d'une démarche (titre, description, date limite de dépôt, etc.)
 * Cloner une démarche (avec, en option, son service)
 
-#### Webhook :
+#### Webhook :
 
-Les mutations possibles pour les webhooks d'une démarche sont les suivantes ([voir le détail et des exemples](../webhooks/gerer-ses-webhooks.md)) :
+Les mutations possibles pour les webhooks d'une démarche sont les suivantes ([voir le détail et des exemples](../webhooks/gerer-ses-webhooks.md)) :
 
 * Créer un webhook
 * Modifier un webhook
