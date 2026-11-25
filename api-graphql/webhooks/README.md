@@ -75,7 +75,7 @@ Vous choisissez à la création du webhook les évènements qui vous intéressen
 
 ### 1. Créer le webhook
 
-Le webhook se crée avec la mutation `webhookCreer` de l'API GraphQL, envoyée comme toute autre requête à `https://demarche.numerique.gouv.fr/api/v2/graphql` avec votre jeton ([exemple avec curl](../cas-dusages-exemple-dimplementation/webhooks-recevoir-les-nouveaux-dossiers-dans-son-si.md#1-creer-le-webhook)). Dans cet exemple, il s'abonne au dépôt, à l'acceptation et au refus des dossiers : remplacez ces `eventTypes` par les [évènements](#evenements) qui vous intéressent.
+Le webhook se crée avec la mutation `webhookCreer` de l'API GraphQL, envoyée comme toute autre requête à `https://demarche.numerique.gouv.fr/api/v2/graphql` avec votre jeton. Dans cet exemple, il s'abonne au dépôt, à l'acceptation et au refus des dossiers : remplacez ces `eventTypes` par les [évènements](#evenements) qui vous intéressent.
 
 ```graphql
 mutation {
@@ -127,15 +127,15 @@ webhook-signature: v1,K5oZfzN95Z9UVu1EsfQmfVNQhnkZ2pj9o9NDN/H/pI4=
 }
 ```
 
-{% hint style="info" %}
+[Vérifiez la signature](recevoir-les-notifications.md#verifier-la-signature), puis répondez par un code `2xx` dans les 15 secondes. Le détail est sur la page [Recevoir les notifications](recevoir-les-notifications.md).
+
+{% hint style="warning" %}
 **La vérification de la signature est obligatoire.** N'importe qui peut envoyer une requête à votre URL : seule la signature, calculée avec votre secret, prouve que la notification vient bien de **demarche.numerique.gouv.fr** et non d'un tiers qui se ferait passer pour nous. Rejetez toute requête dont la signature est invalide.
 {% endhint %}
 
-[Vérifiez la signature](recevoir-les-notifications.md#verifier-la-signature) (exemples en Node.js, Python et Ruby), puis répondez par un code `2xx` dans les 15 secondes. Le détail est sur la page [Recevoir les notifications](recevoir-les-notifications.md).
-
 ### 3. Récupérer les dossiers
 
-Pour chaque évènement, lisez le dossier `dossier_number` avec la query [`dossier`](../les-queries/getdossier.md) de l'API GraphQL. L'[exemple complet](../cas-dusages-exemple-dimplementation/webhooks-recevoir-les-nouveaux-dossiers-dans-son-si.md) enchaîne ces trois étapes.
+Pour chaque évènement, lisez le dossier `dossier_number` avec la query [`dossier`](../les-queries/getdossier.md) de l'API GraphQL. L'[exemple complet](../cas-dusages-exemple-dimplementation/webhooks-recevoir-les-nouveaux-dossiers-dans-son-si.md) montre une application qui reçoit les notifications et lit les dossiers, en Node.js, Python et Ruby (Rails).
 
 ## Limites
 
